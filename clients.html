@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Clients — CGA India | Neeraj Jain</title><meta name="description" content="CGA India serves 100+ clients — startups, SMEs, NGOs and professionals across five states and PAN India.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,560;9..144,640&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--navy:#1F3364;--navy-deep:#13224A;--ink:#0D1834;--gold:#C6922C;--gold-soft:#E3B54A;
+--paper:#FBFAF6;--card:#FFF;--slate:#43506B;--line:#E4E1D6;--radius:16px}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{font-family:'Instrument Sans',system-ui,sans-serif;background:var(--paper);color:var(--navy-deep);line-height:1.65;font-size:16.5px}
+h1,h2,h3{font-family:'Fraunces',serif;font-weight:560;line-height:1.14;letter-spacing:-.01em}
+img{max-width:100%;display:block}
+.wrap{max-width:1140px;margin:0 auto;padding:0 24px}
+:focus-visible{outline:3px solid var(--gold);outline-offset:3px;border-radius:4px}
+nav{position:sticky;top:0;z-index:50;background:rgba(251,250,246,.94);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.nav-in{display:flex;align-items:center;justify-content:space-between;height:70px;gap:16px}
+.brand{font-family:'Fraunces',serif;font-weight:640;font-size:1.25rem;text-decoration:none;color:var(--navy);white-space:nowrap}
+.brand em{font-style:normal;color:var(--gold)}
+.nav-links{display:flex;gap:20px;list-style:none;align-items:center;flex-wrap:wrap}
+.nav-links a{text-decoration:none;font-weight:500;font-size:.92rem;color:var(--slate);padding:4px 2px}
+.nav-links a:hover,.nav-links a.on{color:var(--navy);border-bottom:2px solid var(--gold)}
+.nav-cta{background:var(--navy);color:#fff!important;padding:9px 18px;border-radius:999px;border-bottom:none!important}
+.menu-btn{display:none;background:none;border:1.5px solid var(--navy);border-radius:8px;padding:6px 12px;font-size:1.05rem;color:var(--navy);cursor:pointer}
+@media(max-width:960px){.menu-btn{display:block}
+.nav-links{display:none;position:absolute;top:70px;left:0;right:0;background:var(--paper);border-bottom:1px solid var(--line);flex-direction:column;align-items:flex-start;padding:18px 24px;gap:14px}
+.nav-links.open{display:flex}}
+.eyebrow{display:inline-flex;align-items:center;gap:10px;font-size:.78rem;font-weight:600;letter-spacing:.15em;text-transform:uppercase;color:var(--gold)}
+.eyebrow::before{content:"";width:32px;height:2px;background:var(--gold);border-radius:2px}
+.page-hero{background:linear-gradient(120deg,var(--ink) 0%,var(--navy-deep) 80%);color:#fff;padding:70px 0 60px;position:relative;overflow:hidden}
+.page-hero::after{content:"";position:absolute;right:-90px;top:-90px;width:320px;height:320px;border:30px solid rgba(227,181,74,.14);border-radius:50%}
+.page-hero h1{font-size:clamp(2rem,4.4vw,3.1rem);color:#fff;margin-top:16px}
+.page-hero p{opacity:.85;max-width:38rem;margin-top:16px}
+.crumb{font-size:.85rem;opacity:.7}
+.crumb a{color:#fff;text-decoration:none}
+section{padding:80px 0}
+.sec-head{max-width:680px;margin-bottom:48px}
+.sec-head h2{font-size:clamp(1.7rem,3.2vw,2.4rem);color:var(--ink);margin-top:14px}
+.sec-head p{margin-top:14px;color:var(--slate)}
+.btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:1rem;padding:13px 26px;border-radius:999px;transition:transform .15s ease,background .2s}
+.btn:hover{transform:translateY(-2px)}
+.btn-gold{background:var(--gold);color:var(--ink)}
+.btn-gold:hover{background:var(--gold-soft)}
+.btn-ghost{border:1.5px solid var(--navy);color:var(--navy)}
+.btn-whiteline{border:1.5px solid rgba(255,255,255,.45);color:#fff}
+.cta-row{display:flex;gap:14px;flex-wrap:wrap}
+.grid-2{display:grid;grid-template-columns:1fr 1fr;gap:44px;align-items:center}
+.grid-3{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.grid-4{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+@media(max-width:960px){.grid-3{grid-template-columns:repeat(2,1fr)}.grid-4{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:640px){.grid-2,.grid-3,.grid-4{grid-template-columns:1fr}}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:28px 24px;transition:transform .18s,box-shadow .18s}
+.card:hover{transform:translateY(-4px);box-shadow:0 18px 44px -26px rgba(19,34,74,.3)}
+.card h3{font-size:1.12rem;color:var(--navy);margin-bottom:10px;display:flex;align-items:center;gap:10px}
+.card h3::before{content:"";width:9px;height:9px;border-radius:50%;background:var(--gold);flex:none}
+.card p{font-size:.94rem;color:var(--slate)}
+.fig{border-radius:var(--radius);overflow:hidden;border:1px solid var(--line);box-shadow:0 26px 60px -30px rgba(19,34,74,.35);position:relative}
+.fig img{width:100%;object-fit:cover}
+.fig-gold{position:relative}
+.fig-gold::after{content:"";position:absolute;inset:auto -16px -16px auto;width:56%;height:56%;border:3px solid var(--gold);border-radius:var(--radius);z-index:-1}
+.strip{background:var(--ink);color:#fff}
+.strip .wrap{display:grid;grid-template-columns:repeat(4,1fr)}
+.stat{padding:28px 16px;text-align:center;border-left:1px solid rgba(255,255,255,.09)}
+.stat:first-child{border-left:none}
+.stat b{display:block;font-family:'Fraunces',serif;font-size:1.85rem;color:var(--gold-soft);font-weight:560}
+.stat span{font-size:.84rem;opacity:.75}
+@media(max-width:760px){.strip .wrap{grid-template-columns:repeat(2,1fr)}.stat{border-left:none;border-top:1px solid rgba(255,255,255,.09)}}
+.quote{background:var(--ink);color:#fff;border-left:4px solid var(--gold);border-radius:10px;padding:24px 28px;margin:30px 0}
+.quote p{font-family:'Fraunces',serif;font-size:1.2rem;line-height:1.5}
+.quote small{display:block;margin-top:10px;color:var(--gold-soft);font-size:.8rem;letter-spacing:.09em;text-transform:uppercase}
+.timeline{position:relative;margin-left:12px;padding-left:34px;border-left:2px solid var(--line)}
+.tl{position:relative;padding-bottom:36px}
+.tl:last-child{padding-bottom:0}
+.tl::before{content:"";position:absolute;left:-42px;top:6px;width:14px;height:14px;border-radius:50%;background:var(--gold);border:3px solid var(--paper);box-shadow:0 0 0 2px var(--gold)}
+.tl b{font-family:'Fraunces',serif;font-size:1.12rem;color:var(--navy);display:block}
+.tl span{font-size:.8rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--gold)}
+.tl p{color:var(--slate);font-size:.95rem;margin-top:6px}
+.chip{background:#fff;border:1px solid var(--line);border-radius:999px;padding:8px 18px;font-size:.88rem;font-weight:500;color:var(--navy);display:inline-block;margin:5px 6px 0 0}
+.chip.hl{background:var(--gold);border-color:var(--gold);color:var(--ink);font-weight:600}
+.band{background:linear-gradient(120deg,var(--navy),var(--navy-deep));color:#fff;border-radius:var(--radius);padding:44px 42px;display:flex;justify-content:space-between;align-items:center;gap:26px;flex-wrap:wrap;position:relative;overflow:hidden}
+.band::before{content:"";position:absolute;right:-60px;top:-60px;width:220px;height:220px;border:22px solid rgba(227,181,74,.18);border-radius:50%}
+.band h3{color:#fff;font-size:clamp(1.4rem,2.8vw,1.9rem)}
+.band p{opacity:.85;margin-top:8px}
+.alt{background:linear-gradient(180deg,#F4F2EA 0%,var(--paper) 100%);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+footer{background:var(--ink);color:rgba(255,255,255,.55);padding:44px 0 26px;font-size:.88rem}
+.f-grid{display:grid;grid-template-columns:1.3fr 1fr 1fr;gap:36px;padding-bottom:28px;border-bottom:1px solid rgba(255,255,255,.1)}
+.f-grid h4{color:#fff;font-family:'Fraunces',serif;font-size:1.05rem;margin-bottom:12px}
+.f-grid a{color:rgba(255,255,255,.7);text-decoration:none;display:block;padding:3px 0}
+.f-grid a:hover{color:var(--gold-soft)}
+.f-bottom{display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap;padding-top:20px}
+@media(max-width:760px){.f-grid{grid-template-columns:1fr}}
+.reveal{opacity:0;transform:translateY(18px);transition:opacity .6s ease,transform .6s ease}
+.reveal.in{opacity:1;transform:none}
+@media(prefers-reduced-motion:reduce){.reveal{opacity:1;transform:none;transition:none}.btn:hover,.card:hover{transform:none}html{scroll-behavior:auto}}
+</style></head><body>
+
+<nav><div class="wrap nav-in">
+<a class="brand" href="index.html">Bizwith <em>Neeraj</em></a>
+<button class="menu-btn" aria-label="Menu" onclick="document.querySelector('.nav-links').classList.toggle('open')">☰</button>
+<ul class="nav-links"><li><a href="about.html" class="">About</a></li><li><a href="cga.html" class="">CGA India</a></li><li><a href="services.html" class="">Services</a></li><li><a href="achievements.html" class="">Achievements</a></li><li><a href="team.html" class="">Team</a></li><li><a href="clients.html" class="on">Clients</a></li><li><a href="praceasy.html" class="">PracEasy</a></li><li><a href="social-impact.html" class="">Social Impact</a></li><li><a href="insights.html" class="">Bizwith Neeraj</a></li><li><a class="nav-cta" href="contact.html">Contact</a></li></ul>
+</div></nav>
+<header class="page-hero"><div class="wrap">
+<span class="crumb"><a href="index.html">Home</a> / Clients</span>
+<h1>Trusted by 100+ clients across India</h1><p>From first-time founders to established businesses — CGA India serves clients across sectors, in five states and beyond.</p></div></header>
+<section><div class="wrap">
+<div class="sec-head reveal"><span class="eyebrow">Who we serve</span><h2>Every stage of the business journey</h2></div>
+<div class="grid-3">
+<div class="card reveal"><h3>Startups &amp; Founders</h3><p>Incorporation, trademark and first-year compliance — set up right from day one.</p></div>
+<div class="card reveal"><h3>Traders &amp; Manufacturers</h3><p>GST compliance, refunds and departmental matters for goods businesses.</p></div>
+<div class="card reveal"><h3>Professionals &amp; Salaried</h3><p>ITRs, refunds and notice handling for individuals who want it done right.</p></div>
+<div class="card reveal"><h3>NGOs, Trusts &amp; Societies</h3><p>Section 8, 12AB and 80G registrations plus ongoing charitable compliance.</p></div>
+<div class="card reveal"><h3>Food Businesses</h3><p>FSSAI licensing with GST and income-tax compliance under one roof.</p></div>
+<div class="card reveal"><h3>Growing SMEs</h3><p>Virtual CFO oversight, ISO certification and litigation support as you scale.</p></div>
+</div>
+<div class="sec-head reveal" style="margin-top:60px"><span class="eyebrow">Where</span><h2>Service footprint</h2></div>
+<div>
+<span class="chip">Haryana</span><span class="chip">Delhi</span><span class="chip">Uttar Pradesh</span><span class="chip">Rajasthan</span><span class="chip">Punjab</span><span class="chip hl">Available PAN India</span>
+</div>
+<div class="quote reveal" style="max-width:760px;margin-top:44px"><p>"Clients don't want a CA and a lawyer. They want one person who takes the problem off their table."</p><small>— Neeraj Jain</small></div>
+<div class="band reveal" style="margin-top:40px">
+<div><h3>Join 100+ businesses that file with CGA</h3><p>Fast. Accurate. Hassle-free.</p></div>
+<a class="btn btn-gold" href="contact.html">Become a client</a>
+</div>
+</div></section>
+
+
+<footer><div class="wrap">
+<div class="f-grid">
+<div><h4>Bizwith Neeraj</h4><p style="max-width:26rem">Neeraj Jain — Chartered Accountant &amp; Advocate. Founder &amp; CEO of CGA India (Canjain Global Advisors) and PracEasy. Strong compliance. Sustainable growth.</p></div>
+<div><h4>Explore</h4><a href="about.html">About Neeraj</a><a href="cga.html">CGA India</a><a href="services.html">Services</a><a href="achievements.html">Achievements</a><a href="team.html">Team</a><a href="clients.html">Clients</a></div>
+<div><h4>Connect</h4><a href="tel:+918585973030">+91 85859 73030</a><a href="tel:+918860084000">+91 88600 84000</a><a href="mailto:cgaindia@gmail.com">cgaindia@gmail.com</a><a href="https://cgaindia.com" target="_blank" rel="noopener">cgaindia.com</a><a href="https://praceasy.in" target="_blank" rel="noopener">praceasy.in</a></div>
+</div>
+<div class="f-bottom"><span>© 2026 Neeraj Jain · neerajjain.in</span><span>Safidon, Haryana · Burari, Delhi · PAN India</span></div>
+</div></footer>
+<script>
+const io=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}})},{threshold:.12});
+document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+</script>
+</body></html>
