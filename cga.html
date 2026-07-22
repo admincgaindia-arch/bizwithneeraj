@@ -92,6 +92,29 @@ footer{background:var(--ink);color:rgba(255,255,255,.55);padding:44px 0 26px;fon
 .reveal{opacity:0;transform:translateY(18px);transition:opacity .6s ease,transform .6s ease}
 .reveal.in{opacity:1;transform:none}
 @media(prefers-reduced-motion:reduce){.reveal{opacity:1;transform:none;transition:none}.btn:hover,.card:hover{transform:none}html{scroll-behavior:auto}}
+.az-float{position:fixed;right:20px;bottom:88px;z-index:60;width:56px;height:56px;border-radius:50%;background:linear-gradient(135deg,var(--navy),var(--navy-deep));display:grid;place-items:center;box-shadow:0 10px 30px -8px rgba(0,0,0,.4);cursor:pointer;border:2px solid var(--gold);transition:transform .15s}
+.az-float:hover{transform:scale(1.08)}
+.az-float span{font-family:'Fraunces',serif;color:var(--gold-soft);font-size:1.35rem;font-weight:640}
+.az-box{position:fixed;right:20px;bottom:156px;z-index:70;width:340px;max-width:calc(100vw - 32px);height:460px;max-height:calc(100vh - 180px);background:#fff;border-radius:16px;border:1px solid var(--line);box-shadow:0 30px 70px -20px rgba(13,24,52,.5);display:none;flex-direction:column;overflow:hidden}
+.az-box.open{display:flex}
+.az-head{background:linear-gradient(120deg,var(--ink),var(--navy-deep));color:#fff;padding:14px 16px;display:flex;align-items:center;gap:11px}
+.az-head .dot{width:38px;height:38px;border-radius:50%;background:var(--gold);display:grid;place-items:center;font-family:'Fraunces',serif;font-weight:640;color:var(--ink);font-size:1.1rem}
+.az-head b{display:block;font-size:.98rem}
+.az-head small{opacity:.75;font-size:.75rem}
+.az-head button{margin-left:auto;background:none;border:none;color:#fff;font-size:1.3rem;cursor:pointer;line-height:1}
+.az-msgs{flex:1;overflow-y:auto;padding:14px;display:flex;flex-direction:column;gap:9px;background:var(--paper)}
+.az-m{max-width:85%;padding:9px 13px;border-radius:13px;font-size:.88rem;line-height:1.5;white-space:pre-line}
+.az-m.bot{background:#fff;border:1px solid var(--line);border-bottom-left-radius:4px;color:var(--navy-deep)}
+.az-m.user{background:var(--navy);color:#fff;align-self:flex-end;border-bottom-right-radius:4px}
+.az-m a{color:var(--gold);font-weight:600}
+.az-m.bot a{color:var(--navy);border-bottom:2px solid var(--gold);text-decoration:none}
+.az-chips{display:flex;flex-wrap:wrap;gap:6px;padding:0 14px 8px;background:var(--paper)}
+.az-chip{background:#fff;border:1.5px solid var(--gold);color:var(--navy);border-radius:999px;padding:5px 12px;font-size:.78rem;font-weight:600;cursor:pointer}
+.az-chip:hover{background:var(--gold);color:var(--ink)}
+.az-in{display:flex;gap:8px;padding:10px;border-top:1px solid var(--line);background:#fff}
+.az-in input{flex:1;border:1.5px solid var(--line);border-radius:999px;padding:9px 15px;font-size:.9rem;font-family:inherit;outline:none}
+.az-in input:focus{border-color:var(--gold)}
+.az-in button{background:var(--navy);color:#fff;border:none;border-radius:999px;width:40px;height:40px;cursor:pointer;font-size:1rem}
 .wa-float{position:fixed;right:20px;bottom:20px;z-index:60;width:56px;height:56px;border-radius:50%;background:#25D366;display:grid;place-items:center;box-shadow:0 10px 30px -8px rgba(0,0,0,.4);transition:transform .15s}
 .wa-float:hover{transform:scale(1.08)}
 .wa-float svg{width:30px;height:30px;fill:#fff}
@@ -153,6 +176,90 @@ footer{background:var(--ink);color:rgba(255,255,255,.55);padding:44px 0 26px;fon
 </div>
 <div class="f-bottom"><span>© 2026 Neeraj Jain · neerajjain.in</span><span>Safidon, Haryana · Burari, Delhi · PAN India</span></div>
 </div></footer>
+<div class="az-float" id="azBtn" role="button" aria-label="Chat with Aarzoo" tabindex="0"><span>A</span></div>
+<div class="az-box" id="azBox" aria-live="polite">
+<div class="az-head"><div class="dot">A</div><div><b>Aarzoo</b><small>CGA India Assistant · online</small></div><button id="azClose" aria-label="Close chat">×</button></div>
+<div class="az-msgs" id="azMsgs"></div>
+<div class="az-chips" id="azChips"></div>
+<div class="az-in"><input id="azInput" type="text" placeholder="Apna sawal likhiye..." aria-label="Message"><button id="azSend" aria-label="Send">➤</button></div>
+</div>
+<script>
+(function(){
+const WA='https://wa.me/918585973030?text=BIZ';
+const KB=[
+ {k:['itr','income tax','return','filing','file'],a:'ITR filing hum handle karte hain — 100% accurate, refunds legally maximised. Special offer: Rs. 499/- (GST & other services extra).
+
+Abhi file karne ke liye WhatsApp par "BIZ" bhejo 👉 <a href="'+WA+'" target="_blank">WhatsApp karein</a>'},
+ {k:['gst'],a:'GST mein hum ye sab karte hain: registration, monthly returns, refunds aur department ke notices ka reply.
+
+Apna case discuss karne ke liye 👉 <a href="'+WA+'" target="_blank">WhatsApp "BIZ"</a> ya call +91 85859 73030'},
+ {k:['company','pvt','llp','incorporation','register business','startup'],a:'Company registration — Pvt Ltd, LLP, OPC, Partnership — hum end-to-end karte hain, sahi structure choose karne ki free advice ke saath.
+
+Guide padhiye: <a href="article-pvtltd-vs-llp.html">Pvt Ltd vs LLP</a>
+Baat kariye 👉 <a href="'+WA+'" target="_blank">WhatsApp "BIZ"</a>'},
+ {k:['ngo','trust','12ab','80g','society','section 8'],a:'NGO/Trust registration + 12AB & 80G — poora process hum karte hain, deed drafting se approval tak.
+
+Guide: <a href="article-12ab-80g.html">12AB & 80G ki poori guide</a>
+Baat kariye 👉 <a href="'+WA+'" target="_blank">WhatsApp "BIZ"</a>'},
+ {k:['notice','scrutiny','assessment','demand'],a:'Tax notice aaya hai? Ghabraiye mat — section aur deadline sabse pehle dekhte hain. Humari team reply drafting se representation tak sab karti hai.
+
+Pehle ye padhiye: <a href="article-itr-notice.html">ITR notice guide</a>
+Urgent hai toh 👉 <a href="'+WA+'" target="_blank">WhatsApp "BIZ"</a>'},
+ {k:['trademark','brand','logo'],a:'Trademark registration se apna brand name/logo protect kariye — koi aur claim kare usse pehle.
+
+Process shuru karne ke liye 👉 <a href="'+WA+'" target="_blank">WhatsApp "BIZ"</a>'},
+ {k:['iso'],a:'ISO certification — clients, vendors aur tenders mein credibility ke liye. Hum poora process handle karte hain.
+
+👉 <a href="'+WA+'" target="_blank">WhatsApp "BIZ"</a>'},
+ {k:['fssai','food'],a:'FSSAI license (basic/state/central) — food business ke liye start to finish hum karte hain.
+
+👉 <a href="'+WA+'" target="_blank">WhatsApp "BIZ"</a>'},
+ {k:['cfo','virtual cfo','accounts'],a:'Virtual CFO — growing business ke liye CFO-level financial oversight, full-time cost ke bina.
+
+Details ke liye 👉 <a href="'+WA+'" target="_blank">WhatsApp "BIZ"</a>'},
+ {k:['price','fees','charge','cost','kitna','paisa'],a:'Fees service aur case ke hisaab se hoti hai. ITR filing ka special offer Rs. 499/- chal raha hai.
+
+Exact quote ke liye apna kaam batayiye 👉 <a href="'+WA+'" target="_blank">WhatsApp "BIZ"</a> — free 15-min consultation!'},
+ {k:['contact','phone','number','call','email','address','office','safidon','delhi','burari'],a:'📞 +91 85859 73030 / +91 88600 84000
+📧 contact@neerajjain.in
+🏢 Safidon (Jind, Haryana) & Burari (Delhi)
+Service: PAN India
+
+👉 <a href="'+WA+'" target="_blank">WhatsApp "BIZ"</a>'},
+ {k:['neeraj','founder','about','kaun'],a:'Neeraj Jain — Advocate aur CGA India (Canjain Global Advisors) ke Founder & CEO. 20+ ki team, 100+ clients. PracEasy ke bhi founder.
+
+Poori story: <a href="about.html">About page</a>'},
+ {k:['praceasy'],a:'PracEasy — CA firms ke liye practice management software, Neeraj ji ka SaaS venture. Dekhiye: <a href="https://praceasy.in" target="_blank">praceasy.in</a>'},
+ {k:['service','kya karte','help','kaam'],a:'CGA India ki 9 services:
+• ITR Filing • GST • Company Registration
+• NGO/12AB/80G • Trademark • ISO
+• FSSAI • Virtual CFO • Tax Litigation
+
+Details: <a href="services.html">Services page</a>
+Baat kariye 👉 <a href="'+WA+'" target="_blank">WhatsApp "BIZ"</a>'},
+ {k:['hi','hello','hey','namaste','hii'],a:'Namaste! 🙏 Main Aarzoo hoon — CGA India ki assistant. Tax, GST, company registration, NGO — kisi bhi cheez mein help chahiye toh poochiye, ya neeche ke buttons use kariye!'},
+ {k:['thank','shukriya','dhanyawad','thanks'],a:'Aapka swagat hai! 😊 Aur koi sawal ho toh zaroor poochiye. Direct baat karni ho toh 👉 <a href="'+WA+'" target="_blank">WhatsApp "BIZ"</a>'}
+];
+const FALLBACK='Hmm, is baare mein exact jawab mere paas nahi hai — lekin Neeraj ji ki team turant help kar degi!
+
+👉 <a href="'+WA+'" target="_blank">WhatsApp par "BIZ" bhejiye</a> — free 15-min consultation
+📞 Ya call kariye: +91 85859 73030';
+const CHIPS=[['ITR ₹499 offer','itr'],['GST help','gst'],['Company kholni hai','company'],['NGO / 80G','ngo'],['Fees?','price'],['Contact','contact']];
+const box=document.getElementById('azBox'),btn=document.getElementById('azBtn'),msgs=document.getElementById('azMsgs'),input=document.getElementById('azInput'),chips=document.getElementById('azChips');
+let greeted=false;
+function add(t,who){const d=document.createElement('div');d.className='az-m '+who;d.innerHTML=t;msgs.appendChild(d);msgs.scrollTop=msgs.scrollHeight;}
+function reply(q){const ql=q.toLowerCase();let ans=FALLBACK;for(const e of KB){if(e.k.some(w=>ql.includes(w))){ans=e.a;break;}}
+setTimeout(()=>add(ans,'bot'),450);}
+function send(t){if(!t.trim())return;add(t,'user');input.value='';reply(t);}
+CHIPS.forEach(([label,kw])=>{const c=document.createElement('button');c.className='az-chip';c.textContent=label;c.onclick=()=>send(label+' '+kw);chips.appendChild(c);});
+function toggle(){box.classList.toggle('open');if(box.classList.contains('open')&&!greeted){greeted=true;setTimeout(()=>add('Namaste! 🙏 Main <b>Aarzoo</b> hoon — CGA India ki assistant.
+Tax, GST, company, NGO — kya help chahiye? Neeche buttons se choose kariye ya likh dijiye!','bot'),250);}input.focus();}
+btn.onclick=toggle;btn.onkeydown=e=>{if(e.key==='Enter'||e.key===' ')toggle();};
+document.getElementById('azClose').onclick=()=>box.classList.remove('open');
+document.getElementById('azSend').onclick=()=>send(input.value);
+input.onkeydown=e=>{if(e.key==='Enter')send(input.value);};
+})();
+</script>
 <a class="wa-float" href="https://wa.me/918585973030?text=BIZ" target="_blank" rel="noopener" aria-label="WhatsApp Neeraj — free 15-min consultation">
 <svg viewBox="0 0 32 32"><path d="M16 3C9.4 3 4 8.4 4 15c0 2.6.8 5 2.2 7L4 29l7.2-2.1c1.9 1 4 1.6 6.3 1.6 6.6 0 12-5.4 12-12S22.6 3 16 3zm0 21.8c-2 0-3.9-.6-5.5-1.5l-.4-.2-4.3 1.2 1.2-4.1-.3-.4C5.6 18.2 5 16.6 5 15 5 9 9.9 4 16 4s11 5 11 11-4.9 9.8-11 9.8zm5.6-7.4c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-.3-.2-1.3-.5-2.5-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6l.5-.5c.1-.2.2-.3.3-.5.1-.2 0-.4 0-.6-.1-.2-.7-1.7-1-2.3-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1.1 1-1.1 2.5s1.1 2.9 1.3 3.1c.2.2 2.2 3.3 5.3 4.6.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.1-.1-.3-.2-.6-.4z"/></svg></a>
 <script>
