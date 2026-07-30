@@ -1,35 +1,35 @@
 {
-  "last_updated": "2026-07-30T17:20:50.104Z",
+  "last_updated": "2026-07-30T17:22:18.201Z",
   "digests": [
     {
       "date": "2026-07-30",
-      "summary": "Aaj ka digest mostly trade press updates par based hai. GST e-Way Bill mein abhi koi nai changes nahi aa rahe, aur Telangana HC ke kuch GST related judgments aaye hain.",
+      "summary": "Aaj mainly GST ke case law aur e-way bill update par news hai. Sab trade press se hai, koi official notification nahi aaya hai.",
       "items": [
         {
           "category": "GST",
-          "headline": "GSTN ne e-Way Bill enhancements abhi hold par rakha",
-          "detail": "Trade reports ke mutabik, GSTN ne 1 August 2026 se apply hone wale proposed e-Way Bill changes ko abhi defer kar diya hai. Sabhi stakeholders ko bola gaya hai ki purane process continue rakho.",
-          "cga_view": "Filhaal koi nai compliance requirement nahi, existing e-Way Bill process pe kaam karte raho. Koi advisory ya notification aaye to update zaroor dekho.",
+          "headline": "E-Way Bill enhancements abhi postpone hue",
+          "detail": "GSTN ne 1 August 2026 se jo e-Way Bill system enhance hone wala tha, usko hold pe rakh diya hai. Advisories bhi withdraw kar li hain. Abhi ke liye purana system use karo.",
+          "cga_view": "Koi naya e-way bill compliance abhi apply nahi hoga. Current routine follow karo, jab tak official circular na aaye.",
           "source_type": "trade",
-          "source_name": "taxguru.in",
+          "source_name": "TaxGuru",
           "source_url": "https://taxguru.in/goods-and-service-tax/gstn-hold-rollout-proposed-bill-enhancements.html"
         },
         {
           "category": "Ruling",
-          "headline": "Telangana HC: GSTAT appeal mein 10% pre-deposit nahi laga IGST paid hone par",
-          "detail": "Telangana HC ne ek case mein taxpayer ko GSTAT appeal file karne ki permission di, bina mandatory 10% pre-deposit, kyunki IGST pehle se pay ho gaya tha. Yaha IGST vs CGST/SGST ka dispute tha.",
-          "cga_view": "Agar aapka bhi IGST payment hogaya aur GSTAT appeal file karni hai, to relevant High Court order dikhakar pre-deposit waiver ki request kar sakte hain.",
+          "headline": "Telangana HC: IGST paid, pre-deposit nahi lagega GSTAT appeal mein",
+          "detail": "Telangana HC ne bola ki agar IGST already paid hai, to GSTAT mein appeal karte waqt 10% pre-deposit ki requirement nahi hogi. Issue tha IGST vs CGST/SGST dispute mein.",
+          "cga_view": "Agar similar situation hai to consultant se discuss karo, appeal ke liye yeh precedent use ho sakta hai. Har state ke facts alag ho sakte hain.",
           "source_type": "trade",
-          "source_name": "taxguru.in",
+          "source_name": "TaxGuru",
           "source_url": "https://taxguru.in/goods-and-service-tax/telangana-hc-waives-10-percent-pre-deposit-gstat-appeal-igst-paid.html"
         },
         {
           "category": "Ruling",
-          "headline": "Telangana HC: Seized documents milne par supplementary reply allowed in GST case",
-          "detail": "Court ne bola after giving seized documents, taxpayer ko fir se detailed reply aur personal hearing ka mauka milega, aur adjudication limitation ke andar hoga.",
-          "cga_view": "Agar department ne documents seize kiye hain to unki copy mang kar fresh reply aur hearing ki demand karein. Yeh aapka right hai, ignore mat karein.",
+          "headline": "GST Sec 74: Seized docs ke baad fresh reply allowed",
+          "detail": "Telangana HC ne GST Section 74 matter mein bola ki jab documents seize hon aur later supply ho jayein, to supplementary reply, personal hearing aur adjudication within time allowed hai.",
+          "cga_view": "Agar authorities ne documents supply nahi kiye aur assessment chal raha hai, to fresh reply aur personal hearing ki demand karo. Limitation ka dhyan rakho.",
           "source_type": "trade",
-          "source_name": "taxguru.in",
+          "source_name": "TaxGuru",
           "source_url": "https://taxguru.in/corporate-law/telangana-hc-fresh-reply-supply-seized-documents-gst-section-74-proceedings.html"
         }
       ],
