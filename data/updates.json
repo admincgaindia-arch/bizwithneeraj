@@ -1,0 +1,48 @@
+{
+  "last_updated": "2026-07-30T17:20:04.593Z",
+  "digests": [
+    {
+      "date": "2026-07-30",
+      "summary": "Aaj major GST aur Ruling updates aaye hain - IGST settlement rules, e-Way Bill enhancements ka hold aur kuch court judgements business process impact kar sakte hain.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "GST Council notifies IGST Settlement Rules, 2026",
+          "detail": "GST Council ne IGST settlement mechanism ko aur strong karne ke liye naye GST Settlement of Fund Rules, 2026 notify kiye hain. Isse IGST ka distribution process transparent hoga.",
+          "cga_view": "Abhi rules ki copy dekhein, process change ho sakta hai - agar IGST settlements mein regularly deal karte hain to update rahein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-council-notifies-igst-settlement-rules-2026.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GSTN ne naye e-Way Bill rules abhi hold par daale",
+          "detail": "GSTN ne propose kiye gaye e-Way Bill enhancements jo 1 August 2026 se aana tha, abhi next notice tak hold par rakhe hain. Purane process hi follow karo.",
+          "cga_view": "Abhi koi system/process badalne ki zarurat nahi - existing e-Way Bill rules hi applicable hain.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gstn-hold-rollout-proposed-bill-enhancements.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Telangana HC waives 10% pre-deposit jab IGST pehle hi pay hua",
+          "detail": "Telangana High Court ne bola ki agar IGST ki payment already ho chuki hai to GSTAT appeal ke liye 10% pre-deposit ki zarurat nahi.",
+          "cga_view": "Agar aapka case similar hai to apne advisor se consult karke waiver ke liye application file karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/telangana-hc-waives-10-percent-pre-deposit-gstat-appeal-igst-paid.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "GST seized documents par fresh reply allowed: Telangana HC",
+          "detail": "Telangana HC ne GST Section 74 proceedings mein jab seized documents di gayi, toh fresh supplementary reply aur personal hearing ki ijazat di.",
+          "cga_view": "Agar aapke documents seize hue hain toh ensure karein ki sab material mile aur fresh reply ka option use karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/telangana-hc-fresh-reply-supply-seized-documents-gst-section-74-proceedings.html"
+        }
+      ],
+      "due_dates": []
+    }
+  ]
+}
