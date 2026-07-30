@@ -1,33 +1,42 @@
 {
-  "last_updated": "2026-07-30T17:22:18.201Z",
+  "last_updated": "2026-07-30T17:49:47.077Z",
   "digests": [
     {
       "date": "2026-07-30",
-      "summary": "Aaj mainly GST ke case law aur e-way bill update par news hai. Sab trade press se hai, koi official notification nahi aaya hai.",
+      "summary": "Aaj GST aur Service Tax ki kuch court rulings aayi hain, aur e-Way Bill enhancements abhi rok di gayi hai. Official notifications ka intezaar hai, kaam abhi waise hi chalega jaise ab tak tha.",
       "items": [
         {
           "category": "GST",
-          "headline": "E-Way Bill enhancements abhi postpone hue",
-          "detail": "GSTN ne 1 August 2026 se jo e-Way Bill system enhance hone wala tha, usko hold pe rakh diya hai. Advisories bhi withdraw kar li hain. Abhi ke liye purana system use karo.",
-          "cga_view": "Koi naya e-way bill compliance abhi apply nahi hoga. Current routine follow karo, jab tak official circular na aaye.",
+          "headline": "e-Way Bill enhancements abhi hold par hain",
+          "detail": "GSTN ne e-Way Bill system mein 1 Aug 2026 se hone wale changes ko next order tak rok diya hai. Abhi purana process hi follow hoga, naye advisories ya FAQs bhi withdraw kar diye gaye hain.",
+          "cga_view": "Naye e-Way Bill features ke liye koi change mat karo. Abhi kaam normal procedure par hi rakho jab tak official update na aaye.",
           "source_type": "trade",
           "source_name": "TaxGuru",
           "source_url": "https://taxguru.in/goods-and-service-tax/gstn-hold-rollout-proposed-bill-enhancements.html"
         },
         {
           "category": "Ruling",
-          "headline": "Telangana HC: IGST paid, pre-deposit nahi lagega GSTAT appeal mein",
-          "detail": "Telangana HC ne bola ki agar IGST already paid hai, to GSTAT mein appeal karte waqt 10% pre-deposit ki requirement nahi hogi. Issue tha IGST vs CGST/SGST dispute mein.",
-          "cga_view": "Agar similar situation hai to consultant se discuss karo, appeal ke liye yeh precedent use ho sakta hai. Har state ke facts alag ho sakte hain.",
+          "headline": "Telangana HC: GSTAT appeal mein 10% deposit maaf, IGST pehle pay hua",
+          "detail": "Telangana High Court ne ek case mein GSTAT appeal ke liye 10% statutory pre-deposit waive kar diya—kyunki taxpayer pehle hi IGST bhar chuka tha. Yeh specific facts par based hai.",
+          "cga_view": "Agar similar IGST aur CGST/SGST liability ka dispute ho to apne advisor se specific legal advice lo—waiver automatically sab cases mein nahi milega.",
           "source_type": "trade",
           "source_name": "TaxGuru",
           "source_url": "https://taxguru.in/goods-and-service-tax/telangana-hc-waives-10-percent-pre-deposit-gstat-appeal-igst-paid.html"
         },
         {
           "category": "Ruling",
-          "headline": "GST Sec 74: Seized docs ke baad fresh reply allowed",
-          "detail": "Telangana HC ne GST Section 74 matter mein bola ki jab documents seize hon aur later supply ho jayein, to supplementary reply, personal hearing aur adjudication within time allowed hai.",
-          "cga_view": "Agar authorities ne documents supply nahi kiye aur assessment chal raha hai, to fresh reply aur personal hearing ki demand karo. Limitation ka dhyan rakho.",
+          "headline": "Service Tax: 26AS aur ST-3 mismatch pe demand valid nahi",
+          "detail": "CESTAT Mumbai ne bola ki sirf Form 26AS aur ST-3 ki mismatch pe Service Tax demand nahi ban sakti. Department ko aur strong basis chahiye.",
+          "cga_view": "Agar aapko sirf mismatch ke reason se notice aaya hai, toh reply mein judicial precedent ka reference dein. Sari details legal advisor ke through prepare karein.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/service-tax/form-26as-st-3-mismatch-cannot-justify-service-tax-demand-cestat-mumbai.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "GST Section 74: Seized documents ke baad fresh reply allowed",
+          "detail": "Telangana HC ne order diya ki jab bhi seized documents taxpayer ko milen, toh fresh/supplementary reply, personal hearing aur time-bound adjudication allowed hai.",
+          "cga_view": "Aapke case mein agar documents delay se mile hain, toh fresh representation ka mauka mil sakta hai. Legal strategy apne advisor ke saath tayar karein.",
           "source_type": "trade",
           "source_name": "TaxGuru",
           "source_url": "https://taxguru.in/corporate-law/telangana-hc-fresh-reply-supply-seized-documents-gst-section-74-proceedings.html"
