@@ -1,6 +1,49 @@
 {
-  "last_updated": "2026-07-30T17:49:47.077Z",
+  "last_updated": "2026-07-31T01:31:05.616Z",
   "digests": [
+    {
+      "date": "2026-07-31",
+      "summary": "Aaj GST aur Income Tax pe kuch important court judgments aaye hain, saath hi GSTN ne e-Way Bill wale naye changes filhaal rok diye hain. Abhi compliance routine pe hi kaam karo.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "GSTN naye e-Way Bill changes abhi hold pe",
+          "detail": "GSTN ne 1 August se lagu hone wale e-Way Bill system ke enhancements abhi rok diye hain. Sabhi purane process hi abhi continue karenge, naye advisory/FAQ bhi withdraw kar liye gaye hain.",
+          "cga_view": "Aap apne logistics ya IT system mein koi naya change mat kariye jab tak GSTN se official green signal na aaye. Compliance filing mein old method hi follow karo.",
+          "source_type": "trade",
+          "source_name": "Taxguru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gstn-hold-rollout-proposed-bill-enhancements.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITC reversal sahi, lekin penalty form ki galti pe radd",
+          "detail": "Gujarat HC ne decide kiya ki ITC toh reverse karna padega agar supplier ne tax nahi diya, lekin bina GST DRC-01A notice ke penalty nahi lag sakti.",
+          "cga_view": "Agar aapko ITC reversal notice mile toh yeh check karein ki penalty ki process sahi follow hui hai ya nahi. Achhi documentation rakhein.",
+          "source_type": "trade",
+          "source_name": "Taxguru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gujarat-hc-upholds-itc-reversal-quashes-gst-penalty-procedural-lapse.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Section 74 GST case: Documents ki supply pe fresh reply allowed",
+          "detail": "Telangana HC ne kaha ki jab investigating officer documents supply kare, toh taxpayer ko fir se reply dena, personal hearing ka mauka milna zaruri hai.",
+          "cga_view": "Agar aapke case mein seized documents milte hain, toh supplementary reply zaroor file karein aur hearing attend karein. Deadline ka dhyan rakhein.",
+          "source_type": "trade",
+          "source_name": "Taxguru",
+          "source_url": "https://taxguru.in/corporate-law/telangana-hc-fresh-reply-supply-seized-documents-gst-section-74-proceedings.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Reassessment notice invalid agar Rs 50L se kam income chhuti",
+          "detail": "Mumbai ITAT ne rule kiya ki agar alleged escaped income ₹50 lakh se kam hai aur notice issue hui 3 saal baad, toh reassessment invalid hai.",
+          "cga_view": "Past IT returns ka reassessment notice mila hai toh amount aur notice date check karein. Agar Rs 50 lakh ki threshold cross nahi hui toh strong case hai.",
+          "source_type": "trade",
+          "source_name": "Taxguru",
+          "source_url": "https://taxguru.in/income-tax/mumbai-itat-quashes-reassessment-escaped-income-rs-50-lakh.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-07-30",
       "summary": "Aaj GST aur Service Tax ki kuch court rulings aayi hain, aur e-Way Bill enhancements abhi rok di gayi hai. Official notifications ka intezaar hai, kaam abhi waise hi chalega jaise ab tak tha.",
