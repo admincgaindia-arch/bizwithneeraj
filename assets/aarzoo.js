@@ -106,10 +106,6 @@
     return null;
   }
 
-  function isShort(q) {
-    return q.trim().split(/\s+/).length <= 5;
-  }
-
   /* ---------- typing indicator ---------- */
   var style = document.createElement('style');
   style.textContent =
@@ -169,15 +165,16 @@
   /* ---------- main answer flow ---------- */
   var busy = false;
 
-  function answer(q) {
+  function answer(q, fromChip) {
     var kb = kbLookup(q);
 
-    /* short query or clear KB hit -> instant local answer */
-    if (kb && isShort(q)) {
+    /* chip clicks -> instant local answer (fast, zero cost).
+       anything the visitor TYPES always goes to the AI. */
+    if (fromChip && kb) {
       setTimeout(function () {
         add(kb + waLink(/notice/i.test(q) ? SOS : WA, 'WhatsApp par baat kariye'), 'bot');
         remember('bot', kb);
-      }, 280);
+      }, 240);
       return;
     }
 
@@ -198,14 +195,14 @@
     });
   }
 
-  function send(text) {
+  function send(text, fromChip) {
     var q = String(text || '').trim();
     if (!q || busy) { return; }
     if (q.length > 500) { q = q.slice(0, 500); }
     add(esc(q), 'user');
     remember('user', q);
     input.value = '';
-    answer(q);
+    answer(q, fromChip === true);
   }
 
   /* ---------- wire up ---------- */
@@ -215,7 +212,7 @@
       b.className = 'az-chip';
       b.type = 'button';
       b.textContent = c[0];
-      b.addEventListener('click', function () { send(c[1]); });
+      b.addEventListener('click', function () { send(c[1], true); });
       chipBox.appendChild(b);
     });
   }
