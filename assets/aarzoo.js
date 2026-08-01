@@ -97,10 +97,16 @@
   }
 
   function kbLookup(q) {
-    var ql = ' ' + q.toLowerCase().replace(/[^a-z0-9\u0900-\u097F ]+/g, ' ') + ' ';
+    var ql = ' ' + q.toLowerCase().replace(/[^a-z0-9\u0900-\u097F ]+/g, ' ').replace(/\s+/g, ' ') + ' ';
     for (var i = 0; i < KB.length; i++) {
       for (var j = 0; j < KB[i].k.length; j++) {
-        if (ql.indexOf(KB[i].k[j]) > -1) { return KB[i].a; }
+        var k = KB[i].k[j];
+        /* multi-word keys match as a phrase; single words must match a WHOLE
+           word, else short keys like "hi" match inside "chahiye". */
+        var hit = (k.indexOf(' ') > -1)
+          ? ql.indexOf(' ' + k + ' ') > -1 || ql.indexOf(' ' + k) > -1
+          : ql.indexOf(' ' + k + ' ') > -1;
+        if (hit) { return KB[i].a; }
       }
     }
     return null;
