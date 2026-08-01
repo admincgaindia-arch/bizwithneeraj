@@ -5,7 +5,7 @@
 (function () {
   'use strict';
 
-  var API = 'https://cga.app.n8n.cloud/webhook/c5fbaacf-c768-48da-a15e-9f27b42bbed5/aarzoo';
+  var API = 'https://cga.app.n8n.cloud/webhook/aarzoo';
   var TIMEOUT = 22000;
   var WA = 'https://wa.me/919996647888?text=BIZ';
   var SOS = 'https://wa.me/919996647888?text=SOS';
