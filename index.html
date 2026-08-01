@@ -425,7 +425,7 @@ if(!matchMedia('(prefers-reduced-motion: reduce)').matches)document.querySelecto
     var cached = sessionStorage.getItem('cga_visit_count');
     if(sessionStorage.getItem('cga_visit_counted') && cached){ show(cached); return; }
   }catch(e){}
-  fetch('https://cga.app.n8n.cloud/webhook/171e44f2-e854-41d3-91a2-ff1711e91347/visit-counter')
+  fetch('https://cga.app.n8n.cloud/webhook/visit-counter')
     .then(function(r){ return r.json(); })
     .then(function(d){
       if(d && d.count != null){
