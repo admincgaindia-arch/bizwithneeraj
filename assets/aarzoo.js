@@ -41,8 +41,10 @@
       a: 'Virtual CFO - growing business ke liye CFO level financial oversight, full-time hire ke cost ke bina.' },
     { k: ['litigation', 'appeal', 'tribunal', 'hearing'],
       a: 'Tax litigation aur appeals - tribunals se courtrooms tak end-to-end representation. Tax aur legal dono ek hi desk par hote hain.' },
+    { k: ['retainer', 'monthly', 'mahine ka', 'yearly package', 'package', 'r1', 'r2', 'r3', 'r4', 'r5'],
+      a: 'Monthly compliance retainer - har chhote kaam ke liye alag baat karne ki zaroorat nahi, sab ek fixed monthly fee mein.<br><br>R1 Proprietor Rs. 2,500/month se shuru<br>R2 Small company Rs. 6,000/month se shuru<br>R3 Growing SME Rs. 12,500/month se shuru (sabse zyada log yahi lete hain)<br>R4 Corporate Rs. 30,000/month se shuru<br>R5 MNC subsidiary Rs. 60,000/month se shuru<br><br>Sab + GST. Har tier mein kya-kya shamil hai: <a href="retainers.html">Compliance Retainers</a>' },
     { k: ['price', 'fees', 'fee', 'charge', 'cost', 'kitna', 'kitne paise', 'rate'],
-      a: 'Ek hi price main pakka bata sakti hoon: ITR filing Rs. 499/- se shuru (offer price).<br><br>Baaki services ki fees kaam ke scope par depend karti hai - free 15-minute call mein exact fixed quote pehle hi mil jaata hai, baad mein koi hidden charge nahi.' },
+      a: 'Jo prices website par likhi hain:<br><br>ITR filing Rs. 499/- se shuru (offer price)<br>Monthly retainer Rs. 2,500/month se shuru - <a href="retainers.html">paanch tiers dekhiye</a><br>GST notice reply Rs. 2,500 / Rs. 7,500 / Rs. 20,000 se - <a href="gst-notice-sos.html">teen tiers dekhiye</a><br><br>Sab + GST. Exact fee kaam ke scope par depend karti hai - free 15-minute call mein fixed quote pehle hi mil jaata hai, baad mein koi hidden charge nahi.' },
     { k: ['contact', 'phone', 'number', 'call', 'email', 'address', 'office', 'safidon', 'delhi', 'burari', 'kahan'],
       a: 'Neeraj ji direct / WhatsApp: +91 99966 47888<br>Safidon: 01686-265933, +91 95600 16162<br>Delhi (Burari): 011-71906890, +91 98999 00300<br>Email: contact@neerajjain.in, admin@cgaindia.com<br>Service: PAN India - lagbhag sab kaam online ho jata hai.' },
     { k: ['neeraj', 'founder', 'about', 'kaun ho', 'kaun hai'],
@@ -70,6 +72,7 @@
     ['ITR filing', 'itr'],
     ['Company kholni hai', 'company'],
     ['NGO / 80G', 'ngo'],
+    ['Monthly retainer', 'retainer'],
     ['Fees kitni hai', 'fees'],
     ['Contact', 'contact']
   ];
