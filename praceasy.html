@@ -331,4 +331,5 @@ document.addEventListener('click',()=>document.querySelectorAll('.nav-links li.o
 if(typeof IntersectionObserver!=='undefined'&&typeof matchMedia!=='undefined'){const cio=new IntersectionObserver(es=>{es.forEach(e=>{if(!e.isIntersecting)return;cio.unobserve(e.target);const el=e.target;const m=el.textContent.replace(/,/g,'').match(/^(\d+)(.*)$/);if(!m)return;const target=+m[1],suf=m[2];const fmt=n=>n.toLocaleString('en-IN');let cur=0;const step=Math.max(1,Math.ceil(target/40));const iv=setInterval(()=>{cur+=step;if(cur>=target){cur=target;clearInterval(iv);}el.textContent=fmt(cur)+suf;},28);});},{threshold:.5});
 if(!matchMedia('(prefers-reduced-motion: reduce)').matches)document.querySelectorAll('.stat b').forEach(el=>cio.observe(el));}
 </script>
+<script src="assets/announcements.js" defer></script>
 </body></html>
