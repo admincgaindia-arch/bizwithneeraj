@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-08-01T01:31:21.049Z",
+  "last_updated": "2026-08-02T01:31:01.108Z",
   "digests": [
+    {
+      "date": "2026-08-02",
+      "summary": "Aaj Income Tax aur GST ke kuch court judgments aaye hain jo business owners ko impact kar sakte hain. Sab trade press se liye gaye hain, official notification ka intezaar bhi zaroor karein.",
+      "items": [
+        {
+          "category": "Income Tax",
+          "headline": "Ahmedabad ITAT: Sirf 8% profit unaccounted sales par taxable",
+          "detail": "Ahmedabad ITAT ne decide kiya ki agar aapke sales books mein nahi dikhaye hain, to poore sales amount par nahi, balki sirf 8% presumed profit par hi tax lagega. CIT(A) ki 6% estimate ko modify kiya gaya.",
+          "cga_view": "Agar aap par similar unaccounted sales ka issue hai to apne CA se yeh recent judgment discuss karein, shayad relief mil sakti hai. Par yeh ruling sab cases pe apply nahi hoti.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/ahmedabad-itat-holds-8-percent-profit-unaccounted-sales-taxable-not-entire-receipts.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Bombay HC: GST penalty director par abhi nahi lagegi",
+          "detail": "Bombay High Court ne ek company director par section 122(1A) CGST ke tehat penalty lagane se stay diya hai, aur bola ki yeh provision individuals pe apply nahi hota. Filhaal yeh sirf interim order hai.",
+          "cga_view": "Agar aap director ho aur aisi notice aayi hai, to abhi relax kar sakte hain. Lekin final decision aana baaki hai, legal advise zaroor lein.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/bombay-hc-stays-section-122-1a-gst-penalty-director-citing-inapplicability-individuals.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Madras HC: GST notifications without Council ultra vires",
+          "detail": "Madras HC ne decide kiya ki GST notifications agar GST Council ke recommendation ke bina hai, to woh invalid hai. Kuch notifications aur notices ko side pe rakha gaya hai.",
+          "cga_view": "Agar aapko aisi GST demand ya notice mili hai jo Council ki recommendation ke bina hai, to apne consultant ko judgement dikhayein. Abhi further clarity aa sakti hai.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-notifications-without-council-recommendation-ultra-vires-madras-hc.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-01",
       "summary": "Aaj court aur tribunal ke kuch important rulings aaye hain GST aur Income Tax pe. MSME disallowance aur ITR utility pe bhi issues report hue hain.",
