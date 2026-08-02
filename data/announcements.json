@@ -1,0 +1,12 @@
+{
+  "_readme": "Suchnayein / announcements for neerajjain.in. Add objects to items[] and they appear sitewide within a minute - no code change needed. Fields: id (unique), title (required), detail, type (info | deadline | urgent | office), due (YYYY-MM-DD, shows an 'X din baaki' countdown once it is within 14 days), expires (YYYY-MM-DD, the item hides itself after this date), url (a page on this site or a full https link), strip (true = also show as the dismissible bar at the top of every page; keep at most one item with strip true).",
+  "_example": {
+    "id": "example-1",
+    "title": "Office 15 August ko band rahega",
+    "detail": "Urgent matters ke liye WhatsApp par likh dijiye.",
+    "type": "office",
+    "expires": "2026-08-16",
+    "strip": true
+  },
+  "items": []
+}
