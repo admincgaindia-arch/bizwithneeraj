@@ -1,0 +1,12 @@
+{
+  "_readme": "Client quotes for neerajjain.in. NOTHING renders unless consent is exactly true, and this component is not loaded on any page yet - add the script tag and a <div id='cga-testimonials'></div> when you decide to use it. Fields per item: id, quote (required), name, role, consent (must be true), date. Only add a quote the client actually gave you and agreed in writing to publish. Note that ICAI's ethics rules on client testimonials still apply to you as a member regardless of what the page says.",
+  "_example": {
+    "id": "example-1",
+    "quote": "<the client's own words, exactly as they wrote them>",
+    "name": "<client name or initials>",
+    "role": "<designation, company>",
+    "consent": false,
+    "date": "YYYY-MM-DD"
+  },
+  "items": []
+}
