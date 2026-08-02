@@ -8,5 +8,31 @@
     "expires": "2026-08-16",
     "strip": true
   },
-  "items": []
+  "items": [
+    {
+      "id": "retainer-launch-2026",
+      "title": "Naya: Monthly Compliance Retainer",
+      "detail": "Har chhote kaam ke liye alag baat nahi — GST, ITR, TDS aur ROC sab ek fixed monthly fee mein. ₹2,500/month se shuru.",
+      "type": "info",
+      "url": "retainers.html",
+      "expires": "2026-09-30",
+      "strip": true
+    },
+    {
+      "id": "gst-notice-sos-2026",
+      "title": "GST notice aaya hai? 48 ghante mein reply",
+      "detail": "Notice ki photo WhatsApp kar dijiye. Form number padh kar batayenge kitna serious hai, phir reply draft aur portal filing.",
+      "type": "urgent",
+      "url": "gst-notice-sos.html",
+      "expires": "2026-12-31"
+    },
+    {
+      "id": "itr-season-2026",
+      "title": "ITR filing AY 2026-27 chal rahi hai",
+      "detail": "Salaried, business ya capital gains — accurate aur reviewed filing. ₹499 se shuru.",
+      "type": "info",
+      "url": "services.html",
+      "expires": "2026-09-30"
+    }
+  ]
 }
