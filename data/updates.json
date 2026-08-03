@@ -1,6 +1,49 @@
 {
-  "last_updated": "2026-08-02T01:31:01.108Z",
+  "last_updated": "2026-08-03T01:31:05.011Z",
   "digests": [
+    {
+      "date": "2026-08-03",
+      "summary": "Aaj ke major updates GST aur Income Tax ki compliance aur rulings par based hain. Filhal koi official government release nahi mila hai.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "E-way Bill System mein naya rule August se",
+          "detail": "Trade reports ke hisaab se, 1 August 2026 se bill-to/ship-to transactions mein ship-to GSTIN mandatory ho jayega aur e-way bill close karne ki ek new facility aayegi.",
+          "cga_view": "Aapko systems jaldi hi update karwa lene chahiye, aur staff ko new rule batana zaroori hai. Official notification ka wait bhi karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/proposed-changes-e-way-bill-system-effective-august-1-2026.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Section 16(2)(c) CGST: ITC reversal pe ambiguity",
+          "detail": "Article mein ITC reversal, dubara avail karne, aur kuch legal rulings discuss kiye hain. Practical compliance issues highlighted hue hain, par abhi clarity nahi aayi hai.",
+          "cga_view": "ITC claim karte waqt supplier ki compliance pakka karein, aur koi bhi reversal ya re-availment accounting records mein ache se track karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/section-16-2-cgst-settled-law-practical-ambiguities-road.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Jewellery seizure: ITAT ka naya decision",
+          "detail": "Bangalore ITAT ne decide kiya ki CBDT Instruction 1916 sirf prescribed jewellery quantity ko protect karta hai. Baaki seized jewellery par Section 69A lagega agar valid source nahi dikhaya.",
+          "cga_view": "Agar jewellery disclose karni ho ya assessment chal raha hai, to prescribed limit dhyan mein rakhein aur har ek item ka source clearly document karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/cbdt-instruction-1916-protects-prescribed-jewellery-quantity-bangalore-itat.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "GST Appeal me pre-deposit: Delhi HC ka view",
+          "detail": "Delhi High Court ne bola ki Section 107(6) CGST ke liye appeal ka right SCN ki date se decide hoga, aur ye vested right hai.",
+          "cga_view": "Agar aapka appeal under process hai to SCN ki date check karein; kisi bhi new amendment ko retro apply nahi hone dena chahiye.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/vested-rights-commencement-lis-section-107-6-gst-amendment-impact.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-02",
       "summary": "Aaj Income Tax aur GST ke kuch court judgments aaye hain jo business owners ko impact kar sakte hain. Sab trade press se liye gaye hain, official notification ka intezaar bhi zaroor karein.",
