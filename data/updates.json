@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-08-03T01:31:05.011Z",
+  "last_updated": "2026-08-04T01:31:05.313Z",
   "digests": [
+    {
+      "date": "2026-08-04",
+      "summary": "GST aur Income Tax pe latest court judgments aaye hain, jo aapke ongoing cases aur compliance approach ko impact kar sakte hain. Official notifications aaj nahi aaye, isliye zyada focus important rulings par hai.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "Consolidated GST SCN across years valid: Gauhati HC",
+          "detail": "Gauhati High Court ne bola ki Section 73/74 CGST Act ke hisaab se multiple saal ka ek hi show cause notice diya ja sakta hai, agar limitation period ke andar ho.",
+          "cga_view": "Aapko agar ek hi SCN mein multiple years covered milta hai, toh alag se challenge karne ki jarurat nahi hai. Defence prepare karte waqt ye fact dhyan mein rakho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gauhati-hc-dismisses-challenge-consolidated-gst-scns-financial-years.html"
+        },
+        {
+          "category": "GST",
+          "headline": "E-way bill expiry pe detention illegal if reason genuine: AP HC",
+          "detail": "AP HC ne GST detention cancel kar diya jab e-way bill vehicle breakdown ki wajah se expire hua, aur pareshani ki koi tax evasion nahi thi.",
+          "cga_view": "Agar aapka consignment vehicle breakdown ki wajah se delay hota hai, toh uska proof sambhal ke rakho. E-way bill expire hone par penalty avoid kar sakte ho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/ap-hc-quashes-gst-detention-expired-bill-vehicle-breakdown.html"
+        },
+        {
+          "category": "GST",
+          "headline": "ITC denial matter: Interim relief by Karnataka HC",
+          "detail": "Karnataka HC ne ITC denial case mein interim relief diya, jahan supplier return file nahi kar raha tha aur NCLT case pending tha.",
+          "cga_view": "Jis supplier ne return file nahi kiya hai aur uspe NCLT case chal raha hai, toh ITC ka denial challenge kiya ja sakta hai. Apne documents ready rakho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/karnataka-hc-grants-interim-relief-itc-denial-due-supplier-default.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Unverified portal info pe reassessment nahi chalegi: ITAT",
+          "detail": "ITAT ne ruling di ki Income Tax Officers ko portal (ITBA/INSIGHT) ke data pe bina verify kiye assessment nahi kholni chahiye, kyunki galti ho sakti hai.",
+          "cga_view": "Agar aap par sirf portal ke data pe case khola gaya hai, toh is precedent ko cite karke relief maang sakte ho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-cancels-reassessment-based-solely-unverified-itba-portal-information.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Unsecured loan/share application genuine if docs okay: ITAT",
+          "detail": "ITAT ne bola ki sirf creditor ka entry operator se link hone par unsecured loan ya share application ko bogus nahi maana jaa sakta, agar records theek hain.",
+          "cga_view": "Transaction ke pure documents aur bank records ready rakho; agar query aaye toh submit karo. Sirf suspicion pe addition nahi honi chahiye.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/top-stories/unsecured-loan-and-share-application-money-cannot-be-treated-as-bogus-merely-due-to-creditors-link-with-alleged-entry-provider-itat-read-order-1449662"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-03",
       "summary": "Aaj ke major updates GST aur Income Tax ki compliance aur rulings par based hain. Filhal koi official government release nahi mila hai.",
