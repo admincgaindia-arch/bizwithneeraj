@@ -1,13 +1,13 @@
 /* CGA client logo strip.
-   Reads a fixed list of files from assets/clients/ and shows only the ones that actually load.
+   Reads a fixed list of files from assets/ and shows only the ones that actually load.
    Nothing is placeholdered: if fewer than MIN_LOGOS are present the whole section stays hidden,
    so the strip can never display an empty box or a broken image. Drop a new file into
-   assets/clients/ using one of the names below and it appears on the next page load. */
+   assets/ using one of the names below and it appears on the next page load. */
 (function () {
   'use strict';
 
   var MIN_LOGOS = 3;
-  var BASE = 'assets/clients/';
+  var BASE = 'assets/';
 
   var LOGOS = [
     { file: 'cozycato.jpg', name: 'Cozycato' },
