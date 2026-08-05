@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-08-04T01:31:05.313Z",
+  "last_updated": "2026-08-05T01:31:00.132Z",
   "digests": [
+    {
+      "date": "2026-08-05",
+      "summary": "Aaj GST aur Income Tax se related kuch key updates aaye hain, ek Bombay HC ka ruling bhi notable hai. MCA/ROC ya TDS se direct update nahi aaya.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "Bombay HC ne GST notice ko quash kiya",
+          "detail": "Bombay High Court ne GST show cause notice aur adjudication order quash kar diya hai, kyunki Section 73 ki 3 months ki mandatory gap maintain nahi hui thi. Iss wajah se pura SCN aur order invalid ho gaya.",
+          "cga_view": "Agar aapko bhi GST SCN mila hai aur lagta hai ki procedure follow nahi hua, toh legal review karwayein – case ban sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/bombay-hc-quashes-gst-show-notice-order-breach-section-73-time-gap.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Taxation and Other Laws (Amendment) Bill, 2026 aaya",
+          "detail": "Trade report ke mutabik naya Bill propose hua hai jo Income-tax Act, Finance Act wa Payment & Settlement Systems Act mein changes la sakta hai. Official detail ya notification abhi aana baaki hai.",
+          "cga_view": "Filhaal koi immediate action nahi hai, lekin clients ke IT compliance pe nazar rakhein – Bill pass hone par impact ho sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/taxation-laws-amendment-bill-2026-proposes-key-income-tax-act-finance-act.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "CBDT ne HSBTE ko Section 10(46) exemption di",
+          "detail": "HSBTE ko CBDT ne Section 10(46) ke under exempt kiya hai, kuch income aur conditions ke saath. Applicability AY 2024-25 se hogi. Detail notification trade press mein hai, official link ka intezaar hai.",
+          "cga_view": "Agar kisi client ka HSBTE se transaction hai toh uski tax treatment review karein, exemption conditions dekhein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/cbdt-notifies-hsbte-section-10-46-income-tax-exemption.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-04",
       "summary": "GST aur Income Tax pe latest court judgments aaye hain, jo aapke ongoing cases aur compliance approach ko impact kar sakte hain. Official notifications aaj nahi aaye, isliye zyada focus important rulings par hai.",
