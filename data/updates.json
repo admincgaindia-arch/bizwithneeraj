@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-08-05T01:31:00.132Z",
+  "last_updated": "2026-08-06T01:31:06.426Z",
   "digests": [
+    {
+      "date": "2026-08-06",
+      "summary": "Aaj ki digest mein GST refund par Gujarat HC ka ruling, TDS par ITAT Mumbai ka faydemand faisla, aur ek aur income tax assessment ki important clarification di gayi hai. Sab update trade press sources se hain, official notification ke intezaar mein rehna sahi rahega.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "Gujarat HC: GST Refund Circular Can't Restrict Section 54",
+          "detail": "Gujarat High Court ne Circular No. 181/13/2022-GST ke basis par Section 54 refund reject karna galat bola hai. Court ne refund claims wapas process karne ko bola hai. Circular ki limitation pe Court ne clear stance diya hai.",
+          "cga_view": "Agar aapka GST refund Circular 181/13/2022-GST ka hawala dekar reject hua, toh phir se claim file karo ya appeal karo. Official department ki new instructions ka intezaar bhi zaruri hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/circular-181-13-2022-gst-cannot-restrict-section-54-refunds-gujarat-hc.html"
+        },
+        {
+          "category": "TDS",
+          "headline": "Trade Discount Not Liable for TDS u/s 194H: ITAT Mumbai",
+          "detail": "ITAT Mumbai ne bola, dealers ko diye trade discounts commission nahi hain, isliye inpe Section 194H TDS nahi katega. Specific Bajaj Auto case mein yeh ruling aayi hai.",
+          "cga_view": "Agar aap dealers ko sirf trade discount dete ho, toh uss amount par 194H TDS katna abhi zaroori nahi lagta, par abhi bhi practice/facts check kar lo. Department se challenge ho sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/trade-discounts-dealers-not-liable-tds-section-194h-itat-mumbai.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Section 153C Limitation Counts From Assessing Officer Transfer: ITAT Delhi",
+          "detail": "ITAT Delhi ne kaha, search ke baad assessment ki limitation period Section 127 transfer date se chalegi jab records common AO ko milte hain. Yeh clarity specifically reassessment cases mein apply hoti hai.",
+          "cga_view": "Kisi bhi search case mein assessment limitation dekhte waqt Section 127 transfer date dhyan se verify karo. Ye ground assessment ko challenge karne mein kaam aa sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/search-cases-common-assessing-officer-governed-section-127-transfer-date-itat-delhi.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-05",
       "summary": "Aaj GST aur Income Tax se related kuch key updates aaye hain, ek Bombay HC ka ruling bhi notable hai. MCA/ROC ya TDS se direct update nahi aaya.",
