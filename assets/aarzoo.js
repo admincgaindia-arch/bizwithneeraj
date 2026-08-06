@@ -19,6 +19,21 @@
   var closeBtn = document.getElementById('azClose');
   if (!box || !btn || !msgs || !input) { return; }
 
+  /* chips: one scrollable row instead of a wall that eats the panel */
+  (function () {
+    var st = document.createElement('style');
+    st.textContent =
+      '.az-chips{flex-wrap:nowrap!important;overflow-x:auto;overflow-y:hidden;' +
+      'scrollbar-width:none;-ms-overflow-style:none;padding-bottom:9px!important;' +
+      '-webkit-mask-image:linear-gradient(90deg,#000 86%,transparent);' +
+      'mask-image:linear-gradient(90deg,#000 86%,transparent)}' +
+      '.az-chips::-webkit-scrollbar{display:none}' +
+      '.az-chip{flex:0 0 auto;white-space:nowrap}' +
+      '.az-chips.az-hide{display:none}' +
+      '.az-msgs{min-height:190px}';
+    document.head.appendChild(st);
+  })();
+
   /* ---------- knowledge base (instant answers) ---------- */
   var KB = [
     { k: ['itr', 'income tax', 'return file', 'return filing', 'itr file'],
@@ -231,6 +246,7 @@
     if (!q || busy) { return; }
     if (q.length > 500) { q = q.slice(0, 500); }
     add(esc(q), 'user');
+    if (chipBox) { chipBox.classList.add('az-hide'); }
     remember('user', q);
     input.value = '';
     answer(q, fromChip === true);
