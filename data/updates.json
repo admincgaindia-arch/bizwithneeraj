@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-08-06T01:31:06.426Z",
+  "last_updated": "2026-08-07T01:31:03.311Z",
   "digests": [
+    {
+      "date": "2026-08-07",
+      "summary": "Aaj ke din, GST, IT, aur ek court ruling par kuch important updates hain. Official notification ka intezaar hai, sab trade press reports se hai.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "GSTAT ne Bengal Peerless par anti-profiteering case drop kiya",
+          "detail": "GSTAT ne DGAP report ko maante hue bola ki Digangana Project mein GST ka koi extra ITC benefit nahi mila, isliye Section 171 ka matter close ho gaya.",
+          "cga_view": "Agar aapka project bhi anti-profiteering ke under hai toh ye case helpful ho sakta hai. Apne documents DGAP ke liye ready rakhein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gstat-drops-anti-profiteering-proceedings-against-bengal-peerless-digangana-project.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "CBDT ka delay refund procedure: Section 119(2)(b)",
+          "detail": "CBDT ne delayed income tax refund claims ke liye process explain kiya hai—kaun eligible hai, approval limits aur adjustment Section 245 ke under possible hai. Details abhi trade press report pe hain.",
+          "cga_view": "Agar aapka refund delay ho raha hai toh Section 119(2)(b) ke under aap application consider kar sakte hai. Official circular ka wait karein aur CA se process check karva lein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/cbdt-procedure-delayed-income-tax-refund-claims-section-119-2.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Delhi ITAT: IBC moratorium mein Revenue appeal maintain nahi",
+          "detail": "Delhi ITAT ne bola ki agar IBC moratorium chal raha hai toh income tax appeal maintain nahi hoti. Ye sirf trade press ki coverage hai, abhi official order ka link nahi.",
+          "cga_view": "Agar aap IBC mein hain aur income tax ka matter chal raha hai toh apne CA ko order dikhayein, shayad aapko bhi stay ka benefit mil sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/revenue-appeal-not-maintainable-ibc-moratorium-delhi-itat.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITAT Bangalore: LLP conversion ke baad reassessment invalid",
+          "detail": "Bangalore ITAT ne kaha ki company jab LLP ban gayi aur AO ko pata tha, fir bhi reassessment hua toh vo invalid hai. Official copy abhi link pe available nahi.",
+          "cga_view": "Agar aapne company ko LLP mein convert kiya hai toh reassessment notices ka dhyan rakhein—galat notice aaye toh challenge kar sakte hain.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/bangalore-itat-quashes-reassessment-company-llp-conversion.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GST Council ne IGST settlement reforms implement kiye",
+          "detail": "GST Council ne IGST settlement ke liye new rules (GST Settlement of Fund Rules, 2026) notify kiye aur ITC reversal ka naya SOP lagu kiya. Abhi sab trade report par depend hai.",
+          "cga_view": "Abhi IGST or cross-utilisation pe closely monitor karein—SOP ke official details aate hi process update karna padega.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-council-implements-igst-settlement-reforms-gst-settlement-fund-rules-2026.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-06",
       "summary": "Aaj ki digest mein GST refund par Gujarat HC ka ruling, TDS par ITAT Mumbai ka faydemand faisla, aur ek aur income tax assessment ki important clarification di gayi hai. Sab update trade press sources se hain, official notification ke intezaar mein rehna sahi rahega.",
