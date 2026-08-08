@@ -1,6 +1,67 @@
 {
-  "last_updated": "2026-08-07T01:31:03.311Z",
+  "last_updated": "2026-08-08T01:31:27.095Z",
   "digests": [
+    {
+      "date": "2026-08-08",
+      "summary": "Aaj major GST compliance aur MCA penalty news hain. Courts ne kuch latest GST aur Income Tax interpretations diye hain.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "J&K Mining Sector Par CBIC Naya GST Coordination Framework",
+          "detail": "CBIC ne Instruction No. 01/2026-GST se J&K mining sector mein CGST-State mining coordination aur data sharing ko mandate kiya hai. Isse GST enforcement minerals sector mein jyada strong hoga.",
+          "cga_view": "Minerals ya mining business wale Jammu-Kashmir mein compliance aur reporting mein ab zyada dikkat expect karein, additional scrutiny ki taiyari rakhein.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/operationalizing-cbic-instruction-no-01-2026-gst-roadmap-jammu-kashmir-curb-mining-sector-evasion.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GST Appeal Limitation Mein Rectification Ka Time Exclude Hoga: Gauhati HC",
+          "detail": "Gauhati High Court ne bola, agar Section 161 ke rectification ke liye time diya gaya hai to appeal (Section 107) ki limitation nikalte waqt ye duration exclude hoga.",
+          "cga_view": "Agar aap GST order ke rectification ke liye jaa rahe hain, appeals file karne ka waqt effectively badh jaata hai, lekin dates note karna zaroori hai.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/time-spent-gst-rectification-excludible-appeal-limitation-gauhati-hc.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "GST ITC (Truck & Cross Year) Claims Ko CA Certificate Chahiye: GSTAT",
+          "detail": "Tribunal ne assessee ko kaha ki GST ITC ke verification ke liye CA certificate file karein aur ITC register dikhayein, taa ki confirm ho ki vehicle par GST claim mein depreciation nahi li.",
+          "cga_view": "Truck ya vehicle par GST ITC claim cross-year karte ho to CA certificate aur saara backup ready rakho, nahi to aapka ITC atak sakta hai.",
+          "source_type": "trade",
+          "source_name": "TaxScan",
+          "source_url": "https://www.taxscan.in/top-stories/verification-of-gst-itc-on-truck-cross-year-claims-needs-ca-certificate-itc-register-gstat-directs-assessee-to-furnish-documents-read-order-1449791"
+        },
+        {
+          "category": "MCA / ROC",
+          "headline": "MGT-7A Mein Galat Disclosure Par ₹5,000 Ka ROC Penalty",
+          "detail": "ROC Mumbai II ne authorised signatory par ₹5,000 penalty lagayi hai kyunki annual return (MGT-7A) mein board meeting disclosure poora nahi tha.",
+          "cga_view": "Company return file karte waqt board meetings aur compliance details galti se na chhodein, penalty seedha personal lag sakta hai.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/company-law/roc-imposes-rs-5-000-penalty-incomplete-board-meeting-disclosure-mgt-7a.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Trade Body Ko Section 12AA Registration Ka Right: Gujarat HC",
+          "detail": "Gujarat HC ne decide kiya ki trade promotion association ko Section 12AA charitable registration mil sakti hai; Revenue ki appeal dismiss kar di.",
+          "cga_view": "Apne objects clear dikhao, charitable registration possible hai agar criteria fulfill hai. Associations ko ye precedent help karega.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/trade-promotion-body-qualifies-charitable-institution-section-12aa-registration-gujarat-hc.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "GST Road Contract Mein Wrong GST Reimbursement Par Allahabad HC Ka Faisla",
+          "detail": "Allahabad HC ne arbitral award set aside kiya kyunki arbitrator ne MoRTH SOP ko wrongly apply kiya, jab State order applicable tha.",
+          "cga_view": "Contract drafting aur GST reimbursement ke clauses halke mein na lein, dispute hone par court contract ki exact language dekhega.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/arbitral-award-gst-reimbursement-unsustainable-road-contract-allahabad-hc.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-07",
       "summary": "Aaj ke din, GST, IT, aur ek court ruling par kuch important updates hain. Official notification ka intezaar hai, sab trade press reports se hai.",
