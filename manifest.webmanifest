@@ -1,0 +1,50 @@
+{
+  "name": "CGA India — Neeraj Jain",
+  "short_name": "CGA India",
+  "description": "ITR, GST, company registration, notices aur monthly compliance retainers. Safidon, Delhi aur PAN India.",
+  "id": "/",
+  "start_url": "/?src=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui", "browser"],
+  "orientation": "portrait-primary",
+  "background_color": "#1F3364",
+  "theme_color": "#1F3364",
+  "lang": "en-IN",
+  "dir": "ltr",
+  "categories": ["business", "finance", "productivity"],
+  "icons": [
+    { "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    {
+      "name": "GST Notice SOS",
+      "short_name": "GST Notice",
+      "description": "GST notice ka reply — 48 ghante mein",
+      "url": "/gst-notice-sos.html?src=pwa",
+      "icons": [{ "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png" }]
+    },
+    {
+      "name": "Daily Updates",
+      "short_name": "Updates",
+      "description": "Roz ke GST, Income Tax aur MCA updates",
+      "url": "/updates.html?src=pwa",
+      "icons": [{ "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png" }]
+    },
+    {
+      "name": "Compliance Retainers",
+      "short_name": "Retainers",
+      "description": "Monthly compliance retainer plans",
+      "url": "/retainers.html?src=pwa",
+      "icons": [{ "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png" }]
+    },
+    {
+      "name": "Contact",
+      "short_name": "Contact",
+      "description": "Office numbers aur WhatsApp",
+      "url": "/contact.html?src=pwa",
+      "icons": [{ "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png" }]
+    }
+  ]
+}
