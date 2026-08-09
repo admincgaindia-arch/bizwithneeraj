@@ -1,6 +1,49 @@
 {
-  "last_updated": "2026-08-08T01:31:27.095Z",
+  "last_updated": "2026-08-09T01:31:03.078Z",
   "digests": [
+    {
+      "date": "2026-08-09",
+      "summary": "Aaj ke digest mein High Courts aur CESTAT ke kuch kaafi important GST aur Income Tax rulings hain jo aapki compliance aur litigations strategy par effect daal sakte hain.",
+      "items": [
+        {
+          "category": "Ruling",
+          "headline": "Order galat jagah chipka toh appeal late nahi maana jayega",
+          "detail": "CESTAT Allahabad ne bola ki agar GST order galat premises par chipka, toh appeal filing ki limitation start nahi hoti. Matter wapas de-novo proceeding ke liye bheja gaya.",
+          "cga_view": "Agar aapko order properly serve nahi hua hai, toh appeal filing ka limitation period waise hi nahi chalega. Order ki service check karein pehle.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/service-tax/order-affixed-wrong-premises-cannot-trigger-appeal-limitation-cestat-allahabad.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Bar on parallel GST proceedings: Himachal HC ka naya decision",
+          "detail": "Himachal Pradesh HC ne kaha ki ITC disputes mein central aur state authorities ek saath parallel proceedings nahi chala sakte. Fresh consideration ka order diya.",
+          "cga_view": "Agar aapke khilaaf dono authorities proceedings chala rahi hain toh yeh decision cite kar ke ek proceeding rokwa sakte hain.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/section-6-2-bar-parallel-gst-proceedings-applied-itc-dispute-himachal-pradesh-hc.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "APA forms aur process simplified by CBDT",
+          "detail": "CBDT ne Advance Pricing Agreement (APA) ke forms revise kiye, ₹20 lakh fee standard rakhi, aur withdrawal, renewal process simplify kiya. Rules ab 2026 ke liye hain.",
+          "cga_view": "Jo log APA process use karte hain, naye forms aur process ko check karein for fresh and renewal applications.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/income-tax-rules-2026-key-advance-pricing-agreements.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Income Tax records dekhne advocate appointment allowed in liquidation",
+          "detail": "Madras HC ne income tax advocate ko appointment ki permission di, taaki ₹6.29 crore ka department ka claim settle ho sake during liquidation process.",
+          "cga_view": "Jo log winding up ya liquidation phase mein hain, advocates ko tax records review ke liye appoint karne ka yeh precedent use kar sakte hain.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/madras-hc-permits-advocate-appointment-examine-income-tax-records-liquidation.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-08",
       "summary": "Aaj major GST compliance aur MCA penalty news hain. Courts ne kuch latest GST aur Income Tax interpretations diye hain.",
