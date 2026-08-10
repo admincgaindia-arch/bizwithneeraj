@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-08-09T01:31:03.078Z",
+  "last_updated": "2026-08-10T01:31:02.190Z",
   "digests": [
+    {
+      "date": "2026-08-10",
+      "summary": "Aaj mostly HC/tribunal rulings hain GST aur Income Tax par, business owners ko notices & compliance process mein practical guidance mil sakti hai.",
+      "items": [
+        {
+          "category": "Ruling",
+          "headline": "Order galat address par chipkana – limitation nahi lagega",
+          "detail": "CESTAT Allahabad ne bola ki GST order agar galat premise par chipkaya gaya toh appeal ki limitation nahi lagegi. Case dobara sunne bheja gaya.",
+          "cga_view": "Agar apke office ki jagah kisi aur jagah order chipka ho, toh appeal late ho toh bhi valid ho sakti hai. Iss point ko apne records mein note karo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/service-tax/order-affixed-wrong-premises-cannot-trigger-appeal-limitation-cestat-allahabad.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Karnataka HC: Multiple year GST notices allowed",
+          "detail": "Karnataka HC ne clarify kiya ki consolidated GST show cause notices multiple years ke liye diya ja sakta hai. Limitation rules safe hai.",
+          "cga_view": "Agar aapko ek hi notice mein kai saal ka GST poocha jaye toh challenge karna mushkil hoga; defence prepare karte waqt sab saal ka dhyan rakho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/karnataka-hc-consolidated-gst-show-notices-multiple-years.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITAT Delhi: Wrong section se assessment hua toh order quash ho sakta hai",
+          "detail": "Delhi ITAT ne ek assessment ko isliye quash kiya kyunki sahi section (153C) mein notice nahi diya gaya, galat section (143(3)) mein kiya gaya tha.",
+          "cga_view": "Aapka assessment ya notice sahi section mein hai ya nahi, yeh check karwana zaroori hai – galat section ho toh aap challenge kar sakte hain.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-delhi-quashes-assessment-section-153c-not-section-143-3-applicable.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Parallel GST proceedings ITC ke case mein allowed nahi – HP HC",
+          "detail": "Himachal Pradesh High Court ne bola ki Central aur State GST authorities ek hi ITC dispute pe parallel proceedings nahi chala sakti. Case fresh consider hoga.",
+          "cga_view": "Agar apke against ITC ka Central aur State dono jagah se notice hai, toh aapko ek hi proceeding mein combine karane ke liye application karwana chahiye.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/section-6-2-bar-parallel-gst-proceedings-applied-itc-dispute-himachal-pradesh-hc.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "DRP ko timely objection nahi diya toh assessment challenge nahi hoga - Allahabad HC",
+          "detail": "Allahabad High Court ne bataya ki agar aapne DRP ke samne timely objection nahi diya, toh assessment order court mein challenge nahi ho sakta.",
+          "cga_view": "Assessment order milte hi DRP ke samne objection ki last date mat miss karo, warna legal remedy khatam ho jayegi.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/top-stories/failure-to-file-objections-before-drp-bars-challenge-to-assessment-order-allahabad-hc-1449841"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-09",
       "summary": "Aaj ke digest mein High Courts aur CESTAT ke kuch kaafi important GST aur Income Tax rulings hain jo aapki compliance aur litigations strategy par effect daal sakte hain.",
