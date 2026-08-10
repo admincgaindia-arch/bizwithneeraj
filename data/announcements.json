@@ -28,11 +28,11 @@
     },
     {
       "id": "itr-season-2026",
-      "title": "ITR filing AY 2026-27 chal rahi hai",
-      "detail": "Salaried, business ya capital gains — accurate aur reviewed filing. ₹499 se shuru.",
-      "type": "info",
+      "title": "ITR AY 2026-27 — salaried ki due date nikal chuki hai",
+      "detail": "Salaried filers ka return ab belated maana jaata hai — late fee lagti hai aur us saal ke liye regime badalne ka option nahi rehta. Business, professional aur audit cases ki timeline alag hai. Apne case ki due date confirm karne ke liye message kijiye.",
+      "type": "urgent",
       "url": "services.html",
-      "expires": "2026-09-30"
+      "expires": "2026-12-31"
     }
   ]
 }
