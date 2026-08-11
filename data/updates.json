@@ -1,6 +1,49 @@
 {
-  "last_updated": "2026-08-10T01:31:02.190Z",
+  "last_updated": "2026-08-11T01:31:02.708Z",
   "digests": [
+    {
+      "date": "2026-08-11",
+      "summary": "Aaj ki digest mein GST aur Income Tax par recent HC aur tribunal rulings cover ki gayi hain. Sab items verified sources se liye gaye hain, koi due date iss period mein nahi hai.",
+      "items": [
+        {
+          "category": "Ruling",
+          "headline": "TDS Paid u/s 195A Not Subject to Service Tax",
+          "detail": "CESTAT Chandigarh ne decide kiya ki Section 195A ke under pay hua TDS service tax ke value mein include nahi hoga. Saath hi, jab tak suppression ya tax evasion ka intent nahi, extended limitation bhi apply nahi hogi.",
+          "cga_view": "Agar aapne 195A ke under TDS pay kiya hai to service tax demand ke liye yeh order ka reference use kar sakte hain. Purane cases check karein, shayad refund ya relief mil sake.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/service-tax/tds-paid-section-195a-not-subject-service-tax-cestat-chandigarh.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Panaji ITAT: Double Tax on Partner Salary Deleted",
+          "detail": "Panaji ITAT ne 2.98 lakh double addition hata di, kyunki partner remuneration pe already partner ki personal return me tax kaata tha (AY 2013-14 ka case).",
+          "cga_view": "Is ruling ko refer karein agar firm aur partner dono ki income pe tax dubara lag raha hai. Apni assessment order cross-check kar lein.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/panaji-itat-deletes-rs-2-98-lakh-double-taxation-partner-remuneration-taxed.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITAT Delhi: Wrong Section Used, Assessment Quashed",
+          "detail": "Delhi ITAT ne assessment khatam ki jo Section 143(3) me thi, jabki matter 153C me initiate hona chahiye tha (AY 2021-22).",
+          "cga_view": "Agar aap bhi similar notice ya assessment ka samna kar rahe hain, to section ki technicality jaankari lein. Galat section ho to appeal zarur karein.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-delhi-quashes-assessment-section-153c-not-section-143-3-applicable.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Karnataka HC: Multiple Year GST SCN Allowed",
+          "detail": "Karnataka High Court ne bola GST show cause notice ek saath several saal ke liye consolidated issue ho sakta hai. Law me aisa ban nahi hai, lekin limitation period ka dhyaan rakhna hoga.",
+          "cga_view": "Agar consolidated SCN mila hai to har saal ki calculation alag se verify karein. Limitation period cross-check karna must hai.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/karnataka-hc-consolidated-gst-show-notices-multiple-years.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-10",
       "summary": "Aaj mostly HC/tribunal rulings hain GST aur Income Tax par, business owners ko notices & compliance process mein practical guidance mil sakti hai.",
