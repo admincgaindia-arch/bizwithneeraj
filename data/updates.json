@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-08-11T01:31:02.708Z",
+  "last_updated": "2026-08-12T01:31:04.307Z",
   "digests": [
+    {
+      "date": "2026-08-12",
+      "summary": "Aaj ka digest important TDS/TCS reporting, kuch recent court rulings, aur ek GST update cover karta hai. Official government source se koi naya notification nahi aaya hai.",
+      "items": [
+        {
+          "category": "TDS",
+          "headline": "FY 2026-27 se naye TDS forms 138 & 140 lagenge",
+          "detail": "Trade reports ke mutabik, Form 24Q/26Q ki jagah ab Form 138/140 use honge TDS filing ke liye, April 2026 se. Naye forms quarterly aur simplified kahe ja rahe hain.",
+          "cga_view": "Clients abhi purane forms use karein, par FY 2026-27 ke liye team ko naye formats ki training dena shuru karein. Official notification ka intezaar rahe.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/tds-forms-138-140-replace-forms-24q-26q-fy-2026-27.html"
+        },
+        {
+          "category": "TDS",
+          "headline": "TCS reporting FY 2025–26 mein ab bhi 27EQ form se",
+          "detail": "Trade press ke hisaab se, Income Tax Act, 2025 ke mutabik abhi Form 27EQ hi TCS reporting ke liye use hoga for FY 2025–26. Quarterly filing ki timeline continue rehni hai.",
+          "cga_view": "TCS ke clients ko abhi koi immediate badlav nahi karna, Form 27EQ hi timely submit karein. Team ko new Act pe update rakhna zaroori hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/form-143-erstwhile-27eq-tcs-reporting-income-tax-act-2025.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Jodhpur ITAT: Late Form 10B ke bawajood Section 11 exemption mili",
+          "detail": "Agar audit report CPC tak time pe pahunch jaaye toh late Form 10B filing par bhi Section 11 exemption mil sakta hai (ITAT Jodhpur ka case).",
+          "cga_view": "Trusts/NGOs ke audit me delay ho toh yeh case ka reference rakhna, lekin har case alag hota hai - dependency assessment officer pe bhi hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-jodhpur-section-11-exemption-late-form-10b-filing.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Supreme Court: CGST Rule 96(10) omission – pending refunds par bhi lagu",
+          "detail": "Supreme Court ne decide kiya ki CGST Rule 96(10) ka jo omission hua hai, woh abhi ke pending GST refund cases par bhi lagu hoga jahan koi saving clause nahi diya gaya.",
+          "cga_view": "Agar aapka GST refund case pending hai, toh yeh SC ka ruling aapke favour me help kar sakta hai. Refund follow-up me reference ka use karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/omission-cgst-rule-96-10-applies-pending-refund-proceedings-sc.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Gujarat HC: Assessment cancel hua, sirf 2 din reply time diya tha",
+          "detail": "Gujarat High Court ne assessment aur penalty cancel kar diye, kyunki taxpayer ko sirf 2 din ka response time mila tha. Naya assessment conduct hoga.",
+          "cga_view": "Agar assessment notices me kam samay mil raha hai toh turant objection file karein aur is HC ka example dikhayein. Fair hearing zaroori hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/gujarat-hc-quashes-income-tax-assessment-days-response-time.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-11",
       "summary": "Aaj ki digest mein GST aur Income Tax par recent HC aur tribunal rulings cover ki gayi hain. Sab items verified sources se liye gaye hain, koi due date iss period mein nahi hai.",
