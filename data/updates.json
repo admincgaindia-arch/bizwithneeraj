@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-08-12T01:31:04.307Z",
+  "last_updated": "2026-08-13T01:31:04.730Z",
   "digests": [
+    {
+      "date": "2026-08-13",
+      "summary": "Aaj ki digest mein mainly Income Tax forms ke naye updates hain jo 1 April 2026 se lagu honge. GST aur ek important tribunal decision bhi cover kiya gaya hai.",
+      "items": [
+        {
+          "category": "Income Tax",
+          "headline": "PAN ke liye nayi Forms 93 aur 94 April 2026 se",
+          "detail": "CBDT ne Form 49A ko hata ke Forms 93 (individuals) aur 94 (non-individuals) introduce kiye hain. PAN apply karne ka process simplify hua hai, effective 1 April 2026.",
+          "cga_view": "Agar client PAN apply kare, to updated forms ka dhyaan rakhein. Old Form 49A use na karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/income-tax-form-nos-93-94-erstwhile-form-no-49a.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Foreign applicants ke liye PAN ab Forms 95 aur 96 se",
+          "detail": "CBDT ne Form 49AA hata kar nayi Forms 95 aur 96 foreign applicants ke liye launch ki hain. PAN ka process simplify hua hai, 1 April 2026 se.",
+          "cga_view": "Kisi bhi foreign entity ka PAN banana ho to naye forms 95/96 nazar mein rakhein, aur client ko update kar dein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/income-tax-form-nos-95-96-erstwhile-form-no-49aa.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Form 97/98: ab PAN transaction reporting ke liye simplified forms",
+          "detail": "Forms 97 aur 98 (old 60N/61N) April 2026 se applicable hain. Filing requirements simplify hui hain; kuch extra document details chahiye honge.",
+          "cga_view": "Agar aapko PAN se related reporting ya compliance karni hai, nayi forms ka format dekhein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/income-tax-form-nos-97-98-erstwhile-form-nos-60n-61n.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "TAN application ke liye ab Forms 134 aur 135",
+          "detail": "Form 49B ab replace ho gaya hai. Government aur non-Government ke liye alag forms 134 aur 135 1 April 2026 se lagu hain.",
+          "cga_view": "TAN apply karte waqt sahi naya form pilih karein, purane form 49B use na karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/income-tax-form-nos-134-135-erstwhile-form-no-49b.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GST Rule 14A: Simplified registration, eligibility Rs. 2.5 lakh/month B2B output",
+          "detail": "GST Rule 14A ke tahat eligible taxpayers (B2B output tax liability up to Rs. 2.5 lakh/month) ko simplified registration ka option hai. Regular monitoring hoga.",
+          "cga_view": "Agar aapka monthly B2B GST output Rs. 2.5 lakh se kam hai, toh advantages check karein. Eligibility clear karein pehle apply karne se pehle.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-rule-14a-registration-process-documents-withdrawal.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Section 44AD nahi lagu jab taxpayer ne opt nahi kiya: Delhi ITAT",
+          "detail": "Delhi ITAT ne addition reject ki, kaha section 44AD ka presumptive scheme zabardasti lagu nahi kiya ja sakta. Jab tak taxpayer khud opt na karein.",
+          "cga_view": "Profit calculation ke liye scheme opt karne ka dhyaan rakhein; zabardasti presumptive nahi lagti, books maintain karne par apna case bana rahein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/delhi-itat-section-44ad-cannot-forced-without-assessees-option.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "90 lakh fake ITC case: Allahabad HC ne bail di, evidence kam tha",
+          "detail": "Allahabad High Court ne fake GST input tax credit ke case mein, evidence nahi hone par accused ko bail di. Sirf allegation pe prosecution nahi ho sakta.",
+          "cga_view": "Business ko apne GST trail aur documentation bilkul tight rakhna hai; mala fide transaction ka proof na ho, to department action defend ho sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/allahabad-hc-grants-bail-rs-90-lakh-fake-itc-case-lack-evidence.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-12",
       "summary": "Aaj ka digest important TDS/TCS reporting, kuch recent court rulings, aur ek GST update cover karta hai. Official government source se koi naya notification nahi aaya hai.",
