@@ -1,6 +1,85 @@
 {
-  "last_updated": "2026-08-13T01:31:04.730Z",
+  "last_updated": "2026-08-14T01:31:09.957Z",
   "digests": [
+    {
+      "date": "2026-08-14",
+      "summary": "Aaj GST aur Income Tax par 8 kaam ki baatein: mostly recent court rulings, compliance updates aur NPO registration par ek major advance.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "Section 83 GST attachment band ho jata hai ek saal ke baad",
+          "detail": "Madras High Court ka kehna hai ki provisional bank attachment, Section 83 CGST Act ke under, ek saal se zyada continue nahi ho sakta. Court ne old attachment order ko set aside kar diya.",
+          "cga_view": "Agar aapki company ka account 1 saal se zyada attached hai, toh turant application daaliye for release. Pure documents ready rakhein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/provisional-gst-section-83-attachment-automatically-ceases-year-madras-hc.html"
+        },
+        {
+          "category": "GST",
+          "headline": "SC ne GST appeal time badhaya technical glitch ki wajah se",
+          "detail": "Supreme Court ne GST appeal file karne ka additional time allow kiya hai, jab technical problem ki wajah se delay hua tha. Ab appeal merits pe suni jayegi, limitation ki dikkat nahi rahegi.",
+          "cga_view": "Agar aapka GST appeal deadline technical glitch se miss hua, toh abhi bhi file kar sakte hain. Saare system proof sambhal ke rakhein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/sc-extends-gst-appeal-time-due-technical-glitches.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Rajasthan HC: Online uploaded order, late appeal allowed",
+          "detail": "Rajasthan HC ne GST appeal ka delay condone kiya, kyunki order sirf online upload hua tha, actual communication nahi hua. Section 107 limitation ab dhyan se dekhein.",
+          "cga_view": "Aapka order sirf online aya aur delay hua appeal mein, toh aap bhi delay condonation ki application de sakte ho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/rajasthan-hc-condones-gst-appeal-delay-order-uploaded-online.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Gujarat HC: GST refund ke liye Rule 89(4B) omission matter",
+          "detail": "Gujarat HC ne GST order ko quash kar diya, kyunki Rule 89(4B) omit karne ke baad, bina saving clause ke, pending proceedings par bhi apply karta hai.",
+          "cga_view": "Naye refund claims mein agar Rule 89(4B) ka issue aata hai, toh legal advice lekar challenge consider karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gujarat-hc-quashes-gst-order-omission-rule-89-4b-without-saving-clause.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Calcutta HC: Section 132 GST case mein trial rokne se mana",
+          "detail": "Calcutta HC ne GST invoice violation case (Section 132) ki criminal proceedings rokne se inkaar kiya aur tax authorities se jawab manga hai.",
+          "cga_view": "Agar aap par Section 132 ka case hai, toh abhi tak stay nahi mila, normal trial process follow karein. Legal help lein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/calcutta-hc-declines-quash-section-132-proceedings-criminal-trial-pending.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "NPO registration ke liye ab Form 104 lagega, 10A nahi",
+          "detail": "CBDT ne NPO provisional registration ke liye simplified Form 104 introduce kiya hai, jo 10A ki jagah use hoga. Applicability 2025 se.",
+          "cga_view": "Agar NGO/NPO run kar rahe ho, toh future registration/renewal ke liye Form 104 ka latest format check karo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/income-tax-form-form-104-replaces-form-10a-npos.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Karnataka HC: Appeal wahi file hogi jahan AO baitha ho",
+          "detail": "Karnataka HC ne bola: income tax appeal ki jurisdiction AO ke location pe depend karegi, assesee ke address pe nahi.",
+          "cga_view": "Assessment order ka AO kis area ka hai, woh dekh kar right HC mein appeal file karein. Galat jurisdiction mein mat jaayen.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/income-tax-appeal-lies-assessment-ao-located-not-assessee-lives-karnataka-hc.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Demonetization ke time medicine business ka profit 4% mana gaya",
+          "detail": "ITAT ne decide kiya ki medicine business ka net profit demonetization period mein 4% of gross sales hi maana jayega, aur tax normal rates pe lagega.",
+          "cga_view": "Demonetization ke duran sales pe agar aapka business scrutiny mein hai, toh yeh ruling refer kar sakte hain apne case mein.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/top-stories/net-profit-in-the-demonetization-period-from-medicine-business-to-be-estimated-at-4-of-gross-sales-itat-allows-income-tax-appeal-1449945"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-13",
       "summary": "Aaj ki digest mein mainly Income Tax forms ke naye updates hain jo 1 April 2026 se lagu honge. GST aur ek important tribunal decision bhi cover kiya gaya hai.",
