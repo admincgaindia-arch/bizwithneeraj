@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-08-14T01:31:09.957Z",
+  "last_updated": "2026-08-15T01:31:01.234Z",
   "digests": [
+    {
+      "date": "2026-08-15",
+      "summary": "Aaj ke digest mein ek ITAT Delhi ka important ruling hai, aur ek religious trusts ke GST/income-tax exemption par official clarification. CAAR Delhi ne bulk drugs import pe IGST rate bhi clear kiya hai.",
+      "items": [
+        {
+          "category": "Income Tax",
+          "headline": "Religious trusts ke liye tax aur GST exemption",
+          "detail": "Finance Ministry ne clarify kiya ki kuch services religious trusts ko income-tax mein exemption aur GST mein Notification No.12/2017-CT (R) ke under relief milta hai. Yeh eligible trusts aur unke specific activities par lagu hoga.",
+          "cga_view": "Agar aap religious trust chala rahe hain to official exemption check karein, aur activity wise documentation ready rakhein audit ke liye.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/religious-trust-taxation-income-tax-act-exemption-gst-relief.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITAT Delhi: Assessment u/s 143(3) invalid jab 153C lagu ho",
+          "detail": "ITAT Delhi ne Akansha Gupta case mein bola ki jab seized documents hai, toh sahi provision section 153C hai, na ki 143(3). Assessment FY 2021-22 ke liye quash ho gaya.",
+          "cga_view": "Aapke case mein search/seizure hua ho toh assessment section zaroor double-check karein. Galat section lage toh appeal ka scope hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-delhi-holds-section-143-3-assessment-invalid-section-153c-applied.html"
+        },
+        {
+          "category": "GST",
+          "headline": "CAAR Delhi: Bulk drugs import pe 5% IGST lagu",
+          "detail": "CAAR Delhi ne decide kiya ki agar bulk drugs/API imported hai aur wo Notification 10/2025 ke NIL-rated list mein nahi aata, toh 5% IGST lagta hai Sl. No. 226 ke under.",
+          "cga_view": "Pharma ya bulk drug importer hain toh apne product ka notification check karein pura 5% IGST ya NIL rate claim ke liye, galat classification se penalty lag sakti hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/custom-duty/caar-delhi-5-percent-igst-bulk-drugs-apis.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-14",
       "summary": "Aaj GST aur Income Tax par 8 kaam ki baatein: mostly recent court rulings, compliance updates aur NPO registration par ek major advance.",
