@@ -456,6 +456,82 @@ fbq('init','1350244116690583');fbq('track','PageView');
 <div style="text-align:center;margin-top:20px"><a class="btn btn-gold" href="https://wa.me/919996647888?text=FEEDBACK" target="_blank" rel="noopener">WhatsApp par seedha bataiye</a></div>
 </section>
 
+<style>.rb-row{display:flex;flex-wrap:wrap;gap:8px}.rb-chip{font:inherit;font-size:.86rem;padding:8px 14px;border-radius:999px;border:1px solid var(--line);background:#fff;color:var(--navy);cursor:pointer;transition:background .18s,border-color .18s}.rb-chip:hover{background:rgba(198,146,44,.12)}.rb-chip.on{background:var(--navy);color:#fff;border-color:var(--navy)}</style>
+<section class="wrap sec" id="banaiye">
+<p class="eyebrow">Review builder</p>
+<h2>Ya phir yahan se bana lijiye</h2>
+<p class="sec-lede">Neeche se apne hisaab se option chun lijiye &mdash; review apne aap ban jayega. Copy kariye, Google par paste kariye, aur chahein toh apne shabd bhi jod dijiye.</p>
+<div style="max-width:52rem;margin:0 auto">
+<p style="font-size:.7rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);margin:18px 0 8px">1. Kaam kya karwaya?</p>
+<div class="rb-row" data-g="svc"></div>
+<p style="font-size:.7rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);margin:18px 0 8px">2. Kya achha laga? (ek ya do)</p>
+<div class="rb-row" data-g="good"></div>
+<p style="font-size:.7rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);margin:18px 0 8px">3. Nateeja kya nikla? (optional)</p>
+<div class="rb-row" data-g="res"></div>
+<textarea id="rbOut" rows="4" readonly style="width:100%;margin-top:20px;padding:14px 16px;border:1px solid var(--line);border-radius:12px;font-family:inherit;font-size:.95rem;line-height:1.6;color:var(--navy);background:#fff;resize:vertical" placeholder="Upar se option chuniye, review yahan ban jayega..."></textarea>
+<div style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin-top:16px">
+<button type="button" id="rbCopy" class="btn btn-gold">Review copy kariye</button>
+<button type="button" id="rbNew" class="btn btn-whiteline">Doosre shabdon mein</button>
+<a class="btn btn-whiteline" href="https://search.google.com/local/writereview?placeid=ChIJeR2VGKz_DDkRRrtYKyC_iUY" target="_blank" rel="noopener">Google kholiye</a>
+</div>
+<p class="hint" style="margin:16px auto 0;text-align:center;color:var(--slate);font-size:.88rem">Ye sirf shuruaat hai. Jo aapka apna anubhav raha ho, do shabd usme zaroor jod dijiye &mdash; wahi review sabse asli lagta hai aur sabse kaam aata hai.</p>
+</div>
+</section>
+<script>
+(function(){
+  var SVC=['ITR filing','GST registration','GST return filing','TDS return','company registration','LLP registration','NGO aur 80G ka kaam','trademark registration','FSSAI licence','GST notice ka reply','accounting aur payroll'];
+  var GOOD=['kaam time par ho gaya','har cheez saaf-saaf samjhayi gayi','fees pehle se hi clear bata di gayi thi','WhatsApp par turant jawab mil jata hai','poora kaam online ho gaya, office jana hi nahi pada','documents ki bhaag-daud unhone khud sambhali','sawal poochne par kabhi bura nahi mana'];
+  var RES=['refund time par aa gaya','notice ka mamla band ho gaya','registration bina kisi dikkat ke mil gaya','ab compliance ki tension khatam hai','kaafi time aur paisa bach gaya'];
+  var T=[
+    ['Maine apna ',' inse karwaya. ','. ','. Recommend karunga.'],
+    [' ke liye CGA India se kaam karwaya. ','. ','. Achha experience raha.'],
+    ['Inhone mera ',' handle kiya. ','. ','. Aage bhi inhi se karwaunga.'],
+    [' karwana tha, inse karwaya. ','. ','. Santusht hoon.']
+  ];
+  var box=document.getElementById('rbOut'); if(!box) return;
+  var sel={svc:null,good:[],res:null}, tpl=0;
+  function chips(g,list,multi){
+    var row=document.querySelector('.rb-row[data-g="'+g+'"]'); if(!row) return;
+    list.forEach(function(txt,i){
+      var b=document.createElement('button');
+      b.type='button'; b.textContent=txt; b.className='rb-chip';
+      b.onclick=function(){
+        if(multi){
+          var k=sel.good.indexOf(txt);
+          if(k>=0){sel.good.splice(k,1);b.classList.remove('on');}
+          else{ if(sel.good.length>=2){return;} sel.good.push(txt); b.classList.add('on'); }
+        } else {
+          var was=b.classList.contains('on');
+          row.querySelectorAll('.rb-chip').forEach(function(x){x.classList.remove('on');});
+          if(was){sel[g]=null;} else {b.classList.add('on'); sel[g]=txt;}
+        }
+        draw();
+      };
+      row.appendChild(b);
+    });
+  }
+  function cap(s){ return s.charAt(0).toUpperCase()+s.slice(1); }
+  function draw(){
+    if(!sel.svc){ box.value=''; return; }
+    var t=T[tpl%T.length], g=sel.good.slice(), out;
+    var gtxt = g.length? cap(g[0]) + (g[1]? ', aur '+g[1] : '') : 'Kaam theek se hua';
+    if(tpl%T.length===0) out=t[0]+sel.svc+t[1]+gtxt+t[2]+(sel.res?cap(sel.res):'Sab theek raha')+t[3];
+    else if(tpl%T.length===1) out=cap(sel.svc)+t[0]+gtxt+t[1]+(sel.res?cap(sel.res):'Sab theek raha')+t[2];
+    else if(tpl%T.length===2) out=t[0]+sel.svc+t[1]+gtxt+t[2]+(sel.res?cap(sel.res):'Sab theek raha')+t[3];
+    else out=cap(sel.svc)+t[0]+gtxt+t[1]+(sel.res?cap(sel.res):'Sab theek raha')+t[2];
+    box.value=out;
+  }
+  chips('svc',SVC,false); chips('good',GOOD,true); chips('res',RES,false);
+  document.getElementById('rbNew').onclick=function(){ tpl++; draw(); };
+  document.getElementById('rbCopy').onclick=function(){
+    if(!box.value){ alert('Pehle upar se option chun lijiye.'); return; }
+    var btn=this, done=function(){ var o=btn.textContent; btn.textContent='Copy ho gaya'; setTimeout(function(){btn.textContent=o;},1800); };
+    if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText(box.value).then(done,function(){box.removeAttribute('readonly');box.select();document.execCommand('copy');box.setAttribute('readonly','');done();}); }
+    else { box.removeAttribute('readonly'); box.select(); document.execCommand('copy'); box.setAttribute('readonly',''); done(); }
+  };
+})();
+</script>
+
 <section class="wrap sec">
 <h2>Aksar poochhe jaane wale sawal</h2>
 <div class="faq">
