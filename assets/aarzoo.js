@@ -110,6 +110,8 @@
     ['GST notice aaya hai', 'gst notice'],
     ['Free compliance check', 'health check'],
     ['ITR filing', 'itr'],
+    ['GST return filing', 'gst'],
+    ['TDS return', 'tds'],
     ['Company kholni hai', 'company'],
     ['NGO / 80G', 'ngo'],
     ['Monthly retainer', 'retainer'],
