@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-08-15T01:31:01.234Z",
+  "last_updated": "2026-08-16T01:31:02.304Z",
   "digests": [
+    {
+      "date": "2026-08-16",
+      "summary": "Aaj mainly GST aur Income Tax/TDS se judi 5 important updates hain. Trade reports par based hai, isliye final action lene se pehle official notification zaroor check karein.",
+      "items": [
+        {
+          "category": "TDS",
+          "headline": "CBDT ne TDS demand pe relief diya for inoperative PAN",
+          "detail": "CBDT Circular No. 9/2025 ke hisaab se, agar deductee ya collectee ka PAN inoperative hai, to Section 206AA/206CC ke tehat zyada TDS/TCS nahi katega. Circular 21 July 2025 ko issue hua tha.",
+          "cga_view": "Agar kisika PAN inoperative tha aur aapko higher TDS demand aaya hai, to yeh circular ka reference dena zaroori hai. Apne TDS records review karo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/cbdt-relief-tds-demand-inoperative-pan-section-206aa.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Delhi HC: GST seizure challenge ko reject kiya",
+          "detail": "Delhi HC ne CGST Section 67(6) ke tehat seizure aur show cause notice proceedings ko separate maana hai. Taxpayer ko Section 130 notice ka jawab dena allowed kiya gaya hai.",
+          "cga_view": "Agar aapke goods seize hue hain, to notice ka jawab dena compulsory hai. Court ka order cite kar sakte hain.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/delhi-hc-declines-gst-challenge-seizure-separate-section-67-6-74a-proceedings-recognised.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Delhi HC ne judges ki ITR processing rok di",
+          "detail": "Delhi HC ne judges ke PAN aur ITR details submit karne ko bola hai aur abhi sabhi tax demands, refunds aur processing pe stay laga diya hai jab tak case chalta hai.",
+          "cga_view": "Sirf judges ya related parties ke cases mein hi apply hota hai, normal taxpayer par is order ka impact nahi hai. Public reporting purpose ke liye hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/delhi-hc-directs-pan-details-judges-hold-income-tax-return-processing-pending-writ.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Gujarat HC: Deceased proprietor par GST demand quash",
+          "detail": "Gujarat HC ne ek aise taxpayer par GST demand quash kar diya jo mar chuke hain, bola aise proceedings ki koi legal validity nahi.",
+          "cga_view": "Agar family member/firm mein aisa koi case hai, to turant legal heir ya representative ke naam pe GST compliance karayein. Purane deceased proprietor ke naam par demand valid nahi hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gujarat-hc-quashes-gst-demand-against-deceased-proprietor-proceedings-without-jurisdiction.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITAT Delhi: Section 40(a)(i) disallowance DTAA ke mutabik limited",
+          "detail": "ITAT Delhi ne GE India ke case mein 100% Section 40(a)(i) ka disallowance sirf 30% tak restrict kiya under DTAA. PF-ESI disallowance bhi hataya gaya.",
+          "cga_view": "Agar foreign remitance par 100% disallowance laga hai, to apne CA se DTAA benefit explore karwayein. Documentation pura rakhein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-delhi-restricts-100-percent-section-40-disallowance-30-percent-dtaa.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-15",
       "summary": "Aaj ke digest mein ek ITAT Delhi ka important ruling hai, aur ek religious trusts ke GST/income-tax exemption par official clarification. CAAR Delhi ne bulk drugs import pe IGST rate bhi clear kiya hai.",
