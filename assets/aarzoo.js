@@ -37,11 +37,13 @@
   /* ---------- knowledge base (instant answers) ---------- */
   var KB = [
     { k: ['itr', 'income tax', 'return file', 'return filing', 'itr file'],
-      a: 'ITR filing hum handle karte hain - accurate aur reviewed, refunds law ke hisaab se poore claim kiye jaate hain. ITR filing Rs. 499/- se shuru (offer price; GST aur baaki services extra).<br><br>Aage badhne ke liye WhatsApp par "BIZ" bhej dijiye.' },
+      a: 'ITR filing - salary, capital gains, house property, business ya profession. Return banane se pehle AIS aur 26AS se har entry milate hain, taaki baad mein mismatch ka notice na aaye.<br><br>T1 salaried Rs. 499 se, T2 capital gains ya multiple income Rs. 2,500 se, T3 business ya profession Rs. 5,000 se - sab + GST.<br>Poori detail: <a href="itr-filing.html">ITR Filing</a>' },
+    { k: ['tds', '24q', '26q', '27q', '27eq', 'form 16a', 'traces', 'tds return', 'lower deduction', '26qb', 'short deduction'],
+      a: 'TDS returns - 24Q salary, 26Q resident payments, 27Q non-resident aur 27EQ TCS. Challan support, TRACES se Form 16 aur 16A, correction statements aur defaults ka jawab.<br><br>D1 Rs. 1,500/quarter se, D2 Rs. 3,000/quarter se, D3 (27Q, TCS, purane defaults) Rs. 6,000/quarter se - sab + GST.<br>Poori detail: <a href="tds-returns.html">TDS Returns</a>' },
     { k: ['gst notice', 'notice aaya', 'asmt', 'drc', 'reg-17', 'reg 17', 'gstr-3a', 'gstr 3a', 'adt-01'],
       a: 'GST notice aaya hai? Sabse pehle uska form number dekhiye - ASMT-10, DRC-01, REG-17, GSTR-3A - har form ka reply window alag hota hai.<br><br>Notice Decoder par apna form number chuniye aur turant matlab, time aur risk dekh lijiye: <a href="gst-notice-sos.html">GST Notice SOS</a><br>Ya notice ki photo seedha WhatsApp kar dijiye.' },
     { k: ['gst'],
-      a: 'GST mein hum ye sab karte hain: registration, monthly returns, refunds aur department ke notices ka reply.<br><br>Notice se related ho toh yahan dekhiye: <a href="gst-notice-sos.html">GST Notice SOS</a>' },
+      a: 'GST ka poora kaam hum dekhte hain - registration se lekar har mahine ki filing aur notices tak.<br><br>Naya GSTIN, amendment ya revocation: R1 Rs. 1,500 se, R2 multi-state ya e-commerce Rs. 3,500 se, R3 Rs. 5,000 se - <a href="gst-registration.html">GST Registration</a><br>Har mahine ki filing: G1 Rs. 750/month se, G2 Rs. 1,500/month se, G3 Rs. 3,500/month se - <a href="gst-return-filing.html">GST Return Filing</a><br>Notice aaya ho toh: <a href="gst-notice-sos.html">GST Notice SOS</a><br><br>Sab + GST.' },
     { k: ['company', 'pvt ltd', 'pvt', 'llp', 'opc', 'incorporation', 'firm register'],
       a: 'Company registration - Pvt Ltd, LLP, OPC, Partnership - hum end to end karte hain, sahi structure choose karne ki free advice ke saath.<br><br>Guide: <a href="article-pvtltd-vs-llp.html">Pvt Ltd vs LLP</a>' },
     { k: ['ngo', 'trust', '12ab', '80g', 'society', 'section 8'],
