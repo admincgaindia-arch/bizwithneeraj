@@ -120,6 +120,7 @@
     ['Online seller (Amazon/Flipkart)', 'amazon'],
     ['Startup / funding', 'startup'],
     ['Payroll aur PF', 'payroll'],
+    ['Virtual CFO', 'virtual cfo'],
     ['Labour code / salary structure', 'labour code'],
     ['Fees kitni hai', 'fees'],
     ['Contact', 'contact']
