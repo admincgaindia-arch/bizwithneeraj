@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-08-17T01:31:00.547Z",
+  "last_updated": "2026-08-18T01:31:05.685Z",
   "digests": [
+    {
+      "date": "2026-08-18",
+      "summary": "Aaj GST aur Income Tax se related kuch important tribunal rulings aur ek naya disclosure scheme hain. Official circulars aaj nahi mile.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "Stock-transfer pe penalty nahi, agar tax due hi nahi",
+          "detail": "Tribunal ne bola Section 129 CGST Act ki penalty tab nahi lagegi jab goods pe koi tax payable nahi hai, chahe e-way bill na ho aur stock transfer ho.",
+          "cga_view": "Agar aap stock transfer kar rahe hain aur e-way bill miss ho gaya, toh check karein koi tax due hai ya nahi, unnecessary penalty se bach sakte hain.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/penalty-not-leviable-section-129-cgst-act-no-tax-payable.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GST order appeal allowed kyunki taxpayer ko notice hi nahi tha",
+          "detail": "Telangana HC ne GST Section 74 order against appeal allow kar di, kyunki taxpayer ko pata hi nahi tha ki proceedings ho rahi hain, isliye delay bhi condone ho gaya.",
+          "cga_view": "Agar aapko GST order bina proper communication mila ho, toh appeal consider karein, delay bhi maaf ho sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/telangana-hc-appeal-against-gst-order-due-taxpayers-lack-knowledge-proceedings.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Foreign assets ke liye naya disclosure scheme, 2026 rules notified",
+          "detail": "CBDT ne Foreign Assets Disclosure Scheme Rules, 2026 notify kar diye hain—isme valuation, eligibility aur filing ka process bataya gaya hai.",
+          "cga_view": "Agar aapke paas foreign assets hain, toh nayi scheme aur rules dhyan se padhke timely disclosure karein. Compliance miss na karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/foreign-assets-small-taxpayers-disclosure-scheme-rules-2026.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Section 87A ka rebate 111A STCG par bhi milega: Jaipur ITAT",
+          "detail": "Jaipur ITAT ne bola ki Assessment Year 2024-25 ke liye Section 111A ke short-term capital gains par bhi Section 87A ka rebate mil sakta hai, chahe CBDT circular kuch bhi kahe.",
+          "cga_view": "Agar aapka short-term capital gains 111A ke under hai, toh 87A rebate le sakte hain—return file karte waqt claim karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/jaipur-itat-87a-rebate-allowed-111a-stcg-ay-2024-25-cbdt-circular-13-2025-no-bar.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "High-turnover comparables exclude kiye ALP calculation mein: Bangalore ITAT",
+          "detail": "Bangalore ITAT ne ALP calculation ke liye 4 high-turnover comparables ko hata diya, aur TDS credit Form 26AS ke hisaab se allow ki.",
+          "cga_view": "Transfer pricing me high-turnover companies ko comparable na lein agar facts milte julte hain; Form 26AS ka TDS credit accurate claim karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/high-turnover-comparables-excluded-alp-bangalore-itat-grants-partial-relief.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-17",
       "summary": "Aaj court rulings pe focus raha, GST aur income tax dono mein important updates hain. Official notifications nahi aaye, lekin kuch compliance implications ho sakti hain.",
