@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-08-18T01:31:05.685Z",
+  "last_updated": "2026-08-19T01:31:00.185Z",
   "digests": [
+    {
+      "date": "2026-08-19",
+      "summary": "Aaj mostly GST aur Income Tax ke kuch important tribunal/court rulings aaye hain. Government ka koi new official circular nahi hai. Reporting mein clarity important hai.",
+      "items": [
+        {
+          "category": "Ruling",
+          "headline": "GST exclusion: ITAT ne Section 271B penalty hatai",
+          "detail": "Mumbai ITAT ne kaha ki assessee ne apni turnover se GST hata, penalty nahi lagi kyunki uska yakin genuine tha. Yeh un logon par lagu hai jo GST ko tax audit turnover se exclude karte hain.",
+          "cga_view": "Agar aapne GST ko exclude kiya aur penalty notice aayi, to ab tribunal ke is ruling ka reference de sakte hain. Par final view department pe depend karega.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/gst-exclusion-turnover-tax-audit-penalty-mumbai-itat-deletes-section-271b-penalty.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Bangalore ITAT: High-turnover comparables ALP mein exclude hue",
+          "detail": "ITAT ne kuch high-turnover companies ko ALP se hata diya aur TDS credit bhi allow ki, as per Form 26AS. Transfer pricing matters mein relevant hai.",
+          "cga_view": "ALP calculation mein agar comparables ka turnover bahut zyada hai, to aap bhi yeh reasoning try kar sakte hain. TDS credit galat show ho raha hai to ITAT order ka reference den.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/high-turnover-comparables-excluded-alp-bangalore-itat-grants-partial-relief.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "GST order ki sirf portal upload se appeal limitation start nahi hoti: Rajasthan HC",
+          "detail": "Rajasthan High Court ne 645 din ki delay allow ki, bola proper service nahi hui thi toh sirf portal par order dalne se appeal ki limitation start nahi hoti.",
+          "cga_view": "Agar order ki physical ya proper service nahi hui aur appeal ki time limit miss ho gayi hai, toh yeh HC ka decision helpfull ho sakta hai. Appeal file karte samay is order ka reference dein.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/top-stories/mere-upload-of-gst-order-on-common-portal-does-not-trigger-appeal-limitation-without-proper-service-rajasthan-hc-condones-645-days-delay-read-order-1450305"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-18",
       "summary": "Aaj GST aur Income Tax se related kuch important tribunal rulings aur ek naya disclosure scheme hain. Official circulars aaj nahi mile.",
