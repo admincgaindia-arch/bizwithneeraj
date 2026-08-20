@@ -12,11 +12,15 @@
   var LOGOS = [
     { file: 'cozycato.jpg', name: 'Cozycato' },
     { file: 'madhu-amrit.jpg', name: 'Madhu Amrit' },
-    { file: 'avit-fresh-foods.jpg', name: 'AVIT Fresh Foods' },
-    { file: 'sugarease.png', name: 'SugarEase' },
-    { file: 'aushadhm.png', name: 'Aushadhm' },
-    { file: 'pure-india.png', name: 'Pure India' },
-    { file: 'premium-cakes.png', name: 'Premium Cakes & Co' }
+    { file: 'avit-fresh-foods.jpg', name: 'AVIT Fresh Foods' }
+    // Four more client logos are parked below. Their files were never uploaded, and every
+    // missing name fired a 404 on every single homepage view. To bring one back: upload the
+    // file to assets/ with this exact name, then uncomment its line. The leading comma is
+    // already there, so nothing else needs changing.
+    // , { file: 'sugarease.png', name: 'SugarEase' }
+    // , { file: 'aushadhm.png', name: 'Aushadhm' }
+    // , { file: 'pure-india.png', name: 'Pure India' }
+    // , { file: 'premium-cakes.png', name: 'Premium Cakes & Co' }
   ];
 
   var CSS =
