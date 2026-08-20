@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-08-19T01:31:00.185Z",
+  "last_updated": "2026-08-20T01:31:01.546Z",
   "digests": [
+    {
+      "date": "2026-08-20",
+      "summary": "Aaj ka digest mein key court rulings aur income tax ke practical points cover kiye gaye hain. Sab items high-impact aur relevant hain, trade press se liye gaye kyunki aaj official release nahi aayi.",
+      "items": [
+        {
+          "category": "Ruling",
+          "headline": "Arbitral Damages GST ke under taxable nahi: Bombay HC",
+          "detail": "Bombay High Court ne bola ki arbitral award ka damages ya settlement GST supply nahi maana jayega. Matlab yeh compensation section 7 CGST Act ke andar taxable nahi hai.",
+          "cga_view": "Agar aapko business dispute mein damages mile hain toh GST ka liability ya return mein supply treat mat karo. Lekin similar disputes mein case facts check kar lo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/arbitral-damages-enforcement-proceedings-settlement-not-taxable-gst-supply-bombay-hc.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "TDR Exchange par capital gain lagega: ITAT ka decision",
+          "detail": "ITAT ke according, agar aap existing land/building surrender karke TDR rights lete ho aur bechte ho, toh yeh transfer capital gain head mein taxable hai. Section 45 apply hoga.",
+          "cga_view": "Agar aap TDR rights mein deal kar rahe ho toh capital gain calculation properly karo, supporting documents sambhal ke rakho. Surrender ka nature clear maintain karo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/top-stories/tdr-sale-taxable-as-capital-gain-where-existing-land-and-building-surrendered-in-exchange-for-acquiring-rights-itat-1450346"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Sirf CBDT data pe Service Tax demand nahi chal sakta: CESTAT",
+          "detail": "CESTAT Kolkata ne Service Tax demand set aside kar diya kyunki sirf CBDT/26AS data pe hi basis tha, independent verification nahi tha. Evidence aur due process ka hona zaroori hai.",
+          "cga_view": "Agar aapke against only data-mismatch ki wajah se Service Tax demand aayi hai toh evidence aur proper procedure ki demand karo. Apne representation strong banao.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/service-tax/cestat-kolkata-sets-service-tax-demand-based-solely-cbdt-data.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-19",
       "summary": "Aaj mostly GST aur Income Tax ke kuch important tribunal/court rulings aaye hain. Government ka koi new official circular nahi hai. Reporting mein clarity important hai.",
