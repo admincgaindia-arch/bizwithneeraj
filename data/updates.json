@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-08-20T01:31:01.546Z",
+  "last_updated": "2026-08-21T01:31:02.563Z",
   "digests": [
+    {
+      "date": "2026-08-21",
+      "summary": "Aaj ka digest mein only court rulings hain, zyada tar GST aur income tax ke recent cases par. Official announcements nahi hain, sirf trade press se news hai, toh business owners abhi direct action na le, lekin apne cases aur notices ko check kar lein.",
+      "items": [
+        {
+          "category": "Ruling",
+          "headline": "SGST notice ke baad bhi pehle CGST case valid: Delhi HC",
+          "detail": "Delhi HC ne bola ki agar CGST ki proceedings pehle shuru hui thi, toh baad mein aayi SGST notice se wo nullify nahi hoti. Section 6(2)(b) ka aisa koi bar nahi hai.",
+          "cga_view": "Agar aapke against pehle CGST aur baad mein SGST notice aya hai, toh dono ki validity check karen—sirf is base pe challenge na karein ki ek authority already action le chuki thi.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/prior-cgst-proceedings-not-barred-sgst-notices-delhi-hc.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "GST refund delay pe interest milega, naya certificate nahi chahiye: Telangana HC",
+          "detail": "Telangana HC ne bola ki agar refund pe interest claim karna hai aur refund already sanction ho chuka hai, toh dubara certification ki zarurat nahi.",
+          "cga_view": "Agar GST refund aapko late mila hai, toh bina kisi extra document ke interest claim request karein. Bas sanctioned refund proof ready rakhein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/interest-payable-delayed-gst-refunds-fresh-certification-not-required-telangana-hc.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITR me galat exemption section bhara? Section 10(26AAB) benefit phir bhi mil sakta hai",
+          "detail": "ITAT Lucknow ne bola ki agar taxpayer ne galat section me exemption claim kiya but eligible hai, toh AO ko sahi section dekh ke benefit dena chahiye.",
+          "cga_view": "Agar aap ya aapka client galti se ITR me exemption ki galat section bhar deta hai, toh eligibility proof ke saath AO ke samne apni claim present karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/wrong-exemption-section-itr-cannot-deny-section-10-26aab-benefit-itat-lucknow.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-20",
       "summary": "Aaj ka digest mein key court rulings aur income tax ke practical points cover kiye gaye hain. Sab items high-impact aur relevant hain, trade press se liye gaye kyunki aaj official release nahi aayi.",
