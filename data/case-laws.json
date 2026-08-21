@@ -1,0 +1,94 @@
+{
+  "last_updated": "2026-08-21T07:10:45.111Z",
+  "days": [
+    {
+      "date": "2026-08-21",
+      "cases": [
+        {
+          "law": "Other",
+          "court": "Supreme Court",
+          "case_name": "",
+          "section": "",
+          "issue": "NSEL ne do CBI cases ki joint trial ki demand ki thi payment crisis se judi hui; High Court ne inkaar kiya tha.",
+          "held": "SC ne joint trial ki demand wale SLP ko dismiss kar diya, bolte hue ki High Court ke faisle mein intervene karne ki zarurat nahi hai.",
+          "outcome": "",
+          "takeaway": "Agar aap pe multiple criminal cases chal rahe ho to joint trial ka demand hamesha allow nahi hota, especially jab pehle hi High Court mana kar chuka hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/corporate-law/sc-dismisses-nsel-plea-joint-trial-cbi-cases-2013-payment-crisis.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "Delhi ITAT",
+          "case_name": "",
+          "section": "147/144B",
+          "issue": "CIT(A) ne ex parte order pass kar diya bina assessee ke interest ko sune.",
+          "held": "ITAT ne ex parte order ko set aside kar diya aur appeal ko fresh hearing ke liye wapas bhej diya, taaki facts ko properly dekha ja sake.",
+          "outcome": "",
+          "takeaway": "Agar CIT(A) ne bina aapki baat sune order diya hai, to aapko ITAT me uspe relief mil sakta hai. Hamesha hearing ka mauka lene ki koshish karo.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/delhi-itat-remands-parte-cit-order-fresh-adjudication.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "Pune ITAT",
+          "case_name": "",
+          "section": "68",
+          "issue": "Examiner ne Section 68 lagakar genuine trade payables ko credits maan liya tha.",
+          "held": "ITAT ne genuine trade payables par Section 68 ko lagu nahi maana aur addition delete kar di, jabki GST refund wale issue ko further verification ke liye bheja.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapke trade payables genuine hain to sirf credits hone par Section 68 nahi lagta. Trading entries ko detail mein document karo.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/section-68-inapplicable-genuine-trade-payables-pune-itat-deletes-rs-1-50-crore-addition.html"
+        },
+        {
+          "law": "GST",
+          "court": "Punjab and Haryana High Court",
+          "case_name": "",
+          "section": "",
+          "issue": "GST registration ko retrospective tareeq se bina notice diye cancel kar diya gaya tha.",
+          "held": "High Court ne retrospective cancellation cancel kar di jab SCN mein clear nahi tha ki retrospective cancellation propose ho rahi hai. Court ne fresh SCN bhejne ki permission di.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapka GST registration bina notice ke pichle tareeq se cancel ho raha hai to aapko relief mil sakta hai. Notice mein saaf mention hona chahiye retrospective action ka.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/retrospective-gst-registration-cancellation-without-prior-notice-quashed-hc.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "Delhi ITAT",
+          "case_name": "",
+          "section": "",
+          "issue": "Property investment ki additions kiye gaye jab CIT(A) ne additional evidence consider kiya bina AO ka remand report liye.",
+          "held": "ITAT ne additions restore kar diye kyunki CIT(A) ko pehle AO ka remand report lena tha additional evidence dekh ke.",
+          "outcome": "",
+          "takeaway": "Agar appellate authority additional evidence dekhti hai to AO ka remand report mandatory hai. Ensure karo ki aapke case mein procedure follow ho.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/additional-evidence-requires-ao-remand-report-pune-itat-restores-addition.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "",
+          "section": "153A",
+          "issue": "Related party charter hire expenses ke addition lagaye gaye the section 153A me bina incriminating evidence ke.",
+          "held": "ITAT ne addition hata diye kyunki koi incriminating material nahi tha; charter hire charges bhi comparable rate se kam the, isliye business expense allow hua.",
+          "outcome": "Assessee",
+          "takeaway": "Section 153A ke cases me agar incriminating material nahi hai to additions tik nahi sakte. Related party expense extensively document karo.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/charter-hire-disallowance-deleted-related-party-charges-comparable-rates-itat-mumbai.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "Delhi ITAT",
+          "case_name": "",
+          "section": "12AB",
+          "issue": "Skill development trust ne Section 12AB registration ki demand ki thi trust ko charitable proof karte hue.",
+          "held": "ITAT ne trust ko charitable maana aur Section 12AB registration grant karne ka nirdesh diya.",
+          "outcome": "Assessee",
+          "takeaway": "Skill development ya training ventures ke charitable trust ko 12AB registration mil sakta hai jab charitable character clear ho.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/skill-development-activities-charitable-section-12ab-registration-allowed-delhi-itat.html"
+        }
+      ]
+    }
+  ]
+}
