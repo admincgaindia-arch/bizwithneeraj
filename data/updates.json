@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-08-21T01:31:02.563Z",
+  "last_updated": "2026-08-22T01:31:02.048Z",
   "digests": [
+    {
+      "date": "2026-08-22",
+      "summary": "Aaj ke digest mein GST aur income tax se jude court rulings, aur TDS par ek CBDT explanation hai. Official notification ka intezaar abhi bhi hai, isliye har cheez ko last confirm na maane.",
+      "items": [
+        {
+          "category": "Ruling",
+          "headline": "IGST galat head mein hone par adjust ho sakta hai: Karnataka HC",
+          "detail": "Karnataka High Court ne GST demand khatam ki aur bola ki agar IGST galat head mein pay hua hai, toh CGST/SGST liability ke against adjust ho sakta hai; ab fresh consideration hoga.",
+          "cga_view": "Agar client se galat GST head mein payment ho gaya hai, toh department se adjustment ke liye proper representation karein, par official order dekhein, har state ka approach alag ho sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/karnataka-hc-adjustment-igst-paid-wrong-head-against-cgst-sgst.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Delhi HC: SGST notice baad mein aane par CGST proceedings valid",
+          "detail": "Delhi High Court ne decide kiya ki agar CGST proceedings pehle shuru ho gayi hai, toh baad mein SGST notice aane par bhi CGST action bar nahi hota.",
+          "cga_view": "Parallel GST notices aaye hain toh confuse mat ho, dono alag chal sakte hain - reply har department ko timely de.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/prior-cgst-proceedings-not-barred-sgst-notices-delhi-hc.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "AIS & TIS ka use, galat entry par feedback ka option",
+          "detail": "Income Tax department ne AIS & TIS information aur taxpayer feedback process samjhaya hai. Feedback se ITR auto-pre-fill mein bhi help milegi.",
+          "cga_view": "AIS/TIS portal check kar ke galat entry pe turant feedback dalein, taki ITR mein correct info jaye. Har client ka review karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/ais-tis-income-tax-information-taxpayer-feedback.html"
+        },
+        {
+          "category": "TDS",
+          "headline": "TDS on Non-resident payment: CBDT ki samjhayi hui guide",
+          "detail": "CBDT ne ek brochure release kiya hai jisme non-residents ko payment par TDS kaise katega (section 195) aur lower/nil deduction certificate (section 197) ka process bataya gaya hai.",
+          "cga_view": "Foreign payment plan ho toh latest CBDT material dekhein; lower/nil deduction ke liye timely application file karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/tds-payments-non-residents-nil-deduction-certificate-sections-195-197.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Madras HC: AY 2015-16 Section 148 notice allowed, limitation mein",
+          "detail": "Madras High Court ne section 148A(d) ka order aur section 148 notice (AY 2015-16) ko sahi mana hai, yeh proceedings limitation period mein aayi thi.",
+          "cga_view": "Agar old years ke liye 148 notice aayi ho toh High Court precedent check kar ke reply karein; challenge ka ground limited hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/madras-hc-upholds-section-148-reassessment-notice-ay-2015-16-limitation.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-21",
       "summary": "Aaj ka digest mein only court rulings hain, zyada tar GST aur income tax ke recent cases par. Official announcements nahi hain, sirf trade press se news hai, toh business owners abhi direct action na le, lekin apne cases aur notices ko check kar lein.",
