@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-08-22T01:31:02.048Z",
+  "last_updated": "2026-08-23T01:30:58.885Z",
   "digests": [
+    {
+      "date": "2026-08-23",
+      "summary": "Aaj ke din kuch important GST aur court rulings aaye hain jo importers aur service providers ko dhyan me rakhni chahiye.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "GSTIN ya Fee Payment se Service Recipient prove nahi hota: AAR Rajasthan",
+          "detail": "AAR Rajasthan ne bola ki sirf GSTIN ya fee payment se ye nahi maana ja sakta ki koi entity service recipient hai. Har case ki details alag ho sakti hain.",
+          "cga_view": "Service contract details aur documentation tight rakho – sirf payment ya GSTIN pe rely mat karo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gstin-fee-payment-cannot-establish-service-recipient-aar-rajasthan.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Delayed IGST on Imports ka Interest Refund nahi milega: CESTAT Delhi",
+          "detail": "CESTAT Delhi ne decide kiya ki import pe jo delayed IGST ka interest hota hai, uska refund nahi mil sakta, agar assessment pe challenge nahi hua ho.",
+          "cga_view": "IGST timely pay karo, interest refund expect mat karo; assessment pe time pe dispute uthao.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/custom-duty/interest-delayed-igst-imports-cannot-refunded-cestat-delhi.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "IGST Demand Advance Authorisation Imports pe hata: CESTAT Ahmedabad",
+          "detail": "CESTAT Ahmedabad ne Sakar Industries ka IGST demand set aside kar diya, bola pre-import condition factual basis pe fulfill hui thi.",
+          "cga_view": "Agar aap advance authorisation ke under import karte ho, toh pre-import ki conditions ki file ready rakho – department se sawal ho toh proof dikhana pad sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/custom-duty/cestat-ahmedabad-sets-igst-demand-advance-authorisation-imports.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-22",
       "summary": "Aaj ke digest mein GST aur income tax se jude court rulings, aur TDS par ek CBDT explanation hai. Official notification ka intezaar abhi bhi hai, isliye har cheez ko last confirm na maane.",
