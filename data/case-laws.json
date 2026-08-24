@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-08-21T07:17:45.040Z",
+  "last_updated": "2026-08-24T17:52:59.915Z",
   "days": [
+    {
+      "date": "2026-08-24",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "ITAT Chennai",
+          "case_name": "Crescent Educational & Charitable Trust Vs ACIT (ITAT Chennai)",
+          "section": "Section 68",
+          "issue": "Section 68 ke tehat firm ke khilaaf Rs.1 crore ka addition aur expenses disallowance ka vivad tha.",
+          "held": "ITAT ne Section 68 ka addition aur Rs.94.86 lakh expenses disallow karo diya kyunki department justification nahi de paya. Stone-crushing firm ko relief diya.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapki books clean hain aur transactions explain ho sakte hain toh Section 68 ke addition aur expense disallowance ko successfully challenge kiya ja sakta hai. Proper documentation rakhna zaroori hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-chennai-deletes-section-68-expense-disallowances-ay-2023-24.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Chennai",
+          "case_name": "SR Blue Metals Vs DCIT (ITAT Chennai)",
+          "section": "",
+          "issue": "Firm ne commission, loan aur lorry tip disallowances par challenge kiya tha.",
+          "held": "ITAT ne Rs.32.56 lakh commission, Rs.1 crore loan aur Rs.62.30 lakh lorry tips disallowance ko hata diya; department apni baat prove nahi kar paya.",
+          "outcome": "Assessee",
+          "takeaway": "Jab transaction genuineness dikh sakti ho toh aise disallowances ko ITAT me challenge karna practical hai, lekin details clear honi chahiye.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-chennai-deletes-commission-loan-lorry-tips-disallowances.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Chennai",
+          "case_name": "Selvakumar Arumugam Vs ACIT (ITAT Chennai)",
+          "section": "Section 44ADA",
+          "issue": "Doctor ne apne professional receipts par 50% income ka claim kiya tha Section 44ADA ke under.",
+          "held": "ITAT ne 50% professional receipt ko income maana, aur baaki unpressed grounds ko reject kar diya.",
+          "outcome": "Assessee",
+          "takeaway": "Jo professionals presumptive scheme lete hain, woh receipts par 50% income dikha sakte hain, jab tak specific additions justify nahi hoti.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-chennai-50-percent-professional-income-claim-section-44ada.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Chennai",
+          "case_name": "IL & FS Pradip Refinery Water Ltd. Vs DCIT (ITAT Chennai)",
+          "section": "Section 148",
+          "issue": "Section 148 notice ki validity: kya reassessment time-barred ho gaya tha?",
+          "held": "ITAT ne Section 148 notice (31.07.2022 ko issue) time-barred maana aur reassessment pura ka pura quash kar diya.",
+          "outcome": "Assessee",
+          "takeaway": "Reassessment notice ki limitation check karna hamesha yaad rakhen – delay ho toh pura case hi khatam ho sakta hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-chennai-quashes-ay-2015-16-reassessment-time-barred.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Hyderabad",
+          "case_name": "ITO Vs Iddaiah Varikuppala (ITAT Hyderabad)",
+          "section": "Section 271(1)(c)",
+          "issue": "Cash deposit addition aur penalty (Section 271(1)(c)) ki deletion par Revenue appeal thi.",
+          "held": "ITAT ne cash deposit addition aur penalty deletion dono ko uphold kiya; Revenue ki appeal dismiss ho gayi.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapke khilaaf penalty ya addition delete ho jaye toh Revenue ke appeal par bhi relief mil sakta hai. Documentation aur explanation important hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-dismisses-revenue-appeals-upholds-cash-deposit-addition-deletion-penalty-relief.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Hyderabad",
+          "case_name": "Rekha Corporation Private Limited Vs DCIT (ITAT Hyderabad)",
+          "section": "Section 68",
+          "issue": "Section 68 unsecured loan addition aur PF/ESI disallowance ka mudda tha.",
+          "held": "ITAT ne ₹2.38 crore unsecured loans ka Section 68 addition hata diya par ₹1,00,268 PF/ESI disallowance ko uphold kiya, kyunki yeh requirement comply nahi hui thi.",
+          "outcome": "Mixed",
+          "takeaway": "Unsecured loan ke transactions valid proof se justify karne chahiye; PF/ESI ke liye time par payment ka dhyan rakhein.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-deletes-rs-2-38-crore-section-68-addition-upholds-pf-esi-disallowance.html"
+        }
+      ]
+    },
     {
       "date": "2026-08-21",
       "cases": [
