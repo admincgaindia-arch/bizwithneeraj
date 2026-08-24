@@ -567,8 +567,9 @@ fbq('init','1350244116690583');fbq('track','PageView');
       s += '</div>';
       if (c.case_name) { s += '<h3 class="cl-name">' + esc(c.case_name) + '</h3>'; }
       else { s += '<h3 class="cl-name">' + esc(c.court || 'Faisla') + '</h3>'; }
-      s += '<p class="cl-head">' + esc(c.court || '') + (c.section ? ' &middot; ' + esc(c.section) : '') + '</p>';
-      if (c.issue) { s += '<div class="cl-block"><p class="cl-k">Maamla kya tha</p><p class="cl-v">' + esc(c.issue) + '</p></div>'; }
+      s += '<p class="cl-head">' + esc(c.court || '') + (c.section ? ' &middot; ' + esc(c.section) : '') + (c.assessment_year ? ' &middot; AY ' + esc(c.assessment_year) : '') + (c.appeal_number ? ' &middot; ' + esc(c.appeal_number) : '') + '</p>';
+      if (c.facts) { s += '<div class="cl-block"><p class="cl-k">Hua kya tha</p><p class="cl-v">' + esc(c.facts) + '</p></div>'; }
+      if (c.issue) { s += '<div class="cl-block"><p class="cl-k">Sawal kya tha</p><p class="cl-v">' + esc(c.issue) + '</p></div>'; }
       if (c.held) { s += '<div class="cl-block"><p class="cl-k">Court ne kya tay kiya</p><p class="cl-v">' + esc(c.held) + '</p></div>'; }
       if (c.takeaway) { s += '<div class="cl-take"><p class="cl-k">Aapke liye matlab</p><p class="cl-v">' + esc(c.takeaway) + '</p></div>'; }
       s += '<div class="cl-foot">';
