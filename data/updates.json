@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-08-23T01:30:58.885Z",
+  "last_updated": "2026-08-24T01:31:05.093Z",
   "digests": [
+    {
+      "date": "2026-08-24",
+      "summary": "Aaj major service tax ke old matters pe tribunal ne relief diya hai. Income tax mein ITAT ne kuch routine disputes settle kiye hain. ",
+      "items": [
+        {
+          "category": "Ruling",
+          "headline": "ST-3 aur 26AS/ITR mismatch par Service Tax demand set aside",
+          "detail": "CESTAT Chandigarh ne ₹1.04 crore service tax demand ko hata diya, sirf ST-3 aur 26AS/ITR mismatch basis par demand sahi nahi mani gayi.",
+          "cga_view": "Agar aapke khilaaf aise demand aayi hai to documentation pakka rakho aur tribunal relief ka reference de sakte ho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/service-tax/cestat-chandigarh-sets-rs-1-04-crore-service-tax-demand-based-st-3-26as-itr-mismatch.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITAT: ₹23 lakh deposit marriage ke liye, mangoes sale ka source accepted",
+          "detail": "ITAT ne paisa deposit par documentary proof dekh kar source ko sale of trees and mangoes accept kiya aur addition delete ki.",
+          "cga_view": "Aap agar cash ya large deposits explain karna chahte hain to proper document tayar rakhein jo source dikhaye.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/top-stories/23-lakh-deposited-by-husband-in-wifes-account-for-daughters-marriage-itat-accepts-sale-of-trees-and-mangoes-as-source-1450423"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Section 12AB aur 80G approval par SC case ki conditionality hatayi",
+          "detail": "ITAT Mumbai ne Section 12AB aur 80G registrations par CIT(E) ki Supreme Court pending case ki conditionality delete kar di.",
+          "cga_view": "Agar aapka trust ki registration aise condition ke saath hai to ITAT ka yeh order aapke favor mein cite kiya ja sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-mumbai-deletes-conditional-section-12ab-80g-registration-conditions-imposed-cit.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-23",
       "summary": "Aaj ke din kuch important GST aur court rulings aaye hain jo importers aur service providers ko dhyan me rakhni chahiye.",
