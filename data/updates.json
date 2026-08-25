@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-08-24T01:31:05.093Z",
+  "last_updated": "2026-08-25T01:31:08.930Z",
   "digests": [
+    {
+      "date": "2026-08-25",
+      "summary": "Aaj Supreme Court ki GST SCN par kuch important rulings aayi hain aur Income Tax, TDS aur MCA par bhi kuch updates hai. In par hi focus karte hain.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "GST SCNs: Supreme Court ne fair hearing par zor diya",
+          "detail": "Supreme Court keh rahi hai ki GST Show Cause Notice (SCN) mein allegations clear hone chahiye aur company ko properly apna side rakhne ka mauka milna chahiye. Pre-decided mind se proceedings chalana galat hai.",
+          "cga_view": "Agar kisi tax officer ka GST SCN vague hai ya hearing fair nahi lag rahi, to legal advice lekar objection file karo. SC ki ruling aapke favour mein ho sakti hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-show-notices-sc-stresses-fair-hearing-open-minded-adjudication.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Mechanical fraud bolne se SCN ka limitation nahi badh sakta: SC",
+          "detail": "Supreme Court ne decide kiya hai ki sirf 'fraud' bol dene se Section 74 CGST ka limitation period extend nahi hoga. Fraud ka specific evidence hona zaruri hai.",
+          "cga_view": "Aapke khilaaf agar GST fraud ka vague allegation lag raha hai to limitation check karo, time-barred ho sakta hai. Legal recourse socho agar SCN illegal lage.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/mechanical-fraud-invocation-cannot-extend-cgst-section-74-limitation-sc.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Political/Charitable Donations par IT Notice?",
+          "detail": "Recent income tax notices Section 80G aur 80GGC ki deductions claim karne walon ko aarahi hai. SMS/email advisories, scrutiny notices aur reassessment proceedings ho rahi hain.",
+          "cga_view": "Agar aapko aisa notice aaya hai to saare donation receipts aur related documents ready rakho. Accountants ko bhi client verification pe focus karna chahiye.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/received-income-tax-notice-143-2-148a-148-political-charitable-donation.html"
+        },
+        {
+          "category": "MCA / ROC",
+          "headline": "DIN update karne ka process: DIR-6 file karo",
+          "detail": "Directors ko apne DIN mein koi bhi change aata hai, to 30 din ke andar MCA ko DIR-6 form se batana hota hai. Rule 12 ke hisab se ye mandatory hai.",
+          "cga_view": "Business owners/directors agar DIN detail change ho toh delay na karein. Sab supporting documents ready rakhein aur DIR-6 jaldi file karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/company-law/procedure-filing-dir-6-update-din-particulars-companies-act-2013.html"
+        },
+        {
+          "category": "TDS",
+          "headline": "TDS paid double nahi ho sakta; late payment par interest lagega",
+          "detail": "ITAT Mumbai ne bola ki TDS ek hi baar recover ho sakta hai, lekin agar payment late kiya to interest zarur lagega. Doubled recovery ka scope nahi hai par timely payment zaruri hai.",
+          "cga_view": "Agar department double TDS mang raha hai, to uska proof maangein. TDS timely deposit karen, nahi toh interest cost uthani padegi.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/tds-paid-cannot-recovered-delayed-payment-attracts-interest-itat-mumbai.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-24",
       "summary": "Aaj major service tax ke old matters pe tribunal ne relief diya hai. Income tax mein ITAT ne kuch routine disputes settle kiye hain. ",
