@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-08-24T18:03:37.970Z",
+  "last_updated": "2026-08-25T02:00:26.927Z",
   "days": [
+    {
+      "date": "2026-08-25",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "ITAT Chennai",
+          "case_name": "Crescent Educational & Charitable Trust Vs ACIT (ITAT Chennai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2018-19",
+          "section": "Section 68",
+          "facts": "Ye ek stone-crushing firm ka case tha. Department ne Rs.1 crore ka addition Section 68 (jo unexplained credits ka section hai) ke andar kiya aur saath hi Rs.94.86 lakh ki expenses bhi disallow kar di. Sab kuch AY 2018-19 ka tha.",
+          "issue": "Kya Section 68 ke andar ki addition aur expense disallowance justified thi?",
+          "held": "ITAT ne bola ki Section 68 ki Rs.1 crore ki addition aur expenses disallowance dono delete kiye jaate hain. Sahi tarah se explain kar diya gaya tha aur department ka action justified nahi tha.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapke bank credits ya expenses pe addition ho, to proper documentation se sab clear kar do – jaise bank statements aur expense bills dikhana mat bhoolo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-chennai-deletes-section-68-expense-disallowances-ay-2023-24.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Chennai",
+          "case_name": "SR Blue Metals Vs DCIT (ITAT Chennai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2023-24",
+          "section": "",
+          "facts": "SR Blue Metals naam ki company ka case tha. Department ne Rs.32.56 lakh commission, Rs.1 crore loan aur Rs.62.30 lakh lorry tips ko expenses me allow nahi kiya tha. Sab additions AY 2023-24 ka tha.",
+          "issue": "Kya commission, loan aur lorry tips ka expense sahi tha ya nahi?",
+          "held": "ITAT ne bola ki ye sab expenses allow kiye jaate hain, department ki disallowance galat thi. Company ne sab details aur evidence de diye the.",
+          "outcome": "Assessee",
+          "takeaway": "Jab aap koi expense claim karo, uske support me pura record aur payment details sambhal ke rakho, especially commission aur transport-related ka.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-chennai-deletes-commission-loan-lorry-tips-disallowances.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Chennai",
+          "case_name": "Selvakumar Arumugam Vs ACIT (ITAT Chennai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2018-19",
+          "section": "Section 44ADA",
+          "facts": "Ek doctor apni professional income par presumptive taxation Section 44ADA (jo professionals ke liye hai) claim kar raha tha. Department ne kuch aur additions kar diye the lekin wo doctor ne pursue nahi kiye.",
+          "issue": "Professional income ka 50% presumptive assess karna sahi tha ya nahi?",
+          "held": "ITAT ne allow kiya ki saari professional receipts pe 50% ko hi income maana jaaye. Baaki additions pe kuch nahi bola kyunki applicant ne wo ground press nahi kiya.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aap professional ho (doctor, CA, etc.) to Section 44ADA ke tahat simple 50% income maan sakte ho, par receipts ki sahi calculation aur evidence rakho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-chennai-50-percent-professional-income-claim-section-44ada.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Chennai",
+          "case_name": "IL & FS Pradip Refinery Water Ltd. Vs DCIT (ITAT Chennai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2015-16",
+          "section": "Section 148",
+          "facts": "Ek company ka reassessment AY 2015-16 ke liye Department ne 31.07.2022 ko shuru kiya Section 148 (jo reassessment ka notice hota hai) ke under. Issue yahi tha ki notice time-barred hai ya nahi.",
+          "issue": "Kya Section 148 ka notice time-barred tha?",
+          "held": "ITAT ne bola ki ye notice limit se bahar tha, isliye reassessment pura radd kar diya.",
+          "outcome": "Assessee",
+          "takeaway": "Reassessment ke notice ki date check karo – agar ek limit ke baad aaye to turant challenge karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-chennai-quashes-ay-2015-16-reassessment-time-barred.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Hyderabad",
+          "case_name": "ITO Vs Iddaiah Varikuppala (ITAT Hyderabad)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2013-14",
+          "section": "",
+          "facts": "Yahaan cash deposit addition aur penalty Section 271(1)(c) par baat ho rahi thi. Department ne cash deposits ko taxable maana tha aur penalty lagayi thi par lower authority ne ye sab hata diya tha.",
+          "issue": "Kya cash deposit addition aur penalty sahi thi ya nahi?",
+          "held": "ITAT ne Revenue ki appeal dismiss kar di. Addition aur penalty dono hata di gayi, toh assessee ko relief mil gaya.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aap par cash deposit ka addition ya penalty lage, to ache se batao paise ka source legit hai. Agar proof ho to ITAT tak relief mil sakta hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-dismisses-revenue-appeals-upholds-cash-deposit-addition-deletion-penalty-relief.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Hyderabad",
+          "case_name": "Rekha Corporation Private Limited Vs DCIT (ITAT Hyderabad)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2013-14",
+          "section": "Section 68",
+          "facts": "Rekha Corporation Private Limited ka case tha. Department ne ₹2.38 crore unsecured loans pe Section 68 (jo unexplained credits ke liye hai) ka addition kiya tha, aur PF/ESI ka ₹1,00,268 ka disallowance bhi kiya tha.",
+          "issue": "Kya Section 68 ke andar ka loan addition aur PF/ESI disallowance justified the?",
+          "held": "ITAT ne Section 68 ka addition hata diya lekin PF/ESI disallowance ko maintain kiya.",
+          "outcome": "Mixed",
+          "takeaway": "Agar unsecured loan credible dokument se dikh jaye to Section 68 ka addition nahi banega. Lekin PF/ESI timely deposit na ho to disallowance ho jayega – to usmein der mat karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-deletes-rs-2-38-crore-section-68-addition-upholds-pf-esi-disallowance.html"
+        }
+      ]
+    },
     {
       "date": "2026-08-24",
       "cases": [
