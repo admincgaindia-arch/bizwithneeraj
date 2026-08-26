@@ -3,16 +3,16 @@
    Key format: pagefile:tiercode  (the tier code is the small badge on the card, e.g. C1).
    Leave a value empty and no pay button is shown for that tier — nothing breaks. */
 window.CGA_PAY = {
-  'itr-filing.html:T1': '',
+  'itr-filing.html:T1': 'https://rzp.io/rzp/IHXSKyAq|589',
   'itr-filing.html:T2': '',
   'itr-filing.html:T3': '',
-  'gst-return-filing.html:G1': '',
+  'gst-return-filing.html:G1': 'https://rzp.io/rzp/IHXSKyAq|885',
   'gst-return-filing.html:G2': '',
   'gst-return-filing.html:G3': '',
-  'gst-registration.html:R1': '',
+  'gst-registration.html:R1': 'https://rzp.io/rzp/IHXSKyAq|1770',
   'gst-registration.html:R2': '',
   'gst-registration.html:R3': '',
-  'tds-returns.html:D1': '',
+  'tds-returns.html:D1': 'https://rzp.io/rzp/IHXSKyAq|1770',
   'tds-returns.html:D2': '',
   'tds-returns.html:D3': '',
   'pvt-ltd-incorporation.html:N1': '',
