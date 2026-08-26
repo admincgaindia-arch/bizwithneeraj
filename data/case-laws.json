@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-08-25T02:00:26.927Z",
+  "last_updated": "2026-08-26T02:00:26.056Z",
   "days": [
+    {
+      "date": "2026-08-26",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "Konica Minolta Healthcare India Private Limited Vs DCIT (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2020-21",
+          "section": "",
+          "facts": "Konica Minolta Healthcare India ne medical equipment import kiya. In equipment par kaafi value addition ki gayi thi. Department ne transfer pricing mein method choice ko challenge kiya.",
+          "issue": "Kaunsa transfer pricing method sahi hai jab imported goods par major value addition hota hai?",
+          "held": "Court ne TNMM ko sabse theek method maana, kyunki yahan resale price method (RPM) relevant nahi tha. TNMM applicable hai jab product par significant value addition hoti hai.",
+          "outcome": "",
+          "takeaway": "Agar aap imported goods par substantial value addition karte hain, to transfer pricing mein TNMM method use karna sahi rahega. RPM sirf tab jab product as-is resale ho.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-mumbai-holds-tnmm-mam-added-medical-equipment-distribution.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Delhi",
+          "case_name": "Soni Commercial Enterprises Private Ltd Vs ACIT (ITAT Delhi)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2014-15",
+          "section": "",
+          "facts": "Soni Commercial Enterprises ke against Section 153C ki assessment hui. PCIT ne Section 153D ka approval diya, par bina independent soch-vichar ke.",
+          "issue": "Kya bina properly soch-vichar ke di gayi Section 153D approval valid hai?",
+          "held": "Court ne Section 153C ki assessment radd kar di, kyunki approval mechanical tarike se diya gaya tha, bina apni independent mind lagaye.",
+          "outcome": "",
+          "takeaway": "Section 153C/153D cases mein, approval officer apni taraf se soch-vichar kare bina bas sign na kare. Warna assessment cancel ho sakta hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-delhi-quashes-section-153c-assessments-mechanical-section-153d-approval.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Bangalore",
+          "case_name": "Huawei Technologies India Pvt. Ltd. Vs ACIT (ITAT Bangalore)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2013-14",
+          "section": "",
+          "facts": "Huawei Technologies ne apne transfer pricing case mein kuch comparables (Infosys, Persistent Systems) ke selection ko challenge kiya aur working capital adjustment maanga.",
+          "issue": "Kya ye large IT companies proper comparables hain?",
+          "held": "Court ne Infosys aur Persistent Systems ko comparables se hata diya. Working capital adjustment bhi allow kiya.",
+          "outcome": "",
+          "takeaway": "Agar aapki company ka size ya business model mukhya comparables se alag hai, to us basis par objection jarur raise karein. Working capital ka practical impact dikhayein.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-bangalore-excludes-comparables-working-capital-adjustment.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Ahmedabad",
+          "case_name": "Nirav Mahendrabhai Tamboli Vs ITO (ITAT Ahmedabad)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2021-22",
+          "section": "",
+          "facts": "Nirav Tamboli ki property sale cash mein hui thi. Department ne Section 271D ke tahat ₹15.98 lakh penalty lagayi thi, par co-owners ki consistency aur reasonable cause tha.",
+          "issue": "Kya genuine reason aur co-owners ki matching situation mein cash lene par Section 271D penalty lag sakti hai?",
+          "held": "Court ne penalty hattadi kyunki taxpayer ne reasonableness dikhayi aur co-owners ki story same thi.",
+          "outcome": "",
+          "takeaway": "Agar aapko cash transaction karna pade aur genuine reason ho—specially agar co-owners ki baat match karti hai—to penalty remove ho sakti hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/ahmedabad-itat-deletes-section-271d-penalty-property-sale-cash.html"
+        },
+        {
+          "law": "Companies Act",
+          "court": "NCLAT Delhi",
+          "case_name": "Umesh Kumar Vs Narendra Kumar Sharma (NCLAT Delhi)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "Umesh Kumar ne Rs.1.90 crore ka claim daala CIRP mein. Resolution Professional ne extra proof maanga, aur proper evidence na hone par claim reject kiya.",
+          "issue": "Kya Resolution Professional (RP) claim verify karte waqt extra documents maang sakta hai?",
+          "held": "Court ne RP ka action sahi maana. RP aur evidence maang sakta hai, par contract ki legality nahi decide kar sakta.",
+          "outcome": "",
+          "takeaway": "Jo bhi claim file karein, uske support mein pura proof/outstanding documents ready rakhein. RP verification mein detail check karega.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/corporate-law/nclat-upholds-rps-seek-proof-claim-verification.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Delhi",
+          "case_name": "Ahlcon Parenterals (India) Ltd. Vs PCIT (ITAT Delhi)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2015-16",
+          "section": "",
+          "facts": "Ahlcon Parenterals ki assessment ko PCIT ne Section 263 ke under revise kiya, par bas audit objection aur AO ki baat sun kar, apni independent mind nahi lagayi.",
+          "issue": "Kya PCIT bina independent check ke, sirf audit proposal par Section 263 revision kar sakta hai?",
+          "held": "Court ne revision order hata diya, kyunki PCIT ne apna independent analysis nahi diya tha.",
+          "outcome": "",
+          "takeaway": "Agar Section 263 order audit objection ya kisi aur ke kehne par diya gaya ho, to vo valid nahi. PCIT ko detail reason likhna jaruri hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-delhi-quashes-section-263-revision-pcit-acted-audit-proposal.html"
+        }
+      ]
+    },
     {
       "date": "2026-08-25",
       "cases": [
