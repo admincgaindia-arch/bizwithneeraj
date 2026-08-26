@@ -29,24 +29,48 @@
     return String(v).indexOf('http') === 0;
   }
 
+  // Config value teen shakal le sakti hai:
+  //   'pl_xxxx'                    -> Razorpay Payment Button (SDK mount hota hai)
+  //   'https://rzp.io/...'         -> Payment Link, amount link mein hi fixed hai
+  //   'https://rzp.io/...|589'     -> variable-amount UPI QR, amount hum khud likhte hain
+  // Teesra roop isliye hai kyunki firm ka UPI QR koi bhi amount leta hai - amount
+  // customer ko khud daalni padti hai, isliye use saaf-saaf card par likhna zaroori hai.
   function mount(card, id) {
+    var raw = String(id);
+    var bar = raw.indexOf('|');
+    var url = bar === -1 ? raw : raw.slice(0, bar);
+    var amount = bar === -1 ? '' : raw.slice(bar + 1).trim();
+
     var box = document.createElement('div');
     box.className = 'cga-pay';
     var note = document.createElement('p');
     // Saari published fees "se shuru" hain, isliye fixed amount ko advance kehna hi
     // sach hai. Isse client ko yeh nahi lagta ki poori fees chuk gayi.
-    note.textContent = 'Ya advance abhi bhej dijiye \u2014 baaki scope dekhne ke baad';
+    if (amount) {
+      note.textContent = 'Ya advance \u20b9' + amount + ' abhi bhej dijiye \u2014 baaki scope dekhne ke baad';
+    } else {
+      note.textContent = 'Ya advance abhi bhej dijiye \u2014 baaki scope dekhne ke baad';
+    }
     box.appendChild(note);
     card.appendChild(box);
 
-    if (isLink(id)) {
+    if (isLink(url)) {
       var a = document.createElement('a');
       a.className = 'cga-paylink';
-      a.href = id;
+      a.href = url;
       a.target = '_blank';
       a.rel = 'noopener';
-      a.textContent = 'Advance pay kijiye';
+      a.textContent = amount ? ('UPI se \u20b9' + amount + ' pay kijiye') : 'Advance pay kijiye';
       box.appendChild(a);
+
+      if (amount) {
+        // QR par amount customer khud daalta hai aur payment ke saath uska naam nahi
+        // aata, isliye screenshot maangna zaroori hai - warna payment kiska hai pata nahi chalega.
+        var hint = document.createElement('p');
+        hint.className = 'cga-payhint';
+        hint.textContent = 'QR par \u20b9' + amount + ' daaliye, phir screenshot WhatsApp kar dijiye \u2014 tabhi aapke naam se lag payega.';
+        box.appendChild(hint);
+      }
       return;
     }
 
