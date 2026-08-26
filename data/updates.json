@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-08-25T01:31:08.930Z",
+  "last_updated": "2026-08-26T01:31:04.474Z",
   "digests": [
+    {
+      "date": "2026-08-26",
+      "summary": "Aaj High Courts aur Tribunals se GST, Income Tax aur TDS pe kuch important rulings aayi hain. Compliance wale kaam mein thoda dhyaan dena zaroori hai.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "Madras HC: GSTR-1 galti ki rectification allowed",
+          "detail": "Madras High Court ne FY 2017-18 ki inadvertent GSTR-1 errors ko rectify karne ki permission di. Court ne kaha software ki dikkat se correction mana nahi kiya ja sakta.",
+          "cga_view": "Agar aapne galti se galat GSTR-1 file ki thi (bona fide mistake), toh rectify karne ki umeed hai. Apni case ki details check kar ke rectify request file karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/madras-hc-dismisses-gst-appeal-upholds-rectification-bona-fide-gstr-1-errors.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Rajasthan HC: 101 din GST appeal delay condoned",
+          "detail": "Rajasthan High Court ne GST appeal me 101 din ki der ko maaf kar diya, aur Appellate Authority ko merit par decision lene ko kaha.",
+          "cga_view": "Agar aapki GST appeal time limit ke baad bhi pending hai, toh aap bhi condonation ke liye try kar sakte hain, lekin sahi reason dikhaana zaroori hoga.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/rajasthan-hc-condones-101-day-gst-appeal-delay-orders-merits-adjudication.html"
+        },
+        {
+          "category": "TDS",
+          "headline": "ITAT Agra: Pura TDS credit ek co-owner ko mila",
+          "detail": "ITAT Agra ne decide kiya ki jab baaki co-owners ne apna share claim nahi kiya toh pura TDS credit ek hi PAN (Tejpratap Singh Yadav) ko mil gaya.",
+          "cga_view": "Joint property ya asset mein TDS credit distribute karna ho toh sab co-owners ko apna share claim karna chahiye. Claim nahi karoge toh ek bande ko pura benefit mil sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-agra-directs-rs-4-06-lakh-tds-credit-owners-not-claim-shares.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Bombay HC: Income tax refund pe extra interest possible",
+          "detail": "Bombay HC ne AO ko bola ki delayed AY 2008-09 refund pe balance interest ka calculation karein, aur jo bhi banta ho four weeks mein de.",
+          "cga_view": "Agar aapka refund delay hua hai toh interest calculation check karein. AO ko likh ke extra interest demand kar sakte ho, especially old refunds me.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/bombay-hc-directs-consideration-balance-interest-delayed-income-tax-refund.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Karnataka HC: DRP directions ignore ki to assessment quash",
+          "detail": "Karnataka High Court ne Flextronics ka assessment quash kiya kyunki Assessing Officer ne DRP ke binding directions ko ignore kiya tha.",
+          "cga_view": "Agar DRP ke baad AO ne aapki baat nahi maani ya unke order follow nahi kiye, toh apna order review karwa sakte ho. Appeal ka strong ground hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/karnataka-hc-upholds-quashing-assessment-ignoring-drp-directions.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-25",
       "summary": "Aaj Supreme Court ki GST SCN par kuch important rulings aayi hain aur Income Tax, TDS aur MCA par bhi kuch updates hai. In par hi focus karte hain.",
