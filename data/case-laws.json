@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-08-26T02:00:26.056Z",
+  "last_updated": "2026-08-27T02:00:25.957Z",
   "days": [
+    {
+      "date": "2026-08-27",
+      "cases": [
+        {
+          "law": "GST",
+          "court": "Andhra Pradesh High Court",
+          "case_name": "Jubilant Avenues Private Limited Vs The Superintendent of Central Tax Kothapet Cost Range & Anr. (Andhra Pradesh High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "Yahan company pe ek hi assessment order mein kai tax periods ka GST nikaal diya gaya tha. Company ne bola ki alag-alag period ka alag assessment hona chahiye. Court ne composite order hata diya.",
+          "issue": "Ek hi assessment order mein kai periods ko club karna sahi hai ya nahi?",
+          "held": "Court ne kaha alag-alag tax periods ke liye alag orders bano. Pehle wala composite order hata diya, aur limitation ka time is process ke liye exclude kiya.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapke business pe ek saath kai saal ka tax ek order mein lagaya gaya ho, to turant challenge karo. Har period ka alag order mang sakte ho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/ap-hc-fresh-separate-gst-orders-setting-composite-assessment.html"
+        },
+        {
+          "law": "Customs / Excise",
+          "court": "Karnataka High Court",
+          "case_name": "Halton India Private Limited Vs Customs Authority (Karnataka High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "Yahan ek import ke kitchen exhaust hoods ki classification par dispute tha. Customs Authority ne pehle hi decide kar diya tha bina ekstra saboot dekhe ki product mein fan hai ya nahi.",
+          "issue": "Kya imported hood ke andar fan hai ya nahi, aur kaunsi category mein aayega?",
+          "held": "Court ne pehli ruling hata di. Bola, pehle pura evidence dekho aur dubara faisla lo.",
+          "outcome": "",
+          "takeaway": "Product ki asli tareekh, photos ya technical literature submit karne ka mauka banta hai; incomplete hearing pe decision ho, to challenge karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/custom-duty/kitchen-exhaust-hood-classification-ruling-set-fresh-evidence-consideration-karnataka-hc.html"
+        },
+        {
+          "law": "GST",
+          "court": "Uttarakhand High Court",
+          "case_name": "Gajendra Singh Cont. Vs Assistant Commissioner And Another (Uttarakhand High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "Ek contractor ka GST registration cancel ho gaya. Department ne bina usko bolne ka mauka diye order pass kar diya.",
+          "issue": "Kya bina personal hearing diye order pass karna sahi hai?",
+          "held": "Court ne GST ka order radd kar diya. Bola, reply aur sunnwai ke bina order valid nahi.",
+          "outcome": "Assessee",
+          "takeaway": "Agar registration cancel ho ya assessment ka notice aaye, toh hamesha personal hearing ki demand likhit mein karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-order-quashed-personal-hearing-denied-registration-cancellation-uttarakhand-hc.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Ahmedabad",
+          "case_name": "Sun Pharma Laboratories Ltd Vs DCIT (ITAT Ahmedabad)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2016-17",
+          "section": "",
+          "facts": "Sun Pharma ne ek LLP mein capital loss dikhaya, amount tha ₹263.69 crore. Department ne isko nahi maana aur kuch aur MAT claims par bhi disput tha.",
+          "issue": "Kya LLP capital loss ka figure sahi hai aur valuation kaise hoga?",
+          "held": "ITAT ne valuation ka mudda wapas department ko bhej diya jaise ki aur check kiya ja sake. Kuch MAT claims par relief mil gayi.",
+          "outcome": "Mixed",
+          "takeaway": "Agar bade capital loss claim kar rahe ho to valuation ka poora backup ready rakho. Dispute aaye toh details ke saath dobara defence karna pad sakta hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/sun-pharmas-rs-263-69-crore-llp-capital-loss-claim-remanded-valuation-itat-ahmedabad.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "Indus Valley Partners (India) Private Limited Vs DCIT (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2021-22",
+          "section": "",
+          "facts": "Indus Valley Partners ka ₹72.85 crore ka transfer pricing adjustment lag gaya tha intra-group transactions pe. Company ne bola ki aggregation sahi hai aur foreign group ko tested party maana jaye.",
+          "issue": "Kya transfer pricing aggregation aur tested party approach sahi hai?",
+          "held": "ITAT ne pura adjustment hata diya. Bola aggregation aur tested party dono sahi the. Section 170A ka return ka mudda department ko wapas bheja.",
+          "outcome": "Assessee",
+          "takeaway": "Aap agar foreign group transaction dikhate ho toh aggregation aur tested party ke justification ke record ready rakho, isi pe poora adjustment turn ho sakta hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-mumbai-deletes-rs-72-85-crore-tp-adjustment-intra-group-transactions.html"
+        },
+        {
+          "law": "GST",
+          "court": "Kerala High Court",
+          "case_name": "Rakesh Krishnan Vs Deputy State Tax Officer (Kerala High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "Section 16(5)",
+          "facts": "Yahan ek aadmi ko ITC dena mana kar diya, reason diya return late file hua tha. Lekin return deadline Section 16(5) ke andar thi.",
+          "issue": "Kya Section 16(5) ke andar return file ho to ITC deny kiya ja sakta hai?",
+          "held": "Court ne ITC denial ka order radd kar diya. Bola jab tak deadline ke andar return hai, aap ITC mana nahi kar sakte.",
+          "outcome": "Assessee",
+          "takeaway": "GST ITC claim karte waqt dhyaan rakho ki return Section 16(5) ki last date se pehle file ho jaye. Deadline miss ho jaye toh dikkat ho sakti hai, warna claim valid hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/kerala-hc-quashes-itc-denial-returns-filed-section-16-5-deadline.html"
+        }
+      ]
+    },
     {
       "date": "2026-08-26",
       "cases": [
