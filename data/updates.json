@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-08-26T01:31:04.474Z",
+  "last_updated": "2026-08-27T01:31:03.950Z",
   "digests": [
+    {
+      "date": "2026-08-27",
+      "summary": "Aaj major GST aur income tax court orders aaye, tax assessments aur penalties ko lekar clarity mili hai. Business owners in updates par dhyan dein.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "AP HC ne composite GST order ko set aside kiya",
+          "detail": "Andhra Pradesh High Court ne ek hi GST order mein do saal (FY 2019-20 aur 2020-21) ko include karne wale order ko set aside kar diya. Ab alag tax period ka assessment alag se hoga, limitation period ka exclusion milega.",
+          "cga_view": "Agar aapke against composite GST order hai, toh alag-alag period ke liye separate notices/appeals ka plan banaaein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/ap-hc-sets-composite-gst-order-covering-multiple-tax-periods.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Allahabad HC: GST penalty SCN se zyada nahi ho sakti",
+          "detail": "Allahabad High Court ne us order ko khatam kiya jisme SCN (Show Cause Notice) ki demand se zyada penalty lagayi gayi thi, Section 75(7) ki violation ke wajah se.",
+          "cga_view": "Agar aapke assessee ke saath bhi SCN ke beyond penalty lagi hai toh usko challenge karne ka ground mil sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/allahabad-hc-sets-gst-order-confirming-penalty-show-notice.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "ITAT Delhi: Bona fide ITR non-filing pe penalty delete",
+          "detail": "ITAT Delhi ne ek case mein ₹3.74 lakh penalty Section 270A ki, non-filing pe, hata di jab assesee ne TDS aur income accept ki thi. Bona fide galti ki wajah se penalty valid nahi samjhi gayi.",
+          "cga_view": "Agar TDS already deduct ho gaya aur income declare ki hui hai, toh non-filing pe penalty ko challenge kar sakte hain.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-delhi-deletes-section-270a-penalty-bona-fide-non-filing-itr.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-26",
       "summary": "Aaj High Courts aur Tribunals se GST, Income Tax aur TDS pe kuch important rulings aayi hain. Compliance wale kaam mein thoda dhyaan dena zaroori hai.",
