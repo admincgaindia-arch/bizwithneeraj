@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-08-27T01:31:03.950Z",
+  "last_updated": "2026-08-28T01:31:02.620Z",
   "digests": [
+    {
+      "date": "2026-08-28",
+      "summary": "Aaj mostly ITAT ke rulings aaye hain, kuch TDS disputes par clarity mili hai. Court ne GST search payment refund par bhi comment diya hai.",
+      "items": [
+        {
+          "category": "Ruling",
+          "headline": "500 pedh lagana Income Tax relief ka shart bana",
+          "detail": "ITAT ne taxpayer ko 500 pedh lagane ki shart par apna case phir se Assessing Officer ko bheja. Yeh bhari addition (11.22 crore) se related hai.",
+          "cga_view": "Agar apka koi appeal hai, toh court ki alag conditions aa sakti hain. Plantation jaisi rare order ko dhyan se padhein.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/top-stories/can-planting-trees-be-a-condition-for-income-tax-relief-itat-grants-taxpayer-one-final-opportunity-subject-to-500-tree-plantation-read-order-1450491"
+        },
+        {
+          "category": "Ruling",
+          "headline": "26AS mein TDS dikh raha toh spouse ke clubbing par mana nahi",
+          "detail": "Kolkata ITAT ne bola – agar 26AS mein TDS diya hai toh TDS credit spouse ke clubbing se deny nahi hoga. Re-examine ka order diya gaya hai.",
+          "cga_view": "Agar clubbing ki wajah se credit atka hai, toh AO se reconciliation jarur maang sakte hain.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-kolkata-remands-tds-credit-dispute-rule-37ba-fresh-decision.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GST search payment refund pe Delhi HC ne action se pehle fact finding bola",
+          "detail": "Delhi HC ne kaha ki GST search ke time agar zabardasti payment hua hai, toh fact finding jaruri hai. CBIC ke instructions bhi refer hue hain.",
+          "cga_view": "Agar aapne search mein paisa diya hai aur refund chahiye, toh proper documentation sambhal ke rakhein.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/top-stories/delhi-hc-declines-refund-of-rs-2655l-gst-payment-made-during-search-says-alleged-coercion-requires-fact-finding-read-order-1450488"
+        },
+        {
+          "category": "TDS",
+          "headline": "Reimbursement par proportionate TDS credit deny nahi ho sakta",
+          "detail": "Mumbai ITAT ne bola reimbursement ke case mein books aur 26AS mein mismatch ho toh AO ko fir se check karna hoga, TDS credit deny nahi kiya ja sakta.",
+          "cga_view": "Aapke books aur 26AS match nahi kar rahe toh AO se fresh reconciliation ki demand karo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/mumbai-itat-remands-tds-credit-dispute-rule-37ba-reconciliation.html"
+        },
+        {
+          "category": "TDS",
+          "headline": "Section 234E late fee nahi lagegi – June 2015 se pehle ke TDS returns pe",
+          "detail": "Chennai ITAT ne Section 234E late fee ko invalid declare kiya un TDS returns par jo 1 June 2015 ke pehle process hue the.",
+          "cga_view": "Agar aapki TDS return June 2015 se pehle ki hai, toh late fee ke liye ab appeal kar sakte ho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/chennai-itat-deletes-section-234e-late-fee-tds-returns-june-2015.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-27",
       "summary": "Aaj major GST aur income tax court orders aaye, tax assessments aur penalties ko lekar clarity mili hai. Business owners in updates par dhyan dein.",
