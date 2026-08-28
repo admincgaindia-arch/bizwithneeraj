@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-08-27T02:00:25.957Z",
+  "last_updated": "2026-08-28T02:00:30.058Z",
   "days": [
+    {
+      "date": "2026-08-28",
+      "cases": [
+        {
+          "law": "TDS",
+          "court": "ITAT Ahmedabad",
+          "case_name": "State Bank of India Vs ITO (ITAT Ahmedabad)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2016-17",
+          "section": "Section 201 (TDS default)",
+          "facts": "SBI par Leave Travel Concession (LTC) TDS na kaatne ka ilzaam tha. Madras High Court ke interim order ke period mein department ne TDS demand lagayi thi.",
+          "issue": "Kya interim court directions ke dauraan TDS deduct na karne par bank ko default maana ja sakta hai?",
+          "held": "ITAT ne SBI ko default nahi maana. Bola, Madras HC ke stay order ke samay TDS na kaatna galat nahi tha. Section 201 ki demand hata di.",
+          "outcome": "Assessee",
+          "takeaway": "Jab interim High Court stay mil jaye, to us dauraan ka TDS non-deduction liability nahi banega. Court order ki copy sambhal ke rakho, aur us period ka hi benefit milega.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-ahmedabad-deletes-tds-demand-ltc-madras-hc-stay.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Ahmedabad",
+          "case_name": "Ashok Ramanlal Tamboli Vs ITO (ITAT Ahmedabad)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2021-22",
+          "section": "Section 271D (cash loan penalty)",
+          "facts": "Ek vyakti par 31.95 lakh ka penalty Section 271D mein lagi thi, kyunki usne cash loan liya tha. Par co-sharer ko pehle relief mil chuka tha same transaction mein.",
+          "issue": "Kya jab co-sharer ko relief mil chuka hai, doosre par bhi penalty tikti hai?",
+          "held": "ITAT ne dekha ki co-sharer ko already relief mil chuki hai, aur taxpayer ka explanation bhi reasonable tha. Penalty hata di.",
+          "outcome": "Assessee",
+          "takeaway": "Agar ek hi transaction mein kisi aur ko relief mil gaya ho, to apne case mein woh order jarur lagao. Department ko pehle ki order dikhana faida de sakta hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/section-271d-penalty-deleted-sharer-relief-transaction-itat-ahmedabad.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Delhi",
+          "case_name": "Agilent Technologies (International) Pvt. Ltd. Vs ACIT/NFAC (ITAT Delhi)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2017-18",
+          "section": "Section 80G (donation deduction)",
+          "facts": "Company ne apni CSR spending par Section 80G deduction claim kiya tha. Department ne isko mana kar diya. Company ke rental addition ko bhi dispute kiya gaya, kyunki Form 26AS update hua tha.",
+          "issue": "CSR expenditure par 80G deduction mil sakta hai ya nahi?",
+          "held": "ITAT ne bola ki CSR kharch par Section 80G ka deduction allowed nahi hai. Rental wale issue ko wapas department ko verify karne bhej diya.",
+          "outcome": "Revenue",
+          "takeaway": "CSR spending ka 80G deduction expect mat karo, Supreme Court/HC order ke bina. Rental receipts ke proof Form 26AS se zarur match karao.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-delhi-denies-section-80g-deduction-csr-remands-rental-addition-verification.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Hyderabad",
+          "case_name": "Deloitte Tax Services India Private Limited Vs DCIT (ITAT Hyderabad)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2018-19",
+          "section": "Section 80G (donation deduction)",
+          "facts": "Company ne apne CSR donations par Section 80G deduction claim kiya tha. Department ne pehle deny kar diya. Saath hi DDT refund bhi issue tha.",
+          "issue": "Eligible CSR donations par 80G deduction milni chahiye ya nahi?",
+          "held": "ITAT ne bola, jo CSR donation eligible hai, uspe 80G ka deduction milega. Excess DDT refund bhi verify kar ke dene ka kaha.",
+          "outcome": "Assessee",
+          "takeaway": "CSR donation par Section 80G ka deduction sirf un cheezon par jo eligibility criteria fulfill kare. DDT ya dusre refunds ke claim par hamesha proof ready rakho.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/hyderabad-itat-section-80g-deduction-csr-donations.html"
+        },
+        {
+          "law": "GST",
+          "court": "Orissa High Court",
+          "case_name": "K.P. Sugandh Limited Vs Chief Commissioner of CT and GST, Odisha (Orissa High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "Section 129(3) (GST detention penalty)",
+          "facts": "Company par GST violation ke liye penalty lagayi gayi. Order 7 din baad communicate hua tha, jabki law mein 7 din ki limit hai.",
+          "issue": "Agar penalty order 7 din ki limit cross kar de to kya valid hai?",
+          "held": "Orissa HC ne GST penalty order ko radd kar diya. Bola, 7 din mein communication mandatory hai, uske baad order valid nahi.",
+          "outcome": "Assessee",
+          "takeaway": "GST penalty ka order mile to turant dekh lo ki communication 7 din ke andar hua ya nahi. Agar delay hai to order challenge karo reference se.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/orissa-hc-quashes-gst-order-communicated-day-section-129-3-limit.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Surat",
+          "case_name": "Sharad Jain Vs ITO (ITAT Surat)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2007-08",
+          "section": "Section 271(1)(c) (concealment penalty)",
+          "facts": "Taxpayer par 37.30 lakh ka penalty lag gaya tha, kyunki assessment mein bogus purchase ka estimate ad hoc basis par add kiya tha.",
+          "issue": "Ad hoc bogus purchase addition par penalty lag sakti hai?",
+          "held": "ITAT ne bola, sirf estimate ad hoc addition pe concealment penalty nahi lag sakti. Penalty hata di.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapke case mein sirf estimate ya ad hoc addition hue hai, to Section 271(1)(c) ki penalty ko zarur challenge karo.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-surat-deletes-section-271-1-penalty-estimated-bogus-purchase-addition.html"
+        }
+      ]
+    },
     {
       "date": "2026-08-27",
       "cases": [
