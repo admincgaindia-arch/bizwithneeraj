@@ -1,6 +1,91 @@
 {
-  "last_updated": "2026-08-28T02:00:30.058Z",
+  "last_updated": "2026-08-29T02:00:26.006Z",
   "days": [
+    {
+      "date": "2026-08-29",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "Income Tax Appellate Tribunal, Jodhpur Bench",
+          "case_name": "Shri Harish Panwar Vs Income Tax Officer",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "Section 115BBE",
+          "facts": "Shri Harish Panwar ne partnership firm se cash nikaala tha aur ye paisa demonetisation ke baad apne account me jama kiya. Income Tax department ne ye 68.85 lakh cash deposit ko unexplained maan kar addition kar di.",
+          "issue": "Kya cash deposit ka source sahi tarah explain ho gaya tha?",
+          "held": "ITAT ne bola ki assessee ne partnership withdrawals se source explain kar diya tha. Section 115BBE (unexplained income pe higher tax) bhi yahan lagu nahi hota. Isliye pura addition hata diya.",
+          "outcome": "Assessee",
+          "takeaway": "Demonetisation time ke cash deposits ka source dikhana zaruri hai. Agar partnership se withdraw kar rakha hai to uska proof rakhna chahiye.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-jodhpur-deletes-rs-68-85-lakh-demonetisation-cash-addition-source-explained.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Raipur",
+          "case_name": "ACIT Vs Maheshwari Coal Benefication and Infrastructure Pvt. Ltd.",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2016-17",
+          "section": "Section 68",
+          "facts": "Company par 1.15 crore ka addition kiya gaya kyunki Income Tax officer ne loan entries ko bogus maana. Assessee ne dikhaya ki ye loans waapas kar diye the isliye addition galat hai.",
+          "issue": "Kya repaid loans ke liye Section 68 ka addition justified hai?",
+          "held": "ITAT ne dekha ki loans waapas kar diye gaye the. Isliye Section 68 (unexplained cash credits) ka addition yahan sahi nahi hai. Interest disallowance bhi hata diya.",
+          "outcome": "Assessee",
+          "takeaway": "Agar loan repay ho chuka hai to uska record dikhana chahiye. Tab Section 68 ka addition nahi hoga.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-raipur-upholds-deletion-rs-1-15-crore-section-68-addition-repaid-loans.html"
+        },
+        {
+          "law": "GST",
+          "court": "Orissa High Court",
+          "case_name": "Rajlaxmi Constructions Ltd Vs Union of India And Others",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "GST department ne 28.80 crore ka order pass kiya bina sune. Assessee ne bola ki unko apna case rakhne ka mauka hi nahi mila.",
+          "issue": "Kya bina hearing diye GST order pass ho sakta hai?",
+          "held": "Court ne bola bina sunwaye order pass karna natural justice ka ulangan hai. Pura order radd kar diya aur matter wapas department ko bhej diya.",
+          "outcome": "Assessee",
+          "takeaway": "GST case mein order pass karne se pehle notice aur hearing milna zaruri hai. Agar nahi mili to order challenge ho sakta hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/orissa-hc-sets-rs-28-81-crore-gst-order-denial-hearing.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Ahmedabad",
+          "case_name": "Ashok Ramanlal Tamboli Vs ITO",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2021-22",
+          "section": "Section 271D",
+          "facts": "Assessee ko cash transaction par 31.95 lakh ki penalty Section 271D (cash loan/advance limit par penalty) lagi thi. Co-sharer ko usi transaction me pehle relief mil chuki thi.",
+          "issue": "Kya agar co-sharer ko relief mil gaya hai to doosre ko bhi mil sakta hai?",
+          "held": "ITAT ne dekha ki same transaction mein co-sharer ko relief mil gaya hai. Assessee ka explanation bhi maana. Isi wajah se penalty hata di.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aap ek joint transaction me hain aur co-sharer ko penalty me relief mil chuki hai to apne liye bhi uska reference le sakte ho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/section-271d-penalty-deleted-sharer-relief-transaction-itat-ahmedabad.html"
+        },
+        {
+          "law": "GST",
+          "court": "Orissa High Court",
+          "case_name": "K.P. Sugandh Limited Vs Chief Commissioner of CT and GST, Odisha",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "Section 129(3)",
+          "facts": "GST department ne penalty order 8th din communicate kiya jab ki law kehta hai 7 din ke andar karna hai. Company ne challenge kiya ki deadline miss ho gayi.",
+          "issue": "Kya 7 din ka time limit mandatory hai penalty order serve karne ke liye?",
+          "held": "Court ne bola 7 din ki limit mandatory hai. 8th din ka order invalid hai. Isliye penalty order radd kar diya.",
+          "outcome": "Assessee",
+          "takeaway": "GST penalty notice strictly 7 din ke andar hi serve hona chahiye. Agar late ho gaya to pura order challenge ho sakta hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/orissa-hc-quashes-gst-order-communicated-day-section-129-3-limit.html"
+        }
+      ]
+    },
     {
       "date": "2026-08-28",
       "cases": [
