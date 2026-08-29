@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-08-28T01:31:02.620Z",
+  "last_updated": "2026-08-29T01:31:04.078Z",
   "digests": [
+    {
+      "date": "2026-08-29",
+      "summary": "Aaj ke digest mein GST, Income Tax aur TDS ke upar recent rulings discuss kiye gaye hain. Saare items trade press ke hain, koi official government release nahi aaya.",
+      "items": [
+        {
+          "category": "Ruling",
+          "headline": "Income Tax Data se Service Tax Limitation Extend nahi ho sakta: CESTAT",
+          "detail": "CESTAT Chandigarh ne bola ki sirf third-party Income Tax data ke base par service tax demand zyada time ke liye lagana sahi nahi, jab tak suppression ka proof na ho.",
+          "cga_view": "Agar department sirf kisi aur ki income tax info se purana service tax uthata hai, toh strong legal ground pe challenge ho sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/service-tax/cestat-holds-extended-limitation-unsustainable-service-tax-demand-based-solely-party-data-income-tax-dept.html"
+        },
+        {
+          "category": "TDS",
+          "headline": "SBI par Section 201 TDS Default nahi banta: ITAT Ahmedabad",
+          "detail": "ITAT Ahmedabad ne decide kiya ki jab bank ne Madras HC ka interim order follow kiya, toh unpe LTC TDS non-deduction ka Section 201 default nahi lagega.",
+          "cga_view": "Agar aap kisi court order ki wajah se TDS nahi kaat paaye hain, toh uski certified copy aur full compliance records sambhal ke rakhein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/no-section-201-tds-default-sbi-binding-hc-order-itat-ahmedabad.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Same FY, same ITC issue se 'same subject matter' prove nahi hota: Delhi HC",
+          "detail": "Delhi High Court ne GST ke overlapping proceedings ke mamle mein bola ki sirf same financial year aur ITC matter hone se Section 6(2)(b) apply nahi ho jaata. Appellate authority final decide karega.",
+          "cga_view": "Agar aapki GST proceedings multiple forums pe chal rahi hain, toh specific facts ke liye appellate authority ka decision ka intezaar karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/fy-itc-issue-cannot-establish-subject-matter-section-6-2-delhi-hc.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-28",
       "summary": "Aaj mostly ITAT ke rulings aaye hain, kuch TDS disputes par clarity mili hai. Court ne GST search payment refund par bhi comment diya hai.",
