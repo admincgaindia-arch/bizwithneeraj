@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-08-29T02:00:26.006Z",
+  "last_updated": "2026-08-30T02:00:29.248Z",
   "days": [
+    {
+      "date": "2026-08-30",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "ITAT Pune",
+          "case_name": "Heena Irfan Bepari Vs ITO (ITAT Pune)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2017-18",
+          "section": "Section 151 (sanction for reassessment)",
+          "facts": "Heena Irfan Bepari ka case tha. Department ne fir se assessment khol diya tha, par approval galat authority se liya tha. PCIT ne section 151 ki approval di thi jab higher authority ki zarurat thi.",
+          "issue": "Kya reassessment ki sanction sahi authority se mili thi?",
+          "held": "ITAT ne ye addition radd kar diya. Wajah ye thi ki sanction sahi officer se nahi li gayi thi, jo law ke mutabiq required thi.",
+          "outcome": "Assessee",
+          "takeaway": "Agar department reassessment khol raha hai to dhyan se dekho ki approval kis officer se li gayi hai. Galat authority se ho to poora case radd ho sakta hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-quashes-rs-95-31-lakh-addition-invalid-reassessment-sanction.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai Bench",
+          "case_name": "Jeeten Jayshukhlal Mehta Vs DCIT (ITAT Mumbai Bench)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2023-24",
+          "section": "Section 69A (unexplained money), travelling expense",
+          "facts": "Jeeten Jayshukhlal Mehta ka Mumbai ITAT mein case tha. Department ne Section 69A ke andar 27.39 lakh ka addition kiya tha, lekin assessee ne third-party ledger reconcile kar diya.",
+          "issue": "Kya Section 69A ki addition justified thi jab explanation mil gaya?",
+          "held": "ITAT ne Section 69A ki addition hata di kyunki ledger se sab match ho gaya. Lekin ₹4.45 lakh ki travel expense ka koi proper proof nahi tha, toh wo disallow kar diya.",
+          "outcome": "Assessee",
+          "takeaway": "Jab bhi cash ya deposits pe addition ho to third party ledger ya statements collect kar lo. Travel expenses ka actual document zarur sambhal ke rakho, warna wo disallow ho sakta hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-deletes-rs-27-39-lakh-section-69a-addition-rejects-unsupported-travel-expenses.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT, Mumbai Bench",
+          "case_name": "Fiserv Merchant Solutions Private Limited Vs ACIT (ITAT, Mumbai Bench)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2021-2022",
+          "section": "Section 263 (revision by PCIT)",
+          "facts": "Fiserv Merchant Solutions ka case tha. Department ne bad debts ke naam par disallowance kar di aur section 263 laga diya. AO ne actual merchant receivable write-off ko dekh liya tha records mein.",
+          "issue": "Kya Section 263 apply ho sakta hai jab AO ne already sab kuch check kiya hai?",
+          "held": "ITAT ne section 263 revision radd kar diya. Bola jab AO ne sab details dekh li thi toh PCIT wapas nahi khol sakta.",
+          "outcome": "Assessee",
+          "takeaway": "Agar AO ne kisi point ko detailed tarike se dekha hai, toh usi cheez par section 263 lagana valid nahi hai. Ledger aur working clarity de do ki AO ki enquiry proper thi.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/mumbai-itat-quashes-rs-19-64-cr-bad-debt-disallowance-263.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Ahmedabad Bench",
+          "case_name": "Mitesh Shah Vs ITO (ITAT Ahmedabad Bench)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2019-20",
+          "section": "Section 37 (business expense), Section 69C (unexplained purchases), Section 115BBE (tax on unexplained income)",
+          "facts": "Mitesh Shah ka case tha. Department ne bogus purchases ko Section 69C me daalne ki koshish ki, taki Section 115BBE ka higher tax rate lag sake.",
+          "issue": "Kya bogus purchases, jo ke business expenses hai, Section 69C se treat kiye ja sakte hain?",
+          "held": "ITAT ne bola ki bogus purchases sirf Section 37 se hi disallow ho sakte hain. Sirf isliye ki zyada tax rate lag jaye, section 69C nahin lagaya ja sakta.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapke purchases genuine nahi lagte to department unhe high tax wali unexplained income me shift nahi kar sakta, jab tak wo actual business expenses hi hain.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/bogus-purchases-not-69c-income-ahmedabad-itat-quashes-section-263-revision.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "Madras High Court",
+          "case_name": "MRF Ltd. Vs DCIT (Madras High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2006-07",
+          "section": "Section 37 (business deduction)",
+          "facts": "MRF Ltd. ne MRF Pace Foundation ki expenditure ko business deduction ke liye claim kiya. Department ne isko mana kar diya aur business expediency pe sawal uthaya.",
+          "issue": "Kya Pace Foundation ki expense ko business expenditure maana ja sakta hai?",
+          "held": "High Court ne bola ki business ki zarurat assessee khud decide karega. Ye kharcha Section 37 ke tehat deducible hai.",
+          "outcome": "Assessee",
+          "takeaway": "Agar koi kharcha aapke business se directly ya indirectly related hai to aap Section 37 ke under deduction claim kar sakte hain, chahe department ko zaroori na lage.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/madras-hc-mrf-pace-foundation-expenditure-business-deduction.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Guwahati Bench",
+          "case_name": "Mercy Home Vs ITO (ITAT Guwahati Bench)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2026-27",
+          "section": "Section 80G (charitable donations deduction)",
+          "facts": "Mercy Home ko 80G approval mila tha, jo AY 2027-28 tak valid tha. Department ne fir bhi deduction deny kar diya.",
+          "issue": "Jab 80G approval valid hai to kya deduction mana kiya ja sakta hai?",
+          "held": "ITAT ne bola, jab tak approval valid hai, deduction deny nahi kiya ja sakta. Approval hi sabse bada document hai.",
+          "outcome": "Assessee",
+          "takeaway": "NGO ya trust ko apna valid 80G approval sambhal ke rakhna chahiye. Agar approval hai to department deduction mana nahi kar sakta.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/guwahati-itat-quashes-80g-rejection-valid-approval-ay-2027-28.html"
+        }
+      ]
+    },
     {
       "date": "2026-08-29",
       "cases": [
