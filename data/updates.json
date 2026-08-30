@@ -1,6 +1,67 @@
 {
-  "last_updated": "2026-08-29T01:31:04.078Z",
+  "last_updated": "2026-08-30T01:33:17.628Z",
   "digests": [
+    {
+      "date": "2026-08-30",
+      "summary": "Aaj ke digest mein ITAT aur HC ke kuch important rulings aur GST notice ko lekar ek zabardast point highlight hua hai. Compliance aur notices handle karte waqt extra careful rahein.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "Unsigned GST Notice par Rajasthan HC ka ruling",
+          "detail": "Rajasthan High Court ne bola ki sirf unsigned GST notice electronically generate hona legal authentication nahi hai. Aise notice pe recovery ya adjudication nahi ho sakta.",
+          "cga_view": "Agar aapko unsigned GST notice milta hai to us par action lene se pehle legal review zaroor karayein. Unsigned notice valid nahi maana jayega.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/top-stories/mere-electronic-generation-does-not-authenticate-unsigned-gst-notice-rajasthan-hc-read-order-1450515"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Trust ko TDS credit agar Form 26AS mismatch ho toh bhi",
+          "detail": "Jodhpur ITAT ne trust ko TDS ka credit diya jab ki Form 26AS mein mismatch tha, kyunki trust ne income dikhayi thi aur Rule 37BA ki declaration sirf procedural hai.",
+          "cga_view": "Agar trust ke Form 26AS mein TDS nahi dikha, lekin income offer ki gayi hai, toh claim reject hone pe aap ITAT ka yeh order use kar sakte hain.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/jodhpur-itat-trust-tds-credit-trustees-form-26as-rule-37ba-declaration-procedural.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Manual Form 26A filing se TDS relief par koi rok nahi",
+          "detail": "Jaipur ITAT ne kaha ki agar tax pehle se pay ho chuka hai, toh manually file ki gayi Form 26A bhi sufficient hai. Isliye ₹1.15 lakh TDS demand hata di gayi.",
+          "cga_view": "Agar Form 26A online upload nahin hui par tax paid hai, toh manual filing case me bhi appeal ki possibility dekhein. Strictly procedural lapses pe relief mil sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/tax-paid-offline-form-26a-no-bar-tds-relief-jaipur-itat.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Rs 60 lakh limit se ITAT mein reassessment par rok",
+          "detail": "ITAT Bangalore ne ruling di ki agar tax effect ₹60 lakh se kam hai, toh reassessment issue pe dept ka appeal maintain nahin hota.",
+          "cga_view": "Agar aapka case ITAT jaa raha hai aur tax effect limit se kam hai toh department ki appeal reject ho sakti hai. Appeal process monitor karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/rs-60-lakh-limit-ends-jao-fao-reassessment-battle-bangalore-itat.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Section 234C interest ka re-calculation allowed",
+          "detail": "ITAT ne foreign-tax relief aur TDS credit lene ke baad section 234C interest ₹7 lakh se ghata ke ₹56,047 kar diya. Sirf net taxable shortfall pe hi interest.",
+          "cga_view": "Agar aapko zyada interest notice aayi hai toh foreign tax credit aur TDS adjust karwa kar interest ka recomputation demand kar sakte hain.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-cuts-section-234c-interest-rs-7-lakh-rs-56-047.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "25% tax rate agar turnover ₹400 crore se kam hai",
+          "detail": "ITAT Delhi ne rule kiya hai ki company ka turnover agar ₹400 crore se kam hai toh 25% tax lagega, 30% nahi, chahe CPC ne galti se zyada tax laga diya ho.",
+          "cga_view": "Balance Sheet ke basis par hi apni company ke tax rate ka claim karein. CPC ka assessment galat ho toh turant rectification file karein.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/top-stories/25-tax-rate-applicable-where-turnover-below-400-crore-itat-sets-aside-cpcs-30-tax-rate-read-order-1450535"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-29",
       "summary": "Aaj ke digest mein GST, Income Tax aur TDS ke upar recent rulings discuss kiye gaye hain. Saare items trade press ke hain, koi official government release nahi aaya.",
