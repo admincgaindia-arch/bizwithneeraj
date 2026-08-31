@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-08-30T02:00:29.248Z",
+  "last_updated": "2026-08-31T02:00:27.220Z",
   "days": [
+    {
+      "date": "2026-08-31",
+      "cases": [
+        {
+          "law": "Companies Act",
+          "court": "Bombay High Court",
+          "case_name": "Omkara Assets Reconstruction Pvt Ltd Vs Sahjun Impex Trading Pvt Ltd (Bombay High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "Is case mein company ke winding-up proceedings NCLT ko transfer karne ka challenge kiya gaya tha. Secured creditor ne kuch assets bech diye the, lekin company revive ho sakti hai ya nahi yeh mudda tha.",
+          "issue": "Kya asset sale ke baad bhi winding-up proceedings NCLT ko transfer ki ja sakti hai revival ke liye?",
+          "held": "Court ne kaha, asset sale se revival impossible nahi ho jata. NCLT ko transfer sahi hai. Challenge ko dismiss kar diya.",
+          "outcome": "",
+          "takeaway": "Agar company ke kuch assets bik bhi gaye hain, to bhi winding-up matter NCLT ko ja sakta hai aur wahan revive ho sakta hai. Practically, secured lenders bhi NCLT route try kar sakte hain agar revival ka chance bacha ho.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/company-law/asset-sale-cant-bar-financial-creditor-seeking-nclt-transfer-revival-bombay-high-court.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Indore",
+          "case_name": "Arvind Kumar Singhavi Vs ITO (ITAT Indore)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2017-18",
+          "section": "",
+          "facts": "Assessee ne GP ka estimation challenge kiya aur TDS ke kuch amount pe disallowance hui. ₹10.45 lakh ki GP addition thi aur ₹10,780 ka TDS ka dispute tha.",
+          "issue": "Kya estimated GP addition sahi thi aur TDS ka disallowance justify hai?",
+          "held": "ITAT ne ₹10.45 lakh GP addition hata di, par ₹10,780 TDS disallowance ko maintain kiya. Baaki teen disallowances bhi delete kar di.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapke pass proper GP records hain aur department bas estimate par addition kar raha hai, to court aapke haq mein decision de sakta hai. Lekin TDS disallowance documentation pura hona chahiye.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-indore-deletes-rs-10-45-lakh-gp-addition-sustains-rs-10-780-tds-disallowance.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Ahmedabad",
+          "case_name": "Pravinkumar Ramjibhai Patel Vs ITO (ITAT Ahmedabad)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2021-22",
+          "section": "",
+          "facts": "Assessee ko BSNL VRS compensation mila tha. Department ne Section 10(10B) exemption se mana kar diya aur rectification ka attempt hua.",
+          "issue": "Kya BSNL VRS pe Section 10(10B) exemption milni chahiye thi?",
+          "held": "ITAT ne Section 10(10B) exemption di aur pehle ke judgements ka reference diya. Rectification ko allow nahi kiya.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapko VRS compensation mila hai, to Section 10(10B) ka pura benefit claim kar sakte ho. Appeal mein bhi yeh position strong hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/cit-bsnl-vrs-rectification-fails-ahmedabad-itat-section-10-10b-exemption.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Delhi",
+          "case_name": "ACIT Vs Goel Jewellers Overseas Corp (ITAT Delhi)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2017-18",
+          "section": "Section 68",
+          "facts": "Demonetisation ke time cash sales hui thi. Department ne pura ₹3.89 crore cash sales ko Section 68 ke under questionable maan liya aur addition kar diya.",
+          "issue": "Kya sirf suspicion pe demonetisation cash sales ko Section 68 addition kiya ja sakta hai?",
+          "held": "ITAT ne kaha, kewal shak par addition nahi ho sakti jab tak supporting records hain. Revenue ke appeal ko dismiss kar diya.",
+          "outcome": "Assessee",
+          "takeaway": "Demonetisation cash sales ka proper documentation hai to sirf suspicion basis pe Section 68 addition nahi chalegi. Sab sales evidence sambhal ke rakho.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/delhi-itat-dismisses-revenue-appeal-rs-3-89-crore-cash-sales-addition.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Chandigarh",
+          "case_name": "Windlas Jewellers Vs ITO (ITAT Chandigarh)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2017-18",
+          "section": "Section 68",
+          "facts": "Jeweller ne demonetisation ke time cash deposit kiya. Department kehte hain yeh unexplained hai aur Section 68 se addition kari.",
+          "issue": "Kya demonetisation cash sales, jab records audited hain, ko unexplained income maana ja sakta hai?",
+          "held": "ITAT ne addition hata di. Bola, audited books of account aur records hain to sirf suspicion se addition nahi ho sakti.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapne demonetisation ke dauraan cash sales ki hai to pure documents, bills aur bank entries strong hone chahiye. Audited accounts se bahut madad milegi.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-chandigarh-deletes-section-68-addition-demonetization-cash-sales.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Kolkata",
+          "case_name": "Vidyasagar Samabay Krishi Unnayan Samity Ltd Vs ACIT (ITAT Kolkata)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2017-18",
+          "section": "Section 69A",
+          "facts": "Assessee ne demonetisation ke baad cash deposit bank mein kiya. Department ne is amount ko unexplained income maan liya Section 69A ke under.",
+          "issue": "Kya properly explained demonetisation bank deposit ko unexplained income bol sakte hain?",
+          "held": "ITAT ne addition hata di. Bola agar cash deposit explained hai, to Section 69A ka addition nahi ho sakta.",
+          "outcome": "Assessee",
+          "takeaway": "Demonetisation period ki cash deposits ka source clearly dikhana zaroori hai. Proper paper trail ho to Section 69A ki dikkat nahi hogi.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-kolkata-deletes-section-69a-addition-explained-demonetisation-cash-deposits.html"
+        }
+      ]
+    },
     {
       "date": "2026-08-30",
       "cases": [
