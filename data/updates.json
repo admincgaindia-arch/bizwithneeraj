@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-08-30T01:33:17.628Z",
+  "last_updated": "2026-08-31T01:31:01.176Z",
   "digests": [
+    {
+      "date": "2026-08-31",
+      "summary": "Aaj mostly GST aur Income Tax par focus hai, mostly High Court aur tribunal ke updates hain. Direct compliance kaam abhi ke liye kam hai, par kuch important legal developments note karo.",
+      "items": [
+        {
+          "category": "Income Tax",
+          "headline": "CBDT ne ITR-B introduce kiya Block Assessment ke liye",
+          "detail": "CBDT ne ITR-B form launch kiya hai block assessment ke liye, Income-tax Rules, 2026 ke amendment se. Notification No. 97/2026 se Rule 332 update hua.",
+          "cga_view": "Jo bhi clients ka block assessment chal raha ho, unke liye naya ITR-B form check karo. Filing process mein changes aa sakte hain.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/cbdt-introduces-itr-block-assessment-income-tax-rules-2026.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GST death ke baad legal heirs ki liability samjho",
+          "detail": "Section 93 CGST Act ke hisaab se, taxpayer ki death ke baad GST liability legal representatives par aati hai, especially agar business continue ho raha hai ya estate se recover ho sakta hai.",
+          "cga_view": "Agar client ki death hui ho aur business continue hai, toh legal heir ko GST liability ka dhyaan rakhna zaroori hai. Estate planning mein ab is point ko zaroor samjhao.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-outlives-taxpayer-liability-legal-representative-section-93.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Karnataka HC: GST seized goods bech sakte hain, proper notice ke baad",
+          "detail": "Court ne GST authority ko allow kiya ki Section 129(6) KSGST/CGST Act ke tahat hazardous goods ko sell karein, agar owner appeal nahi karta. Notice serve karna compulsory hai.",
+          "cga_view": "Agar aapke goods GST authority ne seize kiye hain aur appeal nahi file ki, toh goods bik sakte hain. Appeal ka option jaldi exercise karo, warna goods loss ho sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/top-stories/karnataka-hc-directs-sale-of-seized-goods-us1296-of-ksgst-act-after-due-notice-if-owner-fails-to-avail-appellate-remedy-1450559"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Delhi HC: GST SCN sirf portal par upload se valid nahi",
+          "detail": "Delhi HC ne kaha ki agar GST show cause notice sirf portal par upload hua, proper serve nahi hua, toh poori proceedings wapas SCN stage par jayengi.",
+          "cga_view": "Agar apko sirf portal par notice mila aur personally serve nahi hua, toh department ki action legally weak ho sakta hai. Is ground par relief mil sakti hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/delhi-hc-restores-gst-proceedings-scn-not-duly-served.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Telangana HC: Cancelled GST registration ka revocation apply kar sakte hain",
+          "detail": "Telangana HC ne allowed kiya ke agar GST registration fraud/suppression/alleged galti se cancel hua ho, toh taxpayer revocation request daal sakta hai.",
+          "cga_view": "Agar registration cancel ho gaya hai, toh ab bhi revocation ka mauka mil sakta hai. Jaldi application file karo, especially agar cancellation reason dispute hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/telangana-hc-gst-registration-revocation-application-cancellation.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-30",
       "summary": "Aaj ke digest mein ITAT aur HC ke kuch important rulings aur GST notice ko lekar ek zabardast point highlight hua hai. Compliance aur notices handle karte waqt extra careful rahein.",
