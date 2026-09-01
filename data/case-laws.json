@@ -1,6 +1,91 @@
 {
-  "last_updated": "2026-08-31T02:00:27.220Z",
+  "last_updated": "2026-09-01T02:00:30.899Z",
   "days": [
+    {
+      "date": "2026-09-01",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "ITAT Rajkot",
+          "case_name": "Rolex Rings Limited Vs DCIT/ACIT (ITAT Rajkot)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2020-21",
+          "section": "",
+          "facts": "Rolex Rings Limited ka case tha. Company par ₹5.40 crore ki accommodation entry ka ilzaam laga tha. Department ne reassessment kiya, lekin sanction galat tha, koi direct sambandh nahi mila aur cross-examination ka mauka bhi nahi mila.",
+          "issue": "Kya reassessment sahi process follow ki bina ho sakti hai?",
+          "held": "ITAT ne reassessment ko radd kar diya. Sanction process theek nahi tha aur acche se sambandh establish nahi hua tha. Cross-examination nahi milne par bhi court ne department ke khilaf faisla diya.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapko cross-examination ka mauka nahi milta ya sanction process galat hai, to aap reassessment ko challenge kar sakte ho.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-deletes-rs-5-40-cr-accommodation-entry-addition.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Jodhpur",
+          "case_name": "Geeta Satsang Ashram Samiti Vs Ward Exemption (ITAT Jodhpur)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2023-24",
+          "section": "",
+          "facts": "Geeta Satsang Ashram Samiti ne 80G exemption maangi thi. Ashram ke religious kharch total ka 5% se kam tha. Bhagavad Gita ki teachings par focus hai, jo kisi ek dharm ke liye nahi hai.",
+          "issue": "Kya 80G approval mil sakti hai jab religious kharch 5% se kam ho?",
+          "held": "ITAT ne 80G approval allow kiya. Court bola ki teachings non-denominational hain aur religious expenditure kanuni had se kam hai.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapka trust ya society ka religious kharch total ka 5% se kam hai, to aapko 80G approval milne ka pura chance hai. Non-denominational activities dikhana zaroori hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-jodhpur-80g-approval-religious-spending-remains-5-percent.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Kolkata",
+          "case_name": "Ekchaka Samabaya Krishi Unnayan Samity Limited Vs DCIT (ITAT Kolkata)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2015-16",
+          "section": "",
+          "facts": "Yeh ek co-operative society ka case tha. Cash deposit ki wajah se assessment phir se khola gaya par phir is issue par koi addition nahi ki.",
+          "issue": "Jab reopening ka main reason pe addition nahi hui, to kya assessment valid hai?",
+          "held": "ITAT ne assessment process ko radd kar diya kyunki reopening ka main reason pe kuch bhi add nahi hua tha. Bas is basis par case reopen nahi ho sakta.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapke case mein reopening ka main reason pe koi addition nahi hoti, to poora reopening null ho sakta hai. Aise mein aap challenge kar sakte ho.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-kolkata-quashes-reassessment-recorded-reopening-reason-not-lead-addition.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Pune",
+          "case_name": "Rameshwar Fakirchand Totala Vs ITO (ITAT Pune)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2020-21",
+          "section": "Section 69",
+          "facts": "Rameshwar Fakirchand Totala par ₹10.52 lakh ki Section 69 (disclosed income ka proof na ho to addition) ke tehat income add kar di gayi. WhatsApp chat evidence use kiya gaya tha, bina certificate ke.",
+          "issue": "Kya bina original certificate ke WhatsApp chats pe addition ho sakti hai?",
+          "held": "ITAT ne addition hata di. WhatsApp chats bina Section 65B certificate ke admissible nahi thi. Independent evidence bhi nahi tha.",
+          "outcome": "Assessee",
+          "takeaway": "Digital evidence jaise WhatsApp chats ka Section 65B certificate zaroori hai. Agar certificate nahi hai, to aap addition ko challenge kar sakte ho.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-pune-deletes-section-69-addition-based-uncertified-whatsapp-chats.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Ahmedabad",
+          "case_name": "Endel Retail And Customer Care Pvt. Ltd. Vs DCIT (ITAT Ahmedabad)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2023-24",
+          "section": "",
+          "facts": "Ye company ne foreign tax credit claim kiya tha par Form 67 delay se file hua tha. Department ne credit disallow kar diya tha.",
+          "issue": "Kya foreign tax credit mil sakta hai agar Form 67 time se nahi file hua?",
+          "held": "ITAT ne credit allow kiya. Pehle ke apne hi decision ko follow kiya aur decide kiya ki delay ke bawajood credit mil sakta hai.",
+          "outcome": "Assessee",
+          "takeaway": "Agar Form 67 late ho gaya hai, to bhi apne foreign tax credit ka claim try kar sakte ho. Delay ke reason ko sahi se explain karo.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-ahmedabad-foreign-tax-credit-delayed-form-67-filing.html"
+        }
+      ]
+    },
     {
       "date": "2026-08-31",
       "cases": [
