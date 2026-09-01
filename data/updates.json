@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-08-31T01:31:01.176Z",
+  "last_updated": "2026-09-01T01:31:01.215Z",
   "digests": [
+    {
+      "date": "2026-09-01",
+      "summary": "Aaj mostly income tax aur GST par kuch tribunal/court rulings update hue hain. Koi major government notification ya due date nahi aayi hai.",
+      "items": [
+        {
+          "category": "Income Tax",
+          "headline": "115BAC Benefit Allowed Despite Late Return: ITAT Delhi",
+          "detail": "ITAT Delhi ne belated return file karne par bhi Section 115BAC ka benefit allow kiya. Delay condone karke assessee ki nayi regime ki choice maani gayi.",
+          "cga_view": "Agar client ka return late hai aur nayi regime choose karna hai, ab aise cases mein appeal ka option consider karo. Strict rejection zaroori nahi hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-delhi-section-115bac-benefit-belated-income-tax-return.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Foreign Commission - Section 40(a)(i) Disallowance Deleted",
+          "detail": "ITAT Ahmedabad ne ruling di ki foreign commission (bahar rendered services) par TDS ki zaroorat nahi thi, isliye disallowance hata diya.",
+          "cga_view": "Agar koi foreign payment TDS par doubt ho (services India ke bahar diye gaye hain), toh similar precedent refer kar sakte ho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-ahmedabad-deletes-section-40-disallowance-foreign-commission.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "148A Proceedings: Karnataka HC Ne Dubara Mauka Diya",
+          "detail": "Karnataka HC ne reassessment, demand aur penalties quash karke taxpayer ko 148A(b) notice ka response dene ka fresh mauka diya, deadline 15 September 2026.",
+          "cga_view": "148A(b) ka notice aaye toh time par respond zaroor karo. Court ne recent order mein taxpayer ko ek aur opportunity di hai, deadlines ignore na karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/karnataka-hc-restores-reassessment-section-148a-stage-sets-penalties.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "GSTAT: Deceased Proprietor Par GST Demand Set Aside",
+          "detail": "GSTAT Thiruvananthapuram ne 2017-18 ke ITC par retrospective Section 16(5) lagate hue mrtak proprietor par GST demand hata di.",
+          "cga_view": "Agar koi GST demand deceased proprietor ke naam par ho, toh is precedent ki copy department ko dikhao. ITC claim karne ka mauka hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/gstat-sets-gst-demand-against-deceased-proprietor-itc-section-16-5.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITC Allowed to Bonafide Purchaser: Calcutta HC",
+          "detail": "Calcutta HC ne bola invoice GSTR-2A mein reflect na hone par bhi agar aap bonafide ho toh ITC deny nahi kiya jaa sakta.",
+          "cga_view": "Agar supplier ki GSTR-3B non-filing ki wajah se ITC atka hai, toh is HC judgement ka reference likh kar department ko reply bhejein.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/top-stories/calcutta-hc-holds-itc-cannot-be-denied-to-bonafide-purchaser-merely-for-suppliers-non-filing-of-gstr-3b-read-order-1450583"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-08-31",
       "summary": "Aaj mostly GST aur Income Tax par focus hai, mostly High Court aur tribunal ke updates hain. Direct compliance kaam abhi ke liye kam hai, par kuch important legal developments note karo.",
