@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-09-02T02:00:26.936Z",
+  "last_updated": "2026-09-03T02:00:26.332Z",
   "days": [
+    {
+      "date": "2026-09-03",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "Karnataka High Court",
+          "case_name": "Brigade Enterprises Ltd Vs Additional Commissioner Income Tax (Karnataka High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "Ye case ek builder ka tha. Department ne company par notional rent ka tax laga diya jabki building ka abhi occupancy certificate hi nahi mila tha. Later, jab rent kamaaya to company ne wapas usko return mein dikhaya bhi.",
+          "issue": "Kya bina occupancy certificate wali building par notional rent ka tax lag sakta hai?",
+          "held": "Court ne bola, jab tak building ready nahi hai aur occupancy certificate nahi mila, tab tak notional rent lagana galat hai. Ye addition quash kar diya.",
+          "outcome": "Assessee",
+          "takeaway": "Agar building abhi tak officially use ke liye allowed nahi hai (occupancy certificate nahi hai), to us par notional rent add nahi hoga. Builder log apna OC ka status clearly record mein rakhein.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/karnataka-hc-quashes-notional-rent-tax-building-without-occupancy-certificate.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "Osho Developers Vs ACIT (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2014-15",
+          "section": "",
+          "facts": "Builder ne flats unsold chhod diye aur stock-in-trade mein dikhaya. Department ne un par bhi notional ALV se rent ka addition kar diya for A.Y. 2014-15.",
+          "issue": "Kya unsold flats (stock-in-trade) par notional rent addition valid hai?",
+          "held": "ITAT ne kaha, builder ke unsold flats par jab tak rent actual mein nahi aata, tab tak notional ALV se rent ka addition nahi ho sakta. Addition hata diya.",
+          "outcome": "Assessee",
+          "takeaway": "Jo flats stock-in-trade mein hain aur unsold hain, un par jab tak actual rent nahi mil raha, notional rent nahi lagega. Apni books mein position saaf dikhayein.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-mumbai-sets-alv-addition-unsold-flats-held-stock-trade.html"
+        },
+        {
+          "law": "Other",
+          "court": "Madras High Court",
+          "case_name": "D.Pitchairajan Vs Assistant Commissioner(ST)(FAC) (Madras High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "Ek proprietor ke marne ke baad bhi department ne GST assessment orders pass kiye. Family ne challenge kiya ki order galat hai.",
+          "issue": "Kya marne ke baad proprietor ke naam pe assessment ho sakta hai?",
+          "held": "Court ne bola, jab aadmi mar gaya, uske naam pe order pass nahi ho sakta. Pure assessment ko wapas bhej diya, lekin 10% deposit condition ke saath fresh proceedings ke liye bola.",
+          "outcome": "Assessee",
+          "takeaway": "Agar proprietor mar jaye, to GST assessment order bina legal heir ko notice diye valid nahi. Legal heirs timely information department ko de, warna fresh assessment ho sakta hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/madras-high-court-quashes-gst-assessment-orders-passed-proprietors-death.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "Pegasus Properties Pvt. Ltd. Vs DCIT (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2016-17",
+          "section": "",
+          "facts": "Company ne apne unsold flats ko stock-in-trade mein dikhaya. Department ne deemed rent add kar diya, jabki flats bika nahi tha.",
+          "issue": "Kya unsold flats (stock-in-trade) par deemed rent add ho sakta hai?",
+          "held": "ITAT ne decide kiya ki jab tak flat bika nahi hai ya rent pe nahi diya hai, deemed rent ka addition nahi ho sakta. Addition hata diya.",
+          "outcome": "Assessee",
+          "takeaway": "Developer apne unsold inventory par deemed rent se tension na le jab tak rent aane ki actual situation nahi hai. Apni return mein is position ko clear rakhein.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-mumbai-deletes-deemed-rent-unsold-flats-held-stock-trade.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Rajkot",
+          "case_name": "Dhanji Murji Hirani Vs ITO (ITAT Rajkot)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2019-20",
+          "section": "Section 151",
+          "facts": "Department ne reassessment open ki, lekin higher officer ka mandatory Section 151 approval unsigned tha aur bas mechanically diya gaya tha. Matlab officer ne dhyan se dekha hi nahi tha.",
+          "issue": "Kya reassessment valid hai jab Section 151 approval sahi se nahi mila?",
+          "held": "ITAT ne bola jab proper signed approval nahi hai aur officer ne soch samajh kar decision nahi diya, reassessment process radd kar diya.",
+          "outcome": "Assessee",
+          "takeaway": "Reassessment open karte waqt Section 151 ka approval signed and mindful hona chahiye. Agar aapko notice mile toh aap certified copy mang kar verify karein.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-rajkot-quashes-reassessment-unsigned-section-151-approval.html"
+        },
+        {
+          "law": "Other",
+          "court": "Punjab And Haryana High Court",
+          "case_name": "Kemexel Ecommerce Pvt. Ltd. Vs State of Punjab And Others (Punjab And Haryana High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "Section 75(4)",
+          "facts": "GST department ne taxpayer ka assessment pass kiya bina usko sunwaye. Taxpayer ne bola ki unko notice ya sunwayi ka mauka hi nahi mila.",
+          "issue": "Kya bina opportunity of hearing, assessment order valid hai?",
+          "held": "Court ne assessment order ko wapas bhej diya. Bola, bina mandatory hearing diye GST assessment nahi ho sakta under Section 75(4).",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapko GST assessment ka notice aaye, toh ensure karein ki aapko hearing ka clear mauka mile. Agar nahi mila, toh order ko High Court mein challenge kar sakte hain.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/high-court-sets-gst-assessment-denial-hearing-section-75-4.html"
+        }
+      ]
+    },
     {
       "date": "2026-09-02",
       "cases": [
