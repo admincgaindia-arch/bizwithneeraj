@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-09-02T01:31:02.096Z",
+  "last_updated": "2026-09-03T01:31:01.260Z",
   "digests": [
+    {
+      "date": "2026-09-03",
+      "summary": "Aaj mainly trade press se GST aur Income Tax ki kuch important updates aur court rulings aayi hain. Koi bhi official government release nahi, sirf trade reporting par hai; to business owners alert rahein, official notifications ka wait karein.",
+      "items": [
+        {
+          "category": "Income Tax",
+          "headline": "Form 3CD mein naye reporting rules: FY 2025-26 se",
+          "detail": "CBDT Notification No. 23/2025 ke mutabik, Form 3CD audit report mein April 2025 se kaafi updates aaye hain: presumptive taxation, MSME rules, loans, buybacks aur GST implications ka bhi reporting zaroori hai.",
+          "cga_view": "Agar aapka audit lagta hai, apne auditor se naye Form 3CD requirement jaldi samajh lo. Data gathering abhi se shuru karo, warna last moment mein dikkat hogi.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/tax-audit-fy-2025-26-guide-form-3cd.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GST advisories: GSTAT, e-Way Bill aur mining sector",
+          "detail": "July–August 2026 mein GST related departments—GSTAT benches, departmental appeal process, e-Way Bill rules aur mining sector enforcement pe updates aayi hain. Yeh sab advisories trade press mein aa rahi hain, official notification pending hai.",
+          "cga_view": "GST kaam dekhne wala staff latest advisories dekhe; lekin koi major compliance tab update kare jab official notification aaye. Mining sector wale especially alert rahein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-advisories-updates-gstat-gstn-cbic.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Deceased proprietor ke GST appeal par Andhra aur Orissa HC ruling",
+          "detail": "Andhra Pradesh aur Orissa High Court ne GST proceedings ko quash kiya jab proprietor mar chuka tha. Courts ne bola ki legal heir pe fresh action ho sakta hai, Section 93 ke under.",
+          "cga_view": "Agar kisi proprietor ke demise ke baad aap pe GST matter aaye, to legal opinion lo. Probate aur legal heir process clear rakho, old notices revert ho sakte hain.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/orissa-hc-quashes-gst-proceedings-initiated-against-deceased-proprietor.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-09-02",
       "summary": "Aaj GST aur Income Tax pe kai important rulings aayi hain, mostly ITAT aur tribunal level ki. Koi bhi official notification nahi hai.",
