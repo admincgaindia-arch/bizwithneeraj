@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-09-03T01:31:01.260Z",
+  "last_updated": "2026-09-04T01:31:00.736Z",
   "digests": [
+    {
+      "date": "2026-09-04",
+      "summary": "Aaj ke digest mein GST aur Income Tax ke kuch important court rulings hai jo compliance ko direct impact karenge. Business owners ko GST notices ke signature aur TDS property rules par dhyan dena zaroori hai.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "GST notice bina signature ke invalid: Rajasthan HC",
+          "detail": "Rajasthan HC ne unsigned GST SCN aur demand order ko quash kar diya, bola digital/physical signature mandatory hai Rule 26(3) CGST Rules ke tahat.",
+          "cga_view": "Aapko har GST notice ka sign check karna chahiye - bina sign/digital authentication wala notice invalid hai, aise mein turant legal help lo.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-notice-without-digital-physical-signature-invalid-rajasthan-hc.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GST default par BNS prosecution nahi ho sakta: Allahabad HC",
+          "detail": "Allahabad HC ne clarify kiya ki GST/TDS deposit default par sida BNS mein prosecution nahi ho sakta jab tak koi alag criminal offence nahi hai.",
+          "cga_view": "Agar sirf GST bhara nahi aur koi aur criminal charge nahi hai to aap par BNS ka prosecution direct nahi lagega. Lekin compliance regular rakhein.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-default-cannot-trigger-bns-prosecution-without-distinct-criminal-offence-allahabad-hc.html"
+        },
+        {
+          "category": "GST",
+          "headline": "ITC challenge delay par Kerala HC ne appeal kharij ki",
+          "detail": "Kerala HC ne ITC challenge reject kiya, kyunki taxpayer ne GSTR-3B/2A mismatch par remedy follow nahi ki aur delay bhi zyada tha.",
+          "cga_view": "ITC dispute ho to sabhi GST notices timely respond karo aur records ready rakho, warna claim reject ho sakta hai.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/kerala-hc-dismisses-itc-challenge-delay-failure-respond-gst-notices.html"
+        },
+        {
+          "category": "TDS",
+          "headline": "Joint property, har party ka ₹50L share se kam to TDS nahi",
+          "detail": "Delhi ITAT ne hold kiya ki Section 194-IA TDS tab nahi lagega jab joint buyers ka individual share ₹50 lakh se kam ho, chahe combined value zyada ho.",
+          "cga_view": "Joint property buy kar rahe ho to apne agreement mein individual share clearly mention karo. Agar aapka share ₹50 lakh se below hai, TDS ka issue nahi aayega.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/delhi-itat-tds-appeal-joint-property-purchase-rs-50-lakh-share.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "KPMG ko unbilled revenue write-off allow: ITAT Mumbai",
+          "detail": "Mumbai ITAT ne KPMG ka unbilled revenue write-off maan liya aur Section 40(a)(i) TDS disallowance reject kar di. Yeh case AY 2015-16 ka hai.",
+          "cga_view": "Agar aapke books mein unbilled revenue pending hai to similar facts mein write-off consider kar sakte ho, lekin detailed documentation ready rakhein.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-mumbai-kpmg-unbilled-revenue-write-off-ay-2015-16.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-09-03",
       "summary": "Aaj mainly trade press se GST aur Income Tax ki kuch important updates aur court rulings aayi hain. Koi bhi official government release nahi, sirf trade reporting par hai; to business owners alert rahein, official notifications ka wait karein.",
