@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-09-04T01:31:00.736Z",
+  "last_updated": "2026-09-05T01:31:09.038Z",
   "digests": [
+    {
+      "date": "2026-09-05",
+      "summary": "Aaj courts ne GST aur Income Tax ke kuch major rulings diye hain, mostly specific cases par. Official govt notification aaj kisi bhi compliance area mein nahi aayi.",
+      "items": [
+        {
+          "category": "Ruling",
+          "headline": "Madras HC: GST Order On Deceased Quashed",
+          "detail": "Madras High Court ne GST ka order, jo ek marhoom taxpayer ke naam pe tha, quash kar diya. Court ne bola, ab heirs ko sahi process follow karke notice dena hoga (Section 93, CGST Act).",
+          "cga_view": "Agar business owner ki death ho gayi hai, toh heirs ko prepare rehna chahiye ki GST department notice bhej sakta hai. Proper legal advice lein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/madras-hc-quashes-gst-order-passed-against-deceased-person-fresh-notice-heirs.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Kerala HC: ITC Denial Matter Dobara Dekha Jayega",
+          "detail": "Kerala High Court ne ek taxpayer ka Jan-Mar 2019 ka ITC deny karna quash kiya. Court ne bola department ko dobara Section 16(5) ke hisaab se consider karna hoga.",
+          "cga_view": "Agar aapka bhi past period ka ITC deny hua hai, toh is judgment ka reference dena useful ho sakta hai appeal mein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/kerala-hc-quashes-itc-denial-directs-reconsideration-section-16-5.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITAT: Diamond Grading Charges Pe TDS Nahin Lagega",
+          "detail": "ITAT Mumbai aur Surat dono ne bola ki diamond grading/certification charges pe TDS nahi katega, kyunki yeh Fees for Technical Services mein nahi aata agar technical skill transfer nahi hota.",
+          "cga_view": "Jewelry ya diamond business wale agar outside India se grading karwate hain, toh abhi aise services pe TDS na katega—lekin apne facts legal expert se check kar lein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-mumbai-diamond-grading-charges-not-fees-technical-services-no-tds-section-195.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Delhi ITAT: Payee Ne Tax Diya Toh TDS Ka Liability Nahi",
+          "detail": "Delhi ITAT ne bola, agar jo party ko payment hui usne sahi tarah tax pay kar diya toh payer ki TDS default ki liability nahi banti. Yeh Section 201 ki proviso ko apply karta hai.",
+          "cga_view": "Agar aap pe TDS short deduction ka notice aaya hai, toh payee ki filed ITR aur tax payment ka record zaroor dekh lein – yeh strong defence ban sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/delhi-itat-applies-proviso-section-201-1-relieves-payer-tds-default.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Delhi ITAT: Old Search Par New Satisfaction, 153C Assessment Quashed",
+          "detail": "Delhi ITAT ne 153C assessment quash kiya kyunki 2023 mein satisfaction record hua, court ne direct kiya ki assessment sirf 147/148 ke tahat ho sakta hai.",
+          "cga_view": "Agar recent case mein Section 153C ki notice mili ho toh is ruling ka reference assess kar sakte hain. Procedural ground pe relief mil sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/search-satisfaction-delhi-itat-quashes-section-153c-assessments.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-09-04",
       "summary": "Aaj ke digest mein GST aur Income Tax ke kuch important court rulings hai jo compliance ko direct impact karenge. Business owners ko GST notices ke signature aur TDS property rules par dhyan dena zaroori hai.",
