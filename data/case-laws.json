@@ -1,6 +1,91 @@
 {
-  "last_updated": "2026-09-05T02:00:28.259Z",
+  "last_updated": "2026-09-06T02:00:24.225Z",
   "days": [
+    {
+      "date": "2026-09-06",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "International Society for Krishna Consciousness Vs CIT (Exemptions) (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "ISKCON ka case tha. Income Tax department ne unki 12AB registration reject kar di thi. Unhone 80G renewal bhi maanga tha apni charitable activities ke liye.",
+          "issue": "Kya ISKCON ko 12AB registration aur 80G renewal milna chahiye jab unki charitable activities hain?",
+          "held": "ITAT Mumbai ne bola ki ISKCON ki activities charitable hai aur Section 2(15) ke proviso ke bahar hai. Court ne 12AB registration wapas laagu kar diya aur 80G renewal bhi de diya.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapki trust ki activities section 2(15) ke daayre mein clearly charitable hain, to department ka sirf itna kehna kaafi nahi ki 12AB ya 80G rok diya jaye. Appeal karo, detail explain karo ki kaam charitable hain.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-mumbai-sets-iskcon-12ab-rejection-grants-80g-renewal.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Jodhpur",
+          "case_name": "Dhukha Ram Vs ACIT (ITAT Jodhpur)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2016-17",
+          "section": "Section 115BBE",
+          "facts": "Dhukha Ram ka case hai. Survey mein unhone kuch paisa surrender kiya, department ne uspe section 115BBE ka high tax rate laga diya.",
+          "issue": "Kya survey surrender income par bina proper deeming section ke 115BBE lag sakta hai?",
+          "held": "ITAT Jodhpur ne bola ki 115BBE tabhi lagega jab income sections 68 to 69D ke andar laayi jaaye. Sirf surrender se nahi lag sakta.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapne survey mein kuch paisa surrender kiya aur department seedha 115BBE laga raha hai, toh check karo ki aapki income pehle sections 68-69D mein cover ho rahi hai ya nahi. Bina uske high rate nahi lag sakta.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-jodhpur-deletes-115bbe-rate-survey-surrender-without-deeming-provision.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Chennai",
+          "case_name": "Balaji Shopping World Vs ITO (ITAT Chennai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2023-24",
+          "section": "",
+          "facts": "Balaji Shopping World ka case hai. BSNL se trade discount mila. Department ne Form 26AS dekhkar ise commission bol diya aur Rs 48 lakh add kar diye.",
+          "issue": "Kya sirf Form 26AS mein dikhaane se koi receipt commission maan li jaye?",
+          "held": "ITAT ne bola, Form 26AS se decide nahi hota ki income ka nature kya hai. BSNL ka trade discount commission nahi hai, addition galat hai.",
+          "outcome": "Assessee",
+          "takeaway": "Aapke Form 26AS mein jo figures hain, zaroori nahi unka tax treatment wahi ho jo 26AS mein dikhe. Invoice, agreement, aur reality dekho. Sirf 26AS dekhke addition ho raha ho toh strong appeal banti hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-deletes-rs-48-09-lakh-addition-bsnl-receipts-form-26as-cannot-decide-nature-income.html"
+        },
+        {
+          "law": "Other",
+          "court": "Chhattisgarh High Court",
+          "case_name": "Morvi Nandan Healthcare Private Limited Vs State of Chhattisgarh (Chhattisgarh High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "Morvi Nandan Healthcare ka GST registration cancel ho gaya tha. Dept ne REG-17 notice diya par usme personal hearing ki date/time nahi batayi aur physical verification report bhi upload nahi ki gayi.",
+          "issue": "Kya bina personal hearing ka date/time diye registration cancel kar sakte hai?",
+          "held": "High Court ne GST cancellation radd kar di. Bola, bina personal hearing ka date/time diye aur bina physical verification ke cancellation valid nahi hai.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapka registration cancel ho aur aapko notice mein hearing ka mauka ya date/time na mile, turant writ file karo. REG-17 mein clearly dekh lo kya diya tha.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/chhattisgarh-hc-quashes-gst-cancellation-failure-date-time-personal-hearing.html"
+        },
+        {
+          "law": "Other",
+          "court": "Bombay High Court",
+          "case_name": "Mehadia & Sons C & F Division Vs Assistant Commissioner of CGST & Central Excise (Bombay High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "Section 73",
+          "facts": "Mehadia & Sons ke khilaaf consolidated GST notice aaya tha, jisme 2021-22 se 2023-24 tak ke alag alag saal cover kiye gaye the ek hi notice mein.",
+          "issue": "Kya ek hi notice mein multi-year GST demands daali ja sakti hain?",
+          "held": "Bombay High Court ne aisa notice radd kar diya. Bola, GST ka notice har saal alag alag honi chahiye. Department ko fresh, proper notice dene ko kaha.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapko consolidated GST notice mile jisme alag alag years covered hain, us notice ko challenge karo. Law ke hisaab se har year ke liye alag notice dena mandatory hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/bombay-hc-quashes-consolidated-gst-notice-covering-multiple-financial-years.html"
+        }
+      ]
+    },
     {
       "date": "2026-09-05",
       "cases": [
