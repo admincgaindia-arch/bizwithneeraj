@@ -1,6 +1,67 @@
 {
-  "last_updated": "2026-09-05T01:31:09.038Z",
+  "last_updated": "2026-09-06T01:31:07.500Z",
   "digests": [
+    {
+      "date": "2026-09-06",
+      "summary": "Aaj ka digest mostly ITAT aur High Court ke recent rulings pe based hai. GST aur Income Tax dono mein kuch important judgments aaye hain jo business owners ko check karne chahiye.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "Unsigned GST SCN/Order invalid: Rajasthan HC",
+          "detail": "Rajasthan High Court ne bola ki unsigned GST notice ya order valid nahi hai. Digital ya physical signature, Rule 26(3) ke hisaab se mandatory hai.",
+          "cga_view": "Agar apko koi unsigned GST notice mile toh turant is judgement ke basis pe usko challenge karein. Apne consultant ko dikhaen.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/unsigned-gst-show-notice-order-invalid-rajasthan-high-court.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Patna HC grants bail in GST evasion case",
+          "detail": "Patna High Court ne ₹73.75 crore GST evasion case mein bail grant ki, jabki Section 69 aur 132 lagaye gaye the. Yeh arrest process ko lekar ek important order hai.",
+          "cga_view": "Agar kisi pe GST evasion case chal raha hai ya arrest ka dar hai, toh is judgement ko lawyer ke saath discuss karein. Arrest ka process dhang se follow hona chahiye.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/patna-high-court-grants-bail-rs-73-75-crore-gst-evasion-case.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Wrong ITR nahi bana double tax ka base: ITAT",
+          "detail": "Chandigarh ITAT ne kahe ke galat ITR form se double taxation justify nahi hota. Same income pe do baar tax nahi lag sakta.",
+          "cga_view": "Agar aapne galti se wrong ITR file ki, toh department agar same income pe do baar tax maang raha hai toh definitely appeal karein. Proof rakhein ki income disclose ho chuki hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/wrong-itr-form-cannot-justify-double-taxation-itat-deletes-rs-26-69-lakh-form-26as-addition.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "BSNL receipts pe incorrect addition: ITAT Chennai",
+          "detail": "Chennai ITAT ne ruling di ki sirf Form 26AS dekh ke BSNL ki receipts ko commission nahi mana ja sakta.",
+          "cga_view": "Agar tax department Form 26AS ki basis pe hi income ka nature badal raha hai, toh yeh judgement refer karein. Receipts ki actual nature explain karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-deletes-rs-48-09-lakh-addition-bsnl-receipts-form-26as-cannot-decide-nature-income.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Section 56(2)(viib) not for genuine business acquisition",
+          "detail": "ITAT Delhi ne kaha ki jo shares business acquisition mein issue hue hain, unpe Section 56(2)(viib) nahi lagega. C L Educate Ltd ko relief mili.",
+          "cga_view": "Agar aapne shares business acquisition mein issue kiye hain toh yeh order ek precedent hai. Tax planning mein yeh point consider karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/shares-issued-business-acquisition-consideration-section-56-2-viib-itat-delhi.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Form 26AS pe penalty: ITAT fresh hearing ka order",
+          "detail": "ITAT Nagpur ne Section 270A penalty ko wapas fresh hearing ke liye bheja kyuki TDS calculation galat thi aur assessee ko pura suna nahi gaya tha.",
+          "cga_view": "Penalty matter mein agar department ne sahi tareeke se suna nahi ya computation galat kiya hai, toh appeal mein zarur jaayein. Procedural lapses important hain.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/form-26as-reveals-income-not-return-filing-itat-restores-section-270a-penalty.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-09-05",
       "summary": "Aaj courts ne GST aur Income Tax ke kuch major rulings diye hain, mostly specific cases par. Official govt notification aaj kisi bhi compliance area mein nahi aayi.",
