@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-09-06T02:00:24.225Z",
+  "last_updated": "2026-09-07T02:00:24.131Z",
   "days": [
+    {
+      "date": "2026-09-07",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "ITAT Kolkata",
+          "case_name": "Sandhya Roy Vs ITO (ITAT Kolkata)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2015-16",
+          "section": "",
+          "facts": "Sandhya Roy ka case tha. Unhone ek Joint Development Agreement (JDA) ki wajah se capital gains ka dispute uth gaya. CIT(A) ne taxpayer ke against faisla diya tha.",
+          "issue": "JDA se hone wale capital gains par sahi tarike se tax lagana hai ya nahi.",
+          "held": "ITAT Kolkata ne CIT(A) ka order radd kar diya. Saara matter wapas bhej diya fresh decision ke liye. Matlab ab case phir se merits par dekha jayega.",
+          "outcome": "",
+          "takeaway": "Agar aapka JDA capital gains ka matter court mein hai aur poora sunwai nahi hua, toh ITAT wapas bhej sakta hai. Saare documents ready rakho, kyunki fresh merits par decide hoga.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-kolkata-remands-jda-capital-gains-dispute-fresh-merits-adjudication.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "Rajesh Parasram Nichani Vs ITO (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2014-15",
+          "section": "Section 54",
+          "facts": "Rajesh Parasram Nichani ne ek property bechi thi. Unhone Section 54 ka benefit claim kiya, lekin poori investment nahi dikhayi. Department ne Rs. 5,25,923 ka penalty lagaya.",
+          "issue": "Kya Section 54 ke shortfall par penalty lag sakti hai agar wo asal saal mein taxable hi nahi tha?",
+          "held": "ITAT Mumbai ne penalty hata di. Court bola ki jo shortfall tha, wo us assessment year mein taxable hi nahi tha, isliye penalty bhi nahi lagni chahiye thi.",
+          "outcome": "Assessee",
+          "takeaway": "Agar Section 54 investment ka kuch part baad mein cover ho gaya, toh pehle year mein us par penalty nahi lagani chahiye. Penalty notice aaye toh actual taxable year check karo.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/section-54-shortfall-not-taxable-original-year-mumbai-itat-deletes-penalty.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Ahmedabad",
+          "case_name": "DCIT Vs Nirma Limited (ITAT Ahmedabad)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2018-19",
+          "section": "",
+          "facts": "Nirma Limited ka case tha. Company ne goodwill par depreciation claim kiya aur captive electricity aur steam supply ka value decide kiya. Department ne is valuation ko challenge kiya tha.",
+          "issue": "Kya goodwill par depreciation aur captive electricity/steam ka value sahi tariqe se decide hua hai?",
+          "held": "ITAT Ahmedabad ne company ka claim uphold kiya aur department ki appeal radd kar di. Goodwill par depreciation aur captive supply ka benchmarking theek maana gaya.",
+          "outcome": "Assessee",
+          "takeaway": "Agar company ne goodwill par depreciation claim kiya hai ya captive supply ka benchmarking properly kiya hai, toh department ki challenge bikhar sakti hai. Sab records aur calculation working tayyar rakho.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-ahmedabad-dismisses-revenue-appeals-goodwill-electricity-steam-valuation.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Jodhpur",
+          "case_name": "ITO Vs Varsha Mills (ITAT Jodhpur)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2017-18",
+          "section": "Section 69A",
+          "facts": "Varsha Mills ke case mein, demonetisation ke time cash deposit hua tha. Department ne Rs. 3.36 crore add kiya Section 69A under unexplained money, aur stock ka bhi value badha diya.",
+          "issue": "Kya demonetisation cash deposits ko unexplained income maan ke add kiya ja sakta hai?",
+          "held": "ITAT Jodhpur ne addition hata di aur stock revaluation par bhi taxpayer ko relief diya. Court ne damaged goods ke valuation ko accept kiya.",
+          "outcome": "Assessee",
+          "takeaway": "Demonetisation period mein cash deposit justify karna ho toh goods/stock ki actual condition ka proof rakhna zaroori hai. Damage ya low value properly document karo.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-jodhpur-deletes-rs-3-36-crore-section-69a-addition-demonetisation-cash-deposits.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Delhi",
+          "case_name": "ACIT Vs Acme Cleantech Solutions Pvt. Ltd. (ITAT Delhi)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2013-14",
+          "section": "",
+          "facts": "Acme Cleantech Solutions ne foreign currency loans liye the. Department ko laga ki interest rate bahut kam liya gaya hai. Department ne comparables add kiye aur Section 14A adjustment bhi kiya.",
+          "issue": "Foreign currency loan par interest rate kaise fix hoga? Aur kaun kaunsa comparable sahi hai?",
+          "held": "ITAT Delhi ne LIBOR+300 basis points ko theek mana. Galat comparables hataye aur Section 14A adjustment bhi hata di.",
+          "outcome": "Assessee",
+          "takeaway": "Foreign loan ya ECB par interest fix karte time LIBOR+300 basis rakho. Comparables sirf relevant industry ke hi rakho.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-delhi-upholds-libor-300-basis-points-foreign-currency-loans.html"
+        },
+        {
+          "law": "GST",
+          "court": "Rajasthan High Court",
+          "case_name": "Pokran Co-Operative Marketing Society Ltd Vs State of Rajasthan (Rajasthan High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "Pokran Co-Operative Marketing Society ka GST appeal late ho gaya tha. Delay ki wajah medical reason thi jo taxpayer ke control mein nahi thi.",
+          "issue": "Medical reason ki wajah se GST appeal delay ho to kya court usse condone kar sakta hai?",
+          "held": "High Court ne delay maaf kiya. Bola ki medical ground genuine hai, isliye case ki merits par sunwai hogi.",
+          "outcome": "Assessee",
+          "takeaway": "Agar GST appeal late ho jaye aur medical ya unavoidable reason ho, toh medical proof saath lagana mat bhoolo.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/rajasthan-hc-delayed-gst-appeal-citing-medical-reasons-taxpayers-control.html"
+        }
+      ]
+    },
     {
       "date": "2026-09-06",
       "cases": [
