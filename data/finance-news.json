@@ -1,0 +1,34 @@
+{
+  "last_updated": "2026-09-07T01:56:37.582Z",
+  "days": [
+    {
+      "date": "2026-09-07",
+      "items": [
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI ne mutual fund settlement propose kiya",
+          "effective": "",
+          "what": "SEBI ne mutual funds ke cash market transactions ke liye net settlement ka proposal manga hai. Abhi outright trades par fund obligations ko net settle karne ka idea hai, lekin securities ki settlement gross hi hogi.",
+          "who": "Yeh proposal mutual funds houses aur unke transaction handling teams ke liye hai.",
+          "action": "Aap mutual fund compliance ya settlement department se discuss karein. Agar aap suggestion dena chahte hain to apni industry body ya direct SEBI portal par response bhej sakte hain.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-proposes-net-settlement-funds-mutual-fund-cash-market-transactions.html"
+        },
+        {
+          "cat": "Other",
+          "authority": "IFSCA",
+          "ref": "",
+          "headline": "GIFT IFSC ne foreign currency mobilisation highlight kiya",
+          "effective": "",
+          "what": "IFSCA ne bataya ki GIFT IFSC banking units ne $52.8 billion FCNR(B) swap, $11.62 billion ECB aur $11.12 billion bond listing ki hai. Foreign currency resources tezi se mobilise ho rahe hain.",
+          "who": "Jo companies ya banks GIFT City IFSC mein operations karte hain, ya foreign currency financing dekh rahe hain unke liye hai.",
+          "action": "Agar aapki company IFSC transactions mein involved hai to latest mobilisation numbers par nazar rakhein. Agar fund raising plan hai to GIFT City opportunities check karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/ifsca-highlights-gift-ifsc-foreign-currency-mobilisation-exceeding-usd-52-8-billion.html"
+        }
+      ]
+    }
+  ]
+}
