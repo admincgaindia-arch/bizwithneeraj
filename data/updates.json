@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-09-06T01:31:07.500Z",
+  "last_updated": "2026-09-07T01:31:00.695Z",
   "digests": [
+    {
+      "date": "2026-09-07",
+      "summary": "Aaj GST aur Income Tax par mostly judicial updates aayi hain, compliance changes ki news nahi hai. Sab items trade press se hain.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "GST Penalty on Goods Without E-Way Bill: GSTAT Order",
+          "detail": "GSTAT Lucknow ne Section 129(3) ke tahat bina E-Way Bill ke iron scrap le jaane par tax aur same amount ka penalty barkarar rakha hai.",
+          "cga_view": "Agar aap goods transport karte hain, hamesha valid E-Way Bill banwayein, warna same amount ka penalty lag sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gstat-restores-section-129-penalty-iron-scrap-moved-without-bill.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GSTR-3B aur GSTR-2A ITC Mismatch: GSTAT ne Dubara Verification Order Diya",
+          "detail": "Bengaluru GSTAT ne FY 2018-19 ka ek ITC mismatch case invoice-wise fresh verification aur personal hearing ke liye dobara adjudication par bheja hai.",
+          "cga_view": "Agar ITC mismatch ka notice aaye to har invoice ka record ready rakhein aur personal hearing miss na karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gstat-remands-gstr-3b-gstr-2a-itc-mismatch-fresh-verification.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Income Tax Refund: Pehle Interest, Baad Mein Principal Adjust Hoga",
+          "detail": "Mumbai ITAT ne decide kiya hai ki Section 244A ke tahat income tax refund pehle interest dues se adjust hoga, uske baad principal tax se.",
+          "cga_view": "Agar aap refund expect kar rahe hain aur interest mila hai, to pehle interest adjustment check karein, uske baad hi main tax refund aayega.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-directs-interest-income-tax-refund-adjustment-section-244a.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-09-06",
       "summary": "Aaj ka digest mostly ITAT aur High Court ke recent rulings pe based hai. GST aur Income Tax dono mein kuch important judgments aaye hain jo business owners ko check karne chahiye.",
