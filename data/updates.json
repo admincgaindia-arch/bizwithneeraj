@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-09-07T01:31:00.695Z",
+  "last_updated": "2026-09-08T01:31:00.336Z",
   "digests": [
+    {
+      "date": "2026-09-08",
+      "summary": "Aaj mainly GST aur Income Tax compliance pe kuch important updates aur 2 latest court judgments aaye hain. Abhi sab trade press sources hain, toh final implementation dekhte raho.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "GSTN ne NIL demand orders pe appeal allow kiya",
+          "detail": "GSTN portal ab Form GST APL-01 file karna allow karta hai, even agar demand order mein NIL/Zero amount dikha hai. Pehle restriction tha, abhatta diya gaya hai.",
+          "cga_view": "Agar aapke upar nil demand ka order aaya ho aur aap challenge karna chahte ho, toh ab portal pe appeal daal sakte ho. Dhyan rahe ki actual order upload hua ho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gstn-enables-appeals-against-nil-demand-orders.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Same GSTIN pe stock transfer: e-way bill na ho toh bhi penalty nahi",
+          "detail": "Kerala GSTAT ne bola, agar same GSTIN ki branches ke beech stock transfer hua aur tax payable nahi hai toh Section 129 ki penalty nahi lagegi, chahe e-way bill bana ya nahi.",
+          "cga_view": "Internal branch transfer pe penalty ka risk kam hua, par ye sirf Kerala ka order hai. Dusre states mein check kar lo ki local officer ka kya view hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/no-bill-internal-stock-transfer-no-section-129-penalty.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITC rectification: Calcutta HC ne timeline extension allow kiya",
+          "detail": "Calcutta High Court ne ruling diya ki ITC rectification ke liye Section 16(5) ke time limits ko government notification restrict nahi kar sakte. Taxpayer ka benefit decide kiya gaya.",
+          "cga_view": "Agar ITC rectify/claim karne ka time miss hua hai toh ab legal option stronger hai, lekin abhi yeh sirf Calcutta HC jurisdiction mein directly apply hoga. National applicability ka wait karo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/calcutta-hc-extension-itc-rectification-time-section-16-5.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-09-07",
       "summary": "Aaj GST aur Income Tax par mostly judicial updates aayi hain, compliance changes ki news nahi hai. Sab items trade press se hain.",
