@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-09-08T02:00:25.445Z",
+  "last_updated": "2026-09-09T02:00:22.630Z",
   "days": [
+    {
+      "date": "2026-09-09",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "ITAT Delhi",
+          "case_name": "ACIT Vs Discovery Networks Asia-Pacific Pte Limited (ITAT Delhi)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2020-21",
+          "section": "Section 270A (penalty for under-reporting of income)",
+          "facts": "Ye Discovery Networks Asia-Pacific ka case tha. Inhone foreign receipts dikhaye the, par unki taxability DTA Agreement ke chalte debatable thi. Sab kuch disclose kar diya tha, phir bhi department ne penalty laga di.",
+          "issue": "Kya jab poore paisey disclose ho gaye ho aur sirf treaty ka dispute ho, to penalty lag sakti hai?",
+          "held": "ITAT ne penalty hata di kyunki sab kuch disclose kiya tha aur treaty ka issue debatable tha. Galat jaankari ya chhupaya kuch nahi tha.",
+          "outcome": "Assessee",
+          "takeaway": "Agar treaty ya law debatable ho aur disclosure poora ho, to section 270A ki penalty nahi lagti. Disclosure karne mein kabhi bhi dar na rakho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-delhi-deletes-section-270a-penalty-fully-disclosed-disputed-treaty-income.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "Gujarat High Court",
+          "case_name": "Yash Nirupam Nanavaty Vs ITO (Gujarat High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "Section 148 (reassessment notice)",
+          "facts": "Yeh case ek deceased person ka tha. Department ne section 148 ka notice aur objection order unki death ke baad bhi unhi ke naam par bhej diya tha.",
+          "issue": "Kya marne ke baad bhi kisi ke naam pe sec 148 notice jaari ho sakta hai?",
+          "held": "Court ne notice aur objection order dono radd kar diye. Bola ki deceased ke naam pe koi action valid nahi hai.",
+          "outcome": "Assessee",
+          "takeaway": "Agar notice kisi mar chuke aadmi ke naam se aaye, to turant court jao. Wo notice valid nahi hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/gujarat-hc-quashes-section-148-notice-issued-against-deceased-assessee.html"
+        },
+        {
+          "law": "Other",
+          "court": "Andhra Pradesh High Court",
+          "case_name": "Vishwa Vinayaka Build Tech Vs State of Andhra Pradesh (Andhra Pradesh High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "Ye case ek builder ka tha jinke khilaf GST department ne ek hi order me kai assessment years ka settlement kar diya. Company ne is composite order ko challenge kiya.",
+          "issue": "Kya multiple years ka GST ek hi order me settle ho sakta hai?",
+          "held": "High Court ne composite order ko radd kar diya aur bola ki alag alag proceedings honi chahiye. Saath me ye bhi bola ki appeal karo to 30% penalty pehle jama karao.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapke khilaf ek hi order me kai years ka GST nikal diya ho, to alag alag proceedings ki demand karo. Appeal me 30% penalty deposit taiyaar rakho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/ap-hc-quashes-composite-gst-order-covering-multiple-assessment-years.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "Calcutta High Court",
+          "case_name": "PCIT Vs Syama Prasad Mookherjee Port (Calcutta High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "Section 260A (appeal against ITAT order)",
+          "facts": "Ye port trust ka case tha. Trust ne superannuation fund me ad hoc paisa dala kyunki actuarial deficit tha, par yeh contribution Rule 87 ki limit se jyada tha. Department ne isko challenge kar diya.",
+          "issue": "Kya actuarial deficit ke chalte Rule 87 se upar superannuation fund ka paisa dalna allowed hai?",
+          "held": "High Court ne assesssee ki side li aur deduction allow ki. Bola ki actuarial deficit ko pura karna permitted hai, chahe limit cross ho jaye.",
+          "outcome": "Assessee",
+          "takeaway": "Agar company ko actuarial deficit ki wajah se jyada contribute karna pad raha ho, to wo bhi taxable income se deduce kar sakte ho. Par proper actuarial calculation dikhani hogi.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/calcutta-hc-upholds-ad-hoc-superannuation-fund-contribution-actuarial-deficit.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "DCIT Vs Pfizer Limited (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2019-20",
+          "section": "TDS",
+          "facts": "Pfizer Limited ne year end par kuch expenses ke liye provision banayi, lekin us vaqat na to payee confirm tha na hi liability fix thi. Department ne TDS ki demand utha di.",
+          "issue": "Kya aise provisions par, jahan payee aur amount final nahi, TDS katega?",
+          "held": "ITAT ne department ki demand radd kar di. Bola ki jab tak expenditure fix na ho aur payee clear na ho, TDS obligation nahi banta.",
+          "outcome": "Assessee",
+          "takeaway": "Jab provision bana rahe ho par us waqt payee ya amount final nahi, to TDS ka tension mat lo. TDS tabhi katega jab sab final ho jaye.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-mumbai-deletes-tds-demand-unascertained-year-expense-provisions.html"
+        },
+        {
+          "law": "Other",
+          "court": "Bombay High Court",
+          "case_name": "NICO Extrusions Ltd. Vs Union of India & Anr. (Bombay High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "NICO Extrusions ka GST refund claim tha, par department ne bina sahi sunwai ke order pass kar diya. Company ne challenge kiya ki natural justice ka breach hua hai.",
+          "issue": "Kya bina sahi sunwai ke refund claim ka order valid hai?",
+          "held": "Bombay High Court ne pehle order radd kar diya aur case wapas department ko bhej diya ki dubara sunwai ho.",
+          "outcome": "",
+          "takeaway": "Agar apka GST refund ya koi bhi order bina sahi sunwai ke aata hai, to court ka sahara lo. Fresh sunwai ki demand karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/bombay-hc-remands-pre-deposit-gst-refund-claim-natural-justice-breach.html"
+        }
+      ]
+    },
     {
       "date": "2026-09-08",
       "cases": [
