@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-09-09T01:31:01.009Z",
+  "last_updated": "2026-09-10T01:31:03.995Z",
   "digests": [
+    {
+      "date": "2026-09-10",
+      "summary": "Aaj mostly Income Tax tribunal aur court rulings aaye hain. GST/MCA ka official update nahi mila.",
+      "items": [
+        {
+          "category": "Ruling",
+          "headline": "Section 142A se assessment time extend nahi kar sakte: Gujarat HC",
+          "detail": "Gujarat High Court ne kaha ki Section 142A ka use sirf assessment ke limitation period khatam hone se pehle nahi ho sakta, authority ne limitation artificially badhane ki koshish ki.",
+          "cga_view": "Agar assessment mein valuation reference aaye last moment pe, toh usko challenge karne ka scope hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/section-142a-cannot-artificially-extend-assessment-limitation-gujarat-hc.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Retrospective 12AB cancellation pre-2022 violations par nahi ho sakti: ITAT Delhi",
+          "detail": "ITAT Delhi ne decide kiya ki Finance Act 2022 ki 12AB registration cancellation provisions ko past (pre-2022) violations pe lagu nahi kiya ja sakta.",
+          "cga_view": "Agar trust/NGO ka registration cancel hua hai to dekhein ki kya purane violation ka ground use kiya gaya hai. Appeal consider karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-delhi-quashes-retrospective-12ab-cancellation-pre-2022-violations.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITAT: Cash sales pe 69A addition se pehle GST/VAT record check honi chahiye",
+          "detail": "ITAT Bangalore ne ₹1.43 crore Section 69A addition remand ki, aur bola ki AO pehle VAT/GST returns aur sales ki record verify karein.",
+          "cga_view": "Agar aapki cash sales pe Section 69A ka issue hai, toh GST/VAT records ready rakhein, usi pe aapko relief mil sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-rejects-69a-addition-without-examining-gst-vat-records-cash-sales.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-09-09",
       "summary": "Aaj ke digest mein kuch GST aur Income Tax rulings aur updates hain jo business owners aur accountants ko yaad rakhni chahiye. Sabhi items trade press se aayi hain, toh filhaal official notification ka intezaar bhi hai.",
