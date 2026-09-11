@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-09-10T02:00:24.993Z",
+  "last_updated": "2026-09-11T02:00:25.604Z",
   "days": [
+    {
+      "date": "2026-09-11",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "ITAT Raipur",
+          "case_name": "DCIT Vs Anand Kumar Agarwal (ITAT Raipur)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2019-20",
+          "section": "Section 148",
+          "facts": "Yahan assessee ko section 148 ka notice diya gaya tha, lekin sirf 90 din file karne ka samay diya tha jabki kanoon mein poore 3 mahine milne chahiye thay. Department ne notice jaldi file karne ko bola.",
+          "issue": "Kya section 148 notice, jo poora 3 mahine nahi, sirf 90 din deta hai, sahi hai?",
+          "held": "ITAT ne bola ki notice mein kam samay diya gaya, isliye reassessment radd kar diya. Section 148 ke hisaab se poora time milna chahiye.",
+          "outcome": "Assessee",
+          "takeaway": "Agar section 148 notice full 3 mahine ka time nahi deta to aap reassessment ko challenge kar sakte ho.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/section-148-notice-giving-shorter-filing-period-invalid-itat-raipur-quashes-reassessment.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Kolkata",
+          "case_name": "DCIT Vs Santosh Promoters private Limited (ITAT Kolkata)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2012-13",
+          "section": "",
+          "facts": "Santosh Promoters ne derivative loss, Section 50C aur Form 26AS se related additions ko challenge kiya. Department ne yeh sab add kiya tha.",
+          "issue": "Kya derivative loss, Section 50C ya Form 26AS ki additions sahi thi?",
+          "held": "ITAT ne additions hata di aur Revenue ki appeal kharij kar di. Saaf bola ki yeh sab additions valid nahi hain.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapke case mein similar additions hai, to latest ITAT decisions ka reference diya ja sakta hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-kolkata-upholds-deletion-additions-derivative-loss-section-50c.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Delhi",
+          "case_name": "Chemical Agencies Vs Office of The ACIT (ITAT Delhi)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2019-20",
+          "section": "Section 143(3), Section 153D",
+          "facts": "Yahan survey ke baad assessment kiya gaya tha aur section 153D ki approval li gayi thi. Department ne survey case mein bhi same approval ka process follow kiya.",
+          "issue": "Kya survey assessment mein section 153D approval lena zaroori hai?",
+          "held": "ITAT ne bola section 153D survey cases mein lagu nahi hota, isliye assessment radd kar diya.",
+          "outcome": "Assessee",
+          "takeaway": "Survey ke baad agar department section 153D approval lekar assessment kare to aap is ground par order challenge kar sakte ho.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/section-153d-approval-invalid-survey-assessment-itat-delhi-quashes-section-143-3-order.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Delhi",
+          "case_name": "Pradeep Kumar Agarwalla Vs DCIT (ITAT Delhi)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2021-22",
+          "section": "Section 143(3), Section 148",
+          "facts": "Pradeep Kumar Agarwalla ke yahan search hua tha. Department ne directly assessment kiya bina section 148 process follow kiye.",
+          "issue": "Kya search ke baad bina section 148 notice diye assessment ho sakta hai?",
+          "held": "ITAT ne bola search ke baad assessment ke liye section 148 ka route follow karna mandatory hai. Isliye direct assessment radd kiya.",
+          "outcome": "Assessee",
+          "takeaway": "Agar search ke baad section 148 ka notice nahi diya, to aap assessment ko radd karwa sakte ho.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/search-assessment-requires-section-148-route-itat-delhi-quashes-section-143-3-order.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "Kundali Jewels (India) Pvt. Ltd. Vs ITO 12 (3)(1) (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2012-13",
+          "section": "Section 68",
+          "facts": "Kundali Jewels par bogus share capital aur purchases ka issue tha. Department ne puri share capital ko fake maana aur bogus purchases ko bhi disallow kiya tha.",
+          "issue": "Kya poora share capital aur purchases bogus maane jaa sakte hain?",
+          "held": "ITAT ne share capital ki addition hata di aur bogus purchases sirf 5% tak hi maani. TDS aur expense issues wapas bhej diye.",
+          "outcome": "Assessee",
+          "takeaway": "Agar department poori bogus purchase ya share capital bana de, to aap partial relief expect kar sakte ho, jaise yahan hua.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/section-68-share-capital-addition-deleted-bogus-purchases-restricted-5-percent-mumbai-itat.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "Asian Paints Limited Vs DCIT (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2016-17",
+          "section": "Section 36(1)(vii)",
+          "facts": "Asian Paints ne dealer trips, Colour Idea stores aur incentives ko business expense maana tha. Department ne doubtful debts ke provision par question kiya.",
+          "issue": "Kya yeh sab business expenses deduct ho sakte hain?",
+          "held": "Court ne Asian Paints ki business expenses allow kar di, court ne relevant Supreme Court judgements dekhe. Provision for doubtful debts bhi consider kiya.",
+          "outcome": "Assessee",
+          "takeaway": "Dealer trips, marketing stores aur incentives properly document hone par expense maana ja sakta hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/asian-paints-dealer-trips-colour-idea-stores-incentives-allowed-business-expenses.html"
+        }
+      ]
+    },
     {
       "date": "2026-09-10",
       "cases": [
