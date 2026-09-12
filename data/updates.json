@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-09-11T01:31:05.437Z",
+  "last_updated": "2026-09-12T01:31:00.960Z",
   "digests": [
+    {
+      "date": "2026-09-12",
+      "summary": "Aaj mostly High Court rulings ki updates hain, GST notices aur Income Tax show cause notice par focus hai. Compliance ke liye show cause process par dhyan dein.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "Kerala HC ne multiple years ki GST notice khatam ki",
+          "detail": "Kerala High Court ne composite GST notice ko quash kiya, jo multiple financial years ko cover karti thi. Ab department nayi year-wise proceedings start kar sakta hai, specified limitation period ko exclude karke.",
+          "cga_view": "Agar aapko bhi ek hi GST notice mein kai saal ka matter mila hai, to is ruling ka fayda uthaiye – courts usse quash kar rahe hain. Notice ka analysis karwana chahiye.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/kerala-hc-quashes-composite-gst-notice-covering-multiple-years.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Calcutta HC ne ek saal se zyada ki GST notice radd ki",
+          "detail": "Calcutta High Court ne GST show cause notice ko radd kar diya jo multiple years ko ek hi notice mein cover kar rahi thi. Courts yahan jurisdiction ki kami dekh rahe hain.",
+          "cga_view": "Agar aapko ek hi GST notice mein kai saal ka pucha gaya hai, to legal advice lekar challenge consider karein – similar notices khatam ho rahi hain.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/calcutta-hc-quashes-single-gst-notice-covering-multiple-financial-years.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Bombay HC ne TPO order sirf SCN na dene par quash kiya",
+          "detail": "Bombay High Court ne TPO ka order cancel kar diya kyunki taxpayer ko mandatory show cause notice nahi diya gaya tha. Ab dubara fresh hearing hogi.",
+          "cga_view": "Agar aapko bina proper SCN ke koi Income Tax ya TPO order mila hai, to aapko bhi similar ground par relief mil sakta hai – legal options explore karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/bombay-hc-quashes-tpo-order-failure-serve-mandatory-scn.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-09-11",
       "summary": "Aaj ke din mostly tax case law updates aaye hain, sab trade press sources se. Implementation pe focus rakho, detailed notifications ka intezaar bhi karo.",
