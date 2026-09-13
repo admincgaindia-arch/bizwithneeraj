@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-09-12T02:00:28.825Z",
+  "last_updated": "2026-09-13T02:00:24.694Z",
   "days": [
+    {
+      "date": "2026-09-13",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "St. Ignatius Church Vs CIT (Exemptions) (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2026-27",
+          "section": "",
+          "facts": "Ek church ki trust ne apni 12AB exemption renewal ke liye apply kiya. Department ne trust deed mangi lekin trust doosre documents se apni charitable activities dikhata tha.",
+          "issue": "Kya trust deed dikhana mandatory hai 12AB renewal ke liye?",
+          "held": "Court ne bola ki agar aapke paas dusre documents hain jo trust ki charitable nature ko prove karte hain, to sirf trust deed na hone par exemption mana nahi kiya ja sakta.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aap trust chala rahe hain aur aapke paas trust deed nahi hai, to renewal ke liye apne charitable activities ke aur documents rakh lo, kaam ho jayega.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/trust-deed-not-mandatory-12ab-renewal-itat-mumbai-appeal.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "Green Valley Homes Developers Pvt Ltd. Vs DCIT (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2012-13",
+          "section": "Section 68",
+          "facts": "Developer company par ₹5.99 crore ka loan bogus batakar Section 68 mein addition kar diya gaya. Revenue sirf investigation material par tike bina khud check kiye.",
+          "issue": "Kya Section 68 mein addition justified hai bina proper verification ke?",
+          "held": "Court ne bola bina independent checking ke sirf investigation report par addition nahi ho sakta. Loan addition aur uska interest dono hata diya.",
+          "outcome": "Assessee",
+          "takeaway": "Section 68 mein addition tabhi hoga jab department khud verify kare. Sirf kisi aur ki report se kaam nahi chalega.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-mumbai-deletes-rs-5-99-crore-section-68-loan-addition-lack-verification.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "DCIT-17(1) Vs Parth Constructions (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2013-14",
+          "section": "Section 68",
+          "facts": "Builder par unsecured loan ko bogus batakar ₹1.62 crore Section 68 mein jod diya gaya. Assessee ne lender ki identity, creditworthiness, aur transaction ki genuineness ke documents dikhaye.",
+          "issue": "Kya Section 68 ka addition sahi hai jab sab proof mil jayein?",
+          "held": "Court ne bola jab assessee ne lender ki saari details aur proof dikha diye to addition nahi ho sakta.",
+          "outcome": "Assessee",
+          "takeaway": "Agar loan liya hai to lender ke PAN, bank statement aur transaction ka proof bana ke rakho. Inquiry aaye to wohi dikhana hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-mumbai-deletes-section-68-addition-unsecured-loans-proved-documentary-evidence.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Panaji",
+          "case_name": "Salgaocar Mining Industries Private Limited Vs JCIT (ITAT Panaji)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2011-12",
+          "section": "Section 41(1)",
+          "facts": "Mining company ke upar liability ko Section 41(1) ke tahat taxable manna gaya, kyunki department ko laga liability khatam ho gayi hai.",
+          "issue": "Kya Section 41(1) ka addition tab ho sakta hai jab liability abhi bhi outstanding hai?",
+          "held": "Court ne bola jab tak liability actually khatam nahi hoti, Section 41(1) mein addition sahi nahi. Yahan koi cessation nahi tha to addition hata diya.",
+          "outcome": "Assessee",
+          "takeaway": "Aapki old liability agar books mein abhi bhi dikh rahi hai aur settle nahi hui, to us par Section 41(1) ka tax nahi lagta.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-panaji-deletes-section-41-1-addition-no-cessation-liability.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "NTT India Private Limited Vs Assessment Unit/NFAC/DCIT (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2018-19",
+          "section": "",
+          "facts": "Company par ₹93.23 crore ka management fee transfer pricing adjustment laga diya gaya. Assessee ne entity-level margin compare karne ki baat uthayi.",
+          "issue": "Kya management fee adjust karte samay entity-level comparison thik hai?",
+          "held": "Court ne bola ki TNMM (entity level margins) sahi hai, management fee ka addition hata diya. 80G aur TDS wale issues AO ko wapas bhej diye.",
+          "outcome": "Assessee",
+          "takeaway": "Transfer pricing mein agar pure business level ka margin comparable hai to alag se management fee ka adjustment nahi hona chahiye.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-mumbai-deletes-rs-93-23-crore-management-fee-tp-adjustment-related-grounds.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Hyderabad",
+          "case_name": "Kilaru Venkata Satish Vs DCIT (ITAT Hyderabad)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2018-19",
+          "section": "Section 151",
+          "facts": "Assessee ke khilaf reassessment notice 3 saal se zyada time baad issue hui. Approval Section 151(ii) ke according sahi authority ne nahi di.",
+          "issue": "Kya 3 saal baad approval galat authority se mile to reassessment valid hai?",
+          "held": "Court ne bola ki approval agar galat officer se mile to reassessment notice radd hoga, chahe time limit ke baad ho.",
+          "outcome": "Assessee",
+          "takeaway": "3 saal baad reassessment ka approval sirf proper officer se hi liya ja sakta hai. Verification form pe dhyan dena zaroori hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-hyderabad-quashes-reassessment-invalid-section-151-approval-years.html"
+        }
+      ]
+    },
     {
       "date": "2026-09-12",
       "cases": [
