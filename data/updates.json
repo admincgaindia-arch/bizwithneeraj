@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-09-12T01:31:00.960Z",
+  "last_updated": "2026-09-13T01:31:00.715Z",
   "digests": [
+    {
+      "date": "2026-09-13",
+      "summary": "Aaj mainly GST ke practical court rulings aur ek important Income Tax ka TDS issue discuss hua hai. MCA se related koi fresh official update nahin hai.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "ITC Refund: Section 73/74 bina refund rok nahi sakte",
+          "detail": "GSTAT Ernakulam ne bola ki agar section 73/74 ki proper proceedings nahi hui, toh ITC eligibility ke basis pe refund deny nahi kiya ja sakta. Ye inverted duty refund matter mein bola gaya hai.",
+          "cga_view": "Agar aap refund claim kar rahe hain aur department bina proper showcause notice ke rok raha hai, toh apne consultant se legal remedy explore karen.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/itc-refund-cannot-denied-without-section-73-74-determination-gstat-ernakulam.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Year-end expense provision par TDS nahi katega: ITAT Mumbai",
+          "detail": "ITAT Mumbai ne decide kiya ki year end expense provision pe TDS aur interest nahi lagega, kyunki actual payment ya credit nahi hua tha. Yeh Pfizer India ka case tha.",
+          "cga_view": "Agar aap bhi sirf provision bana rahe hain bina payment ya party account credit kiye, toh abhi TDS katne ki zarurat nahi lagti, par apne facts ko cross-check karo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/year-expense-provisions-not-liable-tds-itat-mumbai.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Advance Ruling ke liye fee pay na ho toh application reject",
+          "detail": "Karnataka AAR ne kuch applications sirf isliye reject kar di kyunki prescribed fee nahi jama hui thi, merits pe baat hi nahi hui.",
+          "cga_view": "Agar Advance Ruling file kar rahe ho, toh ensure karo ki saari statutory fee time pe bhar di ho - warna case directly reject ho sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/karnataka-aar-rejects-gst-advance-ruling-application-fee-non-compliance.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-09-12",
       "summary": "Aaj mostly High Court rulings ki updates hain, GST notices aur Income Tax show cause notice par focus hai. Compliance ke liye show cause process par dhyan dein.",
