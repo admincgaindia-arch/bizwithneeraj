@@ -1,6 +1,59 @@
 {
-  "last_updated": "2026-09-07T01:56:37.582Z",
+  "last_updated": "2026-09-14T08:44:54.687Z",
   "days": [
+    {
+      "date": "2026-09-14",
+      "items": [
+        {
+          "cat": "Loan",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/2026-27/256 FIDD.CO.PSD.BC.No.10/04.09.001/2026-27",
+          "headline": "Priority Sector Lending mein kuch advances ab ANBC se bahar",
+          "effective": "September 11, 2026",
+          "what": "RBI ne clarify kiya hai ki kuch specific FCNR(B) aur NRE term deposit ke against diye gaye advances, kuch dinon ke liye, ANBC (Adjusted Net Bank Credit) calculation se bahar rahenge. Ye sirf deposits ke renewal/maturity ki specific dates ke beech apply hoga.",
+          "who": "Sabhi banks jinmein FCNR(B) ya NRE deposit hain aur jo ANBC calculation karte hain.",
+          "action": "Aapke bank ko check karna chahiye ki aapke advances ka calculation sahi ho, especially agar FCNR(B) ya NRE deposits ke against advance diya gaya hai. Bank compliance team is change ko apne PSL calculation process mein update karein.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13698&Mode=0"
+        },
+        {
+          "cat": "Loan",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "RBI ne ARC se judi FAQs issue ki, roles clear kiye",
+          "effective": "",
+          "what": "RBI ne asset reconstruction companies (ARC) ke operations par FAQs release kiye hain. Isme clarify kiya gaya hai ki ARC kya activity kar sakte hain, NBFC ke taur par unka role kya hai, KYC aur servicing arrangements kaise honge.",
+          "who": "Asset reconstruction companies (ARC), unse deal karne wale bankers aur professionals.",
+          "action": "Jo bhi ARC sector mein kaam kar rahe hain, RBI ki latest FAQs ko dhyan se padhein, compliance aur activity planning accordingly karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/rbi-faqs-asset-reconstruction-companies-arcs.html"
+        },
+        {
+          "cat": "Loan",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "Priority Sector Lending pe FAQs jari, classification clarify hua",
+          "effective": "",
+          "what": "RBI ne Priority Sector Lending guidelines par FAQs publish kiye hain. Isme explain kiya gaya hai ki kaunse loans PSL maanenge, calculation kaise hogi, aur agriculture, education, housing waale sectors mein kya rules lagenge.",
+          "who": "Banks, NBFCs, aur jo log PSL compliance ya reporting mein jude hain.",
+          "action": "PSL se jude professionals apne institution ke lending products ko is latest clarification se match kar lein. FAQs zaroor padhein, compliance gap check karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/faqs-priority-sector-lending-targets-classification.html"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "Ministry of Cooperation",
+          "ref": "",
+          "headline": "Sahara refund portal fir se chalu, claims process resume hua",
+          "effective": "",
+          "what": "Ministry ne CRCS-Sahara Refund Portal ko wapas chalu kiya hai. Ab genuine depositors apne claim online, Aadhaar ke through verify kara sakte hain. Pending refund ab process kiye jayenge.",
+          "who": "Wo depositors jinhone Sahara/CRCS mein paisa jama kiya tha aur abhi unka refund pending hai.",
+          "action": "Aise depositors ko portal par login kar ke apna claim wapas file/verify karna chahiye. Aadhaar aur related documents ready rakhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/ministry-restores-crcs-sahara-refund-portal-expedite-genuine-depositors-claims.html"
+        }
+      ]
+    },
     {
       "date": "2026-09-07",
       "items": [
