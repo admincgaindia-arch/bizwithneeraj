@@ -1,63 +1,45 @@
 {
-  "last_updated": "2026-09-14T01:31:03.073Z",
+  "last_updated": "2026-09-14T08:43:00.638Z",
   "digests": [
     {
       "date": "2026-09-14",
-      "summary": "Aaj mostly court aur tribunal ki rulings news mein dikh rahi hain. Direct compliance due dates ya official notifications nahi aaye.",
+      "summary": "Aaj ke major updates: GST refunds, recovery stay aur Section 148 reassessment par court rulings aaye hain. Dekho aapke liye kya relevant hai.",
       "items": [
         {
           "category": "GST",
-          "headline": "SC ne Vodafone Idea par 363 cr GST demand hata di",
-          "detail": "Supreme Court ne Vodafone Mobile Services Ltd. ke merger ke baad ke GST proceedings khatam kar diye. Section 87 CGST Act yahaan apply nahi hota, Union of India ka appeal reject hua.",
-          "cga_view": "Agar company merger hua hai to GST adjustment ya demand ki details achhe se check karo, especially ongoing disputes. Recent Supreme Court ka yeh ruling reference ke liye kaafi important hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/sc-drops-rs-363-crores-gst-demand-against-vodafone-idea-post-merger.html"
-        },
-        {
-          "category": "GST",
-          "headline": "Delhi HC ne IGST refund case mein 1 week ka time diya",
-          "detail": "Delhi High Court ne DGARM chief ko kaha hai ki 1 hafte mein IGST refund dispute pe final decision lo, warna salary par asar padega.",
-          "cga_view": "Jinke IGST refund atke hue hain, court ke order ka reference deke department ko follow up karo. Ab jaldi decision expected hai, paperwork ready rakho.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/delhi-high-court-directs-week-decision-withheld-igst-refund.html"
-        },
-        {
-          "category": "GST",
-          "headline": "Madras HC: Appeal period mein GST recovery nahi hogi",
-          "detail": "Madras High Court ne bola jab tak GSTAT appeal ka time bacha hai, department recovery action nahi le sakta. Yeh kisi specific taxpayer ke case mein hua.",
-          "cga_view": "Agar aapke khilaf GST demand pass hui hai aur appeal ka time abhi bacha hai, toh recovery notice se na ghabraao – court ki guideline ka reference do.",
+          "headline": "GST recovery stay jab tak GSTAT mein appeal ka waqt hai",
+          "detail": "Madras HC ne GST recovery ko rok diya jab tak statutory appeal ka samay available hai. Filhal recovery nahi hogi.",
+          "cga_view": "Agar aapka GSTAT mein jaane ka mann hai toh recovery se bachne ka yeh waqt hai. Appeal filing pe focus karo.",
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/goods-and-service-tax/gst-recovery-barred-statutory-period-approach-gstat-madras-hc.html"
         },
         {
+          "category": "GST",
+          "headline": "IGST refund decision 1 hafte mein: Delhi HC ka order",
+          "detail": "Delhi HC ne DGARM chief ko order diya hai ki withheld IGST refund par 1 week mein decision lo warna salary consequence hoga.",
+          "cga_view": "Aapka IGST refund hold hai toh ek hafte mein clear hone ki umeed raho. Status par nazar rakho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/delhi-high-court-directs-week-decision-withheld-igst-refund.html"
+        },
+        {
           "category": "Income Tax",
-          "headline": "JAO Section 148 reassessment wapas ITAT ne bheja",
-          "detail": "ITAT Chennai ne reassessment ka case dobara khol diya hai kyunki 2026 ke amendment ne pehle wali basis hata di. Ab case fresh sunwai ko jayega.",
-          "cga_view": "Jinke khilaf Section 148 ke notices aaye hain, unko apni appeal aur representation pe nazar rakhni chahiye – amendments ke baad case ka status badal sakta hai.",
+          "headline": "Section 148 reassessment case phir se khula: ITAT Chennai",
+          "detail": "ITAT Chennai ne recent Finance Act 2026 ke amendment ke baad reassessment case dubara sunaayee ke liye bhej diya hai.",
+          "cga_view": "Aapka case Section 148 ke amendment mein ata hai toh naye rules ke mutabik case review ho sakta hai. Documentation ready rakho.",
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/income-tax/jao-section-148-reassessment-remanded-retrospective-amendment-itat-chennai.html"
         },
         {
           "category": "Income Tax",
-          "headline": "Limitation ke baad section 271D penalty hatayi",
-          "detail": "ITAT Chennai ne delay ke wajah se ₹3 lakh ki penalty utha di, kyunki woh law ke prescribed 6 mahine se baad pass hui thi.",
-          "cga_view": "Agar koi penalty order limitation ke baad aaya hai, toh us basis pe challenge karne ka mauka hai. Dates check karna na bhoolen!",
+          "headline": "Section 271D penalty limitation ki wajeh se khatam: ITAT Chennai",
+          "detail": "ITAT Chennai ne 6 mahine se upar mein pass hui penalty quash kar di hai, section 275(1)(c) ke limitation clause ki wajah se.",
+          "cga_view": "Kisi bhi old Section 271D penalty ko limitation ke basis par legally challenge kiya ja sakta hai.",
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/income-tax/section-271d-penalty-passed-limitation-quashed-itat-chennai.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Section 69A addition loan repayment par nahi laggi",
-          "detail": "ITAT Delhi ne loan repayment banking channel se hui dikhate hue section 69A ki addition hata di. Reopening me proper material nahi tha.",
-          "cga_view": "Jinke khilaf unexplained money ka notice aaya hai, toh bank records zaroor submit karein. Loan repayment traceable ho to relief mil sakta hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/itat-delhi-deletes-section-69a-addition-loan-repaid-banking-channels.html"
         }
       ],
       "due_dates": []
