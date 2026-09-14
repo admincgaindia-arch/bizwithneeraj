@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-09-13T02:00:24.694Z",
+  "last_updated": "2026-09-14T02:00:26.383Z",
   "days": [
+    {
+      "date": "2026-09-14",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "ITAT Chennai",
+          "case_name": "Subramanian Manoharan Vs ITO (ITAT Chennai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2016-17",
+          "section": "Section 271D (Penalty for accepting loan in cash)",
+          "facts": "Ek aadmi ne cash mein loan liya tha. Department ne ₹3 lakh ka penalty section 271D ke tahat lagaya. Par yeh penalty ka order time se bahar pass kiya gaya.",
+          "issue": "Kya department late penalty order pass kar sakta hai?",
+          "held": "ITAT ne penalty order ko radd kar diya. Judge bole 6 mahine ke andar order pass hona chahiye, isliye delay pe penalty nahi lag sakti.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapke khilaf penalty ka order late pass hota hai to usko Section 275(1)(c) ke basis par challenge kar sakte ho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/section-271d-penalty-passed-limitation-quashed-itat-chennai.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Chennai",
+          "case_name": "ITO vs. Munirathinam Sivasankari (Chennai ITAT)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2020-21",
+          "section": "Section 148 (Reassessment notice)",
+          "facts": "Tax officer ne purana Section 148 notice diya tha. Finance Act 2026 ke amendment ke baad us basis par order hi khatam ho gaya. CIT(A) ne notice ko radd kiya tha.",
+          "issue": "Retrospective amendment ke baad kya reassessment chal sakta hai?",
+          "held": "ITAT ne kaha ki amendment ke baad appeal ko wapas se dekho. Pehle wali order ki wajah ab nahi rahi, isliye case wapas bhej diya fresh sunwai ke liye.",
+          "outcome": "Mixed",
+          "takeaway": "Agar law badal jaye aur purani order ki buniyad hi khatam ho jaye, to fresh hearing ki ummeed rakh sakte ho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/jao-section-148-reassessment-remanded-retrospective-amendment-itat-chennai.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Delhi",
+          "case_name": "ACIT Vs Rajiv Sharma (ITAT Delhi)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2019-20",
+          "section": "Section 69A (Unexplained money)",
+          "facts": "Assessee ne loan liya tha, bank ke zariye wapas chuka diya. Department ne fir bhi us paise ko unexplained maan liya aur add kar diya.",
+          "issue": "Kya bank se repay hua loan unexplained money ho sakta hai?",
+          "held": "ITAT ne addition ko hata diya. Court ne kaha loan bank ke through repay hua, isliye unexplained nahi maan sakte.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aap loan bank ke zariye lete aur chukate ho to generally usko unexplained nahi maana jayega.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-delhi-deletes-section-69a-addition-loan-repaid-banking-channels.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "St. Ignatius Church Vs CIT (Exemptions) (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2026-27",
+          "section": "",
+          "facts": "Church trust ne 12AB renewal ke liye apply kiya tha. Renewal isliye radd kiya gaya kyunki trust deed nahi diya tha. Trust ke paas dusre documents the apne existence dikhane ke liye.",
+          "issue": "Kya trust deed dena mandatory hai 12AB renewal ke liye?",
+          "held": "ITAT ne trust ka appeal allow kiya. Bola trust deed nahi bhi ho to bhi agar dusre documents se charitable nature prove hota hai to renewal mil sakta hai.",
+          "outcome": "Assessee",
+          "takeaway": "Agar trust deed nahi hai, to doosre valid documents (bye-laws, registration certificate) dikha ke bhi 12AB renewal liya ja sakta hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/trust-deed-not-mandatory-12ab-renewal-itat-mumbai-appeal.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "Green Valley Homes Developers Pvt Ltd. Vs DCIT (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2012-13",
+          "section": "Section 68 (Unexplained cash credit)",
+          "facts": "Builder company par ₹5.99 crore ka addition hua tha loan ke naam par. Department ne investigation report ke basis par addition ki, lekin khud verification nahi kiya.",
+          "issue": "Kya bina khud verification kiye loan ko unexplained maan sakte hain?",
+          "held": "ITAT ne addition aur interest disallowance dono hata diye. Bola sirf investigation report se addition justify nahi hota, khud bhi check karna zaroori hai.",
+          "outcome": "Assessee",
+          "takeaway": "Department jab tak khud independent verification nahi karta, tab tak sirf investigation report pe addition nahi ho sakta.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-mumbai-deletes-rs-5-99-crore-section-68-loan-addition-lack-verification.html"
+        },
+        {
+          "law": "GST",
+          "court": "Delhi High Court",
+          "case_name": "Shiv Overseas Vs Union of India & Ors. (Delhi High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "Export business ka IGST refund department ne hold kar rakha tha. Exporter court aa gaye, kyunki refund decide nahi ho raha tha.",
+          "issue": "Kya department refund decision lamba kheech sakta hai?",
+          "held": "High Court ne department ko ek hafta ke andar final decision lene ko bola. Sathi, agar delay hua to official ki salary bhi roki ja sakti hai.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapka IGST refund delay ho raha ho, to court ja kar jaldi decision mang sakte ho. Officials ki zimmedari bhi fix ki ja sakti hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/delhi-high-court-directs-week-decision-withheld-igst-refund.html"
+        }
+      ]
+    },
     {
       "date": "2026-09-13",
       "cases": [
