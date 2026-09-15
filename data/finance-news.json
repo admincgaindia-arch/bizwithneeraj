@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-09-14T08:44:54.687Z",
+  "last_updated": "2026-09-15T02:15:30.009Z",
   "days": [
+    {
+      "date": "2026-09-15",
+      "items": [
+        {
+          "cat": "Loan",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "RBI FAQs explain ARCs ki activities aur compliance",
+          "effective": "",
+          "what": "RBI ne Asset Reconstruction Companies (ARC) par FAQs jari kiye hain. Inme ARC ko NBFC maana hai ya nahi, kis tarah ki activities allowed hain, security receipts mein investment, stressed asset kharidne ke process, KYC rules, outsourcing aur management fees kaise handle karenge, sab clarify kiya gaya hai.",
+          "who": "ARCs jo NBFC ke roop mein kaam karte hain, aur banks/NBFCs jinhe stressed asset resolution interest hai.",
+          "action": "Agar aap ARC ya related NBFC mein kaam karte hain, ya inke client hain, to FAQs padhein aur compliance processes check karein. KYC aur outsourcing ki policies update karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/rbi-faqs-asset-reconstruction-companies-arcs.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Ministry of Cooperation",
+          "ref": "",
+          "headline": "CRCS-Sahara Refund Portal phir se shuru ho gaya hai",
+          "effective": "",
+          "what": "Sarkar ne CRCS-Sahara Refund Portal ko wapas chalu kiya hai. Ab genuine depositors apne claims online Aadhaar ke through file kar sakte hain. Verification aur refund process dobara resume ho gaya hai.",
+          "who": "Woh log jinke Sahara mein deposit fasa hua tha aur pehle claim file kiya tha.",
+          "action": "Agar aap Sahara ke depositor hain to portal par apna Aadhaar se login karke claim verification status check karein ya naya claim file karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/ministry-restores-crcs-sahara-refund-portal-expedite-genuine-depositors-claims.html"
+        },
+        {
+          "cat": "Loan",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/2026-27/256 FIDD.CO.PSD.BC.No.10/04.09.001/2026-27",
+          "headline": "Priority Sector Lending mein ANBC computation rule badle",
+          "effective": "",
+          "what": "RBI ne Priority Sector Lending Directions, 2026 mein amendment kiya hai. Ab kuch FCNR(B) aur NRE deposit-backed advances ko Adjusted Net Bank Credit (ANBC) se exclude karne ki date revise ho gayi hai. Ab ye exclusion August 31, 2026 tak ki deposits par hi milegi.",
+          "who": "Banks jo FCNR(B) aur NRE backed advances de rahe hain aur PSL targets ki calculation mein interested hain.",
+          "action": "Aapko apni PSL basis ki calculation update karni hogi. Jo FCNR(B) aur NRE deposits August 31, 2026 ke baad mobilise huye unko ANBC se exclude nahi kar sakte.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/rbi-priority-sector-lending-amendment-directions-2026-anbc-exemption-cut-off-revised-august-31-2026.html"
+        },
+        {
+          "cat": "Loan",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "Priority Sector Lending par RBI ne naye FAQs jari kiye",
+          "effective": "",
+          "what": "RBI ne Priority Sector Lending ke guidelines par FAQs diya hai. Isme clear kiya gaya hai ki kaun se loans priority sector mein aate hain, kaise ANBC (Adjusted Net Bank Credit) calculate hota hai, PSLC (Certificate) ka trading process, agriculture, housing, education loans ka coverage, aur PSL targets kaise achieve hote hain.",
+          "who": "Banks, NBFCs aur woh institutes jo priority sector ke loans de rahe hain ya unko PSL reporting karni hai.",
+          "action": "Agar aap concerned institution hain to FAQ padhein, apni PSL reporting aur classification policies ko RBI ke latest spashteekaran ke hisab se align karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/faqs-priority-sector-lending-targets-classification.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Pre-IPO ki 18 mahine ki planning: Main points kya hain",
+          "effective": "",
+          "what": "Ek practical guide jari hui hai jisme dikhaya gaya hai ki DRHP file karne se 18 mahine pehle kaun se steps jaruri hain. Guidelines mein RCFI, Ind AS, controls, governance, FEMA, ICDR eligibility aur 2025-26 ke changes cover kiye gaye hain.",
+          "who": "Woh companies jo IPO ka plan bana rahi hain, promoters, aur compliance professionals.",
+          "action": "Aapke IPO plans hain to guide ki check list se compliance aur documentation plan karein. RCFI, accounting aur FEMA ki requirements timely complete karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/pre-ipo-runway-18-months-drhp-filing-demand.html"
+        }
+      ]
+    },
     {
       "date": "2026-09-14",
       "items": [
