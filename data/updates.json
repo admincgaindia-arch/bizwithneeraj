@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-09-14T08:43:00.638Z",
+  "last_updated": "2026-09-15T01:31:03.598Z",
   "digests": [
+    {
+      "date": "2026-09-15",
+      "summary": "Aaj ke digest mein ek important tribunal ruling ka update hai related to customs aur refunds.",
+      "items": [
+        {
+          "category": "Ruling",
+          "headline": "SAD Refund ka adjustment tab tak nahi ho sakta",
+          "detail": "Johnson & Johnson case mein CESTAT ne bola ki agar customs duty ka demand abhi final nahi hai toh SAD refund ko adjust nahi kiya jaa sakta. Agar aapka refund pehle sanction ho gaya tha aur demand baad mein drop ho gayi, toh department adjustment nahi kar sakta.",
+          "cga_view": "Agar SAD refund pe koi adjustment ya hold hai aur demand final nahi hai, toh aapko department ko CESTAT ruling ka reference deke follow-up karna chahiye.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/top-stories/sad-refund-cannot-be-adjusted-against-customs-duty-demand-that-has-not-attained-finality-cestat-in-johnson-johnson-case-read-order-1451458"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-09-14",
       "summary": "Aaj ke major updates: GST refunds, recovery stay aur Section 148 reassessment par court rulings aaye hain. Dekho aapke liye kya relevant hai.",
