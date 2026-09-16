@@ -1,6 +1,49 @@
 {
-  "last_updated": "2026-09-15T01:31:03.598Z",
+  "last_updated": "2026-09-16T01:31:02.257Z",
   "digests": [
+    {
+      "date": "2026-09-16",
+      "summary": "Aaj GST aur Income Tax ki kuch important court rulings aayi hain. Sab ka impact business compliance pe directly padta hai.",
+      "items": [
+        {
+          "category": "Income Tax",
+          "headline": "Payment gateway charges pe TDS 194H nahi lagega: Delhi ITAT",
+          "detail": "Delhi ITAT ne bola payment gateway charges pe TDS 194H apply nahi hota kyunki yeh service fee hai, commission nahi, aur koi principal-agent relation nahi hai.",
+          "cga_view": "Jo bhi merchant payment gateway use karte hain, abhi TDS 194H deduct karne ki zarurat nahi, lekin agreement terms check karo. Future mein koi notification aaye toh monitoring zaruri hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/payment-gateway-charges-not-subject-tds-194h-delhi-itat.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "143(1) intimation void ho jaati hai agar scrutiny notice mil gaya",
+          "detail": "ITAT Bangalore ne bola agar 143(2) scrutiny notice mil gaya hai toh uske baad aayi 143(1) intimation legally valid nahi rahegi.",
+          "cga_view": "Agar aapka scrutiny already chal raha hai, uske beech mein aayi 143(1) intimation ignore kar sakte hain. Lekin apne case ka status track karte raho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/subsequent-section-143-1-intimation-void-scrutiny-commences-itat-bangalore.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "IIT Roorkee approved for Scientific Research under sec 45",
+          "detail": "CBDT ne IIT Roorkee ko Section 45 ke under scientific research ke liye approve kiya hai FY 2026-27 se 2030-31 tak. (Trade report)",
+          "cga_view": "Jo bhi tax payer scientific research funding ka plan bana rahe hain, ab IIT Roorkee ko section 45 ke under fund kar sakte hain. Official notification ka intezaar bhi karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/cbdt-approves-iit-roorkee-scientific-research-section-45.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Madras HC ne 10% GST penalty delay par uphold ki",
+          "detail": "Madras High Court ne bola ki agar GSTR-3B late file hoti hai toh Section 73 ke under 10% GST penalty valid hai (FY 2020-21 case).",
+          "cga_view": "GSTR-3B ki filing bilkul time par karo, delay hua toh heavy penalty lag sakti hai. Backdated compliance mat socho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/madras-hc-declines-interference-10-percent-gst-penalty-delayed-gstr-3b.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-09-15",
       "summary": "Aaj ke digest mein ek important tribunal ruling ka update hai related to customs aur refunds.",
