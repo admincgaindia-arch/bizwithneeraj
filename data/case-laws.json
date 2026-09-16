@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-09-15T02:00:27.835Z",
+  "last_updated": "2026-09-16T02:00:25.386Z",
   "days": [
+    {
+      "date": "2026-09-16",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "ITAT Visakhapatnam",
+          "case_name": "Manchukonda Yethiraja Subrahmanyam Vs ACIT (ITAT Visakhapatnam)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2016-17",
+          "section": "Section 271AAB (penalty), Section 274 (notice)",
+          "facts": "Assessee par penalty lagayi gayi thi under Section 271AAB kyunki department ne Section 274 ka notice diya tha, par notice mein sahi clause nahi bataya tha. Assessee ka case penalty notice ki wajah se tha.",
+          "issue": "Kya penalty notice sahi hai jab usme relevant clause specify nahi kiya?",
+          "held": "Tribunal ne kaha ki jab notice mein clear clause nahi likha, to penalty proceed nahi kar sakte. Iss wajah se penalty ko radd kar diya.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapko penalty ka notice mile aur section ka clause sahi se specify nahi ho, to us notice ki copy sambhal ke rakho. Aap Tribunal mein uspe appeal kar sakte ho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-visakhapatnam-quashes-section-271aab-penalty-defective-section-274-notice.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Rajkot",
+          "case_name": "Rajmoti Industries Vs ACIT (ITAT Rajkot)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2018-19",
+          "section": "Section 145(3) (Rejection of Books)",
+          "facts": "Rajmoti Industries ka business tha. Department ne Rs. 9.35 crore ka GP addition kar diya bina books ko reject kiye, jabki scrutiny limited purpose ki thi.",
+          "issue": "Kya gross profit addition valid hai jab books reject nahi ki aur scrutiny limited thi?",
+          "held": "Tribunal ne yeh addition hata diya. Bola ki bina books reject kiye aap addition nahi kar sakte. Aur Limited Scrutiny ko extend karne ka process follow nahi hua tha.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aap par GP addition ho aur books reject nahi hue ho, to aap tribunal mein ye point utha sakte ho. Scrutiny scope check karna zaroori hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-rajkot-deletes-gp-addition-without-section-145-3-rejection-limited-scrutiny-conversion.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Rajkot",
+          "case_name": "Kishorbhai Nathabhai Makani Vs ITO (ITAT Rajkot)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2016-17",
+          "section": "Section 28 (Land Acquisition Act), Section 10(37)",
+          "facts": "Assessee ko land acquisition ke case mein interest mila. Department ne interest ko alag treat kiya.",
+          "issue": "Kya Land Acquisition Act ka Section 28 interest, compensation ka part hai aur Section 10(37) exemption milega?",
+          "held": "Tribunal ne bola ki Section 28 ka interest bhi compensation ka part hai, isliye Section 10(37) ki exemption milegi.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapko land acquisition mein Section 28 ka interest mila hai, to usko bhi compensation ka part treat karo aur exemption claim karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-rajkot-holds-section-28-interest-part-compensation-eligible-section-10-37-exemption.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Raipur",
+          "case_name": "ITO Vs Maa Shakambhari Infratech Private Limited (ITAT Raipur)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2012-13",
+          "section": "Section 69 (Unexplained Investments)",
+          "facts": "Company ne share application money receive kiya tha, saari entries books mein thi. Investors ka identity aur creditworthiness dikhaya gaya.",
+          "issue": "Kya Section 69 apply ho sakta hai jab share application money books mein proper record ho aur investors genuine ho?",
+          "held": "Tribunal ne bola jab identity, creditworthiness aur genuineness sab established ho, to Section 69 lag hi nahi sakta.",
+          "outcome": "Assessee",
+          "takeaway": "Share application money lene par hamesha investor ka PAN, confirmation letter, aur bank statement jama rakho. Tribunal sirf properly documented transaction ko hi accept karta hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-raipur-holds-section-69-inapplicable-share-application-money-received-recorded-books.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Hyderabad",
+          "case_name": "Adinarayana Raju Mandapati Vs ITO (ITAT Hyderabad)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2017-2018",
+          "section": "",
+          "facts": "Assessee ne book mein agricultural income dikhaya tha, department ne limited scrutiny mein cash deposit ka source poocha. Double addition kar diya tha.",
+          "issue": "Kya limited scrutiny mein department agricultural income ko source ke roop mein pooch sakti hai aur kya same income ki double addition ho sakti hai?",
+          "held": "Tribunal ne bola cash deposit ko justify karne ke liye agricultural income dekh sakte hain, lekin duplicate addition nahi chalegi. Duplicate amount hata diya.",
+          "outcome": "Assessee",
+          "takeaway": "Agar agricultural income pe addition ho to check karo ki same amount ka double addition to nahi ho gaya. Limited scrutiny ke scope ki copy sambhal ke rakho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-hyderabad-holds-agricultural-income-verification-limited-scrutiny-scope-deletes-double-addition.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Surat",
+          "case_name": "Subhaschandra Patel Vs DCIT (ITAT Surat)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2018-19",
+          "section": "Section 68 (Unexplained Credits)",
+          "facts": "Assessee ne Fiberweb shares mein invest kiya tha. Department ne penny stock transaction ko bogus maan ke addition kar diya, bina specific evidence ke.",
+          "issue": "Kya penny stock addition bina assessee-specific price manipulation proof ke kiya ja sakta hai?",
+          "held": "Tribunal ne kaha ki jab tak assessee ke against specific price manipulation ka evidence nahi ho, tab tak Section 68 addition nahi chalega.",
+          "outcome": "Assessee",
+          "takeaway": "Penny stock ya share transactions mein department ka notice aaye to apni trade confirmations aur contract notes ready rakho. Yeh dikhana hai ki transaction genuine tha.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-surat-deletes-penny-stock-addition-lack-evidence-linking-assessee-price-manipulation.html"
+        }
+      ]
+    },
     {
       "date": "2026-09-15",
       "cases": [
