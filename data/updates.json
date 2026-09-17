@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-09-16T01:31:02.257Z",
+  "last_updated": "2026-09-17T01:31:04.249Z",
   "digests": [
+    {
+      "date": "2026-09-17",
+      "summary": "Aaj ke digest mein Income Tax aur GST ki kuch important updates hai. Saare items trade press se liye gaye hain, abhi koi official circular ya notification link available nahi hai.",
+      "items": [
+        {
+          "category": "Income Tax",
+          "headline": "CBDT ne Form 98 filing procedure bataya",
+          "detail": "CBDT Notification No. 3 of 2026 ke tehat, ab Form 98 filing, registration, correction aur security process Rule 160 ke under define kiye gaye hain. Ye process naye procedural compliance ke liye lagu hai.",
+          "cga_view": "Agar aap pe Form 98 lagu hota hai to naye procedure check karo aur apne compliance system update karo. Official notification padh lo final process ke liye.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/cbdt-prescribes-form-98-filing-procedure-rule-160.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Fraudulent ITC ka case - partner arrested Delhi mein",
+          "detail": "CGST Delhi South ne ek firm ke partner ko over Rs. 15.78 crore ki fraudulent ITC availment aur pass on karne ke liye arrest kiya hai. Strict action liya jaa raha hai aise cases mein.",
+          "cga_view": "Apni ITC entries thoroughly check karo, kisi bhi fake invoice ya mismatch se bacho. Strict penalty aur arrest possible hai.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/cgst-delhi-south-arrests-partner-fraudulent-itc-availment-rs-15-78-crore.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "ITAT Jaipur: Section 44AD pe extra addition hata diya",
+          "detail": "ITAT Jaipur ne ₹4.53 lakh ki addition delete kar di, jab assessee ne income presumptive under Section 44AD declare ki thi. Delay ko bhi condone kiya gaya.",
+          "cga_view": "Agar income 44AD pe declare kar rahe ho to unnecessary additions ke against aap defend kar sakte ho. Supporting records maintain karna useful rahega.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-jaipur-deletes-rs-4-53-lakh-addition-income-declared-section-44ad.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-09-16",
       "summary": "Aaj GST aur Income Tax ki kuch important court rulings aayi hain. Sab ka impact business compliance pe directly padta hai.",
