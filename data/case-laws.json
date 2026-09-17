@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-09-16T02:00:25.386Z",
+  "last_updated": "2026-09-17T02:00:25.462Z",
   "days": [
+    {
+      "date": "2026-09-17",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "ITAT Jaipur",
+          "case_name": "Ankit Kumar Vs ITO (ITAT Jaipur)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2020-21",
+          "section": "Section 69",
+          "facts": "Ankit Kumar ne ek property kharidi thi. AO ne pooch liya ki paisa kahan se aaya, aur Section 69 (unexplained investment) laga diya. Baad mein AO ne khud check kiya toh paise ka source mil gaya.",
+          "issue": "Sec 69 addition tab justify hai jab source explain nahi ho.",
+          "held": "Court ne bola jab AO ko source mil gaya toh addition rakhne ka koi reason nahi hai. Isliye ₹7.77 lakh ka Section 69 addition hata diya.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aap investment ka source verify karwa pao toh Section 69 ka case nahi banta. Documents ready rakho jo paise ke flow ko validate kar sake.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-jaipur-deletes-rs-7-77-lakh-section-69-addition-ao-verification.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Jaipur",
+          "case_name": "Rakesh Kumar Vs ITO (ITAT Jaipur)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2017-18",
+          "section": "Section 69A",
+          "facts": "Rakesh Kumar ka business hai. AO ne ₹20 lakh cash deposit ko unexplained maan ke Section 69A laga diya. Assessee ne bataya ki yeh business ka regular cash flow hai.",
+          "issue": "Business cash deposit pe Section 69A lagana sahi hai ya nahi, jab cash flow dikha diya gaya hai?",
+          "held": "Court ne bola ki business ka cash flow hamesha declared profit tak simit nahi hota. Agar cash trail dikha di gayi to addition nahi ho sakta.",
+          "outcome": "Assessee",
+          "takeaway": "Agar bank deposit ka source business cash flow hai toh cash trail zarur dikhao, taaki Section 69A na lage.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-rs-20-lakh-credit-business-cash-deposits-against-section-69a-addition.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Chandigarh",
+          "case_name": "Neelam Gupta Vs DCIT (ITAT Chandigarh)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2016-17",
+          "section": "",
+          "facts": "Neelam Gupta hospital chala rahi thi. Rs 1.40 crore tak ka alleged medical admission donation aur diary ke basis pe income add ki gayi. ITAT ne sirf 5% receipts pe addition allow kiya aur baaki sab diary/RD waali unexplained income hata di.",
+          "issue": "Diary based ya estimate income additions bina solid evidence ke kitni valid hain?",
+          "held": "Court ne bola sirf 5% receipts pe limited addition banti hai. Bina verify ki diary ya estimate se full addition nahi ho sakta. Donation wagarah pe addition hata diya.",
+          "outcome": "Assessee",
+          "takeaway": "Large additions tab nahi tikti jab evidence sirf diary ya estimate ho - actual document proof ho toh hi badi addition tikti hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-restricts-hospital-receipt-addition-5-percent-deletes-diary-based-unexplained-income-additions.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Jaipur",
+          "case_name": "Robin Bhamboo Vs ITO (ITAT Jaipur)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2018-19",
+          "section": "",
+          "facts": "Robin Bhamboo ne salary expenses claim kiye the. AO ne pura ₹32.53 lakh blanket disallow kar diya. Court ne wapas AO ko bhej diya ki salary ka reasonable hissa allow kare.",
+          "issue": "Salary expenses ka pura expense disallow karna justified hai ya nahi?",
+          "held": "Court ne bola ki bina proper checking ke pura salary reject nahi kar sakte. AO ko bola ki reasonable amount allow kare aur baaki ka reason de.",
+          "outcome": "",
+          "takeaway": "Salary ka kharcha claim karte waqt proper proof submit karo – list of employees, payslips, transfer records, etc.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-jaipur-remands-rs-32-53-lakh-salary-expense-claim-reasonable-allowance.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Nagpur",
+          "case_name": "Shaikh Saidque Haji Vs ITO (ITAT Nagpur)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2019-20",
+          "section": "Section 148A(b)",
+          "facts": "Shaikh Saidque Haji ko reassessment notice sirf 7 din se kam ka diya gaya tha. Law ke mutabik kam se kam 7 din milne chahiye jawab dene ko.",
+          "issue": "148A(b) notice kam din ke notice pe reassessment valid hai ya nahi?",
+          "held": "Court ne bola ki kanun mein minimum 7 din ka notice mandatory hai. Usse kam ka notice pe pura reassessment radd kar diya.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapko 148A(b) notice kam din ka mile toh challenge kar sakte ho – 7 din mandatory hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/days-cannot-stretched-short-notice-148a-reassessment-void-ab-initio.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Nagpur",
+          "case_name": "Shaikh Sujayat Shaikh Islam Vs ITO (ITAT Nagpur)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2018-19",
+          "section": "Section 271D",
+          "facts": "Shaikh Sujayat Shaikh Islam pe ₹5.05 lakh penalty laga di, par assessment ya AO ki proper satisfaction nahi dikhayi gayi thi. Direct penalty laga di gayi thi.",
+          "issue": "Kya penalty sirf AO ki satisfaction aur assessment ke bina lag sakti hai?",
+          "held": "Court ne bola ki bina assessment ya satisfaction record kiye penalty nahi lag sakti. ₹5.05 lakh ki penalty radd kar di.",
+          "outcome": "Assessee",
+          "takeaway": "Penalty lagne se pehle AO ko apni satisfaction aur assessment clear record karna zaruri hai – bina reason ke penalty tik nahi sakti.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-nagpur-quashes-section-271d-penalty-without-ao-satisfaction.html"
+        }
+      ]
+    },
     {
       "date": "2026-09-16",
       "cases": [
