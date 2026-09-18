@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-09-17T02:00:25.462Z",
+  "last_updated": "2026-09-18T02:00:28.032Z",
   "days": [
+    {
+      "date": "2026-09-18",
+      "cases": [
+        {
+          "law": "GST",
+          "court": "Telangana High Court",
+          "case_name": "Akshaya Teja Shree Engineering Works Vs Deputy State Tax Officer (Telangana High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "Yahan ek engineering firm ka GST registration cancel ho gaya tha. Pichla revocation application reject ho chuka tha. Unhone court mein manual application dene ki permission maangi.",
+          "issue": "Kya fresh manual revocation application di ja sakti hai jab purana reject ho chuka hai?",
+          "held": "Court ne kaha ki company ko do hafte mein manual application phir se file karne ka mauka diya jaye. Pichle order ka asar na ho.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapka GST registration cancel ho gaya aur application reject ho gaya ho, to high court se manual filing ka mauka mil sakta hai. Do hafte ke andar manual application file karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/telangana-hc-fresh-manual-gst-revocation-application-weeks.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Cuttack",
+          "case_name": "Serajuddin And Co. Vs DCIT/ACIT (ITAT Cuttack)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2021-22",
+          "section": "",
+          "facts": "Department ne assessee ke khilaf ₹3.50 crore add kiya, bas ek third-party Telegram chat par jo verify nahi ho paayi. Assessee ka us chat mein koi lena dena nahi tha.",
+          "issue": "Kya bina verify third-party chat par addition kiya ja sakta hai?",
+          "held": "ITAT ne addition hata diya. Sirf third-party chat, bina proof ya assessee ke involvement ke, taxable income nahi ban sakti.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aap par third-party digital chat ya document par addition ho to verify na hone ki ground jarur uthaiye. Department ko aapka link sabit karna padega.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-deletes-rs-3-50-crore-addition-based-unverified-party-telegram-chat.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Nagpur",
+          "case_name": "Shaikh Sujayat Shaikh Islam Vs ITO (ITAT Nagpur)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2018-19",
+          "section": "Section 271D",
+          "facts": "Yahan assessee par ₹5.05 lakh ka penalty lag gaya tha Section 271D ke tehat (ye section cash loan lene par penalty deta hai). Pehle koi assessment ya AO ka santosh nahi tha.",
+          "issue": "Kya AO ki satisfaction bina Section 271D penalty lag sakti hai?",
+          "held": "ITAT ne penalty radd kar di kyunki officer ne bina apne satisfaction ke direct penalty laga di thi. Proper procedure follow nahi hua tha.",
+          "outcome": "Assessee",
+          "takeaway": "Cash loan cases mein officer ko dikhana hota hai ki penalty lagane ki wajah unke samne sahi bani. Bina likhe santosh, penalty khatam ho sakti hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-nagpur-quashes-section-271d-penalty-without-ao-satisfaction.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Chandigarh",
+          "case_name": "Neelam Gupta Vs DCIT (ITAT Chandigarh)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2016-17",
+          "section": "",
+          "facts": "Yahan ek hospital ka case tha. Department ne receipts main kaafi additions kar di aur diary based entries, including ₹1.40 crore medical donation bhi jod diya.",
+          "issue": "Kya pura addition justified tha ya nahi?",
+          "held": "ITAT ne sirf 5% receipts par addition allow ki, baaki diary aur donation based additions hata di. Court ne kaha sirf estimate ke basis par pura addition nahi ho sakta.",
+          "outcome": "Assessee",
+          "takeaway": "Hospital ya cash intensive business mein department sirf estimate par pura receipts add nahi kar sakta. Sahi calculation na ho to visheshta sirf limited addition tikti hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-restricts-hospital-receipt-addition-5-percent-deletes-diary-based-unexplained-income-additions.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Bangalore",
+          "case_name": "Budnar Jayakar Shetty Vs DCIT (ITAT Bangalore)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2016-17",
+          "section": "",
+          "facts": "Assessee par search ke baad kuch penalty lagayi thi. Baad mein ₹23.83 lakh ka addition to hata diya gaya, par baaki income par penalty lagi rahi.",
+          "issue": "Kya jab quantum addition hat gaya to penalty bhi automatically hatni chahiye?",
+          "held": "ITAT ne kaha ki ek addition hatna doosre par penalty ko nullify nahi karta. Sirf ek head ke khatam hone se baaki penalty nahin hat jati.",
+          "outcome": "Revenue",
+          "takeaway": "Agar search ke case mein sirf kuch additions hat gaye hain, to baaki heads par penalty reh sakti hai. Har item alag-alag dekhi jayegi.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-bangalore-upholds-penalty-deletion-rs-23-83-lakh-quantum-addition.html"
+        },
+        {
+          "law": "GST",
+          "court": "Supreme Court of India",
+          "case_name": "Pvcon Engineering Co. Vs CGST And Central Excise (Supreme Court of India)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "Yahan GST penalty ke case mein, Supreme Court ne GST Appellate Tribunal mein appeal pre-deposit ke bina sun li. Ye matter sirf penalty se related tha.",
+          "issue": "Kya penalty-only GST appeals mein pre-deposit zaruri hai?",
+          "held": "Supreme Court ne allow kiya ki penalty wale appeal pre-deposit ke bina bhi ho sakte hain, aur 1 October 2025 amendment ki applicability ka sawal bhi uthaya.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aap sirf GST penalty ke mamle mein appeal kar rahe hain, to abhi ke liye pre-deposit na bhi ho, appeal proceed ho sakti hai. Lekin amendment ke effect par nazar rakhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/pre-deposit-gst-penalty-appeals-sc-appeal-without-pre-deposit.html"
+        }
+      ]
+    },
     {
       "date": "2026-09-17",
       "cases": [
