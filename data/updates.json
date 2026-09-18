@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-09-17T01:31:04.249Z",
+  "last_updated": "2026-09-18T01:31:04.094Z",
   "digests": [
+    {
+      "date": "2026-09-18",
+      "summary": "Aaj mostly income tax aur GST ke kuch important updates hain, saath hi kuch judicial orders bhi noteworthy hain. Official government notification abhi available nahi hai, saari information trade press reports se hai.",
+      "items": [
+        {
+          "category": "Income Tax",
+          "headline": "ITAT Agra allows Section 115BAC despite late e-verification",
+          "detail": "ITAT Agra ne kaha ki agar ITR time se file ho gayi thi lekin e-verification late hua, fir bhi Section 115BAC ka benefit diya jaa sakta hai, CBDT Circular No. 10/2025 ke reference ke saath.",
+          "cga_view": "Agar aapka e-verification late ho gaya tha par ITR time pe file ki thi, section 115BAC preference reject hua to apne case ko ITAT Agra ya recent CBDT circular ke basis par reconsider karwa sakte ho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-agra-section-115bac-option-delayed-verification.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "CBDT prescribes Form 98 process under Rule 160",
+          "detail": "CBDT ne Notification No. 3 of 2026 ke through Rule 160 ke under Form 98 ka filing, correction, aur archival process prescribe kiya hai. Registration aur security related process bhi cover ki gayi hai.",
+          "cga_view": "Agar aapko Form 98 file karna hai ya delete/correct karna hai, to naye process ko check karo aur accordingly compliance ensure karo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/cbdt-prescribes-form-98-filing-procedure-rule-160.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Calcutta HC condones delay on CGST Section 107(6) pre-deposit",
+          "detail": "Calcutta High Court ne CGST Act ke Section 107(6) ke case mein pre-deposit ki delay ko maaf kiya jab sufficient cause dikhaya gaya. Sirf limitation ground pe appeal dismiss nahi ki gayi.",
+          "cga_view": "Agar kisi GST appeal mein pre-deposit delay hua hai aur valid reason hai, to High Court order ke reference se aap relief claim kar sakte ho, lekin har case facts pe depend karega.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/top-stories/calcutta-hc-condones-delay-on-compliance-with-mandatory-pre-deposit-us-1076-of-cgst-act-read-order-1451542"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITAT Nagpur quashes Section 271D penalty for want of AO satisfaction",
+          "detail": "ITAT Nagpur ne penalty cancel kar di kyunki AO ne pehle satisfaction record nahi kiya tha aur assessment proceedings nahi hui thi.",
+          "cga_view": "Agar Section 271D ki penalty aayi hai par proper AO satisfaction nahi hua, to aapke paas penalty challenge karne ka mauka ho sakta hai. Apni file verify karlo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-nagpur-quashes-section-271d-penalty-without-ao-satisfaction.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITAT Bangalore remands Section 271(1)(c) penalty for fraud review",
+          "detail": "ITAT Bangalore ne penalty proceedings wapas bhej diye kyunki allegation tha ki consultant ne fraudulently galat claim kiya bina assessee ke knowledge ke. Matter fresh verify hoga.",
+          "cga_view": "Agar aap consultant ki mistake ke chakkar mein penalty face kar rahe ho, to yeh order refer kar sakte ho. Intentionally fraud prove hona zaroori hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/section-271-1-penalty-remanded-fresh-consultant-fraud-verification-itat-bangalore.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-09-17",
       "summary": "Aaj ke digest mein Income Tax aur GST ki kuch important updates hai. Saare items trade press se liye gaye hain, abhi koi official circular ya notification link available nahi hai.",
