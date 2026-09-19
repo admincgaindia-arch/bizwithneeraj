@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-09-18T02:15:33.559Z",
+  "last_updated": "2026-09-19T02:15:28.409Z",
   "days": [
+    {
+      "date": "2026-09-19",
+      "items": [
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "UPI par aam aadmi ko charge nahi lagega",
+          "effective": "",
+          "what": "UPI se P2P yani aadmi se aadmi aur 96% merchant transactions par koi charge nahi hai. Sirf kuch particular transactions par ₹2,000 ke upar MDR lagega.",
+          "who": "Sabhi UPI users aur wo merchants jo digital payment accept karte hain.",
+          "action": "UPI se payment nishchint hokar karein. Agar aap merchant hain to apne payment provider se puchhein ki aapke liye MDR लागू hota hai ya nahi.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/upi-remains-free-p2p-transactions-96-percent-merchant-payments-unaffected.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Company Secretary ki role ab aur important hai DPDP compliance mein",
+          "effective": "",
+          "what": "Company Secretaries ab DPDP compliance, board ki oversight, cyber incident ki report aur SEBI ki disclosure rules mein help karenge.",
+          "who": "Listed companies ya jinke upar SEBI ki LODR rules lagte hain.",
+          "action": "Board aur compliance teams apne Company Secretary se DPDP aur cybersecurity policy ki review karwain. Nai disclosure requirements samjhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/company-secretarys-role-dpdp-compliance-cybersecurity-governance.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "Chhote NBFCs ko registration se exemption mil sakta hai",
+          "effective": "",
+          "what": "Aise NBFCs jo low risk hain aur systemic risk nahi create karte, unko RBI kehta hai ki strict conditions par registration ki zarurat nahi.",
+          "who": "Unregistered Type I NBFCs ya bouquet NBFCs jo chhote scale par kaam kar rahe hain.",
+          "action": "Agar aap chhote NBFC operator hain to RBI ke latest guidelines padhein aur check karein ki kya aapka NBFC exemption ke criteria mein aata hai ya nahi.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/check-making-deposits-nbfcs-faq.html"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "International Financial Services Centres Authority (IFSCA)",
+          "ref": "",
+          "headline": "IFSCA Fund Management Rules mein naye changes aaye hain",
+          "effective": "",
+          "what": "IFSCA ne Fund Management Second Amendment Regulations, 2026 notify kiye. Isme valuation, FME contribution, investor protection aur disclosure rules mein changes hai.",
+          "who": "FME, fund managers aur entities jo IFSC Gift City mein scheme operate karte hain.",
+          "action": "Fund managers aur compliance professionals amendment ka text padhein. Apni compliance process update karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/ifsca-fund-management-amendment-regulations-2026-key-amendments.html"
+        },
+        {
+          "cat": "Loan",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "ARC par RBI ke naye FAQs jaari hue",
+          "effective": "",
+          "what": "RBI ne Asset Reconstruction Companies (ARC) par FAQ jaari kiya hai. Isme ARCs ke permissible activities, restructuring, outsourcing aur KYC jaise topics cover hain.",
+          "who": "ARCs aur unke compliance/advisory teams.",
+          "action": "ARC operators apne practices ko FAQs ke hisaab se review karein. Naye KYC aur management fee rules samjhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/rbi-faqs-asset-reconstruction-companies-arcs.html"
+        }
+      ]
+    },
     {
       "date": "2026-09-18",
       "items": [
