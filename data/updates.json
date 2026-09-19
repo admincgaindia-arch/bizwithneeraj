@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-09-18T01:31:04.094Z",
+  "last_updated": "2026-09-19T01:31:02.485Z",
   "digests": [
+    {
+      "date": "2026-09-19",
+      "summary": "Aaj tax notices aur ITAT ki kuch important rulings aa gayi hain jo business owners ko turant dhyan me leni chahiye. GST aur Income Tax ki compliance pe focus rahe.",
+      "items": [
+        {
+          "category": "Income Tax",
+          "headline": "Late e-verification par bhi Section 115BAC ka benefit",
+          "detail": "ITAT Agra ne decide kiya ki agar return time pe file hui hai, par e-verification der se hua, to bhi naya tax regime (115BAC) ka benefit milega, CBDT Circular 10/2025 ke hisaab se.",
+          "cga_view": "Agar verification late ho gayi hai, phir bhi Section 115BAC ka claim reject hua hai, to ye order ka reference dein. Purane reject cases bhi review kara lo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-agra-section-115bac-option-delayed-verification.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Section 148A(b) notice bina 7 clear din dene ke invalid",
+          "detail": "ITAT Ranchi ne Section 148A(b) ka notice, reassessment aur Section 263 ki proceedings cancel kar di, kyunki proper 7 clear din nahi diye gaye the reply ke liye.",
+          "cga_view": "Agar aapko ya client ko notice me 7 clear din nahi mile reply ka, to is ITAT Ranchi order ki copy laga kar defence bana sakte ho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/section-148a-notice-invalid-lack-clear-days-itat-ranchi.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Rule 31ACB ki procedural lapse se Section 40(a)(ia) ka disallowance nahi",
+          "detail": "ITAT Bangalore ne decide kiya ki agar Form 26A produce ho gaya, to Rule 31ACB ki procedural galti ki wajah se Section 40(a)(ia) disallowance nahi ho sakta.",
+          "cga_view": "TDS procedure me galati ho gayi hai, par Form 26A mil gaya to assessment me is ruling ka use karo. Disallowance se bach sakte ho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/rule-31acb-filing-lapse-cannot-sustain-section-40-ia-disallowance-itat-bangalore.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-09-18",
       "summary": "Aaj mostly income tax aur GST ke kuch important updates hain, saath hi kuch judicial orders bhi noteworthy hain. Official government notification abhi available nahi hai, saari information trade press reports se hai.",
