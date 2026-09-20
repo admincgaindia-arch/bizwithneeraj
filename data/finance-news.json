@@ -1,6 +1,47 @@
 {
-  "last_updated": "2026-09-19T02:15:28.409Z",
+  "last_updated": "2026-09-20T02:15:29.581Z",
   "days": [
+    {
+      "date": "2026-09-20",
+      "items": [
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Directors aur KMPs ke liye PIT Compliance guide",
+          "effective": "",
+          "what": "Listed companies ke liye SEBI ki PIT (Prohibition of Insider Trading) compliance ka practical overview diya gaya hai. Insider trading, UPSI, trading windows, disclosures aur latest amendments cover kiye gaye hain.",
+          "who": "Sirf listed companies ke directors, key managerial personnel (KMP) aur compliance teams par lagu hai.",
+          "action": "Directors aur KMPs ko PIT policy, trading window aur disclosures ka compliance review karna chahiye. SEBI amendments ko apne internal process mein update karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/listing-bell-directors-kmps-pit-compliance.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "RBI: FPIs ke liye KYC certified copy facility extended",
+          "effective": "",
+          "what": "RBI ne banks ko allow kiya hai ki woh Foreign Portfolio Investors (FPIs) ke KYC documents certified copies ke roop mein specified overseas authorities se accept kar sakte hain. Ye facility ab cooperative banks, regional rural banks, local area banks aur small finance banks par bhi lagu hai.",
+          "who": "Sabhi banks, co-operative banks, regional rural banks, local area banks, small finance banks aur FPIs par lagu hai.",
+          "action": "Agar aap ek FPI hain ya bank mein FPI client serve karte hain, toh certified KYC copies submit/accept kar sakte hain. KYC document certification aur nayi process ka use karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/certified-kyc-copy-facility-extended-fpis-rbi-amendment-directions-2026.html"
+        },
+        {
+          "cat": "Other",
+          "authority": "",
+          "ref": "",
+          "headline": "LLP Annual Form 8 aur Form 11 filing ka rule",
+          "effective": "",
+          "what": "LLP ko har saal Form 8 aur Form 11 file karna hota hai. Isme partner details, contribution, financial statements aur solvency ki details jati hai.",
+          "who": "Sabhi Limited Liability Partnerships (LLPs) par lagu hai.",
+          "action": "Jo bhi LLP run kar rahe hain, apni annual Form 8 aur Form 11 timely file karein. Required financial aur partner info ready rakhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/llp-annual-compliance-form-8-form-11-filing-requirements.html"
+        }
+      ]
+    },
     {
       "date": "2026-09-19",
       "items": [
