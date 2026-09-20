@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-09-19T02:00:28.511Z",
+  "last_updated": "2026-09-20T02:00:23.514Z",
   "days": [
+    {
+      "date": "2026-09-20",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "Karnataka High Court",
+          "case_name": "Khivraj Motors Vs ACIT (Karnataka High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "148, 148A(3)",
+          "facts": "Khivraj Motors ka case tha. Department ne reassessment notice bheja, jabki same income pe partner ke against already action chal raha tha.",
+          "issue": "Kya ek hi income ke liye firm aur partner dono ke khilaf alag alag karwai ho sakti hai?",
+          "held": "Court ne kaha, ye galat hai. Reassessment notice wapas le li. Ye bhi order diya ki phir se socha jaaye kyunki same income pe pehle se case chal raha hai.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapke business aur partner, dono pe ek hi income ke liye notice aaye to turant challenge karo. Double assessment nahi ho sakta.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/karnataka-hc-quashes-reassessment-notice-income-faced-proceedings-against-partner.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "Karnataka High Court",
+          "case_name": "Apoorva Harish Ruparel v. Assessment Unit (Karnataka High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "Apoorva Harish Ruparel ka case tha. Income Tax ne notices secondary email id aur purane address pe bhej diye. Iss wajah se assessee ko pata hi nahi chala.",
+          "issue": "Kya department notice galat email ya purane address pe bhej ke assessment kar sakta hai?",
+          "held": "Court ne assessment, penalty aur bank attachment sab radd kar diye. Galat process follow hua tha.",
+          "outcome": "Assessee",
+          "takeaway": "Hamesha apna address aur email department ke records mein update rakho. Notice galat jagah gaya ho to uske against turant action lo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/karnataka-high-court-quashes-reassessment-notices-secondary-email-address.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Delhi",
+          "case_name": "Sandeep Vs ITO (ITAT Delhi)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2014-15",
+          "section": "28 (Land Acquisition Act), 10(37) (Income Tax Act)",
+          "facts": "Ye case Sandeep ka tha. Usko land acquisition ke kaaran extra compensation mila aur uspe Section 28 ke tahat interest diya gaya.",
+          "issue": "Kya Section 28 ke interest pe tax lagega ya woh exempt hai?",
+          "held": "ITAT ne decide kiya ki yeh interest, enhanced compensation ka part hai aur Section 10(37) ke under exempt hai.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapko land acquisition mein Section 28 ka interest mile to usse exempt income declare karo. Return file karte waqt Section 10(37) ka claim jaroor karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-delhi-holds-section-28-land-acquisition-interest-exempt-section-10-37.html"
+        },
+        {
+          "law": "GST",
+          "court": "Telangana High Court",
+          "case_name": "Anita Packaging Vs Assistant Commissioner (ST) (Telangana High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "73 (GST)",
+          "facts": "Anita Packaging ka consultant time se appeal file nahi kar paaya tha. Department ne Section 73 ke tahat demand order pass kar diya tha.",
+          "issue": "Kya late appeal file karne par fir bhi sunwai ka mauka mil sakta hai?",
+          "held": "Court ne company ko do hafte ka samay diya. Ab statutory pre-deposit ke sath appeal aur delay condonation application file kar sakte hain.",
+          "outcome": "Assessee",
+          "takeaway": "Agar appeal time se na ho paaye to jaldi se delay condonation ke sath appeal file karo. Court soft approach le sakta hai, par time mat waste karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/telangana-hc-appeal-against-section-73-demand-consultant-lapse.html"
+        },
+        {
+          "law": "GST",
+          "court": "Delhi High Court",
+          "case_name": "Puneet Batra Vs Union of India & Ors. (Delhi High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "67(2) (CGST)",
+          "facts": "Advocate Puneet Batra ke premises par CGST search hua. Search ke dauran, client ki confidential details bhi thi.",
+          "issue": "Kya advocate ke office ki search legal hai aur client privilege maintain kiya jaa sakta hai?",
+          "held": "Court ne search ko sahi mana, par authority ko bola privilege data ya unrelated documents ko protect karna hoga.",
+          "outcome": "Revenue",
+          "takeaway": "Agar office par search ho to immediately client privilege documents ki list de do. Officers ko batana hoga ki kaunse papers privileged hain.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/delhi-hc-upholds-cgst-search-advocates-premises-privilege-safeguards.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Delhi",
+          "case_name": "PSS Solutions Pvt. Ltd. Vs Assessment Unit (ITAT Delhi)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2018-19",
+          "section": "69A",
+          "facts": "PSS Solutions Pvt. Ltd. ke case mein department ne kisi third party ke Excel-sheet entries ke basis par unexplained money ka addition kar diya.",
+          "issue": "Kya sirf third party data ki entries par addition ho sakti hai jab actual cash ya asset nahi mila ho?",
+          "held": "ITAT ne kaha sirf Excel-sheet entry se Section 69A addition nahi ho sakta, jab tak real unexplained money nahi milti.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapke against sirf kisi dusre ki sheet ya paper se addition ho, to usko challenge karo. Bina physical evidence ke wo tik nahi sakta.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/section-69a-addition-deleted-excel-sheet-entries-without-unexplained-money-delhi-itat.html"
+        }
+      ]
+    },
     {
       "date": "2026-09-19",
       "cases": [
