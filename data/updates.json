@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-09-19T01:31:02.485Z",
+  "last_updated": "2026-09-20T01:31:00.141Z",
   "digests": [
+    {
+      "date": "2026-09-20",
+      "summary": "Aaj mostly income tax aur GST ki courts ki rulings dominate kar rahi hain. Compliance aur appeal ke points dhyan dein.",
+      "items": [
+        {
+          "category": "Income Tax",
+          "headline": "ITAT Kolkata ne TDS/TCS penalty maaf ki",
+          "detail": "ITAT Kolkata ne penalty sections 271C/271CA cancel ki, kyunki assessee ne TDS-TCS ka bona fide belief show kiya aur Section 273B ke tahat 'reasonable cause' maana gaya.",
+          "cga_view": "Agar genuine mistake ya bona fide galti ho TDS/TCS mein, to section 273B ka benefit claim kar sakte ho. Lekin pura documentation zaruri hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-kolkata-deletes-tds-tcs-penalties-bona-fide-belief-section-273b.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Late Form 10B bhi chalega agar CPC process se pehle diya hai",
+          "detail": "ITAT Chennai ne bola Form 10B audit report 33 din late di gayi thi, lekin return process hone se pehle submit ho gayi thi, isliye Section 11 exemption mil gaya.",
+          "cga_view": "Form 10B late ho jaye to bhi agar return process hone se pehle file ho, exemption reject hone ka darr kam hai. Par har case ka fact important hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/belated-form-10b-cpc-processing-sufficient-section-11-exemption-itat-chennai.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Section 153C proceedings quashed by ITAT Delhi",
+          "detail": "ITAT Delhi ne Section 153C ke action ko cancel kiya kyunki AO ne nahi dikhaya ki jo material mila uska assessee ke total income pe direct impact hai.",
+          "cga_view": "Agar aapka assessment 153C mein hai, check karein AO ne proper satisfaction record ki hai ya nahi. Weak satisfaction note pe order quash ho sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/section-153c-quashed-failure-show-bearing-total-income-itat-delhi.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GST appeal allowed as consultant didn't inform",
+          "detail": "Telangana HC ne taxpayer ko GST Section 73 order pe 2 hafte mein appeal file karne ka mauka diya, kyunki consultant ne right time pe order inform nahi kiya tha.",
+          "cga_view": "Agar consultant ki wajah se appeal miss ho gayi ho to abhi bhi court mein condonation ke liye chance mil sakta hai. Jaldi action lein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/telangana-hc-appeal-consultant-failed-inform-taxpayer-gst-order.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "CBDT can't add cut-off in settlement cases: Rajasthan HC",
+          "detail": "Rajasthan HC ne CBDT ke eligibility cut-off ko strike down kiya, bola ki interim board ko settlement applications merit pe decide karni chahiye.",
+          "cga_view": "Agar aapki settlement application pe eligibility cut-off ka issue aa raha hai, to yeh ruling refer kar sakte hain. Final outcome Board ke merit assessment pe depend karega.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/top-stories/cbdt-cannot-impose-prior-eligibility-cut-off-while-extending-settlement-application-deadline-rajasthan-hc-1451620"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-09-19",
       "summary": "Aaj tax notices aur ITAT ki kuch important rulings aa gayi hain jo business owners ko turant dhyan me leni chahiye. GST aur Income Tax ki compliance pe focus rahe.",
