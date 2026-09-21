@@ -1,6 +1,47 @@
 {
-  "last_updated": "2026-09-20T02:15:29.581Z",
+  "last_updated": "2026-09-21T02:15:25.171Z",
   "days": [
+    {
+      "date": "2026-09-21",
+      "items": [
+        {
+          "cat": "RBI Policy",
+          "authority": "IFSCA",
+          "ref": "",
+          "headline": "IFSC Distributors ab UAE, Singapore, Australia, EU mein bhi allowed",
+          "effective": "",
+          "what": "IFSCA ne apne Master Circular ko amend kiya hai. Ab IFSC Distributors ko UAE, Singapore, Australia aur European Union mein distribution activity ki ijazat milegi.",
+          "who": "Jo bhi IFSC mein registered distributors hain, aur ye countries/jurisdictions target karte hain.",
+          "action": "Agar aap IFSC distributor ho to apna list update karo. Ye naye jurisdiction mil gaye hain, compliance check karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/ifsca-adds-uae-singapore-australia-eu-ifsc-distribution-activities.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "FPIs ke liye certified KYC copy facility RBI ne badhai",
+          "effective": "",
+          "what": "RBI ne sabhi co-operative banks (rural, urban aur regional rural banks), Local Area Banks aur Small Finance Banks ko bola hai ki woh FPIs se KYC documents certified copy ke roop mein accept kar sakte hain. Certified copy yaani FPI apne documents ko kuch specified foreign authority se attest karwa sakte hain.",
+          "who": "Ye rule Foreign Portfolio Investors (FPIs) par lagu hai jo India mein co-operative, local area ya small finance banks ke through invest karte hain.",
+          "action": "Agar aap FPI client handle karte ho, toh KYC document certification process check karo. Client ko certified copy ka process samjha do, aur kis authority se certification chahiye, ye clarify karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/rbi-amends-rural-operative-banks-kyc-directions-extend-certified-copy-facility-fpis.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "PIT compliance par directors aur KMPs ko kya jaanna hai",
+          "effective": "",
+          "what": "SEBI ne PIT (Prohibition of Insider Trading) compliance ko lekar listed companies ke directors aur KMPs ke liye guide banayi hai. Isme UPSI, trading window, disclosure aur SDD jaisi cheezein cover ki gayi hain.",
+          "who": "Listed company ke directors, KMPs aur compliance team.",
+          "action": "Apne company ka SEBI PIT compliance policy dobara check karo. Recent amendments ya guide points implement kiye hain ya nahi, verify karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/listing-bell-directors-kmps-pit-compliance.html"
+        }
+      ]
+    },
     {
       "date": "2026-09-20",
       "items": [
