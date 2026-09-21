@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-09-20T02:00:23.514Z",
+  "last_updated": "2026-09-21T02:00:27.015Z",
   "days": [
+    {
+      "date": "2026-09-21",
+      "cases": [
+        {
+          "law": "Other",
+          "court": "Madras High Court",
+          "case_name": "C. Anandane Vs Directorate of Enforcement (Madras High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "Yah case ek aadmi ka tha jo corruption ke case mein free ho gaya tha. Department ne uspe PMLA (money laundering) ka bhi case kiya tha. Jab main corruption wala case khatam ho gaya toh Department ne PMLA ka case chalaye rakha.",
+          "issue": "Jab aadmi main (predicate) case mein free ho jaye, to PMLA ka case chal sakta hai ya nahi?",
+          "held": "Court ne bola ki jab main case khatam, toh money laundering ka bhi case radd ho jayega. Isliye department ka PMLA complaint bhi khatam kar diya.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aap ke khilaaf money laundering bhi sirf ek dusre case ke basis par hai, aur woh main case khatam ho gaya, toh yeh bhi automatically khatam ho sakta hai. Khud hi PMLA case na larte raho; main case pe focus rakho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/predicate-offence-acquittal-quashes-pmla-complaint-madras-hc.html"
+        },
+        {
+          "law": "GST",
+          "court": "Telangana High Court",
+          "case_name": "Infosys BPM Ltd. Vs Additional Commissioner of Central Tax (Telangana High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "Infosys BPM ki GST order milne ki baat thi, par order na toh serve kiya gaya aur na hi GST portal par upload hua. Company ko appeal file karni thi par order nahi mila.",
+          "issue": "Agar order serve na ho, toh appeal file karne ka mauka mil sakta hai ya nahi?",
+          "held": "Court ne company ko GSTAT mein appeal file karne ki permission di. Reason yeh tha ki order sahi tareeke se diya hi nahi gaya tha.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapko order milta hi nahi hai, toh aap late appeal ke liye court ja sakte hain. Hamesha proof sambhal kar rakhein ki aapko order mila ya nahi.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/telangana-hc-infosys-bpm-file-gstat-appeal-non-service-order.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "Supreme Court of India",
+          "case_name": "PCIT Vs Nahar Enterprises (Supreme Court of India)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "Section 80IB(10)",
+          "facts": "Yeh builder ka case tha, jisme department ne project ke flower-bed aur service area ko built-up area mein jod diya tha. Section 80IB(10) housing project ke tax deduction ke liye hai. Deduction milne ya na milne ka yahi mudda tha.",
+          "issue": "Section 80IB(10) mein built-up area mein flower-bed aur service area include hoga ya nahi?",
+          "held": "Supreme Court ne Revenue ki appeal radd kar di aur decide kiya ki flower-bed aur service area built-up area mein count nahi honge. Deduction mil sakta hai.",
+          "outcome": "Assessee",
+          "takeaway": "Builders ko deduction chahiye toh floor plan mein flower-bed aur service area ko alag dikhayein. Unko built-up area mein mat include karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/sc-upholds-nahar-enterprises-ruling-section-80ib-10-built-area.html"
+        },
+        {
+          "law": "GST",
+          "court": "Bombay High Court",
+          "case_name": "Hind Maha Mineral LLP Vs State of Maharashtra (Bombay High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "Section 75(4), Section 74A(8)(ii)",
+          "facts": "LLP ka GST order bina proper sunway decide ho gaya. Department ne Section 75(4) ka, jisme personal hearing ka right hai, uska violation kiya. Dusra, Section 74A(8)(ii) bhi breach hua.",
+          "issue": "Personal hearing dena mandatory hai ya department bina sune order pass kar sakta hai?",
+          "held": "Court ne kaha bina hearing ka order galat hai aur GST order radd kar diya. Department par 50,000 rupaye ki cost bhi lagayi.",
+          "outcome": "Assessee",
+          "takeaway": "GST mein jab bhi notice aaye, hearing ka likhit demand karo. Agar bina sune order aaye toh turant High Court mein challenge karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/bombay-hc-quashes-gst-order-denial-hearing-section-74a-breach.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Delhi",
+          "case_name": "DCIT Vs I Energizer Holdings Ltd. (ITAT Delhi)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2012-13",
+          "section": "Section 144C",
+          "facts": "Foreign company ka case tha. Department ne Section 144C (jo foreign companies ke assessment pe draft order dene ka rule hai) follow nahi kiya. Assessee ne yahi point uthaya.",
+          "issue": "Section 144C ke bina draft assessment order diya ja sakta hai ya nahi?",
+          "held": "ITAT ne decide kiya ki Section 144C ka draft order bahut zaroori hai. Jab yeh nahi diya gaya toh assessment radd ho jayega.",
+          "outcome": "Assessee",
+          "takeaway": "Agar foreign company hai aur Section 144C ka draft order nahi mila, turant assessment ko challenge karo. Department galti karta hai toh case wapas ho sakta hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-delhi-upholds-setting-assessment-section-144c-draft-order-failure.html"
+        },
+        {
+          "law": "Other",
+          "court": "Patna High Court",
+          "case_name": "Krishna Kant Thakur Vs Union of India (Patna High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "Yeh case government ke work contract ka tha. Department ne bina pura evidence dekhe service tax demand laga di thi. Baad mein kuch nayi papers aaye jo record pe nahi the.",
+          "issue": "Jab nayi evidence aaye toh kya purani demand valid hai?",
+          "held": "Court ne service tax demand wapas bhej di fresh review ke liye. Saare nayi papers dekhkar dobara faisla karne ka order diya.",
+          "outcome": "Mixed",
+          "takeaway": "Agar aapke case mein nayi document ya record hai, toh usko submit karo. Court wapas department ko nayi review ke liye bhej sakta hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/service-tax/service-tax-demand-set-fresh-review-government-work-contracts-patna-hc.html"
+        }
+      ]
+    },
     {
       "date": "2026-09-20",
       "cases": [
