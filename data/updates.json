@@ -1,6 +1,67 @@
 {
-  "last_updated": "2026-09-20T01:31:00.141Z",
+  "last_updated": "2026-09-21T01:31:02.425Z",
   "digests": [
+    {
+      "date": "2026-09-21",
+      "summary": "Aaj mostly court rulings par focus hai, GST aur Income Tax dono mein kaafi update hai. Kayi ITC, compliance aur penalty se judi important judgments aayi hain, dhyan rakhein.",
+      "items": [
+        {
+          "category": "Income Tax",
+          "headline": "Form 10-IEA galti se file, ITR choice hi valid: ITAT",
+          "detail": "ITAT Bangalore ne kaha, agar ITR mein new regime chuna hai aur galti se Form 10-IEA file ho gaya, to ITR ki choice hi valid mani jayegi. Inadvertent Form 10-IEA se regime change nahi hoga.",
+          "cga_view": "Agar aapne galti se Form 10-IEA bhar diya hai, lekin ITR mein new regime dikhaya hai, to tension na lein—ITAT ne taxpayer ke favour mein bola hai. But galat filing avoid karein, clear record rakkhein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/inadvertent-form-10-iea-cannot-override-regime-itr-choice-itat-bangalore.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Leave Encashment exemption limit ₹25 lakh tak allowed: ITAT Delhi",
+          "detail": "ITAT Delhi ne bola ki AY 2020-21 ke liye leave encashment par section 10(10AA) ke tahat ₹25 lakh tak exemption milegi, jo CBDT notification ke hisab se hai.",
+          "cga_view": "Agar is saal leave encashment mila hai, to ₹25 lakh tak exemption claim kar sakte hain—proper calculation aur documents rakkhein. Apne client ki eligibility cross-check kar lein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-delhi-full-leave-encashment-exemption-rs-25-lakh-section-10-10aa.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GSTR-2A vs 3B ITC dispute fresh hearing ko bheja: GSTAT",
+          "detail": "GSTAT ne ek ITC mismatch case mein old demand ko hata ke, fresh and reasoned order dene ka order diya hai. Matlab, mismatch ki situation mein fair chance milega.",
+          "cga_view": "Agar aapka ITC ka claim GSTR-2A/3B mismatch ki wajah se fas gaya hai, to fresh hearing ka option hai. Apna reconciliation ready rakhein, sach aur paperwork saaf ho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gstat-remands-gstr-2a-gstr-3b-itc-dispute-fresh-adjudication.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Vehicle-weight mismatch par ₹4.1 lakh penalty: GSTAT",
+          "detail": "GSTAT ne Section 129 ke tehat penalty uphold ki—actual vehicle aur e-way bill data mein difference tha. Penalty Rs 4.1 lakh lagi.",
+          "cga_view": "E-way bill fill karte samay bahut dhyan rakhein—weight, vehicle number, sab accurately match hona chahiye. Galti pe badi penalty lag sakti hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gstat-upholds-rs-4-10-lakh-penalty-vehicle-bill-mismatch.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GST audit findings se direct recovery nahi: Bombay HC",
+          "detail": "Bombay HC ne bola ki GST audit ka finding letter (ADT-02) sirf ek communication hai, usse direct recovery nahi ho sakti jab tak aage CGST action na ho.",
+          "cga_view": "Agar audit ke baad aapko sirf ADT-02 mila hai, to turant paisa mat bhar dijiye; jab tak proper recovery process start na ho. Legal advice lein agar pressure aaye.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-audit-findings-not-trigger-recovery-without-cgst-action-bombay-hc.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GST registration revocation, tax aur return bharne par allowed: Uttarakhand HC",
+          "detail": "Uttarakhand HC ne bola ki agar taxpayer ne tax, interest, penalty bhar diya hai aur sab returns file kar di hain, to GST registration revoke ho sakta hai.",
+          "cga_view": "Agar registration cancel ho gaya tha aur sab dues aur return bhar diye hain, to turant revocation application file karein—court se relief milne ka signal hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/uttarakhand-hc-gst-revocation-application-tax-returns-compliance.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-09-20",
       "summary": "Aaj mostly income tax aur GST ki courts ki rulings dominate kar rahi hain. Compliance aur appeal ke points dhyan dein.",
