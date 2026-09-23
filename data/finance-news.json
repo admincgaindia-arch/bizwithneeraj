@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-09-21T02:15:25.171Z",
+  "last_updated": "2026-09-23T18:17:59.233Z",
   "days": [
+    {
+      "date": "2026-09-23",
+      "items": [
+        {
+          "cat": "Loan",
+          "authority": "Export-Import Bank of India",
+          "ref": "A.P. (DIR Series) Circular No. 22",
+          "headline": "Exim Bank ne Maldives ke liye LOC approve ki",
+          "effective": "",
+          "what": "Exim Bank ne Maldives government ko ₹ 4,850 crore ka Line of Credit diya hai. Iska use waha ke development projects ke liye hoga. Export of eligible Indian goods and services bhi iss LOC ke under hoga.",
+          "who": "Maldives government, aur India ke exporters jo eligible goods/services bechte hain.",
+          "action": "Agar aap Indian exporter hain aur aapke goods eligible hain, to Exim Bank ya apne AD Bank se guidance lein. Export plan karne se pehle eligibility check karein.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13712&Mode=0"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Warehousing Development and Regulatory Authority (WDRA)",
+          "ref": "",
+          "headline": "WDRA ne Aadhaar authentication voluntary kiya",
+          "effective": "",
+          "what": "Ab depositors aur warehousemen voluntary Aadhaar authentication kara sakte hain. Dusra ID option bhi hai, Aadhaar compulsory nahi hai.",
+          "who": "Sabhi depositors, warehousemen ya stakeholders jinka WDRA se sambandh hai.",
+          "action": "Warehouse ya commodity deposit karte waqt Aadhaar ya alternate ID option ka use kar sakte hain. Latest process WDRA portal par check karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/wdra-aadhaar-authentication-depositors-warehousemen-notified.html"
+        },
+        {
+          "cat": "Subsidy",
+          "authority": "Ministry of Petroleum and Natural Gas",
+          "ref": "",
+          "headline": "Domestic PNG Scheme mein extra gas allocation milega",
+          "effective": "",
+          "what": "Domestic PNG (Piped Natural Gas) Connection Incentive Scheme ke under CGD companies ko har new billed household connection par 200 SCM extra APM gas milegi. Iska goal hai household PNG coverage badhana.",
+          "who": "City Gas Distribution (CGD) companies jo domestic PNG connections lagate hain.",
+          "action": "CGD companies apni billing aur reporting process mein scheme ke hisab se claim file karein. Har eligible billed connection par additional gas allocation ka benefit uthayein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/domestic-png-connection-incentive-scheme-offers-additional-apm-gas-allocation.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "RBI ne market risk ki capital directions jari ki",
+          "effective": "April 1, 2027",
+          "what": "RBI ne commercial banks ke liye market risk capital ki directions notify ki hain. Trading book, interest rate, equity, forex aur options par focus hai.",
+          "who": "Saare commercial banks jinke trading books yaa financial instruments mein exposure hai.",
+          "action": "Bank apni risk management aur capital requirement policies ko in directions ke hisab se update karein. April 2027 tak tayyari puri karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/rbi-commercial-banks-minimum-capital-requirements-market-risk-directions-2026.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "International Financial Services Centres Authority (IFSCA)",
+          "ref": "",
+          "headline": "IFSCA ne naye jurisdiction IFSC distributors mein jode",
+          "effective": "",
+          "what": "IFSCA ne Master Circular amend kiya hai. Ab UAE, Singapore, Australia, aur EU bhi specified jurisdictions mein hai IFSC distribution activities ke liye.",
+          "who": "IFSC registered distributors jo cross-border distribution ka business karte hain.",
+          "action": "Distributors apna compliance process new jurisdiction list ke hisab se update karein. Nayi market entry plan ke liye Master Circular dekhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/ifsca-adds-uae-singapore-australia-eu-ifsc-distribution-activities.html"
+        }
+      ]
+    },
     {
       "date": "2026-09-21",
       "items": [
