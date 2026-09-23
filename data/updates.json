@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-09-21T01:31:02.425Z",
+  "last_updated": "2026-09-23T18:17:54.205Z",
   "digests": [
+    {
+      "date": "2026-09-23",
+      "summary": "Aaj major GST aur Income Tax updates mostly trade sources se aaye hain. Official notification abhi kisi item par digest mein nahi hai, par kuch rulings aur naye amendment rules hain jo businesses ko effect karenge.",
+      "items": [
+        {
+          "category": "Income Tax",
+          "headline": "CBDT ne TDS rules change kiye for NR property deals",
+          "detail": "CBDT ne Income-tax (Fifth Amendment) Rules, 2026 notify kiye hain, ab TDS ka process aur Forms 132 and 141 mein changes hue hain specifically for non-resident property transfers. Source: taxguru.in.",
+          "cga_view": "Agar aap koi property deal me NR involved hai, to naye TDS rules aur forms check karo. Actual notification padho aur TDS compliance update karo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/cbdt-amends-tds-rules-non-resident-immovable-property-transfers.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "BookMyShow convenience fee par Section 194H TDS nahi lagega",
+          "detail": "ITAT Bangalore ne bola BookMyShow ke convenience fee pe Section 194H TDS lagu nahi hota, theatre owner ko fayda diya gaya hai (AY 2018-19). Source: taxguru.in.",
+          "cga_view": "Agar aapka business ticketing ya platform fee se related hai, to yeh ITAT order refer karo. Lekin yeh past AY (2018-19) ka case hai, future ke liye law follow karo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/bookmyshow-convenience-fee-not-subject-section-194h-tds-itat-bangalore.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Section 153C proceedings bina proper satisfaction note invalid",
+          "detail": "ITAT Delhi ne Section 153C assessments quash ki, jab Assessing Officer ne proper satisfaction note nahi banaya. Seized material ka income par direct link dikhana zaroori hai. Source: taxguru.in.",
+          "cga_view": "Aapke against agar search ke baad 153C assessment hua hai, to AO ka satisfaction note zarur check karwa lo. Agar mechanically banaya hai to challenge ka scope hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/mechanical-satisfaction-note-cannot-sustain-section-153c-proceedings-itat-delhi.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-09-21",
       "summary": "Aaj mostly court rulings par focus hai, GST aur Income Tax dono mein kaafi update hai. Kayi ITC, compliance aur penalty se judi important judgments aayi hain, dhyan rakhein.",
