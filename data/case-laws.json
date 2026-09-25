@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-09-23T18:18:00.107Z",
+  "last_updated": "2026-09-25T15:39:01.743Z",
   "days": [
+    {
+      "date": "2026-09-25",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "Gujarat High Court",
+          "case_name": "Lodestone Software Services Private Limited Vs Union of India & Ors. (Gujarat High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "Section 43B (expenses allowed only when actually paid)",
+          "facts": "Yahan ek software company ka case tha. Department ne fir se assessment khol diya kyunki unko laga ki Rs. 17.54 crore TDS ka deduction galat liya gaya hai. Par company ne actually kabhi woh deduction liya bhi nahi tha; unhone bas tax audit report galat padh li thi.",
+          "issue": "Kya bina sahi wajah ke assessment dobara khol sakte hain jab purana sab kuch record pe hai?",
+          "held": "Court ne reopening ko radd kar diya. Bola bas tax audit report galat samajh lene se dobara assessment nahi ho sakta, kyunki yeh sirf ek alag opinion hai, koi naya evidence nahi.",
+          "outcome": "Assessee",
+          "takeaway": "Agar department bas galat samajh kar assessment dobara khol raha ho, to usko challenge kar sakte ho. Apne records clear rakho ki deduction actually claim hua tha ya nahi.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/tds-reported-never-claimed-deduction-gujarat-high-court-quashes-reopening.html"
+        },
+        {
+          "law": "GST",
+          "court": "Bombay High Court",
+          "case_name": "Ganesh Valmik Bawane Vs Joint Director (Bombay High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "Ek aadmi ko GST ka show cause notice mila jisme 3 saal ki alag-alag financial years cover ho rahi thi. Department ne ek hi notice mein sab kuch daal diya tha.",
+          "issue": "Kya 3 alag saal ke liye ek hi notice valid hai?",
+          "held": "Court ne bol diya ki aise composite notice ko quash karte hain. Lekin department ko allowed hai ki vo naye hisaab se dobara notice bheje, par sahi process follow kare.",
+          "outcome": "Assessee",
+          "takeaway": "Agar kabhi GST ka notice ek se zyada saalon ka ek sath mile, to uski legal validity check karni chahiye. Department ko har financial year ke liye alag procedure follow karna padta hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/bombay-high-court-quashes-gst-notice-covering-financial-years.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Bangalore",
+          "case_name": "Hariharan Krishnan Vs ITO (ITAT Bangalore)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2019-2020",
+          "section": "",
+          "facts": "Case ek individual ka tha jinhone foreign country mein tax diya tha. Indian tax return mein Form 67 late file hua aur foreign tax credit galat column mein daal diya tha. Department ne credit mana nahi.",
+          "issue": "Kya sirf Form 67 late file karne se foreign tax credit reject ho sakta hai?",
+          "held": "Tribunal ne bola ki credit nahi roka ja sakta jab tak actual foreign tax pay hua ho, chahe form late file hua ho. Department ko verify karna hai ki claim genuine hai ya nahi.",
+          "outcome": "Assessee",
+          "takeaway": "Agar galti se Form 67 late ho gaya ya column galat ho gaya, to bhi foreign tax credit ke liye try karo. Important hai ki tax actual pay hua ho aur sahi evidence ho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/foreign-tax-credit-put-wrong-column-form-67-filed-late-itat-claim.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Bangalore",
+          "case_name": "Sanjeev Sivasankaran Menon Vs DCI (ITAT Bangalore)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2019-20",
+          "section": "",
+          "facts": "Ek assessor ne US mein tax time pe pay kiya tha par India mein Form 67 late file kiya. Department ne is wajah se foreign tax credit mana kar diya.",
+          "issue": "Kya late Form 67 file karne par credit reject ho sakta hai jab ki tax actual time pe pay hua ho?",
+          "held": "Tribunal ne bola ki jab tak foreign tax actual pay hua ho aur wo income Indian return mein dikhai gayi ho, late Form 67 par credit mana nahi kiya ja sakta. Par department ko verification ka right hai.",
+          "outcome": "Assessee",
+          "takeaway": "Foreign tax timely pay ho gaya ho to late Form 67 pe bhi apna credit claim zarur karo, subject to verification. Payment aur income ka record ready rakho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/form-67-filed-late-tax-paid-time-bengaluru-itat-foreign-tax-credit-claim.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Hyderabad",
+          "case_name": "Kishan Kumar Agarwal Vs ACIT (ITAT Hyderabad)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2018-19",
+          "section": "Section 271AAB (search ke baad penalty)",
+          "facts": "Yahan search ke baad assessee ko Rs.12.76 lakh ki penalty notice mili thi. Lekin notice mein nahi likha tha ki kaunsa sub-section ya limb apply ho raha hai.",
+          "issue": "Kya bina clear category ya limb bataye penalty notice valid hai?",
+          "held": "Tribunal ne penalty notice ko quash kar diya kyunki department ne notice mein specify nahi kiya ki kaunsa limb lag raha hai. Agar notice vague ho to penalty nahi lag sakti.",
+          "outcome": "Assessee",
+          "takeaway": "Department agar penalty notice de to hamesha dekh lo ki kaunsa section/sub-section ya limb specify hai ya nahi. Agar vague hai to usko challenge karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/section-271aab-penalty-quashed-failure-applicable-limb-itat-hyderabad.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Bangalore",
+          "case_name": "Vishranthi Trust Vs ITO (ITAT Bangalore)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2017-18",
+          "section": "",
+          "facts": "Ek trust ko Rs.48.94 lakh anonymous donation mila. Assessing officer ne yeh amount income maan liya kyunki donors ka detail nahin diya gaya tha.",
+          "issue": "Kya bina donor ke naam aur address verify kiye anonymous donation ko income maana ja sakta hai?",
+          "held": "Tribunal ne case wapas assessing officer ko bhej diya. Bola ki pehle donors ke naam aur address verify karo, tab decide karo donation genuine hai ya nahi.",
+          "outcome": "",
+          "takeaway": "Trust ya NGO donation le to donor ke naam aur address ki list ready rakho. Verification ke bina addition ho sakta hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/anonymous-donation-addition-remanded-donor-verification-itat-bangalore.html"
+        }
+      ]
+    },
     {
       "date": "2026-09-23",
       "cases": [
