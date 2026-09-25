@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-09-23T18:17:59.233Z",
+  "last_updated": "2026-09-25T15:38:56.024Z",
   "days": [
+    {
+      "date": "2026-09-25",
+      "items": [
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI ne nomination process simple banaya demat & mutual fund ke liye",
+          "effective": "",
+          "what": "SEBI ne nomination ka process simple kar diya hai demat accounts aur mutual fund folios ke liye. Ab default nomination, opt-out choice aur document bhi simple ho gaya hai.",
+          "who": "Sabhi demat account holders aur mutual fund investors par lagu hoga.",
+          "action": "Aap apne demat account ya mutual fund folio nomination status check karein. Agar nomination nahi diya hai, to nayi process ke hisaab se jaldi se poora karein ya opt-out ka option chun sakte hain.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-simplifies-nomination-framework-demat-accounts-mutual-fund-folios.html"
+        },
+        {
+          "cat": "Other",
+          "authority": "Ministry of Corporate Affairs",
+          "ref": "",
+          "headline": "LLP Form 8 mein financial statements optional hai abhi",
+          "effective": "",
+          "what": "Abhi ke web form LLP Form 8 mein accounts aur solvency ki detail mangi jati hai. Financial statements lagana mandatory nahi, optional hai.",
+          "who": "Sabhi LLPs jo Form 8 bhar rahe hain.",
+          "action": "Form 8 bharte waqt, aap financial statements chahe to laga sakte hain, par majboori nahi hai. Apne ROC consultant se confirm kar lein ki latest rule follow ho raha hai ya nahi.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/attaching-financial-statements-mandatory-llp-form-8.html"
+        },
+        {
+          "cat": "Subsidy",
+          "authority": "Ministry of Petroleum & Natural Gas",
+          "ref": "",
+          "headline": "Domestic PNG scheme mein CGD ko extra APM gas allocation milega",
+          "effective": "",
+          "what": "Domestic PNG incentive scheme ke tahat, CGD entities ko har eligible nayi billed connection par 200 SCM extra APM gas milega. Isse ghar-ghar gas connection tezi se badhega.",
+          "who": "Sabhi City Gas Distribution (CGD) companies jo PNG connections install kar rahe hain.",
+          "action": "CGD companies ko eligible billed connections ki list ready rakhni chahiye. Scheme ka benefit paane ke liye sahi documentation apne end se submit karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/domestic-png-connection-incentive-scheme-offers-additional-apm-gas-allocation.html"
+        },
+        {
+          "cat": "Loan",
+          "authority": "RBI",
+          "ref": "",
+          "headline": "RBI ne Exim Bank ko Maldives projects ke liye line of credit di",
+          "effective": "",
+          "what": "RBI ne Exim Bank ko ₹4,850 crore ki GOI-supported line of credit di hai Maldives ke developmental projects ke liye.",
+          "who": "Exim Bank, aur Maldives mein project lene wale Indian exporters ya suppliers.",
+          "action": "Jo log Maldives mein project hissa lena chahte hain, wo Exim Bank ki guidelines check karein. Funding ke liye eligibility/procedure samjhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/rbi-notifies-rs-4-850-crore-exim-bank-line-credit-maldives-projects.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "RBI",
+          "ref": "",
+          "headline": "RBI ne commercial banks ke liye market risk capital directions diye",
+          "effective": "01-04-2027",
+          "what": "RBI ne commercial banks ke liye nayi directions issue ki hain market risk capital requirements par. Ye trading book, interest rate, equity, forex, options sab pe lagu hoga.",
+          "who": "Sare commercial banks jo trading activities karte hain.",
+          "action": "Jo bhi commercial bank se jude ho, nai directions detail mein padhein. Apne risk team ya auditor se discuss karein ki aap ready hain ya nahi.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/rbi-commercial-banks-minimum-capital-requirements-market-risk-directions-2026.html"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Nippon Yield Maximiser Scheme par SEBI ka settlement order",
+          "effective": "",
+          "what": "Nippon Yield Maximiser AIF Scheme I ke maamle mein SEBI ka settlement order aaya hai.",
+          "who": "Is scheme mein invest karne wale investors aur unke advisors.",
+          "action": "Investors apne advisor se scheme status ke baare mein baat karein. Settlement order ka effect samjhein prior decision ya withdrawal se pehle.",
+          "source_name": "sebi.gov.in",
+          "source_url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/settlement-order-in-the-matter-of-nippon-yield-maximiser-aif-scheme-i_104739.html"
+        }
+      ]
+    },
     {
       "date": "2026-09-23",
       "items": [
