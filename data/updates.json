@@ -1,6 +1,67 @@
 {
-  "last_updated": "2026-09-23T18:17:54.205Z",
+  "last_updated": "2026-09-25T15:39:03.470Z",
   "digests": [
+    {
+      "date": "2026-09-25",
+      "summary": "Aaj ki digest mein GST aur income tax ke kuch important court rulings hai. Sabhi khabrein trade press par aayi hain, official notification ka intezaar hai.",
+      "items": [
+        {
+          "category": "Ruling",
+          "headline": "Gujarat HC ne income tax reassessment quash ki",
+          "detail": "Gujarat High Court ne 2022-23 ka reassessment isliye khatam kiya kyunki ₹17.54 crore TDS deduction ka claim kiya hi nahi gaya tha. Department sirf tax audit report ko galat samajh gaya.",
+          "cga_view": "Agar aapka case similar hai jahan audit report pe basis banakar reopening hui hai, toh legal advice lein aur challenge karne par focus karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/tds-reported-never-claimed-deduction-gujarat-high-court-quashes-reopening.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GST Portal par supplier-recipient communication facility active",
+          "detail": "Naye GST Portal facility se suppliers aur recipients document correction, notifications aur direct GSTR-1 upload kar sakte hain. Communication ka process ab portal par hi hoga.",
+          "cga_view": "Supplier aur customer dono GST Portal pe document discrepancies ka follow-up yahin karein. Email aur offline mode ki dependency kam karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-portals-communication-taxpayers-facility-practical-guide-taxpayers.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Bombay HC ne 3 saal ke GST notice ko quash kiya",
+          "detail": "Bombay High Court ne ek show cause notice, jo ek sath 3 financial years cover kar raha tha, khatam kar diya. Department ko naya notice issue karne ki permission di hai, jo law ke hisab se ho.",
+          "cga_view": "Agar aapko bhi ek hi notice mein multiple years ke GST demand aayi ho, toh legal position check karein. Ho sakta hai notice invalid ho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/bombay-high-court-quashes-gst-notice-covering-financial-years.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Telangana HC: GST registration cancellation appeal par delay condone",
+          "detail": "Telangana High Court ne taxpayer ko 2 hafta diye ki woh GST cancellation order ke against appeal karein, delay condonation ke saath.",
+          "cga_view": "Agar appeal filing deadline miss ho gayi hai toh turant application file karein. High Court se relief mil sakta hai, lekin wait na karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-cancellation-appeal-allowed-delay-condonation-plea-telangana-hc.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITAT Mumbai: Same issue pe phir se assessment nahi ho sakta",
+          "detail": "ITAT Mumbai ne ₹9.68 crore ka income tax reassessment isliye khatam kiya kyunki wahi issue pehle hi section 263 proceeding mein check ho chuka tha.",
+          "cga_view": "Agar aapka assessment ya reassessment pehle se discuss hua tha, toh usko repeat karne par legal remedy possible hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/day-assessments-rs-9-68-crore-reassessment-quashed.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Section 11 exemption: Registration baad mein milne par bhi allowed",
+          "detail": "ITAT Bangalore ne decide kiya ki agar 12AB registration baad mein milti hai lekin AY cover ho jata hai, toh Section 11 exemption mil sakti hai. Filing se pehle registration mandatory nahi hai.",
+          "cga_view": "Trusts ya NGOs jo return ke baad registration lete hain, exemption ka claim revalidate karein, especially jab AY covered ho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/final-12ab-registration-granted-cpc-processing-supports-section-11-exemption-itat-bangalore.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-09-23",
       "summary": "Aaj major GST aur Income Tax updates mostly trade sources se aaye hain. Official notification abhi kisi item par digest mein nahi hai, par kuch rulings aur naye amendment rules hain jo businesses ko effect karenge.",
