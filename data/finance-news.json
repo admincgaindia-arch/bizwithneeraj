@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-09-25T15:38:56.024Z",
+  "last_updated": "2026-09-26T04:23:30.264Z",
   "days": [
+    {
+      "date": "2026-09-26",
+      "items": [
+        {
+          "cat": "Loan",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "RBI: ₹4,850 cr line of credit for Maldives",
+          "effective": "",
+          "what": "RBI ne Exim Bank ke through ₹4,850 crore ka Government of India-supported Line of Credit announce kiya hai. Ye fund Maldives ke developmental projects ke liye use hoga.",
+          "who": "Financial institutions ya exporters jo Maldives ke development projects mein salvage ya supply karte hain.",
+          "action": "Agar aapka business Maldives projects se juda hai, to Exim Bank ke guidelines aur eligibility check karein. Funding ke liye documentation Exim Bank se clear karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/rbi-notifies-rs-4-850-crore-exim-bank-line-credit-maldives-projects.html"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "IFSCA",
+          "ref": "",
+          "headline": "IFSCA ne venture capital schemes mein alag-alag returns allow kiye",
+          "effective": "",
+          "what": "IFSCA ne Venture Capital aur Restricted Schemes mein differential distribution allow kar diya hai. Ab investors ko senior, junior aur subordinate units ke hisaab se alag alag returns mil sakte hain.",
+          "who": "Venture Capital Funds aur unmein invest karne wale investors.",
+          "action": "Scheme ki unit type (senior/junior/subordinate) samjhe aur risk-return ka comparison karein. Jo naye scheme design kar rahe hain, wo IFSCA ki guidelines padh lein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/ifsca-framework-differential-distribution-venture-capital-restricted-schemes.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI ne demat/mutual fund nomination simple kiya",
+          "effective": "",
+          "what": "SEBI ne nomination framework simplify kiya hai. Ab demat accounts aur mutual fund folios mein default nomination, opt-out ka option aur easy documentation hoga.",
+          "who": "Sabhi investors jin ke paas demat account ya mutual fund folio hai ya kholne ka plan hai.",
+          "action": "Nomination ki latest facility online check karein. Agar change ya update karni ho to ab process kaafi simple ho gaya hai, turant complete karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-simplifies-nomination-framework-demat-accounts-mutual-fund-folios.html"
+        },
+        {
+          "cat": "Subsidy",
+          "authority": "Unknown",
+          "ref": "",
+          "headline": "Domestic PNG incentive: Extra APM gas allocation",
+          "effective": "",
+          "what": "Domestic PNG Connection Incentive Scheme ke tahat CGD entities ko har nayi billed household connection par 200 SCM extra APM gas milegi. Isse household gas coverage tez badhega.",
+          "who": "City Gas Distribution (CGD) entities jo PNG household connections lagaati hain.",
+          "action": "CGD entities ko har eligible nayi billed connection ki proper documentation rakhni hai jisse incentive claim easily ho sake.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/domestic-png-connection-incentive-scheme-offers-additional-apm-gas-allocation.html"
+        },
+        {
+          "cat": "Other",
+          "authority": "Unknown",
+          "ref": "",
+          "headline": "LLP Form 8: Financial statement ab optional",
+          "effective": "",
+          "what": "LLP Form 8 file karte waqt ab financial statements attach karna mandatory nahi hai. Web form mein accounts aur solvency ki details mange jaati hain; financials optional hai.",
+          "who": "Sare Limited Liability Partnerships (LLP) jo Form 8 file karte hain.",
+          "action": "Form 8 bharte waqt financial statement attach karna chahein to karein, nahi to accounts ki sari jaankari form mein bhar de.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/attaching-financial-statements-mandatory-llp-form-8.html"
+        }
+      ]
+    },
     {
       "date": "2026-09-25",
       "items": [
