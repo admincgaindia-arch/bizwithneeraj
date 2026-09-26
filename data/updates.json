@@ -1,6 +1,67 @@
 {
-  "last_updated": "2026-09-25T15:39:03.470Z",
+  "last_updated": "2026-09-26T04:23:24.540Z",
   "digests": [
+    {
+      "date": "2026-09-26",
+      "summary": "Aaj mostly High Court aur ITAT ke GST/Incometax decisions aaye hain. Koi nayi deadline nahi hai, lekin compliance aur notices pe kaafi focus hai.",
+      "items": [
+        {
+          "category": "Ruling",
+          "headline": "GST interest allowed, TDS interest disallowed: ITAT Indore",
+          "detail": "ITAT Indore ne GST pe interest allow kiya compensatory nature samajh ke, lekin delayed TDS interest disallow kar diya. Travel expense add back bhi delete ho gaya.",
+          "cga_view": "Agar aapke case mein GST interest ya TDS delay issue hai, toh apna calculation recent judgments ke hisaab se check karlo. Notice aane par proper reply tayyar rakho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/gst-interest-allowed-delayed-tds-interest-disallowed-travel-addition-deleted-itat-indore.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITAT: Section 11 claim re-examined due to ITR-7 error",
+          "detail": "ITAT Rajkot ne ek trust ke Section 11 exemption claim ko wapas Assessing Officer ko bheja, kyunki ITR-7 mein galati thi. Officer ko ab fresh verify karna hai.",
+          "cga_view": "Trusts apna ITR dhyan se file karein aur galti ho toh rectification karva lein; AO se follow-up zaroor karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itr-7-reporting-error-requires-fresh-examination-section-11-claim-itat-rajkot.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Form 10-IC lapse ke bawajood 115BAA benefit possible: ITAT Mumbai",
+          "detail": "ITAT Mumbai bola ki agar Form 10-IC file karne mein procedural lapse hua, toh bhi Section 115BAA ka 22% tax rate consider ho sakta hai. Fresh chance diya.",
+          "cga_view": "Agar Form 10-IC filing miss kar di ho, toh abhi application ya rectification karne ki koshish karein. Kaam time pe karein, CA se consult karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/form-10-ic-procedural-lapse-cannot-deny-section-115baa-benefit-itat-mumbai.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "1 din delay se GST detention penalty void: J&K HC",
+          "detail": "J&K High Court ne ruling di hai ki agar Section 129(3) notice time se na mile, toh poora penalty proceeding hi khatam ho sakta hai. Yaha ek din delay hua tha.",
+          "cga_view": "GST detention ya penalty case mein notice ki date aur procedure verify karo; delay milta hai toh HC order ka reference de sakte ho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/day-delay-section-129-3-notice-vitiates-gst-proceedings-hc.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Gujarat HC: Analysis na ho paaye toh GST demand action nahi",
+          "detail": "Gujarat HC ne interim relief diya kyunki GST e-way bill/invoice bohot zyada the aur analysis na ho paaya. Section 74 ka demand ruk gaya hai filhal.",
+          "cga_view": "Agar aapka GST demand bohot high volume data pe hai toh court mein interim protection mil sakti hai. Proper documentation ready rakhein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/voluminous-bill-analysis-prompts-interim-gst-protection-gujarat-hc.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Delayed GST refund interest: Authority se pehle approach karein",
+          "detail": "Himachal Pradesh HC ne bola ki agar refund pe interest chahiye toh pehle GST authority ko application de. 60 din mein order aana chahiye.",
+          "cga_view": "Interest ke liye pehle proper application likhein aur department ko dein. Record sambhaal ke rakhein, 60 din ke andar response expect karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/delayed-gst-refund-interest-claim-approach-authority-himachal-pradesh-hc.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-09-25",
       "summary": "Aaj ki digest mein GST aur income tax ke kuch important court rulings hai. Sabhi khabrein trade press par aayi hain, official notification ka intezaar hai.",
