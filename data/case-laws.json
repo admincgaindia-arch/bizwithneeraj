@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-09-25T15:39:01.743Z",
+  "last_updated": "2026-09-26T04:23:32.083Z",
   "days": [
+    {
+      "date": "2026-09-26",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "ITAT Dehradun",
+          "case_name": "JCIT Vs Bharat Construction (ITAT Dehradun)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2020-21",
+          "section": "",
+          "facts": "Ek firm ka assessment kiya gaya tha jab wo firm company ban chuki thi. Department ne baad mein assessment kiya.",
+          "issue": "Kya assessment firm ke naam par ho sakta hai jab wo company ban chuki ho?",
+          "held": "ITAT ne kaha, jab firm company ban gayi to uske baad assessment nahi ho sakta. Revenue ki appeal bekaar ho gayi, isliye quash kar diya.",
+          "outcome": "Assessee",
+          "takeaway": "Agar conversion ho jaye (firm se company), to purani entity pe fir se assessment nahi ho sakta. Registrar mein change show karo, aur timely department ko batao.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/assessment-firm-conversion-company-quashed-itat-dehradun.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Indore",
+          "case_name": "DCIT Vs L.N. Malviya Infra Projects Pvt. Ltd. (ITAT Indore)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2021-22",
+          "section": "",
+          "facts": "Company ne GST par late payment interest diya tha, aur TDS par bhi interest diya par delay hua. Department ne travel expenses bhi extra add kiye.",
+          "issue": "GST interest, delayed TDS interest aur travel kharch ka kya treatment hoga?",
+          "held": "GST ka interest allow kiya because wo compensation hai. Delayed TDS interest allow nahi hua. Travel expenses ka ad hoc addition court ne hata diya.",
+          "outcome": "Assessee",
+          "takeaway": "GST ka interest genuine payment hai, allow ho sakta hai. TDS late interest ka dhyan rakho, proper timing pe pay karo. Ad hoc travel expenses ke proof sambhal ke rakho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/gst-interest-allowed-delayed-tds-interest-disallowed-travel-addition-deleted-itat-indore.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "Savex Technologies Pvt. Ltd. Vs PCIT (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2020-21",
+          "section": "",
+          "facts": "Company ne CSR ke under kuch donations diye the. Department ne Section 263 se revision pass kiya aur Section 37(1) se disallow kiya.",
+          "issue": "Kya CSR donations par bhi Section 80G ka deduction milega jab Section 37(1) se disallow ho gaya ho?",
+          "held": "ITAT ne kaha, agar donation eligible hai to Section 80G se deduction milegi. Section 263 ka revision quash kar diya.",
+          "outcome": "Assessee",
+          "takeaway": "CSR donations dete ho to unko Section 80G ke under declare karo, sahi receipts lo. Sirf Section 37(1) ka disallowance important nahi - 80G claim ho sakti hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/csr-donations-eligible-section-80g-deduction-section-263-revision-quashed-itat-mumbai.html"
+        },
+        {
+          "law": "Customs / Excise",
+          "court": "Bombay High Court",
+          "case_name": "Principal Commissioner of Customs Vs Bombino Express Pvt. Ltd. (Bombay High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "Courier company ka licence suspend kar diya gaya tha, unpe outsourcing aur KYC violation ka ilzaam laga tha.",
+          "issue": "Kya licence wapas mil sakta hai jab outsourcing breach proof nahi hua?",
+          "held": "Court ne kaha ki koi proof nahi ki company ne violation kiya. Licence wapas karne ka order sahi hai.",
+          "outcome": "Assessee",
+          "takeaway": "Agar department clear proof nahi de paaye, to aapka licence suspend nahi ho sakta. Pure KYC records ready rakho lekin department se solid proof maango.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/custom-duty/courier-licence-restoration-upheld-outsourcing-breach-unproved-bombay-hc.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Rajkot",
+          "case_name": "Dineshbhai Dayabhai Hadiya Akshar Vs ITO (ITAT Rajkot)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2008-09",
+          "section": "Section 69",
+          "facts": "CIT(A) ne 2009-10 ke appeal mein 2008-09 reopen karne bula. Rs. 55.90 lakh addition Section 69 (unexplained investment) se ki gayi thi.",
+          "issue": "Kya CIT(A) kisi dusre assessment year ko reopen karne ka order de sakta hai?",
+          "held": "ITAT ne kaha CIT(A) dusre saal ka case reopen nahi karwa sakta. Rs 55.90 lakh ki addition bhi hata di.",
+          "outcome": "Assessee",
+          "takeaway": "Agar CIT(A) dusre year ke liye reopening bole to usko challenge karo. Section 69 addition ko prove karne ke liye actual investment evidence chahiye.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/cit-cannot-direct-reopening-year-itat-rajkot-quashes-addition.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Jaipur",
+          "case_name": "Abhishubham Bahadur Saxena Vs ITO (ITAT Jaipur)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2018-19",
+          "section": "Section 270A",
+          "facts": "Assessee US shift ho gaya tha aur voluntary tax payment bhi kiya. Fir bhi ₹8.29 lakh penalty Section 270A (under-reporting) se lagayi gayi thi.",
+          "issue": "Kya genuine non-filing ke reason par Section 270A penalty delete ho sakti hai?",
+          "held": "ITAT ne dekha ki explanation genuine hai isliye penalty hata di.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapne sach mein filing miss ki hai par valid reason hai (jaise relocation) aur voluntary pay kiya hai, to aap penalty delete karwa sakte ho. Proof rakho apni situation ka.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/section-270a-penalty-deleted-bona-fide-non-filing-explanation-itat-jaipur.html"
+        }
+      ]
+    },
     {
       "date": "2026-09-25",
       "cases": [
