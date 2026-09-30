@@ -1,6 +1,59 @@
 {
-  "last_updated": "2026-09-26T04:23:30.264Z",
+  "last_updated": "2026-09-30T19:11:01.848Z",
   "days": [
+    {
+      "date": "2026-10-01",
+      "items": [
+        {
+          "cat": "Scheme",
+          "authority": "Department of Posts",
+          "ref": "",
+          "headline": "Small Savings Scheme interest rates abhi bhi same rahenge",
+          "effective": "2026-10-01",
+          "what": "Department of Posts ne announce kiya ki Small Savings Schemes ke interest rates October se December 2026 ke liye unchanged hain. Yaani, is quarter mein koi rate badlaav nahi hoga.",
+          "who": "Jo log Small Savings Scheme mein deposit ya nivesh karte hain, jaise PPF, RD, NSC, Senior Citizen Savings, etc.",
+          "action": "Aap agar naya deposit plan kar rahe hain ya renewal ka soch rahe hain to existing rate hi milega. Naya rate check karne ki zaroorat nahi.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/small-savings-interest-rates-unchanged-october-december-2026.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "UPI par kuch P2M transactions par ab MDR lagega",
+          "effective": "2026-10-15",
+          "what": "UPI par selected person-to-merchant (P2M) transactions ke liye naya Merchant Discount Rate (MDR) lagu hoga. ₹2,000 se upar wale transactions par 0.4% rate lagega, aur ₹300 tak ka cap hoga. Kuch chhote vyapariyon par zero MDR hai. Special sectors ke liye alag rate bhi hai.",
+          "who": "Merchant, business owners aur UPI accept karne wale log jin ka transaction ₹2,000 se upar hota hai.",
+          "action": "Apne payment service provider ya bank se MDR ki details confirm karein. Systems ko update karwayein. Chhote businesses check karein ki aap par MDR lag raha hai ya exempted hain.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/mdr-select-upi-p2m-transactions-rates-thresholds-exemptions.html"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "Ministry of Chemicals and Fertilizers",
+          "ref": "",
+          "headline": "PLI scheme se pharma manufacturing ko boost mila",
+          "effective": "",
+          "what": "PLI schemes ke through pharmaceutical, bulk drugs aur medical devices ki domestic manufacturing mein increase aayi hai. Is se naya investment, jobs aur technology adoption bhi hua hai.",
+          "who": "Pharma manufacturers, bulk drug aur medical device industry mein business karne wale log ya companies.",
+          "action": "Agar aap eligible sector mein hain to PLI scheme ke current benefits aur application details dekhein. Scheme ka fayda lene ke liye latest eligibility aur process samjhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/pli-schemes-boost-domestic-manufacturing-pharmaceuticals-bulk-drugs-medical-devices.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "InvIT public listing ke liye structure & governance review zaroori",
+          "effective": "",
+          "what": "InvIT public listing ki tayari mein, structure, contracts, compliance aur governance ko pehle hi review karna zaroori hai. SEBI is par focus kar raha hai.",
+          "who": "Infrastructure Investment Trusts (InvITs) jo public listing ka plan bana rahe hain.",
+          "action": "Aap agar InvIT ki listing ki taiyari kar rahe hain to apne advisors se structure, governance aur compliance ka early review karwayein. Sab documents tayar rakkhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/public-invit-listing-requires-early-review-structure-compliance-governance.html"
+        }
+      ]
+    },
     {
       "date": "2026-09-26",
       "items": [
