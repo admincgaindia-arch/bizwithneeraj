@@ -1,6 +1,49 @@
 {
-  "last_updated": "2026-09-26T04:23:24.540Z",
+  "last_updated": "2026-09-30T19:10:25.284Z",
   "digests": [
+    {
+      "date": "2026-10-01",
+      "summary": "Aaj ke digest mein GST aur Income Tax ki kuch important court decisions aur updates mile hain. Ye rulings compliance ya assessment process mein kaam aa sakte hain.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "Kerala HC ne GST appeal fir se sunne ka order diya",
+          "detail": "Kerala HC ne decide kiya ki agar 2.5% additional pre-deposit baad mein bhar diya hai, toh time-barred appeal ko reconsider kiya ja sakta hai. Notification No. 53/2023 ka benefit diya gaya.",
+          "cga_view": "Agar aapki GST appeal dismissal sirf pre-deposit defect ki wajah se hui toh notification ka hawala deke reconsideration apply karo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/kerala-hc-restores-time-barred-gst-appeal-additional-2-5-percent-pre-deposit-defect-curable.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Form 26AS aur ITR salary difference pe direct addition valid nahi",
+          "detail": "ITAT ne bola sirf Form 26AS aur ITR mein salary ka difference hone se, bina employer records verify kiye, addition nahi ho sakti.",
+          "cga_view": "Salary mismatch pe employer se Form 16 aur salary breakup lo, aur notice aaye toh ye submit karo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/mere-difference-between-gross-receipts-reported-in-form-26as-and-taxable-salary-disclosed-in-itr-cannot-justify-addition-itat"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Form 10-IEA se new regime opt-out pe ITR ka option nahi chalega",
+          "detail": "Agar valid Form 10-IEA file kiya hai toh ITR mein galti se new regime select karne pe bhi opt-out mana jayega. ITAT ne clarify kiya.",
+          "cga_view": "Clients ka Form 10-IEA timely file hua hai toh ITR mistake se regime change nahi hoga, isko refer karo agar department challenge kare.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/selection-of-new-tax-regime-in-itr-cannot-undo-valid-form-10-iea-opting-out-itat"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Pregnancy emergency pe ITR late file condone hui",
+          "detail": "Karnataka HC ne decide kiya pregnancy se judi emergency hone pe taxpayer ki ITR late filing ko condone kiya ja sakta hai.",
+          "cga_view": "Agar genuine medical reason hai toh proof ke saath condonation ka request compile karo, precedent yeh support karta hai.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/wifes-pregnancy-related-medical-emergency-can-justify-condonation-of-itr-delay-karnataka-hc"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-09-26",
       "summary": "Aaj mostly High Court aur ITAT ke GST/Incometax decisions aaye hain. Koi nayi deadline nahi hai, lekin compliance aur notices pe kaafi focus hai.",
