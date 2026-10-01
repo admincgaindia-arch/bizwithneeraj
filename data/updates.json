@@ -1,45 +1,54 @@
 {
-  "last_updated": "2026-09-30T19:10:25.284Z",
+  "last_updated": "2026-10-01T10:11:54.714Z",
   "digests": [
     {
       "date": "2026-10-01",
-      "summary": "Aaj ke digest mein GST aur Income Tax ki kuch important court decisions aur updates mile hain. Ye rulings compliance ya assessment process mein kaam aa sakte hain.",
+      "summary": "Aaj ke digest mein GST court decisions, Income Tax ke ITAT rulings, aur NCLT ka ek important order cover kiya gaya hai. Sab updates compliance ya litigation se jude hain, business owners aur accountants dono ko practical implications samajh aayenge.",
       "items": [
         {
-          "category": "GST",
-          "headline": "Kerala HC ne GST appeal fir se sunne ka order diya",
-          "detail": "Kerala HC ne decide kiya ki agar 2.5% additional pre-deposit baad mein bhar diya hai, toh time-barred appeal ko reconsider kiya ja sakta hai. Notification No. 53/2023 ka benefit diya gaya.",
-          "cga_view": "Agar aapki GST appeal dismissal sirf pre-deposit defect ki wajah se hui toh notification ka hawala deke reconsideration apply karo.",
+          "category": "Ruling",
+          "headline": "Section 74 GST Demand Invalid Without Show Cause Notice",
+          "detail": "GSTAT Kolkata ne bola ki agar GST Section 74 ke demand notice ke liye mandatory Show Cause Notice (SCN) issue nahi hota, to poori demand void hai. Sirf hearing ya communication SCN ka substitute nahi hai.",
+          "cga_view": "Agar aapko GST demand bina SCN mila hai, to uske khilaaf turant legal remedy consider karo. Bina SCN action null ho sakta hai—document sambhal ke rakho.",
           "source_type": "trade",
           "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/kerala-hc-restores-time-barred-gst-appeal-additional-2-5-percent-pre-deposit-defect-curable.html"
+          "source_url": "https://taxguru.in/goods-and-service-tax/section-74-demand-without-mandatory-show-notice-invalid-gstat-kolkata.html"
         },
         {
-          "category": "Ruling",
-          "headline": "Form 26AS aur ITR salary difference pe direct addition valid nahi",
-          "detail": "ITAT ne bola sirf Form 26AS aur ITR mein salary ka difference hone se, bina employer records verify kiye, addition nahi ho sakti.",
-          "cga_view": "Salary mismatch pe employer se Form 16 aur salary breakup lo, aur notice aaye toh ye submit karo.",
+          "category": "Income Tax",
+          "headline": "Mere Form 26AS & ITR Difference Par Addition Nahi Banegi",
+          "detail": "ITAT ne bola ki agar Form 26AS aur ITR mein salary numbers alag hain, sirf isi base par addition nahi ki ja sakti jab tak Form 16 se exempt components samjha diya gaya ho.",
+          "cga_view": "Salary details ko Form 16, 26AS, aur ITR me match karao. Agar difference hai to CA se explanation prepare kara lo, unnecessary demand se bachne ke liye.",
           "source_type": "trade",
           "source_name": "taxscan.in",
           "source_url": "https://www.taxscan.in/income-tax/mere-difference-between-gross-receipts-reported-in-form-26as-and-taxable-salary-disclosed-in-itr-cannot-justify-addition-itat"
         },
         {
           "category": "Ruling",
-          "headline": "Form 10-IEA se new regime opt-out pe ITR ka option nahi chalega",
-          "detail": "Agar valid Form 10-IEA file kiya hai toh ITR mein galti se new regime select karne pe bhi opt-out mana jayega. ITAT ne clarify kiya.",
-          "cga_view": "Clients ka Form 10-IEA timely file hua hai toh ITR mistake se regime change nahi hoga, isko refer karo agar department challenge kare.",
+          "headline": "GST Proceeding Bar Sirf Same Matter Pe Lagti Hai: Delhi HC",
+          "detail": "Delhi High Court ne clarify kiya ki Section 6(2)(b) CGST ki bar sirf tab apply hoti hai jab dono parallel proceedings exactly same subject matter pe ho. Sirf same taxpayer hone se bar nahi lagegi.",
+          "cga_view": "Agar aap pe kayi GST authorities se notices aaye hain, subject matter cross-check karo. Complete overlap na ho to proceedings challenge karna tough hoga.",
           "source_type": "trade",
           "source_name": "taxscan.in",
-          "source_url": "https://www.taxscan.in/income-tax/selection-of-new-tax-regime-in-itr-cannot-undo-valid-form-10-iea-opting-out-itat"
+          "source_url": "https://www.taxscan.in/gst/section-62b-cgst-bar-applies-only-when-parallel-proceedings-concern-same-subject-matter-delhi-hc-read-order"
         },
         {
           "category": "Ruling",
-          "headline": "Pregnancy emergency pe ITR late file condone hui",
-          "detail": "Karnataka HC ne decide kiya pregnancy se judi emergency hone pe taxpayer ki ITR late filing ko condone kiya ja sakta hai.",
-          "cga_view": "Agar genuine medical reason hai toh proof ke saath condonation ka request compile karo, precedent yeh support karta hai.",
+          "headline": "ITR Delay Condone Ho Sakta Hai Genuine Medical Urgency Mein",
+          "detail": "Karnataka HC ne decide kiya ki wife ki pregnancy-related emergency ek valid ground hai ITR late filing ki condonation ke liye.",
+          "cga_view": "Agar genuine medical emergency thi toh delay application file karte waqt proofs attach karo. Medical records bhejna mat bhoolo.",
           "source_type": "trade",
           "source_name": "taxscan.in",
           "source_url": "https://www.taxscan.in/income-tax/wifes-pregnancy-related-medical-emergency-can-justify-condonation-of-itr-delay-karnataka-hc"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Income Tax Refund Pre-CIRP Dues Pe Adjust Nahi Ho Sakta: NCLT",
+          "detail": "NCLT Ahmedabad ne bola ki IBC moratorium (Section 14) ke dauraan income tax refund ko pre-CIRP dues adjust karna allowed nahi hai, adjustment set aside ho gaya.",
+          "cga_view": "Agar company CIRP mein hai toh refund adjustment ka objection zarur file karo. CIRP companies ke liye direct cash inflow ho sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/income-tax-refund-cannot-adjusted-against-pre-cirp-dues-ibc-moratorium-nclt-ahmedabad.html"
         }
       ],
       "due_dates": []
