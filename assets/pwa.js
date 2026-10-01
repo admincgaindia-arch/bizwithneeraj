@@ -1,3 +1,30 @@
+/* Google Analytics 4 (G-T7PDMVKJ53). Loaded from this shared file so every page
+   gets it. Also records lead-form submits, WhatsApp clicks and phone clicks. */
+(function () {
+  if (window.__cgaGA) { return; }
+  window.__cgaGA = 1;
+  var ID = 'G-T7PDMVKJ53';
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = window.gtag || function () { window.dataLayer.push(arguments); };
+  window.gtag('js', new Date());
+  window.gtag('config', ID);
+  var s = document.createElement('script');
+  s.async = true;
+  s.src = 'https://www.googletagmanager.com/gtag/js?id=' + ID;
+  (document.head || document.documentElement).appendChild(s);
+  document.addEventListener('submit', function (e) {
+    var f = e.target;
+    if (f && f.id === 'cglForm') { window.gtag('event', 'generate_lead', { form_id: 'cglForm' }); }
+  }, true);
+  document.addEventListener('click', function (e) {
+    var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+    if (!a) { return; }
+    var h = a.getAttribute('href') || '';
+    if (h.indexOf('wa.me') > -1 || h.indexOf('whatsapp.com') > -1) { window.gtag('event', 'whatsapp_click', { link_url: h }); }
+    else if (h.indexOf('tel:') === 0) { window.gtag('event', 'phone_click', { link_url: h }); }
+  }, true);
+})();
+
 /* CGA India — PWA runtime.
    1. Registers the service worker.
    2. Shows an install prompt: native on Android/desktop Chrome, an
