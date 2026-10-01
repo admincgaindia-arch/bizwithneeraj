@@ -95,7 +95,7 @@
           '<ul class="cgl-pts">' +
             '<li>Fixed quote kaam shuru hone se pehle, likhit mein</li>' +
             '<li>Safidon, Delhi aur PAN India \u2014 kaam online ho jata hai</li>' +
-            '<li>Chartered Accountant aur Advocate, dono ek hi desk par</li>' +
+            '<li>Return se notice aur appeal tak, ek hi team</li>' +
           '</ul>' +
         '</div>' +
         '<div class="cgl-card">' +
