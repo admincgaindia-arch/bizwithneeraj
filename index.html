@@ -58,6 +58,89 @@ fbq('init','1350244116690583');fbq('track','PageView');
 <figure class="port"><img src="/assets/img/neeraj-portrait.webp" alt="Neeraj Jain" width="760" height="1081"><figcaption>Safidon, Haryana</figcaption></figure>
 </section>
 </div>
+<style>
+.nj-stats{background:var(--ink);color:#fff}
+.nj-stats ul{list-style:none;display:grid;grid-template-columns:repeat(5,1fr);gap:0;padding:34px 0}
+.nj-stats li{padding:6px 22px;border-left:1px solid rgba(255,255,255,.14)}
+.nj-stats li:first-child{border-left:0;padding-left:0}
+.nj-stats b{display:block;font-family:var(--serif);font-weight:500;font-size:clamp(2rem,4vw,3rem);line-height:1;letter-spacing:-.02em;color:var(--buff)}
+.nj-stats span{display:block;margin-top:8px;font-size:.88rem;color:rgba(255,255,255,.72)}
+.nj-live{padding:70px 0 74px;background:linear-gradient(180deg,#fbf8f1 0,#fff 100%);border-bottom:1px solid var(--rule)}
+.nj-live .hd{display:flex;flex-wrap:wrap;align-items:end;justify-content:space-between;gap:16px;margin-bottom:28px}
+.nj-live h2{margin:0}
+.nj-badge{display:inline-flex;align-items:center;gap:8px;font-size:.8rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--red);margin-bottom:10px}
+.nj-badge i{width:9px;height:9px;border-radius:50%;background:var(--red);box-shadow:0 0 0 0 rgba(161,40,46,.55);animation:njpulse 1.8s infinite}
+@keyframes njpulse{0%{box-shadow:0 0 0 0 rgba(161,40,46,.55)}70%{box-shadow:0 0 0 10px rgba(161,40,46,0)}100%{box-shadow:0 0 0 0 rgba(161,40,46,0)}}
+.nj-digest{background:var(--ink);color:#fff;border-radius:6px;padding:22px 24px;margin-bottom:22px;display:grid;grid-template-columns:auto 1fr;gap:6px 18px;align-items:start}
+.nj-digest small{font-size:.75rem;letter-spacing:.08em;text-transform:uppercase;color:var(--buff);font-weight:700;padding-top:3px;white-space:nowrap}
+.nj-digest p{max-width:none;font-family:var(--serif);font-size:1.15rem;line-height:1.45}
+.nj-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.nj-card{display:flex;flex-direction:column;background:#fff;border:1px solid var(--rule);border-radius:6px;padding:20px 20px 18px;text-decoration:none;transition:transform .25s ease,box-shadow .25s ease,border-color .25s}
+.nj-card:hover{transform:translateY(-4px);box-shadow:0 22px 40px -26px rgba(24,33,58,.55);border-color:var(--ink)}
+.nj-card .tag{font-size:.74rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--red)}
+.nj-card h3{font-size:1.12rem;margin:8px 0 8px;line-height:1.25}
+.nj-card p{font-size:.92rem;color:var(--graphite);line-height:1.5}
+.nj-card .go{margin-top:auto;padding-top:14px;font-size:.86rem;font-weight:600;color:var(--ink)}
+.nj-sk{background:linear-gradient(90deg,#f3efe6 0,#faf8f3 50%,#f3efe6 100%);background-size:200% 100%;animation:njsk 1.4s infinite;border-radius:6px;min-height:170px;border:0}
+@keyframes njsk{to{background-position:-200% 0}}
+.nj-team{display:flex;flex-wrap:wrap;align-items:center;gap:18px 26px;margin-top:26px}
+.nj-ava{display:flex;padding-left:12px}
+.nj-ava img{width:52px;height:52px;border-radius:50%;object-fit:cover;border:3px solid #fff;margin-left:-12px;box-shadow:0 4px 12px -6px rgba(0,0,0,.4);background:var(--buff);transition:transform .2s}
+.nj-ava img:hover{transform:translateY(-4px) scale(1.08);position:relative;z-index:2}
+.nj-rv{opacity:0;transform:translateY(22px);transition:opacity .7s ease,transform .7s ease}
+.nj-rv.in{opacity:1;transform:none}
+@media(max-width:900px){.nj-stats ul{grid-template-columns:repeat(3,1fr);row-gap:22px}.nj-stats li:nth-child(4){border-left:0;padding-left:0}.nj-cards{grid-template-columns:1fr}.nj-digest{grid-template-columns:1fr}}
+@media(max-width:520px){.nj-stats ul{grid-template-columns:repeat(2,1fr)}.nj-stats li{border-left:0;padding-left:0}.nj-ava img{width:42px;height:42px}}
+@media(prefers-reduced-motion:reduce){.nj-rv{opacity:1;transform:none;transition:none}.nj-badge i,.nj-sk{animation:none}}
+</style>
+<section class="nj-stats" aria-label="CGA in numbers"><div class="wrap"><ul>
+<li><b>2015</b><span>se CGA ka safar</span></li>
+<li><b data-n="2500">2,500+</b><span>clients ka bharosa</span></li>
+<li><b data-n="20">20+</b><span>logon ki team</span></li>
+<li><b>2</b><span>offices: Safidon &amp; Burari</span></li>
+<li><b>5</b><span>states mein clients</span></li>
+</ul></div></section>
+<section class="nj-live" aria-labelledby="njLiveH"><div class="wrap">
+<div class="hd"><div><p class="nj-badge"><i></i><span id="njLiveTime">Live desk</span></p><h2 id="njLiveH">Aaj ki desk se</h2></div><a class="tl-link" href="https://cgaindia.com/case-laws.html">Saare faisle dekhiye</a></div>
+<div class="nj-digest" id="njDigest" hidden><small id="njDigestDate"></small><p id="njDigestText"></p></div>
+<div class="nj-cards" id="njCards"><div class="nj-sk"></div><div class="nj-sk"></div><div class="nj-sk"></div></div>
+</div></section>
+<script>
+(function(){
+  function esc(s){return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+  function dt(s){try{return new Date(s).toLocaleDateString('en-IN',{day:'numeric',month:'short',year:'numeric'});}catch(e){return '';}}
+  var cards=document.getElementById('njCards');
+  fetch('/data/case-laws.json',{cache:'no-cache'}).then(function(r){return r.json();}).then(function(d){
+    var days=(d.days||[]).slice().sort(function(a,b){return a.date<b.date?1:-1;});
+    var list=[];days.forEach(function(x){(x.cases||[]).forEach(function(c){if(list.length<3&&c.case_name){list.push(c);}});});
+    if(!list.length){throw new Error('empty');}
+    cards.innerHTML=list.map(function(c){
+      var t=c.takeaway||c.held||'';if(t.length>150){t=t.slice(0,147).replace(/\s+\S*$/,'')+'…';}
+      return '<a class="nj-card" href="https://cgaindia.com/case-laws.html"><span class="tag">'+esc(c.law||'Case law')+(c.court?' · '+esc(c.court):'')+'</span><h3>'+esc(c.case_name)+'</h3><p>'+esc(t)+'</p><span class="go">Faisla padhiye &rarr;</span></a>';
+    }).join('');
+    var lt=document.getElementById('njLiveTime');if(d.last_updated&&lt){lt.textContent='Live · updated '+dt(d.last_updated);}
+  }).catch(function(){cards.innerHTML='<a class="nj-card" href="https://cgaindia.com/case-laws.html"><span class="tag">Case laws</span><h3>Roz ke naye tax aur GST faisle</h3><p>ITAT, High Court aur Supreme Court ke faisle, saaf Hinglish mein.</p><span class="go">Dekhiye &rarr;</span></a>';});
+  fetch('/data/updates.json',{cache:'no-cache'}).then(function(r){return r.json();}).then(function(d){
+    var g=(d.digests||[]).slice().sort(function(a,b){return a.date<b.date?1:-1;})[0];
+    if(!g||!g.summary){return;}
+    document.getElementById('njDigestDate').textContent='Compliance · '+dt(g.date);
+    document.getElementById('njDigestText').textContent=g.summary;
+    document.getElementById('njDigest').hidden=false;
+  }).catch(function(){});
+  var reduce=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var els=document.querySelectorAll('.led,.nj-live,.nj-stats');
+  if(!reduce&&'IntersectionObserver' in window){
+    els.forEach(function(e){e.classList.add('nj-rv');});
+    var io=new IntersectionObserver(function(en){en.forEach(function(x){if(x.isIntersecting){x.target.classList.add('in');io.unobserve(x.target);
+      if(x.target.classList.contains('nj-stats')){count(x.target);}}});},{threshold:.15});
+    els.forEach(function(e){io.observe(e);});
+  }
+  function count(root){root.querySelectorAll('[data-n]').forEach(function(b){
+    var n=+b.getAttribute('data-n'),t0=null,fmt=function(v){return v.toLocaleString('en-IN')+'+';};
+    function step(ts){if(!t0){t0=ts;}var p=Math.min((ts-t0)/1400,1);b.textContent=fmt(Math.round(n*(1-Math.pow(1-p,3))));if(p<1){requestAnimationFrame(step);}}
+    requestAnimationFrame(step);});}
+})();
+</script>
 <div class="wrap">
 <section class="led"><div class="lab"><span>Abhi kya chal raha hai</span></div><div class="body">
 <h2>Teen kaam, ek soch</h2>
