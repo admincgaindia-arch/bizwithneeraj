@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-10-01T10:11:54.714Z",
+  "last_updated": "2026-10-02T01:31:00.768Z",
   "digests": [
+    {
+      "date": "2026-10-02",
+      "summary": "Aaj ke din GST, Income Tax aur MCA se judi kuch important court rulings aur compliance updates aaayi hain. Official release koi nahi hai, par kaafi useful case laws aur penalty orders recent trade press mein aaye hain.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "GST Demand Show Cause Notice Se Zyada Nahi Ho Sakta",
+          "detail": "Calcutta High Court ne decision diya ki GST demand, show cause notice mein jo amount hai usse exceed nahi kar sakta. Isliye department ko fresh hearing deni hogi, usse pehle 10% tax deposit karna padega.",
+          "cga_view": "Agar aapko department ne zyada demand diya hai to yeh ruling ka reference de kar appeal/objection file karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-demand-cannot-exceed-show-notice-calcutta-high-court.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Pen Drive Entries Bin Proof Se Addition Nahi Banega",
+          "detail": "ITAT Chennai ne section 153C ki proceeding quash kar di, kyunki pen-drive data ka koi corroborating evidence nahi tha. Sirf third-party entries par addition sustain nahi hua.",
+          "cga_view": "Agar assessment sirf seized entries par ho raha hai toh aap supporting documents ki demand kar sakte hain.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/pen-drive-entries-without-corroboration-cannot-sustain-addition-itat-chennai.html"
+        },
+        {
+          "category": "MCA / ROC",
+          "headline": "Company Secretary Appointment Mein Delay Par Rs. 15 Lakh Penalty",
+          "detail": "Company ko 1,527 din late company secretary appoint karne par Rs. 15 lakh ka penalty laga hai, aur CFO aur director par bhi action hua hai. MCA ne Companies Act, 2013 ke section 203(1) ke breach par yeh penalty di hai.",
+          "cga_view": "Jo bhi company secretary appoint karne ke liable hain, woh appointment timely karein. Delay se heavy penalty ho sakti hai.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/other-taxations/mca-imposes-rs-15l-penalty-on-company-cfo-and-director-for-delay-appointing-company-secretary"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-10-01",
       "summary": "Aaj ke digest mein GST court decisions, Income Tax ke ITAT rulings, aur NCLT ka ek important order cover kiya gaya hai. Sab updates compliance ya litigation se jude hain, business owners aur accountants dono ko practical implications samajh aayenge.",
