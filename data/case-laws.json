@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-10-01T02:00:23.206Z",
+  "last_updated": "2026-10-02T02:00:26.659Z",
   "days": [
+    {
+      "date": "2026-10-02",
+      "cases": [
+        {
+          "law": "Other",
+          "court": "Karnataka High Court",
+          "case_name": "JSW Steel Limited Vs Deputy Director (Karnataka High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "JSW Steel ne PMLA case ko quash karne ki maang ki thi. Company ka kehna tha ki pehle se hi kuch issues court ne dekh liye hain. Special Judge ne summons nikaale the aur cognizance liya tha.",
+          "issue": "Kya PMLA ki proceedings pehle wale issues par quash ki ja sakti hain?",
+          "held": "Court ne kaha ki jo issues pehle consider ho chuke hain, un basis par PMLA ki proceedings quash nahi ho sakti. Special Judge ka order sahi tha.",
+          "outcome": "Revenue",
+          "takeaway": "Agar aap par PMLA case chal raha hai, to sirf is wajah se ki kuch points pehle hi dekhe gaye the, proceedings quash nahi hongi. Har baar naye grounds chahiye hote hain.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/pmla-proceedings-cannot-quashed-issues-considered-earlier-karnataka-hc.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "Supreme Court of India",
+          "case_name": "DCIT Vs Travel Designer India Pvt. Ltd. (Supreme Court of India)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "Section 143(2)",
+          "facts": "Income Tax Department ne SLP file ki thi Section 143(2) notice ki limitation par. Department ko notice serve karne mein late ho gaya tha.",
+          "issue": "Kya limitation ke bahar notice diya gaya to assessment ho sakta hai?",
+          "held": "Supreme Court ne Revenue ki SLP dismiss kar di, par sawal ko open chhoda ki limitation legal point ka kya hoga.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapko time ke baad Section 143(2) ka notice aaye to aap challenge kar sakte ho. Supreme Court ne is mudde pe abhi final decision nahi diya hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/supreme-court-directs-revenue-fresh-steps-service-notice-travel-designer-india.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Pune",
+          "case_name": "Giriraj Enterprises Vs DCIT (ITAT Pune)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2021-22",
+          "section": "Section 271AAB",
+          "facts": "Assessee pe Section 271AAB penalty laga di gayi thi. Income Tax ne notice mein nahi bataya kaunsi sub-section apply ki gayi (a ya b).",
+          "issue": "Kya specified clause na batane se penalty valid hai?",
+          "held": "ITAT ne penalty radd kar di. Notice vague tha kyunki applicable clause specify nahi thi.",
+          "outcome": "Assessee",
+          "takeaway": "Agar penalty ka notice clear nahi hai, ya kaunsi clause lag rahi hai wo nahin diya hai, to notice ko challenge kar sakte ho. Har notice mein right clause mention hona zaroori hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/section-271aab-penalty-quashed-notice-failed-applicable-limb-itat-pune.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Chennai",
+          "case_name": "Bannari Amman Educational Trust Vs ACIT (ITAT Chennai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "Educational trust ke khilaaf cash rebate ki addition third-party diaries aur loose sheets par ki gayi thi. Department ne independent evidence nahi diya.",
+          "issue": "Kya bina independent corroboration ke third-party loose sheets par addition ho sakti hai?",
+          "held": "ITAT ne addition hata di. Sirf third-party documents se, bina concrete proof ke, trust ki income mein addition nahi ki ja sakti.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapke khilaaf sirf kisi aur ki loose sheets se addition ho, bina aapke business ka link dikhaye, to aapko wo addition challenge karna chahiye.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/cash-addition-based-party-loose-sheets-without-corroboration-deleted-itat-chennai.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Delhi",
+          "case_name": "East Delhi Leasing Pvt. Ltd. Vs ITO (ITAT Delhi)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2010-11",
+          "section": "Section 147",
+          "facts": "Company pe Section 147 se reassessment shuru hua tha, bas suspicion tha ki paisa ghumaya gaya hai. STR info thi magar koi direct evidence nahi tha ki income chhupi hai.",
+          "issue": "Kya sirf shak aur STR info par Section 147 ka case khola ja sakta hai?",
+          "held": "ITAT ne reassessment khatam kar di. Sirf suspicion ya STR info se direct link nahi banta, toh reason to believe nahi hua.",
+          "outcome": "Assessee",
+          "takeaway": "Aapke khilaaf Section 147 reopening sirf shak aur vague info par ho to aapko turant reason to believe document maang lena chahiye. Department ko proper connection dikhana zaroori hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/section-147-reopening-mere-suspicion-fund-rotation-quashed-itat-delhi.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Ahmedabad",
+          "case_name": "Comtrade Commodities Services Limited Vs PCIT (ITAT Ahmedabad)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2018-19",
+          "section": "Section 263",
+          "facts": "Company ka claim tha ki AO ne ESOP deduction ka theek se verification kiya tha. PCIT ne bina koi naya error dhundhe Section 263 open kiya sirf further verification ke liye.",
+          "issue": "Kya bina nayi galti dhundhe sirf further verification ke liye Section 263 lag sakta hai?",
+          "held": "ITAT ne Section 263 ka order radd kar diya. AO ne pehle hi deduction check ki thi, aur sirf further check ke liye revision nahi ho sakta.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapke case mein AO ne kisi deduction ko detail mein check kiya hai, toh PCIT sirf repeat verification ke liye Section 263 nahin chala sakta.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-ahmedabad-quashes-section-263-revision-esop-deduction-duly-examined.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-01",
       "cases": [
