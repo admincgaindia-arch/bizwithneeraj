@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-10-01T02:15:26.462Z",
+  "last_updated": "2026-10-02T02:15:28.260Z",
   "days": [
+    {
+      "date": "2026-10-02",
+      "items": [
+        {
+          "cat": "Loan",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "RBI ne SC/ST ke liye loan guidelines update kiye",
+          "effective": "",
+          "what": "RBI ne banks ko SC/ST beneficiaries ko diya jaane wala loan ka pura guideline ek jagah consolidate kiya hai. Isme planning, lending, monitoring aur reporting sab cover hain.",
+          "who": "Sabhi banks aur SC/ST category ke borrowers par lagu hai.",
+          "action": "Agar aap SC/ST loan lene ki soch rahe hain ya bank se is loan ka process samajhna hai to naye guidelines check karein. Bank branch se guideline ka update maang sakte hain.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/rbi-master-circular-2026-credit-facilities-scs-sts.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/2026-27/278 DOR.HOL.REC.No.238/16.13.100/2026-27",
+          "headline": "Local Area Banks ke shares lene ka process badla",
+          "effective": "01-10-2026",
+          "what": "Agar aap Local Area Bank me major shareholding lena chahte hain to pehle RBI se approval lena hoga. Agar aapka shareholding dobara 5% se kam ho jaata hai, aur fir dobara major shareholding leni hai to fir se RBI approval chahiye.",
+          "who": "Jo bhi vyakti ya entity Local Area Bank me major shareholding lene ki soch raha hai.",
+          "action": "Share purchase plan karte waqt RBI se approval ka process samjhein. Legal ya compliance advisor se consult zarur karein.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13722&Mode=0"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "Department of Posts",
+          "ref": "",
+          "headline": "Small Savings Scheme ke interest rate change nahi hue",
+          "effective": "01-10-2026",
+          "what": "Small Savings Scheme jaise Sukanya, NSC, PPF ke interest rate October se December 2026 tak same hi rahenge. Koi rate mein badlav nahi hua hai.",
+          "who": "Small Savings Schemes me paisa laga rakhe depositors aur naye investors ke liye.",
+          "action": "Agar plan tha ki rate badlav ka intezar karenge, to abhi waise hi investment decision lein. Purane rate pe hi deposit renew ya naya khol sakte hain.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/small-savings-interest-rates-unchanged-october-december-2026.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Public InvIT listing ke liye compliance review jaldi karein",
+          "effective": "",
+          "what": "Agar InvIT ko public-list karna hai to pehle se structure, contracts, compliance aur governance ka review karna zaruri hai. SEBI ki requirements poori honi chahiye.",
+          "who": "InvITs jo public listing plan kar rahe hain unke sponsors aur managers.",
+          "action": "Legal, compliance aur auditors ke sath milkar apna poora documentation aur policy jaldi ready karein. Listing process shuru karne se pehle sab systems test karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/public-invit-listing-requires-early-review-structure-compliance-governance.html"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "Ministry of Chemicals and Fertilizers",
+          "ref": "",
+          "headline": "PLI scheme se pharma aur medical device manufacturing ko boost",
+          "effective": "",
+          "what": "PLI (Production Linked Incentive) scheme ki wajah se desh mein pharma, bulk drugs, aur medical devices ki manufacturing badh rahi hai. Naye investment aur jobs create ho rahe hain.",
+          "who": "Pharma aur medical device companies, investors, aur unke suppliers ke liye.",
+          "action": "Agar aap manufacturing sector me hain to PLI scheme ke benefits samjhein. Naye proposals ya expansion plan PLI terms ko dekhkar taiyaar karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/pli-schemes-boost-domestic-manufacturing-pharmaceuticals-bulk-drugs-medical-devices.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-01",
       "items": [
