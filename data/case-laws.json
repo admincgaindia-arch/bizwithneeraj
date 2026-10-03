@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-10-02T02:00:26.659Z",
+  "last_updated": "2026-10-03T02:00:22.897Z",
   "days": [
+    {
+      "date": "2026-10-03",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "ITAT Delhi",
+          "case_name": "RNT Metals Pvt Ltd Vs DCIT (ITAT Delhi)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2021-22",
+          "section": "Section 148 (income tax reassessment notice)",
+          "facts": "Company ka case tha. Assessing Officer ne Section 148 ka notice diya, par sahi samay nahi diya reply ke liye. Bogus purchase aur cash seize kiye the.",
+          "issue": "Section 148 ka short notice dena theek tha ya nahi?",
+          "held": "ITAT ne reopening quash kar diya kyunki notice mein kam samay diya gaya tha. Sirf 5% bogus purchases (total amount mein se) hi add ki allowed.",
+          "outcome": "Assessee",
+          "takeaway": "Agar AO ne Section 148 ka notice diya lekin proper time nahi diya reply ka, to pura case radd ho sakta hai. Bogus purchase accusation mein khud ke documents dikhana zaroori hai. Sirf thoda hi addition ho sakta hai, pura nahi.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-delhi-quashes-reopening-short-section-148-notice-restricts-bogus-purchase-addition-5-percent.html"
+        },
+        {
+          "law": "GST",
+          "court": "Madras High Court",
+          "case_name": "Tvl A D Creation Vs State Tax Officer (Madras High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "Tvl A D Creation ka GST order pass hua bina personal hearing ke. Company ne reply file kiya tha, fir bhi koi sunwai nahi hui.",
+          "issue": "Kya reply ke baad bina personal hearing ke GST order pass ho sakta hai?",
+          "held": "Court ne order radd kar diya kyunki proper sunwai nahi hui. Case department ko wapas bhej diya, par company ko 25% tax deposit karna padega.",
+          "outcome": "Assessee",
+          "takeaway": "Agar department aapki reply ke baad bhi bina bulaye order pass kare to High Court mein challenge kar sakte hain. Personal hearing har taxpayer ka adhikar hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-order-set-personal-hearing-not-replies-madras-hc.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "Sonali Sonu Sood Vs ACIT (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2013-14",
+          "section": "Section 148 (income tax reassessment notice)",
+          "facts": "Sonali Sood par Rs. 76 lakh loan addition ho gayi. Department ne addition kiya bina cross-examination diye. Section 148 jurisdiction bhi dispute pe tha.",
+          "issue": "Kya bina cross-examination add ki gayi loan amount valid hai?",
+          "held": "ITAT ne addition AO ko wapas bhej di taaki cross-examination aur inquiry ho sake. Section 148 ke mamle khule chhode.",
+          "outcome": "",
+          "takeaway": "Agar aapke khilaaf bina poori inquiry ya cross-examination ke addition ho jaye to aap ITAT mein remand ki demand kar sakte hain. Documents aur evidence dikhana zaroori hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/sonu-sood-search-itat-mumbai-remands-rs-76-lakh-addition-wife-sonali-soods-case.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Chennai",
+          "case_name": "Coimbatore Pioneer Trading & Warehousing Limited Vs DCIT (ITAT Chennai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2014-15",
+          "section": "Section 50C (property sale deemed valuation)",
+          "facts": "Company ne property becha tha. Sale consideration registration se pehle hi fix ho gayi thi. Board resolution, bank advance, aur BIFR proceedings sab lagaye the.",
+          "issue": "Kya Section 50C se addition ho sakti hai jab sale value registration se pehle decide ho gayi ho?",
+          "held": "ITAT ne section 50C ka addition hata diya kyunki pehle hi evidence se price decide ho gayi thi. Registration date se nahi dekhenge.",
+          "outcome": "Assessee",
+          "takeaway": "Agar property ka rate registration se pehle board resolution, bank se proof, ya BIFR approval me hai to Section 50C ke daayre se bach sakte hain. Poora documentary proof dikhana padega.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/section-50c-addition-deleted-sale-consideration-fixed-registration-itat-chennai.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "Brij Bihari Kaushik Vs ACIT (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2023-24",
+          "section": "Section 69A (unexplained money), Purchases",
+          "facts": "Businessman ke case mein 8% purchase ka addition aur Rs. 22 lakh Section 69A addition lagayi gayi thi. Purchases ko WhatsApp chat ke base par fake bola gaya tha.",
+          "issue": "Kya WhatsApp chats pe genuine purchases ko bogus manna sahi hai?",
+          "held": "ITAT ne bola WhatsApp se kuch prove nahi hota jab tak actual documents hai. 8% addition aur Section 69A addition dono hata di.",
+          "outcome": "Assessee",
+          "takeaway": "Purchase transactions mein actual bill aur payment proof rakho. Sirf online chat ke base par addition nahi lag sakti.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-mumbai-deletes-8-percent-purchase-addition-purchases-accepted-genuine.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "Bombay High Court",
+          "case_name": "Fine Arts Society Vs Deputy Director of Income Tax (Exemptions) 1-2 & Ors. (Bombay High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "Section 148 (income tax reassessment notice)",
+          "facts": "Department ne reopening kiya jabki pehle Section 143(3) ka order ya Supreme Court ka judgment sahi se check nahi kiya tha. Galat facts par case khola.",
+          "issue": "Kya reopening galat ya adhuri info par ki ja sakti hai?",
+          "held": "High Court ne reopening radd kar di. Bola, department ne galti se facts misread kiye, reopening ka reason valid nahi tha.",
+          "outcome": "Assessee",
+          "takeaway": "Agar AO galat facts par case kholta hai, to aap High Court mein reopening challenge kar sakte hain. Reason ke document check karo.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/mechanical-reopening-based-incorrect-facts-quashed-bombay-hc.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-02",
       "cases": [
