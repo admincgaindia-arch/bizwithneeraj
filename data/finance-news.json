@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-10-02T02:15:28.260Z",
+  "last_updated": "2026-10-03T02:15:28.449Z",
   "days": [
+    {
+      "date": "2026-10-03",
+      "items": [
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "Note Sorting Machines ke liye naye RBI rules aaye",
+          "effective": "",
+          "what": "RBI ne Note Sorting Machines par Master Direction jari ki hai. Isme authentication, fitness sorting, calibration aur BIS-certified machines ka mention hai. Pehle ke rules ab withdraw ho gaye hain.",
+          "who": "Saare banks jo note sorting machines use karte hain.",
+          "action": "Agar aap bank branch sambhalte hain, to ab note sorting machine BIS-certified honi chahiye. Naye Master Direction ko padhkar implementation karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/rbi-mandates-bis-certified-note-sorting-machines-master-direction.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/DCM/2026-27/473 DCM(NPD) No.S2154/18.00.014/2026-27",
+          "headline": "Master Direction: Note Sorting Machines par consolidated guideline",
+          "effective": "",
+          "what": "RBI ne Note Sorting Machines par saari purani guidelines consolidate karke Master Direction jari ki hai. Pehle jari kiye circulars ab valid nahi hain.",
+          "who": "Har bank ka MD, CEO, aur Chairman jin bankon mein cash note sorting machines hain.",
+          "action": "Banks apne practices ab naye Master Direction ke hisaab se update karein. Pehle ki guidelines ab applicable nahi hain.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13723&Mode=0"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "Currency Management ki 268 purani guidelines withdraw hui",
+          "effective": "",
+          "what": "RBI ne currency management par 268 purani circulars aur guidelines hatakar unko Master Directions mein consolidate ya obsolete kar diya hai.",
+          "who": "Banks ya institutions jo currency management ke related RBI ki guidelines follow karte hain.",
+          "action": "Ab currency management ke liye sirf naye Master Directions hi follow karein. Purane circulars ki checklist revise karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/rbi-withdraws-268-circulars-guidelines-currency-management.html"
+        },
+        {
+          "cat": "Loan",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "SC/ST beneficiaries ke liye bank loan par RBI master guideline",
+          "effective": "",
+          "what": "RBI ne SC/ST beneficiaries ke liye bank credit facilities par sari guidelines consolidate kar di hain. Isme planning, lending, aur monitoring covered hai.",
+          "who": "Wo banks jo SC/ST customers ko loan dete hain, aur SC/ST borrowers.",
+          "action": "Banks naye guidelines padhein aur ab loan policies accordingly update karein. SC/ST applicants lending criteria check karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/rbi-master-circular-2026-credit-facilities-scs-sts.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "Digital Rupee FAQs update hue, wallet aur UPI par focus",
+          "effective": "",
+          "what": "RBI ne Digital Rupee (e₹) ke FAQs update kiye hain. Isme wallet, UPI se linking, aur CBDC ke use cases samjhaye hain.",
+          "who": "Wo sab jo Digital Rupee ya RBI ke e₹ system mein interested hain, banks aur fintechs.",
+          "action": "Digital Rupee se judi updated FAQs dekhein. UPI interoperability aur wallet ke points par focus karein agar aapka business ya client usme involved hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/digital-rupee-e-rupees-rbi-faqs.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-02",
       "items": [
