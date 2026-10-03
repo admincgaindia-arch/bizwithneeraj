@@ -1,6 +1,67 @@
 {
-  "last_updated": "2026-10-02T01:31:00.768Z",
+  "last_updated": "2026-10-03T01:31:04.371Z",
   "digests": [
+    {
+      "date": "2026-10-03",
+      "summary": "Aaj ke digest mein GST aur Income Tax se judi kuch important court rulings aur compliance points cover kiye gaye hain. Saare items recent developments par based hain, mostly courts aur tribunals ke orders.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "₹2 crore GST appeal limit Supreme Court ne clarify kiya",
+          "detail": "Supreme Court ne bola ki CBIC ki ₹2 crore monetary limit ab pending departmental appeals par bhi lagu hogi. Is wajah se ₹25.47 lakh tak ke appeals ab entertain nahi hongi.",
+          "cga_view": "Agar aapka matter ₹2 crore ke limit se kam hai to ab pendency ka stress mat lo, department ki appeal likely close ho jayegi. Apne pending litigation ka status check karein.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/rs-2-crore-gst-monetary-limit-applies-pending-appeals-supreme-court.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GSTR-3B aur 2A fark se hi ITC reject nahi hoga: GSTAT",
+          "detail": "GSTAT Lucknow ne bola ki sirf GSTR-3B aur GSTR-2A mismatch dekh kar ITC ko ineligible nahi bola ja sakta. Department ko supplier certificate, RCM credit, aur reconciliation check karna hoga.",
+          "cga_view": "Aapko apne ITC mismatch ka proper reconciliation aur supporting documents ready rakhne chahiye; yahi ab department me accept karwana hoga.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gstr-3b-gstr-2a-difference-cannot-establish-ineligible-itc-gstat-lucknow.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Unreconciled GSTR-9C turnover par interest income exemption nahi milega",
+          "detail": "GSTAT ne clear kiya ki sirf CA ka certificate ya audit report kaafi nahi hai, GSTR-9C turnover agar match nahi karta toh GST exemption on interest income reject ho sakta hai.",
+          "cga_view": "Interest income exemption ke liye har supporting document, especially turnover reconciliation, complete rakhna zaruri hai. CA certificate alone ab sufficient nahi hai.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/unreconciled-gstr-9c-turnover-ca-certificate-insufficient-claim-gst-exemption-interest-income-gstat.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Maharashtra mein GST authorisation par ₹500 stamp duty lagegi",
+          "detail": "Maharashtra GST ke liye jo bhi CA, CMA, GSTP, relative ya employee ko authorise karte hain, unke letter par ab ₹500 stamp duty deni hogi; advocates ke liye court fee applicable hai.",
+          "cga_view": "Business owners Maharashtra mein koi GST representation dena hai toh yaad rakhein, ab se ₹500 stamp duty applicable hogi. Documentation sahi rakhna hai.",
+          "source_type": "trade",
+          "source_name": "TaxScan",
+          "source_url": "https://www.taxscan.in/gst/maharashtra-gst-authorisation-letters-for-cas-cwas-gstps-attract-500-stamp-duty"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITAT: Sale value pe S.50C nahi, agar pehle fix hua ho",
+          "detail": "ITAT Chennai ne Section 50C ka addition hata diya kyunki property ka sale consideration registration se pehle hi fix ho gaya tha, aur uska evidence diya gaya tha.",
+          "cga_view": "Property sale karte waqt agreement aur payment evidence sambhal ke rakhein, khas kar agar transaction pre-registration fix hua ho.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/section-50c-addition-deleted-sale-consideration-fixed-registration-itat-chennai.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITAT Mumbai: SBI ko TDS default nahi maana; HC order follow kiya",
+          "detail": "Mumbai ITAT ne SBI ko LFC TDS ke mamle mein default nahi maana, kyunki High Court ke binding order par hi action hua tha.",
+          "cga_view": "Agar kisi payment par court ka order hai to TDS default ka risk kam hai, lekin har baar court ka written direction document mein sambhal ke rakhein.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/sbi-not-assessee-default-courts-no-tds-direction-lfc-itat-mumbai.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-10-02",
       "summary": "Aaj ke din GST, Income Tax aur MCA se judi kuch important court rulings aur compliance updates aaayi hain. Official release koi nahi hai, par kaafi useful case laws aur penalty orders recent trade press mein aaye hain.",
