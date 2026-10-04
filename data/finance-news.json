@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-10-03T02:15:28.449Z",
+  "last_updated": "2026-10-04T02:15:26.285Z",
   "days": [
+    {
+      "date": "2026-10-04",
+      "items": [
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/DCM/2026-27/473 DCM(NPD) No.S2154/18.00.014/2026-27",
+          "headline": "Note sorting machines ke naye rules RBI ne jaari kiye",
+          "effective": "2026-10-02",
+          "what": "RBI ne note sorting machines par ek Master Direction jaari kiya hai. Saare purane guidelines, circulars ab consolidate ho gaye hain. Ab sirf BIS-certified note sorting machines hi use hongi.",
+          "who": "Yeh sabhi banks par lagu hai jo cash handle karte hain.",
+          "action": "Aapke bank branch ya cash operations mein note sorting machine hai to check karo ki woh BIS-certified hai ya nahi. Master Direction ka ek copy staff ko circulate karo.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13723&Mode=0"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "RBI ne 268 purane circulars withdraw kiye currency par",
+          "effective": "",
+          "what": "RBI ne currency management se jude 268 purane circulars aur guidelines hata diye hain. Yeh sab consolidate karke Master Directions mein daale gaye hain ya purane ho gaye hain.",
+          "who": "Banks aur woh sab organizations jo cash ya currency se jude operations chalate hain.",
+          "action": "Ab reference ke liye sirf RBI ke latest Master Directions dekho; purane circulars par kaam mat karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/rbi-withdraws-268-circulars-guidelines-currency-management.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "Digital Rupee par RBI ke naye FAQs aage",
+          "effective": "",
+          "what": "RBI ne digital rupee (e₹) par naya FAQs set jaari kiya hai. Isme e₹ wallet, UPI interoperability aur wholesale CBDC ke baare mein bataya gaya hai.",
+          "who": "Fintechs, banks, aur koi bhi digital currency interest rakhne wale log aur businesses.",
+          "action": "Agar aap digital rupee ko use ya integrate karna soch rahe ho to RBI ke naye FAQs check karo. Apne clients ko bhi update karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/digital-rupee-e-rupees-rbi-faqs.html"
+        },
+        {
+          "cat": "Loan",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "SC/ST ke liye credit facilities par RBI ne rule saaf kiye",
+          "effective": "",
+          "what": "RBI ne SC/ST beneficiaries ko bank credit dene ke liye guidelines consolidate kiye hain. Main cheezein planning, lending aur reporting par focus karti hain.",
+          "who": "Banks aur SC/ST borrowers jo priority sector mein loan lete hain.",
+          "action": "Banks ko nayi consolidated guidelines ki copy apne branch managers ko bhejni chahiye. SC/ST clients se jude proposals issi ke hisaab se process karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/rbi-master-circular-2026-credit-facilities-scs-sts.html"
+        },
+        {
+          "cat": "Other",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "Local area aur small finance banks mein share kharidna aasan hua",
+          "effective": "",
+          "what": "RBI ne mutual funds, insurers aur pension funds ke liye major shareholding kharidne par one-time approval ki suvidha di hai. Ab baar-baar approval lene ki jaroorat nahi hogi agar aap ek bar clear ho gaye.",
+          "who": "Mutual funds, insurance companies aur pension funds jo in banks mein investment ki planning kar rahe hain.",
+          "action": "Agar aap mutual fund, insurance ya pension fund ho to apni shareholding strategy review karo. Relevant compliance documents ready rakho one-time approval ke liye.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/rbi-amends-local-area-bank-shareholding-rules-time-approval-qualifying-investors.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-03",
       "items": [
