@@ -1,6 +1,85 @@
 {
-  "last_updated": "2026-10-03T01:31:04.371Z",
+  "last_updated": "2026-10-04T01:31:03.599Z",
   "digests": [
+    {
+      "date": "2026-10-04",
+      "summary": "Aaj ka digest key GST aur Income Tax rulings pe focused hai. Kaafi decisions business compliance ko affect kar sakte hain, especially transport, ITC aur refunds ke maamle mein.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "E-Invoice delay pe penalty tabhi jab tax evasion ho",
+          "detail": "GSTAT ne bola ki sirf e-invoice na banane pe, bina tax evasion ke evidence ke, Section 129 penalty nahi lag sakti. Agar transaction genuine hai to penalty justified nahi hai.",
+          "cga_view": "Agar e-invoice procedure miss ho gayi hai, lekin saara documentation sahi hai aur koi tax evasion nahi hai, to penalty defend ki ja sakti hai. Transport records sambhal ke rakho.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/failure-to-generate-e-invoice-before-movement-alone-cannot-justify-s-129-gst-penalty-without-evidence-of-tax-evasion-gstat"
+        },
+        {
+          "category": "GST",
+          "headline": "E-Way Bill Part-B na bharne pe bhi penalty nahi jab tak evasion nahi",
+          "detail": "GSTAT ka decision hai ki part-B update na karne se penalty nahi lag sakti jab tak transaction genuine hai aur tax evasion ka koi proof nahi hai.",
+          "cga_view": "Agar sirf procedural lapse hua hai, toh penalty se bachav ho sakta hai jab tak documentation aur movement proper ho. Transport praman sahi rakkho.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/non-updation-of-e-way-bill-part-b-alone-cant-attract-section-129-penalty-without-tax-evasion-intent-gstat-read-order"
+        },
+        {
+          "category": "GST",
+          "headline": "FORM GST MOV-09 mandatory hai, bina iss ke Section 129 penalty invalid",
+          "detail": "GSTAT ne kaha ki Section 129(3) ke tahat final order sirf FORM GST MOV-09 me hi ho sakta hai. Agar yeh missing hai to penalty proceedings khatam maani jayengi.",
+          "cga_view": "Agar aapko Section 129 notice mila hai par MOV-09 order nahi diya gaya, toh penalty ke order ko challenge kiya ja sakta hai. Notice aur orders carefully verify karo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/failure-to-issue-mandatory-form-gst-mov-09-vitiates-section-129-gst-penalty-gstat"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Wrong assessment year me TDS credit allow nahi: ITAT Ahmedabad",
+          "detail": "Agar aapne galat year me TDS credit claim kiya hai toh ITAT ne us par dene se mana kar diya, chahe previous year ka refund claim abhi pending ho.",
+          "cga_view": "TDS credit sahi assessment year mein match karo. Galat year mein claim kiya toh abhi bhi time hai previous year ka refund file karne ka.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/wrong-year-tds-credit-cannot-allowed-pending-refund-claim-itat-ahmedabad.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Sole GST S.74A proceedings S.61 scrutiny ke bina bhi ho sakti hain",
+          "detail": "Allahabad HC ne bola ki section 61 scrutiny mandatory nahi hai S.74A ki proceedings shuru karne ke liye. Department ke pass directly 74A lagane ka right hai.",
+          "cga_view": "GST me agar aapko S.74A ki notice aaye aur S.61 scrutiny nahi hui ho, toh bhi uska jawab tayyar karo. Delay expect mat karo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/gst-s74a-proceedings-can-be-initiated-without-s-61-scrutiny-allahabad-hc-rejects-sole-gateway-interpretation"
+        },
+        {
+          "category": "GST",
+          "headline": "GSTR-9/9C mistake se valid ITC khatam nahi hota: GSTAT",
+          "detail": "Agar aapne annual return ya reconciliation me galati se galat ITC dikhaya hai, fir bhi jo ITC GSTR-3B me properly claim hua hai, woh aapka valid rahega. GSTAT ne yeh clarify kiya hai.",
+          "cga_view": "Agar aapne annual return me ITC galat report kiya hai to turant correction ke liye approach karein, lekin panic na karein agar GSTR-3B sahi hai.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/gstr-9-gstr-9c-reporting-errors-cannot-extinguish-itc-validly-availed-through-gstr-3b-gstat"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Common supplier se hi case bar nahi lagta: Delhi HC",
+          "detail": "Delhi HC ne clarify kiya ki CGST/SGST ke proceedings me sirf common supplier ya ITC ground se same subject matter ka bar nahi lagta unless tax liability same ho.",
+          "cga_view": "Agar aap par dual proceedings ho rahe hain, to check karo ki kya exact same tax liability involved hai ya nahi. Defence accordingly design karo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/common-supplier-alone-does-not-establish-same-subject-matter-bar-us-62b-cgst-act-delhi-hc"
+        },
+        {
+          "category": "GST",
+          "headline": "GST refund rok sakte hain jab investigation/chori ka shak ho: Delhi HC",
+          "detail": "Delhi HC kehta hai ki refund Section 54(11) ke tahat rok sakte hain, bina pending appeal ke, agar authority ko lagta hai ki fraud hua hai ya revenue at risk hai.",
+          "cga_view": "GST refund pe investigation chal rahi hai toh release expect mat karo. Supporting evidence strong rakho aur follow-up bana ke rakho.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/gst-refund-can-be-withheld-us-5411-despite-no-pending-appeal-if-investigation-is-pending-and-fraud-opinion-is-formed-delhi-hc-read-order"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-10-03",
       "summary": "Aaj ke digest mein GST aur Income Tax se judi kuch important court rulings aur compliance points cover kiye gaye hain. Saare items recent developments par based hain, mostly courts aur tribunals ke orders.",
@@ -2732,49 +2811,6 @@
           "source_type": "trade",
           "source_name": "Taxguru",
           "source_url": "https://taxguru.in/income-tax/mumbai-itat-quashes-reassessment-escaped-income-rs-50-lakh.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-07-30",
-      "summary": "Aaj GST aur Service Tax ki kuch court rulings aayi hain, aur e-Way Bill enhancements abhi rok di gayi hai. Official notifications ka intezaar hai, kaam abhi waise hi chalega jaise ab tak tha.",
-      "items": [
-        {
-          "category": "GST",
-          "headline": "e-Way Bill enhancements abhi hold par hain",
-          "detail": "GSTN ne e-Way Bill system mein 1 Aug 2026 se hone wale changes ko next order tak rok diya hai. Abhi purana process hi follow hoga, naye advisories ya FAQs bhi withdraw kar diye gaye hain.",
-          "cga_view": "Naye e-Way Bill features ke liye koi change mat karo. Abhi kaam normal procedure par hi rakho jab tak official update na aaye.",
-          "source_type": "trade",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/goods-and-service-tax/gstn-hold-rollout-proposed-bill-enhancements.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Telangana HC: GSTAT appeal mein 10% deposit maaf, IGST pehle pay hua",
-          "detail": "Telangana High Court ne ek case mein GSTAT appeal ke liye 10% statutory pre-deposit waive kar diya—kyunki taxpayer pehle hi IGST bhar chuka tha. Yeh specific facts par based hai.",
-          "cga_view": "Agar similar IGST aur CGST/SGST liability ka dispute ho to apne advisor se specific legal advice lo—waiver automatically sab cases mein nahi milega.",
-          "source_type": "trade",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/goods-and-service-tax/telangana-hc-waives-10-percent-pre-deposit-gstat-appeal-igst-paid.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Service Tax: 26AS aur ST-3 mismatch pe demand valid nahi",
-          "detail": "CESTAT Mumbai ne bola ki sirf Form 26AS aur ST-3 ki mismatch pe Service Tax demand nahi ban sakti. Department ko aur strong basis chahiye.",
-          "cga_view": "Agar aapko sirf mismatch ke reason se notice aaya hai, toh reply mein judicial precedent ka reference dein. Sari details legal advisor ke through prepare karein.",
-          "source_type": "trade",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/service-tax/form-26as-st-3-mismatch-cannot-justify-service-tax-demand-cestat-mumbai.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "GST Section 74: Seized documents ke baad fresh reply allowed",
-          "detail": "Telangana HC ne order diya ki jab bhi seized documents taxpayer ko milen, toh fresh/supplementary reply, personal hearing aur time-bound adjudication allowed hai.",
-          "cga_view": "Aapke case mein agar documents delay se mile hain, toh fresh representation ka mauka mil sakta hai. Legal strategy apne advisor ke saath tayar karein.",
-          "source_type": "trade",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/corporate-law/telangana-hc-fresh-reply-supply-seized-documents-gst-section-74-proceedings.html"
         }
       ],
       "due_dates": []
