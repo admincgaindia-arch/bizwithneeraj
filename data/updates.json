@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-10-04T01:31:03.599Z",
+  "last_updated": "2026-10-05T01:31:01.130Z",
   "digests": [
+    {
+      "date": "2026-10-05",
+      "summary": "Aaj ke digest mein GST aur Income Tax ki kuch important compliance aur court rulings cover ki gayi hain. Sabhi updates trade press se hain, official notification pending hai.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "Additional GST Registration ab easy auto-filled details se",
+          "detail": "Agar aap ek hi PAN pe naya GST registration lete ho, toh ab GSTN existing details auto-fill kar dega. Baar baar repeat entry ki zarurat nahi.",
+          "cga_view": "Agar aap alag state ya branch ke liye registration le rahe hain, toh process ab quick ho jayega. Alert: final details submit karne se pehle check zarur karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gstn-simplifies-additional-gst-registrations-auto-population-facility.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GSTAT: E-way bill pe 9 minute delay, penalty quash",
+          "detail": "GSTAT Lucknow ne bola ki agar genuine transaction ho aur sirf 9 min ka delay ho E-way bill mein, toh sec 129 ka penalty valid nahi hai.",
+          "cga_view": "Agar aapka E-way bill thoda late bana aur consignment genuine thi, toh penalty ko challenge kiya ja sakta hai. Proof ready rakhein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gstat-lucknow-quashes-bill-penalty-bona-fide-9-minute-delay.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Section 16(4) se mistakenly reversed ITC reclaim possible",
+          "detail": "Agar ITC sahi time pe liya tha par clerical galti se reverse kar diya, toh Section 16(4) ki time limit reclaim pe apply nahi hogi; reclaim possible hai.",
+          "cga_view": "Galti se reverse kiya ITC reclaim karna hai toh backup supporting ready rakho. Officer ko explanation dena padega.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/section-16-4-cannot-bar-reclaim-itc-reversed-mistake.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Limited Scrutiny ka scope cross nahi kar sakta AO: ITAT Delhi",
+          "detail": "ITAT Delhi ne bola ki AO limited scrutiny ka reason cross karke addition nahi kar sakta jab tak proper approval na ho.",
+          "cga_view": "Aapke scrutiny notice mein agar specific point hai toh AO aur kuch add nahi kar sakta bina process follow kiye. Unnecessary addition ka response banao.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/addition-limited-scrutiny-scope-without-prior-approval-unsustainable-itat-delhi.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Section 16(2)(c): ITC denial pe detailed guidelines (P&H HC)",
+          "detail": "P&H High Court ne Section 16(2)(c) ke cases mein department ko 14 guidelines follow karne ko bola hai, jisse ITC denial mechanical na ho.",
+          "cga_view": "Agar aapka ITC deny ho raha hai Section 16(2)(c) pe, toh ab guidelines ki copy officer se request karo aur detailed reply file karo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/s162c-of-gst-cannot-be-applied-mechanically-to-deny-itc-ph-hc-issues-14-guidelines-for-department"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-10-04",
       "summary": "Aaj ka digest key GST aur Income Tax rulings pe focused hai. Kaafi decisions business compliance ko affect kar sakte hain, especially transport, ITC aur refunds ke maamle mein.",
@@ -2768,49 +2820,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/income-tax/bangalore-itat-section-80p-deduction-bank-interest-distinguishes-totgars.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-07-31",
-      "summary": "Aaj GST aur Income Tax pe kuch important court judgments aaye hain, saath hi GSTN ne e-Way Bill wale naye changes filhaal rok diye hain. Abhi compliance routine pe hi kaam karo.",
-      "items": [
-        {
-          "category": "GST",
-          "headline": "GSTN naye e-Way Bill changes abhi hold pe",
-          "detail": "GSTN ne 1 August se lagu hone wale e-Way Bill system ke enhancements abhi rok diye hain. Sabhi purane process hi abhi continue karenge, naye advisory/FAQ bhi withdraw kar liye gaye hain.",
-          "cga_view": "Aap apne logistics ya IT system mein koi naya change mat kariye jab tak GSTN se official green signal na aaye. Compliance filing mein old method hi follow karo.",
-          "source_type": "trade",
-          "source_name": "Taxguru",
-          "source_url": "https://taxguru.in/goods-and-service-tax/gstn-hold-rollout-proposed-bill-enhancements.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "ITC reversal sahi, lekin penalty form ki galti pe radd",
-          "detail": "Gujarat HC ne decide kiya ki ITC toh reverse karna padega agar supplier ne tax nahi diya, lekin bina GST DRC-01A notice ke penalty nahi lag sakti.",
-          "cga_view": "Agar aapko ITC reversal notice mile toh yeh check karein ki penalty ki process sahi follow hui hai ya nahi. Achhi documentation rakhein.",
-          "source_type": "trade",
-          "source_name": "Taxguru",
-          "source_url": "https://taxguru.in/goods-and-service-tax/gujarat-hc-upholds-itc-reversal-quashes-gst-penalty-procedural-lapse.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Section 74 GST case: Documents ki supply pe fresh reply allowed",
-          "detail": "Telangana HC ne kaha ki jab investigating officer documents supply kare, toh taxpayer ko fir se reply dena, personal hearing ka mauka milna zaruri hai.",
-          "cga_view": "Agar aapke case mein seized documents milte hain, toh supplementary reply zaroor file karein aur hearing attend karein. Deadline ka dhyan rakhein.",
-          "source_type": "trade",
-          "source_name": "Taxguru",
-          "source_url": "https://taxguru.in/corporate-law/telangana-hc-fresh-reply-supply-seized-documents-gst-section-74-proceedings.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Reassessment notice invalid agar Rs 50L se kam income chhuti",
-          "detail": "Mumbai ITAT ne rule kiya ki agar alleged escaped income ₹50 lakh se kam hai aur notice issue hui 3 saal baad, toh reassessment invalid hai.",
-          "cga_view": "Past IT returns ka reassessment notice mila hai toh amount aur notice date check karein. Agar Rs 50 lakh ki threshold cross nahi hui toh strong case hai.",
-          "source_type": "trade",
-          "source_name": "Taxguru",
-          "source_url": "https://taxguru.in/income-tax/mumbai-itat-quashes-reassessment-escaped-income-rs-50-lakh.html"
         }
       ],
       "due_dates": []
