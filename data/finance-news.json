@@ -1,6 +1,95 @@
 {
-  "last_updated": "2026-10-04T02:15:26.285Z",
+  "last_updated": "2026-10-06T02:15:28.977Z",
   "days": [
+    {
+      "date": "2026-10-06",
+      "items": [
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/DCM/2026-27/473 DCM(NPD) No.S2154/18.00.014/2026-27",
+          "headline": "Note Sorting Machines par RBI ka naya Master Direction",
+          "effective": "2026-10-02",
+          "what": "RBI ne Note Sorting Machines ke liye Master Direction jari kiya hai. Ab sabhi banks ko ek hi jagah updated guidelines mil jayengi. Purane circular ab withdraw ho gaye hain.",
+          "who": "Ye sabhi banks par lagu hai jo Note Sorting Machines use karte hain.",
+          "action": "Aapke bank branch mein Note Sorting Machine ka use hai to staff ko ab naye Master Direction padhein aur follow karein. Purane circulars ko ab mat dekhein.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13723&Mode=0"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "ICICI Bank",
+          "ref": "",
+          "headline": "ICICI Bank FD: Rate aur TDS ki latest guide",
+          "effective": "",
+          "what": "ICICI Bank ki FD par abhi kaunse interest rates mil rahe hain, tenure kya hai, premature withdrawal par kya rules hain, TDS kaise katega - is guide mein diya gaya hai. DICGC cover ki bhi detail milti hai.",
+          "who": "Jo log ICICI Bank mein FD rakhna chahte hain ya rakh rahe hain, unke liye hai.",
+          "action": "Nayi FD karwane se pehle rate, tenure, premature withdrawal aur TDS rules is guide se check karein. Senior citizens alag benefit bhi dekh sakte hain.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/icici-bank-fixed-deposit-interest-rates-tenure-premature-withdrawal-tds-dicgc-guide.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Axis Bank",
+          "ref": "",
+          "headline": "Axis Bank FD: October 2026 ke rate aur withdrawal rules",
+          "effective": "",
+          "what": "Axis Bank ki FD par October 2026 ke interest rates, senior citizen ke liye alag rate, tenure, premature withdrawal aur TDS ke rules ki detail di gayi hai. DICGC cover ka bhi zikr hai.",
+          "who": "Jo Axis Bank mein FD lena ya renew karna chahte hain, aur senior citizens.",
+          "action": "FD karne ya renew karne se pehle latest rate aur withdrawal ke rule is guide se samjhein. Tax implication bhi check karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/axis-bank-fixed-deposit-latest-rates-premature-withdrawal-tds-tax-rules.html"
+        },
+        {
+          "cat": "Loan",
+          "authority": "LIC",
+          "ref": "",
+          "headline": "LIC Jeevan Utsav: Guaranteed Income aur Loan ki suvidha",
+          "effective": "",
+          "what": "LIC Jeevan Utsav plan mein guaranteed income, premium ka term, death benefit, surrender ka option aur loan ki suvidha bhi milti hai. Tax aur GST rules bhi explain kiye gaye hain.",
+          "who": "Personal finance planning karne wale individuals, specially jo insurance aur periodic income dekh rahe hain.",
+          "action": "LIC Jeevan Utsav policy lene se pehle premium, loan option aur tax rules samjhein. Apne agent se sari terms confirm karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/lic-jeevan-utsav-guaranteed-income-tax-treatment-key-conditions-explained.html"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "Ministry of Finance",
+          "ref": "",
+          "headline": "Foreign Assets Disclosure Scheme 2026 ka guide aaya",
+          "effective": "",
+          "what": "Foreign Assets of Small Taxpayers Disclosure Scheme 2026 (FAST-DS 2026) ka detail guide aaya hai. Eligibility, 1 crore/5 crore ki limit, 60% payment, 1 lakh fee, Form 1 aur valuation ki detail milti hai. Timeline aur immunity rules bhi explain hain.",
+          "who": "Small taxpayers jinke paas foreign assets hain, aur scheme ki defined limit mein aate hain.",
+          "action": "Agar aap foreign assets disclose karna chahte hain, to eligibility, payment rules aur document Form 1 ki details scheme guide se padhein. Time par application karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/foreign-assets-small-taxpayers-disclosure-scheme-2026-complete-guide.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Vishal Nirmiti IPO: Main points aur tax implication",
+          "effective": "",
+          "what": "Vishal Nirmiti IPO ke issue details, price band, lot size, fresh issue/OFS aur risk factors is guide mein cover hain. IPO mein invest karne walon ke liye tax implication bhi samjhaye gaye hain.",
+          "who": "IPO mein invest ya apply karne wale logon ke liye.",
+          "action": "IPO mein apply karne se pehle issue ki main terms, risk factors aur tax impact ko guide se samjhein. Apni risk profile check karna na bhoolein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/vishal-nirmiti-ipo-issue-details-financial-questions-risks-tax-implications.html"
+        },
+        {
+          "cat": "Loan",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "RBI Expected Credit Loss Framework: Banks ke liye naye rules",
+          "effective": "2027-04-01",
+          "what": "RBI Expected Credit Loss (ECL) framework 1 April 2027 se lagega. Ismein banks ko 3-stage provisioning karni padegi, yaani loan loss ko pehle se estimate karna aur capital relief ka bhi rule hai.",
+          "who": "Sabhi scheduled banks jo loan aur credit products issue karte hain.",
+          "action": "Bank branch managers aur auditors ECL framework ki guidelines detail mein samjhein. IT systems aur policy update ki planning abhi se shuru karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/rbis-expected-credit-loss-framework-era-provisioning-april-2027.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-04",
       "items": [
