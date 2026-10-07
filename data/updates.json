@@ -1,6 +1,67 @@
 {
-  "last_updated": "2026-10-06T01:31:02.502Z",
+  "last_updated": "2026-10-07T01:31:03.852Z",
   "digests": [
+    {
+      "date": "2026-10-07",
+      "summary": "Aaj GST council ka meeting postpone hua aur kuch important ITAT rulings aaye, mainly GST aur income tax par focus kiya gaya hai. Agle 10 din mein koi statutory due date confirm nahi hui hai.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "GST Council meeting 8 Oct ko Bharat Mandapam mein",
+          "detail": "57th GST Council meeting ab 8 October 2026 ko morning 11 baje se New Delhi, Bharat Mandapam mein hogi. Pehle yeh 7 October ko thi par ab postpone ho gayi hai.",
+          "cga_view": "Agar aap GST ke changes ya notifications ka intezaar kar rahe hain toh 8 October ke meeting ke baad hi koi naya update expect karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/57th-gst-council-meeting-rescheduled-8-october-2026-bharat-mandapam.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GSTAT ne e-way bill expired aur galat vehicle par penalty sahi mani",
+          "detail": "GSTAT Agra ne bola ki agar expired e-way bill mein alag vehicle number tha aur taxpayer ne proper jawab nahi diya toh Section 129 ke tahat penalty justified hai.",
+          "cga_view": "E-way bill details har shipment pe sahi update karein; galat ya expired bill aaya toh penalty ka risk hai. Transit mein check zaroor karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gstat-agra-upholds-gst-penalty-expired-bill-vehicle-number.html"
+        },
+        {
+          "category": "GST",
+          "headline": "P&H HC ne retrospective GST cancellation ko quash kiya",
+          "detail": "Punjab & Haryana High Court ne bola ki agar show cause notice mein pehle se retrospective cancellation nahi likha tha toh registration ke cancellation ko pichhle date se lagana galat hai.",
+          "cga_view": "Agar aapko GST registration ka SCN mila hai toh check karein usmein kya likha hai, backdated cancellation nahi ho sakta bina proper notice ke.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/hc-quashes-retrospective-gst-cancellation-not-proposed-scn.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Sirf Form 26AS ki entry par full addition nahi ho sakta: ITAT",
+          "detail": "ITAT ne kaha ki Form 26AS mein high amount dikhne par bhi agar actual paisa year-wise mila hai aur return mein dikhaya hai toh total consideration ek saal mein tax nahi ho sakta.",
+          "cga_view": "Agar 26AS aur aapke received amount match nahi karte, toh proper documentation rakhein. Scrutiny aaye toh actual receipts zaroor explain karein.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/taxpayer-received-only-25-lakh-but-286-cr-reflected-in-form-26as-itat-deletes-245-cr-addition"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Section 148 notice bina enquiry ke valid nahi: Karnataka HC",
+          "detail": "Karnataka HC ne reassessment ko quash kiya kyunki AO ne taxpayer ka explanation ya document properly examine nahi kiya tha.",
+          "cga_view": "Section 148 notice aae toh har document timely file karein aur AO ke enquiry pe dhyaan dein; sahi records help karega.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/section-148-notice-cannot-rest-unexamined-taxpayer-explanation.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "TDS nahi katega toh bhi penalty nahi jab seller tax de de: ITAT",
+          "detail": "ITAT ne NRI buyer ki penalty hata di kyunki seller ne property sale ka tax khud pay kar diya aur Form 26A diya.",
+          "cga_view": "Agar TDS galti se miss ho jaye toh seller se Form 26A le aayen aur ensure karein ki tax pay kiya gaya hai. Penalty se bach sakte hain.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/nri-buyer-fails-to-deduct-tds-on-225-cr-property-purchase-itat-deletes-112-lakh-penalty-as-seller-paid-tax"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-10-06",
       "summary": "Aaj kafi important GST aur Income Tax case rulings aayi hain, lekin aaj ke liye koi official notification ya due date nahi hai. Sab kuch trade press se hai, isliye implementation pe thoda wait karein.",
@@ -2768,40 +2829,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/goods-and-service-tax/vested-rights-commencement-lis-section-107-6-gst-amendment-impact.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-08-02",
-      "summary": "Aaj Income Tax aur GST ke kuch court judgments aaye hain jo business owners ko impact kar sakte hain. Sab trade press se liye gaye hain, official notification ka intezaar bhi zaroor karein.",
-      "items": [
-        {
-          "category": "Income Tax",
-          "headline": "Ahmedabad ITAT: Sirf 8% profit unaccounted sales par taxable",
-          "detail": "Ahmedabad ITAT ne decide kiya ki agar aapke sales books mein nahi dikhaye hain, to poore sales amount par nahi, balki sirf 8% presumed profit par hi tax lagega. CIT(A) ki 6% estimate ko modify kiya gaya.",
-          "cga_view": "Agar aap par similar unaccounted sales ka issue hai to apne CA se yeh recent judgment discuss karein, shayad relief mil sakti hai. Par yeh ruling sab cases pe apply nahi hoti.",
-          "source_type": "trade",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/ahmedabad-itat-holds-8-percent-profit-unaccounted-sales-taxable-not-entire-receipts.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Bombay HC: GST penalty director par abhi nahi lagegi",
-          "detail": "Bombay High Court ne ek company director par section 122(1A) CGST ke tehat penalty lagane se stay diya hai, aur bola ki yeh provision individuals pe apply nahi hota. Filhaal yeh sirf interim order hai.",
-          "cga_view": "Agar aap director ho aur aisi notice aayi hai, to abhi relax kar sakte hain. Lekin final decision aana baaki hai, legal advise zaroor lein.",
-          "source_type": "trade",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/goods-and-service-tax/bombay-hc-stays-section-122-1a-gst-penalty-director-citing-inapplicability-individuals.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Madras HC: GST notifications without Council ultra vires",
-          "detail": "Madras HC ne decide kiya ki GST notifications agar GST Council ke recommendation ke bina hai, to woh invalid hai. Kuch notifications aur notices ko side pe rakha gaya hai.",
-          "cga_view": "Agar aapko aisi GST demand ya notice mili hai jo Council ki recommendation ke bina hai, to apne consultant ko judgement dikhayein. Abhi further clarity aa sakti hai.",
-          "source_type": "trade",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/goods-and-service-tax/gst-notifications-without-council-recommendation-ultra-vires-madras-hc.html"
         }
       ],
       "due_dates": []
