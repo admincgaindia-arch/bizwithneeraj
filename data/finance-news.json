@@ -1,6 +1,59 @@
 {
-  "last_updated": "2026-10-06T02:15:28.977Z",
+  "last_updated": "2026-10-07T02:15:28.613Z",
   "days": [
+    {
+      "date": "2026-10-07",
+      "items": [
+        {
+          "cat": "Scheme",
+          "authority": "Unknown",
+          "ref": "",
+          "headline": "Foreign Assets Disclosure Scheme 2026 ki guide aayi",
+          "effective": "",
+          "what": "FAST-DS 2026 ka pura guide aaya hai. Yahan eligibility, limit, payment process aur fees ki info di gayi hai. Isme aapko foreign assets declare karne ka mauka milega, certain rules ko follow karna hoga.",
+          "who": "Un small taxpayers ke liye jinke paas foreign assets hain aur scheme ki limits mein fit baithte hain.",
+          "action": "Agar aapke paas foreign assets hain, to Form 1 fill karein aur guide dekhein. Scheme ki limits aur timelines check karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/foreign-assets-small-taxpayers-disclosure-scheme-2026-complete-guide.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "Unknown",
+          "ref": "",
+          "headline": "Vishal Nirmiti IPO details aur tax guide",
+          "effective": "",
+          "what": "Vishal Nirmiti IPO par ek detailed guide aayi hai. Iss guide mein issue size, price band, lot size, OFS, aur tax implications cover kiye gaye hain.",
+          "who": "Un investors ke liye jo IPO mein invest karna chahte hain ya tax impact samajhna chahte hain.",
+          "action": "IPO invest karne se pehle guide padh lein. Khud ki tax planning aur paperwork ready karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/vishal-nirmiti-ipo-issue-details-financial-questions-risks-tax-implications.html"
+        },
+        {
+          "cat": "Loan",
+          "authority": "Unknown",
+          "ref": "",
+          "headline": "LIC Jeevan Utsav plan mein loan ki facility explained",
+          "effective": "",
+          "what": "LIC Jeevan Utsav plan ki guarantee income, loan option, premium term, surrender aur tax rules par explanation di gayi hai.",
+          "who": "Un logon ke liye jo LIC Jeevan Utsav plan mein invest kar rahe hain ya loan lena chahte hain.",
+          "action": "Agar aap LIC Jeevan Utsav le rahe hain, to loan aur surrender ki terms check karein. Income-tax Act 2025 aur GST rules bhi samjhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/lic-jeevan-utsav-guaranteed-income-tax-treatment-key-conditions-explained.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Unknown",
+          "ref": "",
+          "headline": "Axis Bank Fixed Deposit ka October 2026 guide",
+          "effective": "",
+          "what": "Axis Bank FD par latest rates, senior citizen benefit, premature withdrawal aur TDS rules ka guide aaya hai. DICGC cover aur Form 121 details bhi di gayi hain.",
+          "who": "Axis Bank ke FD holders aur nayi FD open karne walon ke liye.",
+          "action": "Nai FD kholte waqt latest rates aur tenure dekhein. TDS aur tax rules check karein, Form 121 use karna ho to paperwork ready karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/axis-bank-fixed-deposit-latest-rates-premature-withdrawal-tds-tax-rules.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-06",
       "items": [
