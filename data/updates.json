@@ -1,6 +1,67 @@
 {
-  "last_updated": "2026-10-07T01:31:03.852Z",
+  "last_updated": "2026-10-08T01:31:27.613Z",
   "digests": [
+    {
+      "date": "2026-10-08",
+      "summary": "Aaj major GST aur Income Tax rulings par focus hai, mostly courts aur tribunals ne taxpayer ke favour mein kuch judgments diye hain. Official notification aaj koi nahi hai, sab news trade press se hai.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "Single GST SCN for Multiple Years Not Allowed: Kerala HC",
+          "detail": "Kerala High Court ne composite GST notice (ek hi SCN) jo 2019-20 se 2023-24 tak kayi saalo ko cover karta tha, usko quash kar diya. Ab har saal ke liye alag notice jaari ho sakta hai.",
+          "cga_view": "Agar aapko multi-year GST SCN mila hai, to apne consultant se check karva lo - shayad woh quash ho sake. Old notice par response dene se pehle legal check zaroor kara lo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/single-gst-show-notice-multiple-years-unsustainable-kerala-hc.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Personal Hearing 'No' Option Nahi Chalti: Gujarat HC",
+          "detail": "Gujarat HC ne bola ki agar aapne GST SCN me personal hearing 'No' bhi select kiya, to bhi Section 75(4) ke hisaab se authority ko sunwai ka mauka dena zaroori hai. Order quash hua.",
+          "cga_view": "Aapne online GST reply mein personal hearing 'no' bhi select kiya ho, fir bhi aapko hearing ka haq hai. Agar bina hearing order pass hua ho, to appeal kar sakte ho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/selecting-no-personal-hearing-cannot-override-cgst-section-75-4-mandate-gujarat-hc.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Same Officer ne Audit, SCN aur Order Diya, Order Set Aside: Karnataka HC",
+          "detail": "Karnataka High Court ne wo GST order khatam kar diya jahan audit report banane wale officer ne SCN issue kiya aur adjudication bhi khud ki. Is tarah ka process correct nahi hai.",
+          "cga_view": "Agar aapke case me ek hi GST officer audit, SCN aur decision sab kuch kar raha hai, to turant objection file karo. Such orders court me challenge ho sakte hain.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/same-gst-officer-conducted-audit-issued-scn-adjudicated-matter-karnataka-hc-sets-aside-order-read-judgment"
+        },
+        {
+          "category": "GST",
+          "headline": "E-Way Bill: 50km tak Vehicle Details Part B mein Nahi Chahiye",
+          "detail": "GSTAT ne bola ki agar consignment ka initial intra-State movement 50km se kam hai aur sirf transporter ke premises tak ja raha hai, to E-Way Bill Part B (vehicle details) dalna mandatory nahi hai.",
+          "cga_view": "Agar local delivery (50km tak) transporter premises tak hai, to E-Way Bill mein vehicle number daalne ki tension nahi. Lekin onward movement pe zaroor fill karo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/vehicle-details-in-e-way-bill-part-b-not-required-for-initial-intra-state-movement-up-to-50kms-to-transporters-premises-gstat-read-order"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Section 271BA Penalty Invalid on Omitted Section 92BA(i): ITAT Chandigarh",
+          "detail": "ITAT ne 271BA penalty ko invalidate kiya, kyunki penalty proceedings shuru hone tak Section 92BA(i) pehle hi delete ho chuka tha.",
+          "cga_view": "TP transactions ke liye penalty aayi ho to dhyan rakho ki relevant section exist karta hai ya nahi. Agar section omission ke baad penalty lagi hai to appeal strong hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/section-271ba-penalty-invalid-omission-section-92ba-itat-chandigarh.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Education Cess Claim – No Penalty if Bona Fide: ITAT",
+          "detail": "ITAT ne bola ki agar aapne education cess ka claim purani judicial position ke basis par file kiya, to S. 270A penalty nahi lagegi, chahe baad mein law change ho gaya ho.",
+          "cga_view": "Education cess par penalty ke notices aaye hain, to agar return file karte time law aapke favour mein tha to penalty nahi lag sakti. Proper representation kara lo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/bona-fide-education-cess-claim-based-on-prevailing-judicial-position-not-liable-to-s270a-penalty-under-income-tax-act-despite-retrospective-amendment-by-finance-act-2022-itat-read-order"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-10-07",
       "summary": "Aaj GST council ka meeting postpone hua aur kuch important ITAT rulings aaye, mainly GST aur income tax par focus kiya gaya hai. Agle 10 din mein koi statutory due date confirm nahi hui hai.",
@@ -2786,49 +2847,6 @@
           "source_type": "trade",
           "source_name": "taxscan.in",
           "source_url": "https://www.taxscan.in/top-stories/unsecured-loan-and-share-application-money-cannot-be-treated-as-bogus-merely-due-to-creditors-link-with-alleged-entry-provider-itat-read-order-1449662"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-08-03",
-      "summary": "Aaj ke major updates GST aur Income Tax ki compliance aur rulings par based hain. Filhal koi official government release nahi mila hai.",
-      "items": [
-        {
-          "category": "GST",
-          "headline": "E-way Bill System mein naya rule August se",
-          "detail": "Trade reports ke hisaab se, 1 August 2026 se bill-to/ship-to transactions mein ship-to GSTIN mandatory ho jayega aur e-way bill close karne ki ek new facility aayegi.",
-          "cga_view": "Aapko systems jaldi hi update karwa lene chahiye, aur staff ko new rule batana zaroori hai. Official notification ka wait bhi karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/proposed-changes-e-way-bill-system-effective-august-1-2026.html"
-        },
-        {
-          "category": "GST",
-          "headline": "Section 16(2)(c) CGST: ITC reversal pe ambiguity",
-          "detail": "Article mein ITC reversal, dubara avail karne, aur kuch legal rulings discuss kiye hain. Practical compliance issues highlighted hue hain, par abhi clarity nahi aayi hai.",
-          "cga_view": "ITC claim karte waqt supplier ki compliance pakka karein, aur koi bhi reversal ya re-availment accounting records mein ache se track karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/section-16-2-cgst-settled-law-practical-ambiguities-road.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Jewellery seizure: ITAT ka naya decision",
-          "detail": "Bangalore ITAT ne decide kiya ki CBDT Instruction 1916 sirf prescribed jewellery quantity ko protect karta hai. Baaki seized jewellery par Section 69A lagega agar valid source nahi dikhaya.",
-          "cga_view": "Agar jewellery disclose karni ho ya assessment chal raha hai, to prescribed limit dhyan mein rakhein aur har ek item ka source clearly document karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/cbdt-instruction-1916-protects-prescribed-jewellery-quantity-bangalore-itat.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "GST Appeal me pre-deposit: Delhi HC ka view",
-          "detail": "Delhi High Court ne bola ki Section 107(6) CGST ke liye appeal ka right SCN ki date se decide hoga, aur ye vested right hai.",
-          "cga_view": "Agar aapka appeal under process hai to SCN ki date check karein; kisi bhi new amendment ko retro apply nahi hone dena chahiye.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/vested-rights-commencement-lis-section-107-6-gst-amendment-impact.html"
         }
       ],
       "due_dates": []
