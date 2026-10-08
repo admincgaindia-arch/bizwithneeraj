@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-10-07T02:00:25.645Z",
+  "last_updated": "2026-10-08T02:00:22.417Z",
   "days": [
+    {
+      "date": "2026-10-08",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "DCIT Vs Growmore Research & Assets Management Ltd. (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "1991-92",
+          "section": "Section 148",
+          "facts": "Ye ek company ka case tha jisko Income Tax department ne Section 148 ka notice diya. Notice mein bola ke return 'within 30 days' file karo. Assessee ne bola ki notice galat hai.",
+          "issue": "Kya Section 148 ka notice 'within 30 days' likhne se valid hai?",
+          "held": "ITAT Mumbai ne bola ki notice galat hai, kyunki law mein 'within 30 days' nahi bola. Iss wajah se pura reassessment radd kar diya. Revenue ki cross-appeal bhi kharij ho gayi.",
+          "outcome": "Assessee",
+          "takeaway": "Section 148 notice jab bhi aaye to language check karo. Agar 'within 30 days' likha hai to challange kiya ja sakta hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/section-148-notice-giving-30-days-invalid-reassessment-quashed-itat-mumbai.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "Deepika A Mehta Vs DCIT (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "1992-93",
+          "section": "",
+          "facts": "Yahan ek individual taxpayer ka case tha. Uske accounts audit nahi hue the. Income Tax department ne sirf non-audit hone ki wajah se books reject kar diye aur investments ko unexplained maan liya.",
+          "issue": "Kya sirf audit nahi hone ki wajah se books reject kar sakte hain?",
+          "held": "ITAT ne bola sirf audit non-compliance par books reject nahi ho sakti jab tak koi kami ya defect na ho. Isliye department ke unexplained investments aur dusre addition hata diye.",
+          "outcome": "Assessee",
+          "takeaway": "Agar books audit nahi hui hain lekin defects nahi mile to department addition nahi kar sakta.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/books-cannot-rejected-non-audit-without-defects-unexplained-investment-addition-deleted-itat-mumbai.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Jaipur",
+          "case_name": "ITO Vs Shashi Kant Tulsian (ITAT Jaipur)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2024-25",
+          "section": "Section 87A, Section 111A",
+          "facts": "Shashi Kant Tulsian ne short term capital gain (STCG) dikhaya jo Section 111A ke under tha. Revenue ne bola Section 87A ki rebate nahi mil sakti.",
+          "issue": "Kya Section 111A STCG par Section 87A ki ₹25,000 tak rebate mil sakti hai?",
+          "held": "ITAT Jaipur ne bola Section 87A rebate allowed hai STCG par jo Section 111A ke under aata hai. Revenue ki appeal kharij ho gayi.",
+          "outcome": "Assessee",
+          "takeaway": "Agar STCG Section 111A par taxable hai to Section 87A ki rebate claim kar sakte ho, even for current years.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/section-87a-rebate-section-111a-stcg-allowed-ay-2024-25-itat-jaipur.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Raipur",
+          "case_name": "Smt. Seema Daga Vs ITO (ITAT Raipur)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2013-14",
+          "section": "Section 148",
+          "facts": "Smt. Seema Daga ka reopening notice 25.07.2022 ko issue hua tha. Department ne TOLA ke through limitation extend karke notice diya. Assessee ne bola limitation expire ho chuki thi.",
+          "issue": "Kya notice limitation period khatam hone ke baad valid hai jab TOLA apply nahi karta?",
+          "held": "ITAT Raipur ne reopening notice ko radd kar diya kyunki limitation khatam ho chuki thi aur TOLA yahan apply nahi hota tha.",
+          "outcome": "Assessee",
+          "takeaway": "Section 148 notice jab bhi aaye to check karo ki limitation period abhi valid hai ya expire ho chuka hai, specially TOLA cases mein.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/section-148-notice-surviving-limitation-quashed-itat-raipur.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Chandigarh",
+          "case_name": "Kamaljeet Singh Vs ACIT (ITAT Chandigarh)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2017-18",
+          "section": "Section 270A",
+          "facts": "Kamaljeet Singh par ₹32.40 lakh penalty Section 270A mein lagayi gayi. Department ki notice mein clear nahi tha ki galti under-reporting hai ya misreporting.",
+          "issue": "Kya vague notice par Section 270A penalty lag sakti hai jab exact charge nahi likha?",
+          "held": "ITAT Chandigarh ne penalty ko radd kiya, kyunki notice mein kis base par penalty lagani hai wo clear nahi tha.",
+          "outcome": "Assessee",
+          "takeaway": "Penalty notice aane par dekho ki notice mein clear likha hai ya nahi - under-reporting ya misreporting. Vague notice aayi to challenge karo.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/section-270a-penalty-quashed-vague-notice-failed-exact-charge-itat-chandigarh.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Delhi",
+          "case_name": "DivyaLok Co-operative Group Housing Society Ltd. Vs ITO (ITAT Delhi)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2015-16",
+          "section": "Section 271D",
+          "facts": "Yahan ek housing society ka penalty case tha. Assessment unit ne Section 271D ki penalty lagayi jabki Faceless Penalty Unit kaam kar raha tha.",
+          "issue": "Kya assessment unit penalty laga sakti hai jab Faceless Penalty Unit operational ho chuki ho?",
+          "held": "ITAT ne penalty quash kar di, kyunki assessment unit ke paas ab jurisdiction nahi tha. Faceless Penalty Unit hi penalty laga sakti thi.",
+          "outcome": "Assessee",
+          "takeaway": "Agar Faceless Penalty Unit start ho chuki hai, toh old assessing officer ki penalty order challenge kar sakte ho for lack of jurisdiction.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/section-271d-penalty-assessment-unit-without-jurisdiction-quashed-itat-delhi.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-07",
       "cases": [
