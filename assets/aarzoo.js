@@ -126,7 +126,7 @@
     ['Contact', 'contact']
   ];
 
-  var FALLBACK = 'Is baare mein main sure nahi hoon - Neeraj ji ki team seedha bata degi.';
+  var FALLBACK = 'Abhi jawab load nahi ho paya. Aap apna sawal seedha WhatsApp par bhej dijiye - team wahin jawab degi.';
 
   /* ---------- helpers ---------- */
   function esc(s) {
