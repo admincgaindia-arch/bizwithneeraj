@@ -1,6 +1,59 @@
 {
-  "last_updated": "2026-10-07T02:15:28.613Z",
+  "last_updated": "2026-10-08T02:15:24.906Z",
   "days": [
+    {
+      "date": "2026-10-08",
+      "items": [
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/2026-27/289 DOR.MRG.REC.No.245/21-01-002/2026-27",
+          "headline": "RBI ne AIFI capital rules mein badlav kiya",
+          "effective": "07-10-2026",
+          "what": "RBI ne All India Financial Institutions ke capital adequacy norms mein amendment kiya hai. Legal opinion lene wali requirement ko international standards ke hisaab se align kiya gaya hai.",
+          "who": "All India Financial Institutions (AIFIs) jo clearing member financial institutions hain.",
+          "action": "AIFI compliance team ko nayi amendment padhni chahiye aur legal opinion process mein changes implement karne chahiye.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13735&Mode=0"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Debt securities ke liye Credit Risk-o-Meter mandatory",
+          "effective": "",
+          "what": "SEBI ne decide kiya hai ki ab debt securities ke offer documents aur advertisements mein Credit Risk-o-Meter dikhana compulsory hoga.",
+          "who": "Jo bhi entity debt securities offer kar rahi hai ya unka advertisement bana rahi hai.",
+          "action": "Issuance ya advertisement plan karte waqt Credit Risk-o-Meter disclosure banwana zaruri hai, compliance team se confirm kar lo.",
+          "source_name": "sebi.gov.in",
+          "source_url": "https://www.sebi.gov.in/legal/circulars/oct-2026/introduction-of-credit-risk-o-meter-as-an-additional-disclosure-mechanism-for-debt-securities_105081.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "RBI ne repo rate 5.50% tak badhaya",
+          "effective": "",
+          "what": "RBI ne repo rate mein 0.25% ka hike kiya hai aur ab rate 5.50% ho gaya. Isse borrowing ka cost increase ho jayega.",
+          "who": "Banks, NBFCs, corporates jinpar lending ya borrowing ka direct asar padta hai.",
+          "action": "Cost of borrowing mein change check karo, naye loan plan karo ya EMI re-calculate karlo. Existing loans par bhi rate change samjho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/rbi-hikes-repo-rate-25-bps-5-50-percent-inflation-risks.html"
+        },
+        {
+          "cat": "Other",
+          "authority": "LIC",
+          "ref": "",
+          "headline": "LIC Bima Platinum Plan 770 ke benefits aur tax rules",
+          "effective": "",
+          "what": "LIC Bima Platinum Plan 770 ek insurance product hai, jisme guaranteed addition, income benefits aur GST rules ka detail diya gaya hai.",
+          "who": "Jo log nayi insurance policy lene ka plan kar rahe hain ya Bima Platinum 770 ko consider kar rahe hain.",
+          "action": "Aap plan ki eligibility, benefits aur tax impact samajhkar policy lene ka decision le sakte hain. Details ke liye apne LIC agent se pooch sakte hain.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/lic-bima-platinum-plan-770-guaranteed-additions-income-benefits-tax-gst-guide.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-07",
       "items": [
