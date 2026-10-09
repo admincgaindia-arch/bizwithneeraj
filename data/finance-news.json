@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-10-08T02:15:24.906Z",
+  "last_updated": "2026-10-09T02:15:28.956Z",
   "days": [
+    {
+      "date": "2026-10-09",
+      "items": [
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI ne Settlement Regulations 2026 notify kiye",
+          "effective": "",
+          "what": "SEBI ne naye Settlement Regulations 2026 la diye hain. Isme settlement process, fees calculation aur deadlines update ki gayi hai. Fast-track procedure aur disclosure bhi include hai.",
+          "who": "Securities market ke participants jin par SEBI ke administrative ya civil proceedings chal rahe hain.",
+          "action": "Agar aap par SEBI ki enquiry ya case chal raha hai to naye settlement process ki guidelines achhi tarah padhein ya apne compliance advisor se poochein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-settlement-administrative-civil-proceedings-regulations-2026-settlement-framework-fees-timelines-fast-track-procedure.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI ne NCD listing rule mein kuch relaxation propose kiya",
+          "effective": "",
+          "what": "SEBI ne Regulation 62A mein proposal diya hai ki first-time NCD issuers ko retrospective listing se relief mile. Lekin baad ke debt securities par mandatory listing continue rahegi.",
+          "who": "Wo companies jo pehli baar secured NCD issue kar rahi hain.",
+          "action": "Agar aap NCD issue karne ka plan bana rahe hain to latest SEBI proposals check karein. Apne compliance team ya advisor se consult karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-proposes-relief-retrospective-ncd-listing-regulation-62a.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "REITs aur InvITs ke liye IFSC mein depository receipts ka proposal",
+          "effective": "",
+          "what": "SEBI ne proposal diya hai ki IFSC mein listed REITs aur InvITs ke liye depository receipts shuru ki ja sakein. Safeguards bhi honge, khaaskar private InvITs aur NRI participation ke liye.",
+          "who": "Jo log IFSC mein listed REITs ya InvITs mein invest karna chahte hain, khaaskar NRIs.",
+          "action": "Agar aap IFSC REITs ya InvITs mein interest rakhte hain to SEBI ke naya proposal aur guidelines dekhein. Investment adviser se advice lein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-proposes-depository-receipts-reits-invits-ifsc.html"
+        },
+        {
+          "cat": "Loan",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "Debt securities ke liye Credit Risk-o-Meter disclosure laya gaya",
+          "effective": "",
+          "what": "SEBI ne debt securities me ab ek naya Credit Risk-o-Meter disclosure introduce kiya hai. Isse investors ko risk clearly samajh aayega.",
+          "who": "Debt securities investors aur issuers.",
+          "action": "Agar aap debt securities issue ya invest kar rahe hain to Credit Risk-o-Meter ka format dekhein. Apne disclosures update karein.",
+          "source_name": "sebi.gov.in",
+          "source_url": "https://www.sebi.gov.in/legal/circulars/oct-2026/introduction-of-credit-risk-o-meter-as-an-additional-disclosure-mechanism-for-debt-securities_105081.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/2026-27/289 DOR.MRG.REC.No.245/21-01-002/2026-27",
+          "headline": "AIFI capital adequacy norms international standard ke mutabik hue",
+          "effective": "",
+          "what": "RBI ne All India Financial Institutions (AIFIs) ke capital adequacy rules amend kiye hain. Legal opinion wala rule ab international standard ke saath align hoga.",
+          "who": "All India Financial Institutions jo RBI ke capital adequacy norms follow karte hain.",
+          "action": "AIFI ke compliance ya treasury team ko naye amendment directions dhyan se padhne chahiye aur process update karna chahiye.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13735&Mode=0"
+        }
+      ]
+    },
     {
       "date": "2026-10-08",
       "items": [
