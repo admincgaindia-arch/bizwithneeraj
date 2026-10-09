@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-10-08T02:00:22.417Z",
+  "last_updated": "2026-10-09T02:00:24.232Z",
   "days": [
+    {
+      "date": "2026-10-09",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "ITAT Panaji",
+          "case_name": "Suvarnakarara Cooperative Society Limited Vs ITO (ITAT Panaji)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2017-18",
+          "section": "Section 80P (ye section cooperative society ko interest income par deduction deta hai)",
+          "facts": "Suvarnakarara Cooperative Society ne apne business ke liye Union Bank mein deposits dale the. Department ne is deposit ki interest income par deduction deny kiya.",
+          "issue": "Kya cooperative society ko business deposits par bank interest income par Section 80P deduction milega?",
+          "held": "ITAT ne bola Section 80P deduction allowed hai. Business chalane ke liye bank deposit par interest mila to ye eligible hai.",
+          "outcome": "Assessee",
+          "takeaway": "Cooperative societies agar business ke liye bank deposit karte hain to uska interest bhi Section 80P mein deduction milega. Sirf investment nahi, business wali deposit bhi count hogi.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-panaji-section-80p-deduction-union-bank-business-deposits.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Kolkata",
+          "case_name": "Sagarmal Mall Vs DCIT (ITAT Kolkata)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2013-14",
+          "section": "",
+          "facts": "Sagarmal Mall ne 19.80 lakh declare kiye. DCIT ne assessment kiya. Jurisdiction ka paisa limit cross ho gaya tha, jisme DCIT ko assessment karne ka haq nahi tha.",
+          "issue": "Kya DCIT ne sahi jurisdiction mein assessment kiya tha?",
+          "held": "ITAT ne bola DCIT ko paisa limit ki wajah se assessment ka right nahi tha, isi liye assessment ko wapas bhej diya.",
+          "outcome": "Assessee",
+          "takeaway": "Hammesha check karo ki jo AO assessment kar raha hai uske paas paisa limit ki wajah se jurisdiction hai ya nahi, especially agar case bada hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/dcit-assessment-without-pecuniary-jurisdiction-quashed-itat-kolkata.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "ACIT Vs Layer Exports Pvt. Ltd. (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "Layer Exports Pvt. Ltd. par department ne extra paisa (on-money) add kar diya, sirf loose papers ke basis par. Company construction business mein thi.",
+          "issue": "Kya sirf loose papers par on-money addition sahi hai?",
+          "held": "ITAT ne bola loose papers ki koi value nahi, bina proper proof ke on-money addition nahi ho sakta. Company ka project completion account bhi check kiya.",
+          "outcome": "Assessee",
+          "takeaway": "Agar sirf loose papers milte hain bina kisi proof ke, to us par addition nahi ho sakta. Documents aur accounts solid hone chahiye.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-mumbai-deletes-money-additions-based-loose-papers.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Kolkata",
+          "case_name": "Elegant Vinimay Pvt. Ltd. Vs ITO (ITAT Kolkata)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2012-13",
+          "section": "Section 151A (faceless scheme start hone ki date ka issue tha)",
+          "facts": "NFAC ne 2012-13 ka assessment faceless scheme ke through kiya, lekin vo scheme tab active nahi thi.",
+          "issue": "Kya faceless assessment sahi thi jab Section 151A ka scheme operational hi nahi tha?",
+          "held": "ITAT ne bola section 151A scheme jab tak notify nahi hui thi, tab tak uske under assessment karna galat hai. Assessment radd kar diya.",
+          "outcome": "Assessee",
+          "takeaway": "Faceless assessments sirf tabhi valid hain jab scheme ki date ke baad ho. Old date ka case traditional AO ko hi karna hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/nfac-assessment-section-151a-scheme-quashed-itat-kolkata.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Chennai",
+          "case_name": "Mathialagan Gathya Vs DDIT/ADIT (Investigation) (ITAT Chennai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2016-17",
+          "section": "Black Money Act, India–Sweden DTAA",
+          "facts": "Mathialagan ka Sweden se salary income tha, jis par Indian department ne Black Money Act ke tahat addition kiya.",
+          "issue": "Kya Sweden se salary ko Indian Black Money Act mein addition kiya ja sakta hai?",
+          "held": "ITAT Chennai ne addition hata diya, kyunki detection-year aur India–Sweden tax treaty ki wajah se assessment valid nahi tha.",
+          "outcome": "Assessee",
+          "takeaway": "Foreign salary income par agar India–Sweden DTAA apply hota hai, to black money addition automatically sahi nahi hota. Double tax avoid karna padta hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/chennai-itat-deletes-swedish-salary-additions-black-money-act.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Delhi",
+          "case_name": "Shantanu Bhowmick Vs ADIT (Investigation) (ITAT Delhi)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2019-20",
+          "section": "Black Money Act, section 10(1) (ye notice assessment shuru karne ke liye hota hai)",
+          "facts": "Department ne Shantanu par ₹2.04 crore ki Black Money Act assessment aur ₹1.84 crore penalty lagayi, lekin sahi notice issue nahi kiya tha.",
+          "issue": "Kya bina valid notice ke assessment aur penalty Black Money Act mein lag sakta hai?",
+          "held": "Delhi ITAT ne bola bina valid notice assessment hi nahi lag sakti, penalty bhi radd ho gayi.",
+          "outcome": "Assessee",
+          "takeaway": "Black Money Act ki assessment shuru hone se pehle, bina sahi section 10(1) notice ke pura action invalid ho jata hai. Notice check karwa lo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/delhi-itat-quashes-black-money-assessment-penalty-invalid-notice.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-08",
       "cases": [
