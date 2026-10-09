@@ -1,6 +1,49 @@
 {
-  "last_updated": "2026-10-08T01:31:27.613Z",
+  "last_updated": "2026-10-09T01:31:01.595Z",
   "digests": [
+    {
+      "date": "2026-10-09",
+      "summary": "Aaj kis digest mein GST Council ke kayi naye proposals aur recent court rulings ko highlight kiya gaya hai. Sabhi updates business owners ke liye relevant hai, compliance par dhyan dena zaroori hai.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "GST Council: Simplified Scheme for B2C Businesses Proposed",
+          "detail": "GST Council ne propose kiya hai ki B2C businesses jinka turnover ₹5 crore tak hai, woh ek hi annual GST return file karein aur taxes quarterly pay karein. Abhi sirf proposal stage par hai, implementation details pending hain.",
+          "cga_view": "Agar aapka turnover ₹5 crore ke andar hai, to news pe nazar rakhein. Scheme finalize ho jaye to compliance load kam ho sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/gst-council-meeting-one-annual-gst-return-quarterly-tax-payments-proposed-for-b2c-businesses-with-turnover-up-to-5-crore"
+        },
+        {
+          "category": "GST",
+          "headline": "GST Council: General Penalty Reduce Karne Ki Recommendation",
+          "detail": "GST Council ne general penalty ko ₹25,000 se kam karke ₹10,000 karne ki recommendation di hai. Abhi apply nahi hui, official notification ka wait hai.",
+          "cga_view": "Abhi koi action na lein, lekin penalty provisions mein mildness ane ki umeed hai. Official update aate hi review karein.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/57th-gst-council-recommends-reduction-in-general-penalty-from-25000-to-10000"
+        },
+        {
+          "category": "GST",
+          "headline": "GSTR-3B vs GSTR-2A Mismatch Pe Direct ITC Rejection Nahi",
+          "detail": "GST Appellate Tribunal ne bola hai ki sirf GSTR-3B aur 2A ka mismatch hona ITC reject karne ke liye kaafi nahi hai. Verification, invoices, supplier records bhi dekhne zaroori hain.",
+          "cga_view": "Agar aapka ITC mismatch notice aaye to sab documents ready rakhein aur CBIC Circular ke hisaab se verification ki demand karein.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/gstr-3b-vs-gstr-2a-mismatch-alone-cannot-deny-gst-itc-verification-under-cbic-circular-required-gstat-read-order"
+        },
+        {
+          "category": "Ruling",
+          "headline": "DCIT Assessment Without Jurisdiction Quashed: ITAT Kolkata",
+          "detail": "ITAT Kolkata ne ek assessment ko khatam kar diya kyunki DCIT ne apni pecuniary limit se bahar assessment kiya tha. CBDT instructions ka violation hua hai.",
+          "cga_view": "Agar department ne aapke case mein similar jurisdiction galti ki ho, to aap bhi appeal ya objection file kar sakte hain.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/dcit-assessment-without-pecuniary-jurisdiction-quashed-itat-kolkata.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-10-08",
       "summary": "Aaj major GST aur Income Tax rulings par focus hai, mostly courts aur tribunals ne taxpayer ke favour mein kuch judgments diye hain. Official notification aaj koi nahi hai, sab news trade press se hai.",
@@ -2795,58 +2838,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/income-tax/cbdt-notifies-hsbte-section-10-46-income-tax-exemption.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-08-04",
-      "summary": "GST aur Income Tax pe latest court judgments aaye hain, jo aapke ongoing cases aur compliance approach ko impact kar sakte hain. Official notifications aaj nahi aaye, isliye zyada focus important rulings par hai.",
-      "items": [
-        {
-          "category": "GST",
-          "headline": "Consolidated GST SCN across years valid: Gauhati HC",
-          "detail": "Gauhati High Court ne bola ki Section 73/74 CGST Act ke hisaab se multiple saal ka ek hi show cause notice diya ja sakta hai, agar limitation period ke andar ho.",
-          "cga_view": "Aapko agar ek hi SCN mein multiple years covered milta hai, toh alag se challenge karne ki jarurat nahi hai. Defence prepare karte waqt ye fact dhyan mein rakho.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/gauhati-hc-dismisses-challenge-consolidated-gst-scns-financial-years.html"
-        },
-        {
-          "category": "GST",
-          "headline": "E-way bill expiry pe detention illegal if reason genuine: AP HC",
-          "detail": "AP HC ne GST detention cancel kar diya jab e-way bill vehicle breakdown ki wajah se expire hua, aur pareshani ki koi tax evasion nahi thi.",
-          "cga_view": "Agar aapka consignment vehicle breakdown ki wajah se delay hota hai, toh uska proof sambhal ke rakho. E-way bill expire hone par penalty avoid kar sakte ho.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/ap-hc-quashes-gst-detention-expired-bill-vehicle-breakdown.html"
-        },
-        {
-          "category": "GST",
-          "headline": "ITC denial matter: Interim relief by Karnataka HC",
-          "detail": "Karnataka HC ne ITC denial case mein interim relief diya, jahan supplier return file nahi kar raha tha aur NCLT case pending tha.",
-          "cga_view": "Jis supplier ne return file nahi kiya hai aur uspe NCLT case chal raha hai, toh ITC ka denial challenge kiya ja sakta hai. Apne documents ready rakho.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/karnataka-hc-grants-interim-relief-itc-denial-due-supplier-default.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Unverified portal info pe reassessment nahi chalegi: ITAT",
-          "detail": "ITAT ne ruling di ki Income Tax Officers ko portal (ITBA/INSIGHT) ke data pe bina verify kiye assessment nahi kholni chahiye, kyunki galti ho sakti hai.",
-          "cga_view": "Agar aap par sirf portal ke data pe case khola gaya hai, toh is precedent ko cite karke relief maang sakte ho.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/itat-cancels-reassessment-based-solely-unverified-itba-portal-information.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Unsecured loan/share application genuine if docs okay: ITAT",
-          "detail": "ITAT ne bola ki sirf creditor ka entry operator se link hone par unsecured loan ya share application ko bogus nahi maana jaa sakta, agar records theek hain.",
-          "cga_view": "Transaction ke pure documents aur bank records ready rakho; agar query aaye toh submit karo. Sirf suspicion pe addition nahi honi chahiye.",
-          "source_type": "trade",
-          "source_name": "taxscan.in",
-          "source_url": "https://www.taxscan.in/top-stories/unsecured-loan-and-share-application-money-cannot-be-treated-as-bogus-merely-due-to-creditors-link-with-alleged-entry-provider-itat-read-order-1449662"
         }
       ],
       "due_dates": []
