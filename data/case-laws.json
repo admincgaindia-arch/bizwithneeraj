@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-10-09T02:00:24.232Z",
+  "last_updated": "2026-10-10T02:00:22.680Z",
   "days": [
+    {
+      "date": "2026-10-10",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "ITAT Kolkata",
+          "case_name": "Biswas Mohd Sher Ali Vs ITO (ITAT Kolkata)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2020-21",
+          "section": "Section 69A",
+          "facts": "Yeh case ek human hair trading ka tha. Department ne bank deposit ko unexplained money maan ke Section 69A ka notice diya. Court ko business receipt aur us se judi expenses par doubt tha.",
+          "issue": "Kya bank deposit ko unexplained income maana ja sakta hai jab business receipts ka linkage clear nahi hai?",
+          "held": "ITAT ne case wapas assessment officer ko bhej diya. Unhone bola ki sari receipts aur expenses ki detail check karni padegi sach jaanne ke liye.",
+          "outcome": "",
+          "takeaway": "Agar aapke business ki receipts bank mein deposit ho rahi hain to har transaction ke expenses ka linkage taiyar rakho. Assessment ke time poora trail dikhana padega.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-kolkata-remands-section-69a-addition-human-hair-trading-receipts.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Patna",
+          "case_name": "Bihar Medical Services & Infrastructure Corporation Ltd. Vs Assessment Unit (ITAT Patna)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2023-24",
+          "section": "",
+          "facts": "Yaha ₹84.92 crore GST expense claim ka case tha. Department ne claim ko allow nahi kiya kyunki accounting records aur documentary proof mein kami thi.",
+          "issue": "GST ke kharchon ki reconciliation aur documentation sahi hai ya nahi, yahi sawal tha.",
+          "held": "ITAT ne matter wapas officer ko bhej diya. Bola ki sari reconciliation aur documentary evidence fresh check karo.",
+          "outcome": "",
+          "takeaway": "Agar aap bade GST kharche claim kar rahe ho to har bill aur reconciliation paper sahi se rakhna. Assessment mein yahi papers kaam aayenge.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-patna-remands-rs-84-92-crore-gst-deduction-claim-fresh-assessment.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Kolkata",
+          "case_name": "Bhinaswar Commercial Pvt. Ltd. Vs DCIT (ITAT Kolkata)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2012-13",
+          "section": "",
+          "facts": "Iss case mein DCIT ne reassessment shuru kar diya tha, lekin CBDT ke rule ke hisab se unke paas itna jurisdiction nahi tha. Company ne point uthaya ki officer galat tahat kaam kar raha hai.",
+          "issue": "Kya officer ko CBDT instruction violate karke reassessment ka right tha?",
+          "held": "ITAT ne pura reassessment process radd kar diya. Bola ki jab pecuniary jurisdiction nahi hai to action valid nahi ho sakta.",
+          "outcome": "Assessee",
+          "takeaway": "Hamesha CBDT ke instruction check karo. Agar officer ka jurisdiction nahi hai to unka notice valid nahi hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/dcit-reassessment-without-pecuniary-jurisdiction-quashed-itat-kolkata.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Agra",
+          "case_name": "Vinay Iron Foundry Vs PCIT (ITAT Agra)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2019-20",
+          "section": "Section 263, 115BBE",
+          "facts": "PCIT ne ₹12.50 crore bogus purchases par revision kiya tha section 263 ke andar. Lekin foundry ne bola ki original assessment mein sab cheezein submit ki thi.",
+          "issue": "Kya revision authority ko itna power hai jab asli assessment mein sab records the?",
+          "held": "ITAT ne PCIT ka revision order radd kar diya, bola ki sab pehle hi check ho chuka hai. Dusra assessment year ke loan dispute ko verification ke liye department ko wapas bhej diya.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapka case pehle hi saari details ke saath assess ho chuka hai to revision notice ko defend kar sakte ho. Nayi cheez nahi milegi to PCIT ka order tik nahi paayega.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/agra-itat-quashes-section-263-revision-rs-12-50-crore-bogus-purchases.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Agra",
+          "case_name": "State Bank of India Vs ITO (ITAT Agra)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2017-18",
+          "section": "Section 201",
+          "facts": "SBI par foreign LFC payments par TDS default ka notice aya tha. Par Madras High Court ne pehle hi instruction de diya tha ki aise payments mein koi TDS nahi katega jab tak direction hai.",
+          "issue": "Kya Madras High Court ke protection ke baad TDS demand lag sakti hai?",
+          "held": "ITAT ne saari TDS demands hata di. Bola jab tak court ka direction hai tab tak department interest ya penalty nahi maang sakta.",
+          "outcome": "Assessee",
+          "takeaway": "Agar kisi court ka saf direction aa chuka hai to wahi follow karo. Department extra tax ya interest nahi maang sakta.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-agra-deletes-sbi-tds-demands-foreign-lfc-court-protection.html"
+        },
+        {
+          "law": "PF / ESI",
+          "court": "Supreme Court of India",
+          "case_name": "Carborandum Universal Ltd. Vs ESI Corporation (Supreme Court of India)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "Section 45A (ESI Act)",
+          "facts": "ESI department ne contribution ka demand raise kiya tha kyunki company ke records poore nahi the. Lekin employer poora cooperation de raha tha apni taraf se.",
+          "issue": "Kya bas records thode adhure hone se demand barqaraar rahegi jab employer fully cooperate kare?",
+          "held": "Supreme Court ne ESI ka demand radd kar diya. Bola ki sirf inadequate records hone se, jab company cooperation kar rahi hai, department demand nahi rakh sakta.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aap ESI inspection mein cooperate kar rahe ho par koi record miss ho gaya hai to demand tik nahi paayegi. Lekin cooperation dikhana zaruri hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/corporate-law/supreme-court-quashes-esi-contribution-demand-section-45a-inadequate-records.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-09",
       "cases": [
