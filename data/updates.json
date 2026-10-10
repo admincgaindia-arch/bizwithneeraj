@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-10-09T01:31:01.595Z",
+  "last_updated": "2026-10-10T01:31:00.573Z",
   "digests": [
+    {
+      "date": "2026-10-10",
+      "summary": "Aaj ki digest mein GST Council ki nai recommendations aur Income Tax ITAT ki do rulings cover ki gayi hain. Abhi saari details official notification ka intezaar kar rahi hain.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "57th GST Council: ITC, refunds, late fee waiver par proposals",
+          "detail": "GST Council ne ITC, refund, arrest, e-invoicing, aur small taxpayers ke liye late fees waiver par kai recommendations diye hain. Abhi ye proposals official notification ka intezaar kar rahe hain.",
+          "cga_view": "Filhaal koi step urgently na le – government notification aane par hi implementation hogi. Updates ka dhyan rakhein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/57th-gst-council-meeting-key-gst-reforms-itc-refund-relief.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITAT Kolkata: Wrong officer reassessment order quashed",
+          "detail": "ITAT Kolkata ne assessment ko quash kiya kyunki DCIT ka pecuniary jurisdiction nahi tha as per CBDT instruction.",
+          "cga_view": "Agar assessment officer appointment disputed hai, toh uska reference CBDT instruction ke saath check karen; galat officer order pass kare toh appeal consider karen.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/dcit-reassessment-without-pecuniary-jurisdiction-quashed-itat-kolkata.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITAT Agra: SBI par TDS demand court protection ke chalte hatayi",
+          "detail": "ITAT Agra ne seven SBI appeals allow kar di aur kaha ki Madras HC ke binding orders ke period mein TDS default nahi maana jayega.",
+          "cga_view": "Agar kisi case mein court ka protection hai, toh relevant period ka TDS dispute legal precedent ke according evaluate karein. Documents ready rakhen.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-agra-deletes-sbi-tds-demands-foreign-lfc-court-protection.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-10-09",
       "summary": "Aaj kis digest mein GST Council ke kayi naye proposals aur recent court rulings ko highlight kiya gaya hai. Sabhi updates business owners ke liye relevant hai, compliance par dhyan dena zaroori hai.",
@@ -2804,40 +2838,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/income-tax/search-cases-common-assessing-officer-governed-section-127-transfer-date-itat-delhi.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-08-05",
-      "summary": "Aaj GST aur Income Tax se related kuch key updates aaye hain, ek Bombay HC ka ruling bhi notable hai. MCA/ROC ya TDS se direct update nahi aaya.",
-      "items": [
-        {
-          "category": "GST",
-          "headline": "Bombay HC ne GST notice ko quash kiya",
-          "detail": "Bombay High Court ne GST show cause notice aur adjudication order quash kar diya hai, kyunki Section 73 ki 3 months ki mandatory gap maintain nahi hui thi. Iss wajah se pura SCN aur order invalid ho gaya.",
-          "cga_view": "Agar aapko bhi GST SCN mila hai aur lagta hai ki procedure follow nahi hua, toh legal review karwayein – case ban sakta hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/bombay-hc-quashes-gst-show-notice-order-breach-section-73-time-gap.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Taxation and Other Laws (Amendment) Bill, 2026 aaya",
-          "detail": "Trade report ke mutabik naya Bill propose hua hai jo Income-tax Act, Finance Act wa Payment & Settlement Systems Act mein changes la sakta hai. Official detail ya notification abhi aana baaki hai.",
-          "cga_view": "Filhaal koi immediate action nahi hai, lekin clients ke IT compliance pe nazar rakhein – Bill pass hone par impact ho sakta hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/taxation-laws-amendment-bill-2026-proposes-key-income-tax-act-finance-act.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "CBDT ne HSBTE ko Section 10(46) exemption di",
-          "detail": "HSBTE ko CBDT ne Section 10(46) ke under exempt kiya hai, kuch income aur conditions ke saath. Applicability AY 2024-25 se hogi. Detail notification trade press mein hai, official link ka intezaar hai.",
-          "cga_view": "Agar kisi client ka HSBTE se transaction hai toh uski tax treatment review karein, exemption conditions dekhein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/cbdt-notifies-hsbte-section-10-46-income-tax-exemption.html"
         }
       ],
       "due_dates": []
