@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-10-10T01:31:00.573Z",
+  "last_updated": "2026-10-11T01:31:04.973Z",
   "digests": [
+    {
+      "date": "2026-10-11",
+      "summary": "Aaj ka digest GST aur Income Tax par kuch latest court rulings aur reforms cover karta hai. Official notification nahi aayi hai, toh council proposals aur court orders par focus hai.",
+      "items": [
+        {
+          "category": "Ruling",
+          "headline": "GSTAT ne ₹63.72 lakh penalty hatayi",
+          "detail": "GSTAT Lucknow ne delayed e-invoice par section 129 ki ₹63.72 lakh ki penalty tab hata di jab invoice, e-way bill & transport docs sab the. Sirf late se e-invoice banne par penalty valid nahi mani gayi.",
+          "cga_view": "Agar documents proper hain, to delayed e-invoicing cases mein penalty challenge kar sakte ho. Document record sambhalo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gstat-lucknow-deletes-rs-63-72-lakh-section-129-penalty-delayed-invoice.html"
+        },
+        {
+          "category": "GST",
+          "headline": "E-way bill reforms ke FAQs release hue",
+          "detail": "FAQs ne bataya hai ki ab e-way bills ke interception aur detention ko restrict kiya ja raha hai. Jurisdictional powers, missing docs, confiscation ki details bhi di gayi hain.",
+          "cga_view": "Transport mein unnecessary roko-toko se bache rehne ke liye FAQs padh lo aur proper documents ready rakho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/faqs-bill-reforms-interception-inspection-detention-goods-transit.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "IBC Moratorium ke dauran tax refund adjust nahi hoga",
+          "detail": "NCLT Mumbai ne income tax refunds (₹1.7 crore & ₹2.69 crore) release karne ka order diya, insolvency cases mein IBC moratorium ke duran refund adjustment mana kiya.",
+          "cga_view": "Agar aapka business IBC process mein hai, to income tax refund direct lene ka claim rakho, tax dept ke adjustment pe objection file karo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/income-tax-refund-adjustment-ibc-moratorium-invalid-nclt-mumbai.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Income tax refund set-off liquidation mein claim ke bina nahi",
+          "detail": "NCLAT Delhi ne bola, liquidation ke samay income tax refund set-off tab hi hoga jab IT dept IBC ka claim procedure follow kare. Direct adjust nahi kar sakte.",
+          "cga_view": "Liquidation cases mein, claim file kiye bina refund adjust nahi hoga, proper IBC process follow karwana hoga.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/company-law/income-tax-refund-set-off-liquidation-requires-filing-claim-nclat-delhi.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Transfer pricing order bina sunwai ke quash",
+          "detail": "Calcutta HC ne ek transfer pricing order sirf isliye khatam kar diya kyunki personal hearing aur adequate reason nahi diye the.",
+          "cga_view": "Notice aaye to sunwai ke liye written request daalo; bina opportunity ke order pass ho toh challenge kar sakte ho.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/calcutta-hc-quashes-transfer-pricing-order-us-92ca-3-of-income-tax-act-on-failure-to-grant-personal-hearing-read-order"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-10-10",
       "summary": "Aaj ki digest mein GST Council ki nai recommendations aur Income Tax ITAT ki do rulings cover ki gayi hain. Abhi saari details official notification ka intezaar kar rahi hain.",
@@ -2804,40 +2856,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/goods-and-service-tax/gst-council-implements-igst-settlement-reforms-gst-settlement-fund-rules-2026.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-08-06",
-      "summary": "Aaj ki digest mein GST refund par Gujarat HC ka ruling, TDS par ITAT Mumbai ka faydemand faisla, aur ek aur income tax assessment ki important clarification di gayi hai. Sab update trade press sources se hain, official notification ke intezaar mein rehna sahi rahega.",
-      "items": [
-        {
-          "category": "GST",
-          "headline": "Gujarat HC: GST Refund Circular Can't Restrict Section 54",
-          "detail": "Gujarat High Court ne Circular No. 181/13/2022-GST ke basis par Section 54 refund reject karna galat bola hai. Court ne refund claims wapas process karne ko bola hai. Circular ki limitation pe Court ne clear stance diya hai.",
-          "cga_view": "Agar aapka GST refund Circular 181/13/2022-GST ka hawala dekar reject hua, toh phir se claim file karo ya appeal karo. Official department ki new instructions ka intezaar bhi zaruri hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/circular-181-13-2022-gst-cannot-restrict-section-54-refunds-gujarat-hc.html"
-        },
-        {
-          "category": "TDS",
-          "headline": "Trade Discount Not Liable for TDS u/s 194H: ITAT Mumbai",
-          "detail": "ITAT Mumbai ne bola, dealers ko diye trade discounts commission nahi hain, isliye inpe Section 194H TDS nahi katega. Specific Bajaj Auto case mein yeh ruling aayi hai.",
-          "cga_view": "Agar aap dealers ko sirf trade discount dete ho, toh uss amount par 194H TDS katna abhi zaroori nahi lagta, par abhi bhi practice/facts check kar lo. Department se challenge ho sakta hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/trade-discounts-dealers-not-liable-tds-section-194h-itat-mumbai.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Section 153C Limitation Counts From Assessing Officer Transfer: ITAT Delhi",
-          "detail": "ITAT Delhi ne kaha, search ke baad assessment ki limitation period Section 127 transfer date se chalegi jab records common AO ko milte hain. Yeh clarity specifically reassessment cases mein apply hoti hai.",
-          "cga_view": "Kisi bhi search case mein assessment limitation dekhte waqt Section 127 transfer date dhyan se verify karo. Ye ground assessment ko challenge karne mein kaam aa sakta hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/search-cases-common-assessing-officer-governed-section-127-transfer-date-itat-delhi.html"
         }
       ],
       "due_dates": []
