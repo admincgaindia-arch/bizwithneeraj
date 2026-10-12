@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-10-11T02:00:22.029Z",
+  "last_updated": "2026-10-12T02:00:24.517Z",
   "days": [
+    {
+      "date": "2026-10-12",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "Harsh Estates Pvt. Ltd. Vs DCIT (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2013-14",
+          "section": "",
+          "facts": "Harsh Estates Pvt. Ltd. ek real estate company hai. Unhone apne books mein interest ka kharcha claim kiya tha. Department ne interest capitalization ko lekar appeal ki, par group ke pehle ke judgments jaise hi yahan bhi deduction allow ho gayi.",
+          "issue": "Interest deduction aur uski capitalization sahi thi ya nahi?",
+          "held": "Court ne bola ki pehle same group ke cases mein bhi deduction allow hua hai. Isliye yahan bhi interest expenditure allow kiya. Capitalisation appeals ko bhi kharij kar diya.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapke group mein pehle se similar case decide ho chuka hai, toh uski copy judgments court ko dikhaiye. Similar ground par relief mil sakta hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-mumbai-harsh-estates-interest-deduction-earlier-group-rulings.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Ranchi",
+          "case_name": "Agarwal Metcom Private Limited Vs ACIT/DCIT (ITAT Ranchi)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2018-19",
+          "section": "",
+          "facts": "Agarwal Metcom ke khilaaf reassessment ki notice bheji gayi thi. Lekin department ne taxpayer ko Section 148A(b) ke tahat 7 clear din ka mauka nahi diya.",
+          "issue": "Kya bina poore 7 din notice diye reassessment valid hai?",
+          "held": "Court ne bola ki law ke mutabik 7 clear din notice jaruri hai. Notice me yeh poora samay nahi diya gaya tha, isliye reassessment aur Section 263 revision dono ko quash kar diya.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapko reassessment ka notice mile to check karo ki poore 7 din diye gaye hain ya nahi. Kam hai to poori proceeding invalid ho sakti hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/reassessment-without-clear-days-invalid-section-263-revision-quashed-itat-ranchi.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "Sudhir S. Mehta Vs DCIT (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2014-15",
+          "section": "",
+          "facts": "Sudhir S. Mehta ne interest ka kharcha, share purchase cost, household expenses aur TDS-adjusted statutory interest pe deduction ka claim kiya tha. Department ne inme se kuch ko mana kar diya tha.",
+          "issue": "Kya ye sab kharche aur deduction allow hone chahiye the?",
+          "held": "Court ne sabhi claims allow kar diye. Bola ki expenses genuine hai aur sahi tareeke se claim kiye gaye the.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aap multiple genuine expenses claim kar rahe hain, toh sabhi relevant documents aur calculation ek jagah rakh ke file karo. Poore details se file karne par relief mil sakta hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-mumbai-interest-deduction-capitalisation-household-expense-relief.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "Juris Matrix Advisors Private Limited Vs ITO (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2016-17",
+          "section": "Section 43CA",
+          "facts": "Company ne ek property sale ki thi, jiska saara income pehle assessment year mein (2014-15) tax ke liye dikhaya tha. Department ne late registration hone ki wajah se 2016-17 mein fir se ₹93.34 lakh ka addition kiya.",
+          "issue": "Kya property registration late hone se taxability koi aur saal mein ho sakti hai?",
+          "held": "Court ne bola ki jab sale complete ho chuki hai aur income pehle hi dikhaya ja chuka hai, toh late registration ki wajah se doosre saal fir se tax nahi lag sakta. Addition hata diya.",
+          "outcome": "Assessee",
+          "takeaway": "Property sale ki income jis saal sale complete hui usi mein dikhao. Registration delay par bhi double tax nahi lagta, magar transaction ka proof sambhal ke rakho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/property-registration-cannot-shift-taxability-completed-sale-itat-mumbai-deletes-addition.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "Cyqurex Systems Private Limited Vs DCIT (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2023-24",
+          "section": "Section 270A",
+          "facts": "Cyqurex Systems ne software kharche ka claim kiya tha, jo department ne disallow kar diya aur ₹1.24 crore penalty Section 270A (under-reporting of income) laga di.",
+          "issue": "Kya expenditure disallow hone par automatic penalty lag sakti hai?",
+          "held": "Court ne bola ki yeh bona fide claim tha aur taxpayer ne kharcha saaf-saaf dikhaya tha. Sirf claim disallow hone se penalty nahi lagni chahiye thi, penalty hata di.",
+          "outcome": "Assessee",
+          "takeaway": "Agar expense claim genuine aur pure disclosure ke saath ho, toh disallowance par bhi penalty nahi lagni chahiye. Claim karte waqt explanation aur supporting papers zarur file karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/disallowed-section-270a-software-expenditure-cannot-automatically-attract-penalty-itat-mumbai.html"
+        },
+        {
+          "law": "Other",
+          "court": "Supreme Court of India",
+          "case_name": "Lakshmi Mohan Vs Airtech Projects Engineers Pvt. Ltd. & Anr. (Supreme Court of India)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "SARFAESI Act ke tahat auction hua tha, lekin bidder ka earnest money Rs. 35,000 kam tha. Auction ke baad property bech di gayi aur surplus paisa ka issue utha.",
+          "issue": "Kya EMD mein kam amount se auction radd hoga ya valid mana jayega?",
+          "held": "Supreme Court ne kaha ki Rs. 35,000 ki kami hone ke bawajood auction ko valid maana jayega. Par surplus proceeds ka refund 7% interest ke saath dena hoga.",
+          "outcome": "Mixed",
+          "takeaway": "SARFAESI auction mein chhota technical error ho toh bhi result valid ho sakta hai. Lekin extra paisa refund milne ki sambhavna hoti hai. Auction ke documents pr dhyan se verification karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/sc-upholds-sarfaesi-auction-rs-35-000-earnest-money-shortfall.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-11",
       "cases": [
