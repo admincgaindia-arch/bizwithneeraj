@@ -1,6 +1,59 @@
 {
-  "last_updated": "2026-10-12T02:15:30.435Z",
+  "last_updated": "2026-10-13T02:15:25.442Z",
   "days": [
+    {
+      "date": "2026-10-13",
+      "items": [
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/2026-27/293 A.P. (DIR Series) Circular No. 27",
+          "headline": "NDDC deals ab sirf hedging ke liye non-residents ko",
+          "effective": "2026-10-12",
+          "what": "RBI ne decide kiya hai ki ab authorised dealers banks sirf hedging purpose ke liye hi non-deliverable derivative contracts (NDDC) INR mein non-resident users ko de sakte hain. Pehle koi bhi purpose allowed tha, ab sirf risk se bachav ke liye.",
+          "who": "Authorised Dealer Category-I banks jo IFSC mein kaam karte hain aur Standalone Primary Dealers jinhe Authorised Dealer Category-III ka status hai.",
+          "action": "Agar aap AD bank ya primary dealer hain to apni derivative ki policy turant update karo. Sirf hedging se related NDDC hi offer karo. Clients ko bhi inform karo.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13739&Mode=0"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "Securities and Exchange Board of India",
+          "ref": "",
+          "headline": "Mutual Funds ki ad rules ab Common Code ke hisaab se",
+          "effective": "",
+          "what": "SEBI ne Mutual Funds ke advertisement ke rules badal diye hain. Pehle kuch alag rules the, ab Intermediaries Regulations ke Common Advertisement Code follow honge.",
+          "who": "Saare Mutual Funds aur unke advertisement banane wale agencies.",
+          "action": "Mutual Fund houses apne marketing content aur ads ko Common Advertisement Code ke hisaab se dobara review karein. New compliance rules padhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-mutual-funds-amendment-2026-aligns-advertisement-rules-common-code.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "Securities and Exchange Board of India",
+          "ref": "",
+          "headline": "SEBI ne Mutual Funds ke Regulations 2026 amend kiye",
+          "effective": "",
+          "what": "SEBI ne 2026 me Mutual Funds ke regulations dobara badle hain. Yeh 'Second Amendment' regulations hain, details circular me di gayi hain.",
+          "who": "India ki sabhi Mutual Funds aur fund managers.",
+          "action": "Sabhi AMCs aur compliance professionals ko yeh amendment jaldi se padh lena chahiye. Policy aur process ko naye rules ke hisaab se update karo.",
+          "source_name": "sebi.gov.in",
+          "source_url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-mutual-funds-second-amendment-regulations-2026_105153.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "Securities and Exchange Board of India",
+          "ref": "",
+          "headline": "IPO mein lock-in rules samjho: SEBI ICDR Regulation",
+          "effective": "",
+          "what": "SEBI ICDR Regulations ke hisaab se promoters aur pre-IPO shareholders ke liye lock-in period aur kuch capital expenditure conditions hoti hain. Main Board aur SME IPOs dono par lagu hai.",
+          "who": "Promoters, pre-IPO shareholders aur jo Main Board ya SME IPO la rahe hain.",
+          "action": "Agar IPO plan kar rahe ho ya shares lene wale ho to lock-in period aur SEBI ICDR ki terms padh lo. Company ka secretarial team process check karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/lock-shares-securities-exchange-board-india-issue-capital-disclosure-requirements-regulations-2018.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-12",
       "items": [
