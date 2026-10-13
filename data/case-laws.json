@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-10-12T02:00:24.517Z",
+  "last_updated": "2026-10-13T02:00:23.925Z",
   "days": [
+    {
+      "date": "2026-10-13",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "ITAT Delhi",
+          "case_name": "Praveen Khurana Vs ACIT (ITAT Delhi)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "1998-99",
+          "section": "",
+          "facts": "Ye case Praveen Khurana ka tha. Assessing Officer ne purane assessment ko wapas khol diya, sirf investigation ya verification ke liye. Unhone kaha capital loss aur US travel expenses par further jaanch chahiye.",
+          "issue": "Kya purane assessment ko sirf verification ya shak ki wajah se dobara khol sakte hain?",
+          "held": "ITAT ne reassessment radd kar diya. Unhone bola, assessment wapas kholne ki wajah sirf verification thi, koi concrete evidence nahi tha.",
+          "outcome": "Assessee",
+          "takeaway": "Agar AO bas shak pe ya sirf verification ki baat likh ke notice bheje, toh aap reassessment ko challenge kar sakte hain.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/reassessment-quashed-reasons-recorded-sought-verification-claims-itat-delhi.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "Tata Steel Ltd Vs ACIT (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2009-10",
+          "section": "",
+          "facts": "Tata Steel par ₹2,223 crore illegal mining ka addition lagaya gaya tha. Revenue ne keh diya ki mining illegal thi, isliye yeh addition kiya. Saath hi company ki Corus loan interest aur foreign loan transfer pricing pe bhi issue tha.",
+          "issue": "Kya illegal mining additions bina pucca evidence lag sakte hain?",
+          "held": "ITAT ne addition radd kar diya. Bola, koi thos evidence nahi hai, isliye itna bada addition nahi chal sakta. Corus loan interest allow kar diya; foreign loan transfer pricing adjust nahi kiya.",
+          "outcome": "Assessee",
+          "takeaway": "Additions itne bade bina proper proof nahi ho sakte. Agar department khali shak ya andaz pe assessment kare, appeal karo.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/rs-2-223-90-crore-illegal-mining-addition-deleted-lack-evidence-itat-mumbai.html"
+        },
+        {
+          "law": "Other",
+          "court": "Karnataka High Court",
+          "case_name": "Commissioner of Central Tax And Others Vs Jeans Knit Private Limited (Karnataka High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "Section 107",
+          "facts": "Jeans Knit Private Limited ko ₹29.61 crore ka GST refund milna tha. Department ne is par appeal ki, lekin appeal ki last date nikal chuki thi. Department ne bola ki audit aur internal note ki wajah se time extend hona chahiye.",
+          "issue": "Kya refund appeal mein limitation sirf departmental process se extend ho sakti hai?",
+          "held": "Court ne bola, appeal ka limitation period Section 107 mein fixed hai. Department ki taraf se koi internal note ya audit time extend nahi kar sakta. Recovery wapas le li gayi, appeal time-barred thi.",
+          "outcome": "Assessee",
+          "takeaway": "GST refund recovery mein, agar department delay kare, toh aap appeals limitation check karo. Audit ki wajah se limitation extend nahi hota.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/rs-29-61-crore-gst-refund-recovery-set-revenue-appeals-time-barred-karnataka-hc.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "Sharekhan Limited Vs DCIT (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2020-21",
+          "section": "Section 14A",
+          "facts": "Sharekhan Limited par ₹18.89 crore ki disallowance lagayi thi kyunki purane saal ke provisions reverse hue the. Saath hi ₹6.62 crore Section 14A (jo exempt income pe kharcha disallow karta hai) bhi disallow hua tha.",
+          "issue": "Kya earlier year provisions reverse hone pe income pe disallowance lag sakti hai?",
+          "held": "ITAT ne disallowance hata di. Bola, provision reverse hone pe income taxable mani jaani chahiye, disallowance nahi ho sakti. 14A ki disallowance bhi hata di, par education cess disallowance banayi rakhi.",
+          "outcome": "Assessee",
+          "takeaway": "Provision reversal ya exempt income pe kharcha agar sahi proof ho toh aap apni favor mein ITAT tak ja sakte hain.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-mumbai-deletes-rs-18-89-crore-disallowance-reversal-earlier-year-provisions.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Bangalore",
+          "case_name": "DCIT Vs L. Javerchand Jewellers Pvt. Ltd. (ITAT Bangalore)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2019-20",
+          "section": "Section 270A",
+          "facts": "Yahan jewellery business tha. AO ne estimated undisclosed jewellery income pe penalty notice diya tha, lekin clear nahi tha ki kis galti ke liye penalty hai.",
+          "issue": "Kya vague penalty notice pe Section 270A (misreporting pe penalty) lag sakti hai?",
+          "held": "ITAT ne penalty hata di. Bola, agar penalty notice mein sahi charge nahi likha toh penalty nahi lag sakti.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapko penalty ka notice vague ya unclear aaye, toh turant object karo. Notice mein galti clear likhna zaroori hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-bangalore-deletes-rs-1-79-cr-penalty-vague-misreporting-notice-estimated-undisclosed-jewellery-income.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Raipur",
+          "case_name": "Aananda Devcon Private Limited Vs ACIT (ITAT Raipur)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2015-16",
+          "section": "Section 143(2)",
+          "facts": "Aananda Devcon ka assessment hua tha. Notice under Section 143(2) ITO ne diya tha, jabki unke paas itni badi assessment ka adhikar nahi tha.",
+          "issue": "Kya ek wrong jurisdiction officer ka notice assessment ko invalid bana deta hai?",
+          "held": "ITAT ne poora assessment radd kar diya. Bola, 143(2) ka notice sahi adhikar wale officer se hi aana chahiye tha.",
+          "outcome": "Assessee",
+          "takeaway": "Notice sirf sahi jurisdiction officer hi bhej sakta hai. Agar notice galat officer se aaye, toh poora assessment gir sakta hai.",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/itat-raipur-quashes-assessment-based-section-143-2-notice-wrong-officer.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-12",
       "cases": [
@@ -4618,83 +4719,6 @@
           "takeaway": "Unsecured loan ka pura documentation hona chahiye. PF/ESI ki late payment par allowance nahi milegi.",
           "source_name": "TaxGuru",
           "source_url": "https://taxguru.in/income-tax/itat-deletes-rs-2-38-crore-section-68-addition-upholds-pf-esi-disallowance.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-21",
-      "cases": [
-        {
-          "law": "Income Tax",
-          "court": "ITAT Delhi",
-          "case_name": "Amandeep Kaur Vs Assessment Unit/NFAC",
-          "section": "",
-          "issue": "CIT(A) ne ex parte order pass kiya bina assessee ki baat sune.",
-          "held": "ITAT ne order set aside kar diya aur appeal wapas bhej di fresh hearing ke liye, taki dono parties properly sun sake.",
-          "outcome": "Assessee",
-          "takeaway": "Agar kisi order mein bina sunwayi ex parte decide ho jaye to uske khilaf appeal karo - proper hearing ka right hai.",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/delhi-itat-remands-parte-cit-order-fresh-adjudication.html"
-        },
-        {
-          "law": "Income Tax",
-          "court": "ITAT Delhi",
-          "case_name": "Harsh Jindal Pranshu Goel Vs ITO",
-          "section": "",
-          "issue": "GST portal se bogus purchase ka data milne par reopening kiya gaya aur issue merits par CIT(A) ko bheja gaya.",
-          "held": "ITAT ne mana ki GST data reopening ke liye kaafi hai, lekin merits par CIT(A) decide karega.",
-          "outcome": "",
-          "takeaway": "Agar GST portal par aapka transaction suspicious dikhe to reopening ho sakta hai, isliye purchase evidence strong rakhna chahiye.",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/gst-data-sufficient-reopening-bogus-purchase-case-delhi-itat-remands-merits.html"
-        },
-        {
-          "law": "Income Tax",
-          "court": "ITAT Pune",
-          "case_name": "Sarang Avinash Kamtekar Vs ITO",
-          "section": "",
-          "issue": "CIT(A) ne additional evidence allow kiya lekin AO ki report ka intezaar nahi kiya, seedha order pass kar diya.",
-          "held": "ITAT ne addition restore kar diya, keh diya ki AO ki remand report ke bina order nahi pass ho sakta jab naye evidence aaye.",
-          "outcome": "",
-          "takeaway": "Agar case mein naya evidence adduce karo to AO ki remand report zarur aani chahiye, bina uske order galat maana ja sakta hai.",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/additional-evidence-requires-ao-remand-report-pune-itat-restores-addition.html"
-        },
-        {
-          "law": "Income Tax",
-          "court": "ITAT Pune",
-          "case_name": "India Kawasaki Motors Private Limited Vs DCIT",
-          "section": "Section 68",
-          "issue": "Section 68 ke tahat trade payables ko bogus bolke ₹1.5 crore add kiya gaya tha.",
-          "held": "ITAT ne dekha ki payables genuine trade transactions the, isliye Section 68 apply nahi hoga aur addition delete kar di.",
-          "outcome": "Assessee",
-          "takeaway": "Aapke trade payables genuine business transactions proof ho jaayein, to Section 68 ki addition nahi ruk sakti.",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/section-68-inapplicable-genuine-trade-payables-pune-itat-deletes-rs-1-50-crore-addition.html"
-        },
-        {
-          "law": "Income Tax",
-          "court": "ITAT Mumbai",
-          "case_name": "Underwater Services Company Ltd. Vs DCIT",
-          "section": "Section 153A",
-          "issue": "Related party ko charter hire payment lower than market rate par diya, Revenue ne disallow kiya tha aur addition 153A mein ki thi.",
-          "held": "ITAT ne bola ki comparable rates se kam charge kiya gaya aur records mein incriminating material nahi tha, isliye addition delete ho gayi.",
-          "outcome": "Assessee",
-          "takeaway": "Related party transactions ka market comparability proof ho to TP aur 153A dono mein relief mil sakta hai, records proper rakhna zaruri hai.",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/charter-hire-disallowance-deleted-related-party-charges-comparable-rates-itat-mumbai.html"
-        },
-        {
-          "law": "GST",
-          "court": "Punjab and Haryana High Court",
-          "case_name": "PS Enterprises Vs Commissioner",
-          "section": "",
-          "issue": "GST registration retrospectively cancel kar diya bina proper notice ya SCN mein retrospective mention kiye.",
-          "held": "High Court ne retrospective GST registration cancellation ko quash kar diya, lekin fresh SCN jane diya.",
-          "outcome": "Assessee",
-          "takeaway": "Aapka GST registration bina clear notice ya SCN ke retrospectively cancel ho to High Court jane ka option hai, process ki proper compliance hona zaruri hai.",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/goods-and-service-tax/retrospective-gst-registration-cancellation-without-prior-notice-quashed-hc.html"
         }
       ]
     }
