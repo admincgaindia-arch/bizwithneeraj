@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-10-13T02:15:25.442Z",
+  "last_updated": "2026-10-14T02:15:27.183Z",
   "days": [
+    {
+      "date": "2026-10-14",
+      "items": [
+        {
+          "cat": "Loan",
+          "authority": "IFSCA",
+          "ref": "",
+          "headline": "IFSCA ne Credit Info Companies par working group banaya",
+          "effective": "",
+          "what": "IFSCA ne ek Technical Working Group banayi hai jo Credit Information Companies ke data reporting, sudhar aur coordination ko mazboot karegi, khaaskar GIFT IFSC mein.",
+          "who": "GIFT IFSC mein kaam kar rahi credit information companies aur data users.",
+          "action": "Agar aapka kaam credit information companies se hai ya IFSC mein entity ho, naye reporting ya compliance rules ke updates par nazar rakho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/ifsca-forms-technical-working-group-credit-information-companies.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "FCNR(B) Deposit Rules 2026 mein badlav aur nayi safety points",
+          "effective": "",
+          "what": "RBI ne FCNR(B) deposit par rate-cap rules August 2026 se change kiye hain. Ismein tenures, currency options, FEMA, tax exemption, withdrawal, DICGC insurance aur NRI risk ko include kiya gaya hai.",
+          "who": "Foreign currency accounts rakhne wale NRI, banks aur unke advisors.",
+          "action": "Naye deposit kholte waqt bank se current FCNR(B) cap aur FEMA, tax rules confirm karo. Withdrawal aur currency risk dhang se samjho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/fcnr-deposits-2026-rbi-rate-ceiling-fema-nri-tax-currency-risk.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "National Payments Corporation of India (NPCI)",
+          "ref": "",
+          "headline": "UPI par select merchant MDR, Diwali ke baad lagu hoga",
+          "effective": "",
+          "what": "NPCI ne announce kiya hai ki kuch merchant UPI transactions par MDR (Merchant Discount Rate) abhi nahi lagega; yeh Diwali ke baad se lagu hoga.",
+          "who": "UPI payment lene wale business aur merchants.",
+          "action": "Abhi ke liye aapko extra MDR charges nahi lagenge. Lekin Diwali ke baad changes ke liye accounting system update kar lo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/upi-mdr-select-merchant-transactions-deferred-diwali-businesses.html"
+        },
+        {
+          "cat": "MSME",
+          "authority": "Ministry of MSME",
+          "ref": "",
+          "headline": "MSME ki late payment recovery par guide CAs ke liye",
+          "effective": "",
+          "what": "MSME ki delayed payment recovery, MSEFC claim ki process, interest lagne ke rule, Udyam registration aur Section 43B(h) par ek detailed guide aayi hai.",
+          "who": "MSME owners, practising CAs aur advisors jinhe MSME recovery cases dekhne hain.",
+          "action": "Clients ya khud MSME ho to Udyam registration kara lo. Delay hone par MSEFC mein claim filing aur interest calculation ki process samjho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/msme-delayed-payment-recovery-legal-remedies-practising-ca.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/2026-27/293 A.P. (DIR Series) Circular No. 27",
+          "headline": "RBI ne INR derivative contract rules mein badlav kiya",
+          "effective": "2026-10-12",
+          "what": "Ab Authorised Dealer banks INR ke non deliverable derivative contracts (NDDCs) non-resident ko sirf hedging ke liye de sakte hain, kisi aur purpose ke liye nahi.",
+          "who": "Authorised Dealer banks, IFSC banking units aur non-resident users jo NDDC ka use karte hain.",
+          "action": "AD banks ab sirf hedging wali needs ke liye hi aise contract offer karenge. Bank ki policy forms aur customer declaration update karo.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13739&Mode=0"
+        }
+      ]
+    },
     {
       "date": "2026-10-13",
       "items": [
