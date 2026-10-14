@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-10-13T01:31:01.361Z",
+  "last_updated": "2026-10-14T01:31:04.887Z",
   "digests": [
+    {
+      "date": "2026-10-14",
+      "summary": "Aaj ke kuch important tax updates hain, major rulings aur GST ke practical cases cover hue hain. Chalo, in par ek quick nazar daalte hain.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "GSTR-3B Sept 2026 filing ki due dates aayi",
+          "detail": "Trade reports ke mutabik, September 2026 ki GSTR-3B ki due dates: 20, 22, 24 October group ke hisaab se hongi. Filing se pehle ITC reconciliation, cash payment aur late-filing risks zarur check karein.",
+          "cga_view": "Apne state ka group check karo, apna ITC 2B match karo, aur 20 October ke pehle filing planning karo. Deadline miss hui to interest/late fee lag sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gstr-3b-september-2026-20-22-24-october-due-dates-itc-checks-late-filing-risks.html"
+        },
+        {
+          "category": "GST",
+          "headline": "E-way bill expiry pe direct penalty valid nahi",
+          "detail": "GSTAT Lucknow ne penalty sirf e-way bill expiry pe hata di, kyunki koi dusra proof nahi tha ki tax evasion tha.",
+          "cga_view": "E-way bill expire ho jaye to, jab tak koi aur solid evasion ka proof na ho, aapko badi penalty se bach sakte ho. But, movement ka proof zarur sambhal ke rakhein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/bill-expiry-cannot-establish-tax-evasion-gstat-lucknow-appeal.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITAT Guwahati: ₹5.68cr cash penalty quashed",
+          "detail": "ITAT Guwahati ne Section 271DA ka cash penalty hataya, kyunki limitation aur cash receipt ka proper proof nahi tha.",
+          "cga_view": "Agar aap par bhi high value cash transaction ki penalty lagi hai, toh order ki copy lawyer/CA ko dikhao – proper documentation important hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-guwahati-taxpayer-appeal-against-rs-5-68-crore-cash-penalty.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Resort construction pe ITC allowed nahi",
+          "detail": "GSTAT ka kehna hai ki jo building, jaise resort, apne business ke liye banaye gaye hain, un par construction related ITC nahi milega (Section 17(5)(d)).",
+          "cga_view": "Hotel/Resort bana rahe ho, toh construction ke ITC ki ummeed mat rakho – planning stage pe hi cost accordingly set karo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/resort-building-not-plant-and-machinery-no-itc-on-goods-and-services-used-for-its-construction-us-175d-gstat-read-order"
+        },
+        {
+          "category": "GST",
+          "headline": "No proof of GST SCN service? Demand order set aside",
+          "detail": "Karnataka HC ne GST demand hatayi kyunki department nahi dikha paya ki SCN sahi tarah serve hua. Portal, RPAD ya email se service prove nahi hui toh demand khatam.",
+          "cga_view": "Agar ex parte demand aa jaye, toh sabse pehle SCN ki service ka proof mangwayen – bina proper service ke order tik nahi sakta.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/no-proof-of-gst-scn-service-through-portal-rpad-or-email-karnataka-hc-sets-aside-2267-lakh-demand"
+        }
+      ],
+      "due_dates": [
+        {
+          "date": "2026-10-20",
+          "what": "GSTR-3B filing due (some states), September 2026"
+        },
+        {
+          "date": "2026-10-22",
+          "what": "GSTR-3B filing due (QRMP state group 2), September 2026"
+        },
+        {
+          "date": "2026-10-24",
+          "what": "GSTR-3B filing due (QRMP state group 3), September 2026"
+        }
+      ]
+    },
     {
       "date": "2026-10-13",
       "summary": "Aaj zyada tar updates GST case law se related hain, kuch naye angles compliance pe impact kar sakte hain. Income tax ke kuch ITAT orders bhi noteworthy hain.",
@@ -2795,49 +2860,6 @@
           "source_type": "trade",
           "source_name": "taxscan.in",
           "source_url": "https://www.taxscan.in/top-stories/failure-to-file-objections-before-drp-bars-challenge-to-assessment-order-allahabad-hc-1449841"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-08-09",
-      "summary": "Aaj ke digest mein High Courts aur CESTAT ke kuch kaafi important GST aur Income Tax rulings hain jo aapki compliance aur litigations strategy par effect daal sakte hain.",
-      "items": [
-        {
-          "category": "Ruling",
-          "headline": "Order galat jagah chipka toh appeal late nahi maana jayega",
-          "detail": "CESTAT Allahabad ne bola ki agar GST order galat premises par chipka, toh appeal filing ki limitation start nahi hoti. Matter wapas de-novo proceeding ke liye bheja gaya.",
-          "cga_view": "Agar aapko order properly serve nahi hua hai, toh appeal filing ka limitation period waise hi nahi chalega. Order ki service check karein pehle.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/service-tax/order-affixed-wrong-premises-cannot-trigger-appeal-limitation-cestat-allahabad.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Bar on parallel GST proceedings: Himachal HC ka naya decision",
-          "detail": "Himachal Pradesh HC ne kaha ki ITC disputes mein central aur state authorities ek saath parallel proceedings nahi chala sakte. Fresh consideration ka order diya.",
-          "cga_view": "Agar aapke khilaaf dono authorities proceedings chala rahi hain toh yeh decision cite kar ke ek proceeding rokwa sakte hain.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/section-6-2-bar-parallel-gst-proceedings-applied-itc-dispute-himachal-pradesh-hc.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "APA forms aur process simplified by CBDT",
-          "detail": "CBDT ne Advance Pricing Agreement (APA) ke forms revise kiye, ₹20 lakh fee standard rakhi, aur withdrawal, renewal process simplify kiya. Rules ab 2026 ke liye hain.",
-          "cga_view": "Jo log APA process use karte hain, naye forms aur process ko check karein for fresh and renewal applications.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/income-tax-rules-2026-key-advance-pricing-agreements.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Income Tax records dekhne advocate appointment allowed in liquidation",
-          "detail": "Madras HC ne income tax advocate ko appointment ki permission di, taaki ₹6.29 crore ka department ka claim settle ho sake during liquidation process.",
-          "cga_view": "Jo log winding up ya liquidation phase mein hain, advocates ko tax records review ke liye appoint karne ka yeh precedent use kar sakte hain.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/madras-hc-permits-advocate-appointment-examine-income-tax-records-liquidation.html"
         }
       ],
       "due_dates": []
