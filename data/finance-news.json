@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-10-14T02:15:27.183Z",
+  "last_updated": "2026-10-15T02:15:29.507Z",
   "days": [
+    {
+      "date": "2026-10-15",
+      "items": [
+        {
+          "cat": "Scheme",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "Sovereign Gold Bond 2019-20 Series V prematurity redemption info",
+          "effective": "2026-10-15",
+          "what": "Agar aapke paas SGB 2019-20 Series V hai, to aap 5 saal baad, yaani 15 October 2026 ko bond ki wo unit jaldi bech sakte hain. Is baar, ek unit ka redemption price ₹14,725/- fix hua hai, gold ke average IBJA rate ki hisaab se.",
+          "who": "SGB 2019-20 Series V waale investors jinhe 15 October 2026 ko payment milega.",
+          "action": "Apne demat account ya SGB ki details check karein. Redemption proceeds bank mein credit honge. Tax treatment samajhne ko apne CA se poochhein.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63807"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "Liberalised Remittance Scheme (LRS) 2026 ka naya guide aaya",
+          "effective": "",
+          "what": "RBI ke LRS ke tahat, ek saal mein USD 250,000 tak remittance allowed hai, jaise ki foreign education, investment, travel, gift wagairah. Isme Form A2, TCS aur FEMA compliance lagegi. Overseas assets ko income tax return mein bhi dikhana hai.",
+          "who": "Indian residents jo paisa bahar bhejna ya invest karna chaahte hain.",
+          "action": "Remittance se pehle apne bank se Form A2 aur TCS rules confirm karein. Overseas investment ki reporting schedule FA mein sahi se karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/rbi-liberalised-remittance-scheme-2026-usd-250-000-limit-form-a2-tcs-fema-foreign-asset-reporting.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Punjab National Bank",
+          "ref": "",
+          "headline": "PNB ka 666 din wala FD - October 2026 Rates aur fayde",
+          "effective": "",
+          "what": "Punjab National Bank ne 666 din ki special FD scheme nikaali hai. Isme alag-alag interest rate seniors, super-seniors, aur dusre depositors ke liye hai. TDS aur DICGC cover ki bhi detail di gayi hai.",
+          "who": "PNB ke naye ya existing FD kholne waale depositors, including seniors.",
+          "action": "Fixed deposit kholne ke liye branch visit karein ya online apply karein. TDS aur insurance terms dhyaan se samjhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/pnb-666-day-fixed-deposit-october-2026-6-50-percent-rate-senior-benefits-tds-dicgc.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/2026-27/293 A.P. (DIR Series) Circular No. 27",
+          "headline": "RBI ne NDDCs ke rules badle for Non-Residents",
+          "effective": "2026-10-12",
+          "what": "Ab Authorised Dealer banks sirf hedging purpose ke liye Non-deliverable Derivative Contracts (NDDCs) INR basis par non-residents ko de sakenge. Pehle kisi bhi maqsad ke liye allowed tha, ab sirf risk se bachav ke liye.",
+          "who": "All Authorised Dealer Category-I banks, IFSC units, aur Standalone Primary Dealers dealing with non-resident clients.",
+          "action": "NDDC offer/accept karte waqt ensure karein ki client ka hedging document/proof submit ho. Non-resident clients ko naya rule samjhaa dein.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13739&Mode=0"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "National Payments Corporation of India (NPCI)",
+          "ref": "",
+          "headline": "UPI Merchant Discount Rate abhi defer ho gayi hai",
+          "effective": "",
+          "what": "NPCI ne decide kiya hai ki jo select UPI merchant transactions par Merchant Discount Rate (MDR) lagne wali thi, usko ab Diwali ke baad implement kiya jayega. Filhal business par is baat ka asar nahi padega.",
+          "who": "Jo bhi merchant ya business UPI payments accept karte hain.",
+          "action": "Diwali ke baad MDR ke rules check karein. Tab tak, koi naya charge nahi lagega. Apne payment service provider se detail samjhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/upi-mdr-select-merchant-transactions-deferred-diwali-businesses.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-14",
       "items": [
