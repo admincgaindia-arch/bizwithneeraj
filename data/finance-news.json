@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-10-15T02:15:29.507Z",
+  "last_updated": "2026-10-16T02:15:26.046Z",
   "days": [
+    {
+      "date": "2026-10-16",
+      "items": [
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI ne SME IPO ke rules badalne ka proposal diya",
+          "effective": "",
+          "what": "SEBI ne October 2026 mein SME IPOs ke liye naye proposal laaye hain. Inmein market-cap eligibility, ₹3 crore operating profit, QIB allotment, lock-in, trading lots aur migration rules ka mention hai.",
+          "who": "SMEs jo IPO lane ki soch rahe hain ya process mein hain. Unke advisors aur investors bhi affected hain.",
+          "action": "Agar SME IPO la rahe ho ya planning kar rahe ho, apne merchant banker se naya eligibility aur allotment process samjho. Naye profitability aur market-cap requirements check karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-proposes-major-sme-ipo-reforms-eligibility-profitability-allotment-migration.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI Research Analyst registration ka guide update",
+          "effective": "",
+          "what": "SEBI Research Analyst registration ke liye eligibility, NISM certificate, documents, fees aur RAASB deposit ki full guide aayi hai. Form A aur compliance process bhi include hai.",
+          "who": "Research analyst banna chahte candidates ya firms, aur jo already registered hain.",
+          "action": "Agar Research Analyst banna hai, to NISM certificate, Form A aur sab documents ready rakho. Registration fees aur compliance ki detail padh lo. Apne compliance officer ya consultant se process verify kar lo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-research-analyst-registration-eligibility-nism-certification-documents-fees-compliance.html"
+        },
+        {
+          "cat": "Loan",
+          "authority": "RBI",
+          "ref": "",
+          "headline": "RBI ne import payments aur IDPMS ke naye rules lagu kiye",
+          "effective": "01-10-2026",
+          "what": "RBI ne import ka paisa bhejne ki process update ki hai. Ab contract-based payment, ₹10 lakh ke IDPMS closure, advance payments, guarantees, GST, TDS aur accounting par naye rules hai. Ye rules 1 October 2026 se lagu ho gaye hain.",
+          "who": "Import karne wale businesses, unke CA, CS aur accountants.",
+          "action": "Agar aap import karte ho, to bank se IDPMS closure aur payment ka latest process samjho. GST, TDS aur advance ke naye rules CA se check kar lo. Saare compliance timely complete karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/rbi-import-payments-idpms-october-2026-fema-rules-advances-gst-tax.html"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "RBI",
+          "ref": "",
+          "headline": "RBI Liberalised Remittance Scheme 2026 guide nikali gayi",
+          "effective": "",
+          "what": "RBI ne LRS 2026 ka guide issue kiya hai. Ismein USD 250,000 annual limit, remittances, forex restrictions, TCS rates, Form A2, Schedule FA aur foreign asset reporting details hai.",
+          "who": "Individuals ya businesses jo foreign remittance karte hain ya assets rakhte hain bahar.",
+          "action": "Aapko apni remittance planning mei LRS ki limit, Form A2 aur TCS ka dhyan rakhna hai. Income tax return file karte waqt Schedule FA aur overseas asset reporting sahi karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/rbi-liberalised-remittance-scheme-2026-usd-250-000-limit-form-a2-tcs-fema-foreign-asset-reporting.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "RBI",
+          "ref": "RBI/2026-27/293 A.P. (DIR Series) Circular No. 27",
+          "headline": "RBI ne NDDC INR contracts ke rules badle",
+          "effective": "12-10-2026",
+          "what": "Ab Authorised Dealer banks INR wale Non-Deliverable Derivative Contracts (NDDC) non-resident users ko sirf hedging ke liye offer kar sakte hain. Pehle koi purpose restriction nahi thi, ab sirf hedging allowed hai.",
+          "who": "Authorised Dealer Category-I banks aur IFSC Banking Units jo NDDC offer karte hain, aur unke videshi clients.",
+          "action": "Agar aap NDDC INR contracts deal karte hain, to ensure karo ki saare naye hedge-specific guidelines follow ho rahe hain. Non-resident clients ko ijjat se changes batao. Compliance aur documentation update karo.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13739&Mode=0"
+        }
+      ]
+    },
     {
       "date": "2026-10-15",
       "items": [
