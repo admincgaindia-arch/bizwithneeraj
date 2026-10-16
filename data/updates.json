@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-10-15T01:31:01.127Z",
+  "last_updated": "2026-10-16T01:31:01.272Z",
   "digests": [
+    {
+      "date": "2026-10-16",
+      "summary": "Aaj mainly GST aur Income Tax par important court rulings aaye hain. Taxpayers ko apne compliance responses detail me tayyar karne chahiye, aur old notices par bhi nazar rakhni chahiye.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "Unfinalised audit report par GST notice quashed: Kerala HC",
+          "detail": "Kerala HC ne premature GST show cause notice ko khatam kiya hai, unfinalised audit report par, aur taxpayer ke objections Rule 101(4) ke tahat consider karne ko bola hai.",
+          "cga_view": "Agar aapko provisional ya incomplete audit report basis par notice mile to detailed objection file karen. Court ne yahi favor diya hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-notice-based-unfinalised-audit-report-quashed-kerala-hc.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GSTR-2A mismatch se hi galat ITC nahi maan sakte: GSTAT Lucknow",
+          "detail": "GSTAT Lucknow ne bola ki sirf return mismatch (GSTR-2A) se galat ITC claim prove nahi hota. CA certificate bad mein bhi submit ho to maan sakte hain.",
+          "cga_view": "Agar apka ITC sirf 2A mismatch ki wajah se reject ho raha ho, to apne CA se verification karwa kar document submit karein. Apni purchase ki genuineness dikhana zaroori hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gstr-2a-mismatch-cannot-establish-wrongful-itc-availment-gstat-lucknow.html"
+        },
+        {
+          "category": "GST",
+          "headline": "50 km ke andar Part B E-Way Bill jaruri nahi: GSTAT Ghaziabad",
+          "detail": "GSTAT Ghaziabad ne penalty ko cancel kiya, kyunki initial 50 km movement ke liye Part B bharna required nahi tha - Rule 138(3) exception.",
+          "cga_view": "Agar aapka goods ka initial transport 50 km se kam hai to Part B fill na karne par penalty nahi lagni chahiye. Par next movement ke liye check karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/bill-part-not-mandatory-initial-movement-50-km-gstat-ghaziabad.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Penalty for Education Cess deduction deleted: ITAT Mumbai",
+          "detail": "ITAT Mumbai ne Section 270A ki penalty hata di, kyunki education cess aur GST late fee deduction prevailing HC ruling ke basis par genuine maana gaya.",
+          "cga_view": "Agar aapne pehle education cess deduction claim kiya tha to penalty ka dar na rahein. Lekin naye return file karte samay recent CBDT clarification follow karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/penalty-education-cess-deduction-based-prevailing-hc-ruling-deleted-itat-mumbai.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Foreign Banks non-discrimination clause: Calcutta HC ruling",
+          "detail": "Calcutta HC ne decide kiya ki foreign banks India mein 'domestic' tax rates nahi le sakte under non-discrimination clause, par kuch deductions allow huye.",
+          "cga_view": "Foreign banks branches India mein operate kar rahe ho to alag tax rates aur restriction ka dhyan rakhein - planning accordingly karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/foreign-banks-cannot-claim-domestic-tax-rates-non-discrimination-clause-calcutta-hc.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-10-15",
       "summary": "Aaj ka digest court rulings aur GST compliance updates pe focused hai. Business owners GST-ITR matching, ITC documentation, aur due process pe dhyan dein.",
@@ -2808,49 +2860,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/income-tax/gujarat-hc-quashes-income-tax-assessment-days-response-time.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-08-11",
-      "summary": "Aaj ki digest mein GST aur Income Tax par recent HC aur tribunal rulings cover ki gayi hain. Sab items verified sources se liye gaye hain, koi due date iss period mein nahi hai.",
-      "items": [
-        {
-          "category": "Ruling",
-          "headline": "TDS Paid u/s 195A Not Subject to Service Tax",
-          "detail": "CESTAT Chandigarh ne decide kiya ki Section 195A ke under pay hua TDS service tax ke value mein include nahi hoga. Saath hi, jab tak suppression ya tax evasion ka intent nahi, extended limitation bhi apply nahi hogi.",
-          "cga_view": "Agar aapne 195A ke under TDS pay kiya hai to service tax demand ke liye yeh order ka reference use kar sakte hain. Purane cases check karein, shayad refund ya relief mil sake.",
-          "source_type": "trade",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/service-tax/tds-paid-section-195a-not-subject-service-tax-cestat-chandigarh.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Panaji ITAT: Double Tax on Partner Salary Deleted",
-          "detail": "Panaji ITAT ne 2.98 lakh double addition hata di, kyunki partner remuneration pe already partner ki personal return me tax kaata tha (AY 2013-14 ka case).",
-          "cga_view": "Is ruling ko refer karein agar firm aur partner dono ki income pe tax dubara lag raha hai. Apni assessment order cross-check kar lein.",
-          "source_type": "trade",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/panaji-itat-deletes-rs-2-98-lakh-double-taxation-partner-remuneration-taxed.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "ITAT Delhi: Wrong Section Used, Assessment Quashed",
-          "detail": "Delhi ITAT ne assessment khatam ki jo Section 143(3) me thi, jabki matter 153C me initiate hona chahiye tha (AY 2021-22).",
-          "cga_view": "Agar aap bhi similar notice ya assessment ka samna kar rahe hain, to section ki technicality jaankari lein. Galat section ho to appeal zarur karein.",
-          "source_type": "trade",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/itat-delhi-quashes-assessment-section-153c-not-section-143-3-applicable.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Karnataka HC: Multiple Year GST SCN Allowed",
-          "detail": "Karnataka High Court ne bola GST show cause notice ek saath several saal ke liye consolidated issue ho sakta hai. Law me aisa ban nahi hai, lekin limitation period ka dhyaan rakhna hoga.",
-          "cga_view": "Agar consolidated SCN mila hai to har saal ki calculation alag se verify karein. Limitation period cross-check karna must hai.",
-          "source_type": "trade",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/goods-and-service-tax/karnataka-hc-consolidated-gst-show-notices-multiple-years.html"
         }
       ],
       "due_dates": []
