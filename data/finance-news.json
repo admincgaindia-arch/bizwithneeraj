@@ -1,6 +1,59 @@
 {
-  "last_updated": "2026-10-16T02:15:26.046Z",
+  "last_updated": "2026-10-17T02:15:25.875Z",
   "days": [
+    {
+      "date": "2026-10-17",
+      "items": [
+        {
+          "cat": "Scheme",
+          "authority": "Reserve Bank of India",
+          "ref": "F.No. 4(4)-B(W&M)/2020",
+          "headline": "Sovereign Gold Bond Series VII ka premature redemption 19 Oct ko",
+          "effective": "2026-10-19",
+          "what": "Sovereign Gold Bond 2020-21 Series VII ka premature redemption allowed hai 5 saal ke baad. Is batch ka redemption 19 October 2026 ko hoga, kyunki 20 October holiday hai. Redemption price ₹14,614 per unit hai, jo last 3 din ke average gold rate par depend karta hai.",
+          "who": "Un logon par jinke paas SGB 2020-21 Series VII bond hai.",
+          "action": "Agar aapke paas ye bond hai aur 5 saal ho gaye hain, toh 19 October 2026 ko bank/DP se redemption request daal sakte ho. Redemption price check kar lo aur required documents ready rakkho.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63822"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Non-convertible debt securities ka naya listing rule",
+          "effective": "",
+          "what": "SEBI ne Regulation 62A amend kiya hai. Ab kuch listed companies ko jo naye non-convertible debt securities issue karte hain, unhe bhi list karna zaroori ho gaya hai.",
+          "who": "Woh listed companies jo naye non-convertible debt securities issue karti hain.",
+          "action": "Agar aap listed company mein compliance handle karte hain, toh non-convertible debt issue se pehle listing ki new requirement poori karna jaroori hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-amends-regulation-62a-mandatory-listing-subsequent-non-convertible-debt-securities.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "REIT rules mein naye change: Depository receipts & sponsor exit",
+          "effective": "",
+          "what": "SEBI ne REIT Regulations ko amend kiya hai. Ab REITs depository receipts issue kar sakte hain. Unitholder voting aur sponsor ke exit rules bhi revise hue hain.",
+          "who": "Real Estate Investment Trusts (REITs) aur unke investors par lagu ho raha hai.",
+          "action": "REIT structure ya investment mein interest hai to naye rules padho, sponsor exit aur voting rights check karo. Compliance team ko update karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-reit-amendment-2026-depository-receipts-sponsor-exit-voting-rules.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI ne AIF rules mein naya accredited investor criteria laya",
+          "effective": "",
+          "what": "AIF Regulations mein changes laye gaye hain. Ab accredited investor banne ke liye securities market exposure ka naya criteria lagega. Dispute resolution rules bhi update hue hain.",
+          "who": "Alternative Investment Funds (AIFs) aur naya capital raise karne wale funds/investors.",
+          "action": "Agar aap AIF manage karte hain ya invest karne ki soch rahe hain, toh naya investor criteria aur dispute process samajh lo. Documentation update kar lo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-aif-amendment-2026-accredited-investor-criteria-dispute-resolution-rules.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-16",
       "items": [
