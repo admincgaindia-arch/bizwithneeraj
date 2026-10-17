@@ -1,6 +1,49 @@
 {
-  "last_updated": "2026-10-16T01:31:01.272Z",
+  "last_updated": "2026-10-17T01:30:58.954Z",
   "digests": [
+    {
+      "date": "2026-10-17",
+      "summary": "Aaj mostly GST aur Income Tax ke kuch important court rulings aaye hain. Compliance aur litigation se jude huye businesses ko details par dhyan dena chahiye.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "GST Notice Auditor Staff Email Par – Karnataka HC Ruling",
+          "detail": "Karnataka High Court ne kaha ki agar GST notice auditor ke staff email par gaya aur taxpayer sunwai miss kar gaya, toh taxpayer ko dobara mauka milna chahiye GSTR-3B aur GSTR-7 ka reconciliation dene ka. ",
+          "cga_view": "Aap apne GST portal aur registered email par notices regularly check karo, aur auditor ki email ID update karna na bhoolo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/gst-notices-sent-to-auditor-staff-emails-taxpayer-missed-hearing-karnataka-hc-grants-fresh-opportunity-to-reconcile-gstr-3b-and-gstr-7"
+        },
+        {
+          "category": "GST",
+          "headline": "Bombay HC: GST Appeal Pre-Deposit Shortfall Par Dismissal Pehle Notice Zaroori",
+          "detail": "Bombay HC ne bola ki GST appeal agar pre-deposit mein shortfall ho toh dismiss karne se pehle defect memo ya notice dena mandatory hai.",
+          "cga_view": "Agar GST appeal kar rahe ho toh pre-deposit calculation acche se check karo aur koi notice aaye toh turant response file karo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/bombay-hc-revives-gst-appeal-dismissed-for-pre-deposit-shortfall-though-excess-amount-was-paid-read-order"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Section 14A Disallowance Tabhi Jab Exempt Income Ho: ITAT",
+          "detail": "Hyderabad ITAT ne ₹3.60 crore ka Section 14A disallowance hataya kyunki assessee ne exempt income earn hi nahi ki thi. Finance Act 2022 ki amendment ko prospective maana.",
+          "cga_view": "Agar aap exempt income nahi kama rahe ho toh generally Section 14A ka disallowance applicable nahi hoga, lekin recent years ki assessment check karo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/no-section-14a-disallowance-without-exempt-income-itat-deletes-rs-3-60-crore-addition.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Limitation Appeal u/s 62 NCLAT: Date of Order se Shuru",
+          "detail": "Supreme Court ne decide kiya ki NCLAT order ke against limitation period order ki date se count hoga, certified copy milne ka wait nahi karna.",
+          "cga_view": "Agar NCLAT order aapke khilaaf hai toh appeal file karne mein deri na karo, certified copy ka intezaar mat karo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/corporate-laws/limitation-for-appeal-against-nclat-order-us-62-begins-from-date-of-order-not-receipt-of-certified-copy-supreme-court-read-order"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-10-16",
       "summary": "Aaj mainly GST aur Income Tax par important court rulings aaye hain. Taxpayers ko apne compliance responses detail me tayyar karne chahiye, aur old notices par bhi nazar rakhni chahiye.",
@@ -2808,58 +2851,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/goods-and-service-tax/allahabad-hc-grants-bail-rs-90-lakh-fake-itc-case-lack-evidence.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-08-12",
-      "summary": "Aaj ka digest important TDS/TCS reporting, kuch recent court rulings, aur ek GST update cover karta hai. Official government source se koi naya notification nahi aaya hai.",
-      "items": [
-        {
-          "category": "TDS",
-          "headline": "FY 2026-27 se naye TDS forms 138 & 140 lagenge",
-          "detail": "Trade reports ke mutabik, Form 24Q/26Q ki jagah ab Form 138/140 use honge TDS filing ke liye, April 2026 se. Naye forms quarterly aur simplified kahe ja rahe hain.",
-          "cga_view": "Clients abhi purane forms use karein, par FY 2026-27 ke liye team ko naye formats ki training dena shuru karein. Official notification ka intezaar rahe.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/tds-forms-138-140-replace-forms-24q-26q-fy-2026-27.html"
-        },
-        {
-          "category": "TDS",
-          "headline": "TCS reporting FY 2025–26 mein ab bhi 27EQ form se",
-          "detail": "Trade press ke hisaab se, Income Tax Act, 2025 ke mutabik abhi Form 27EQ hi TCS reporting ke liye use hoga for FY 2025–26. Quarterly filing ki timeline continue rehni hai.",
-          "cga_view": "TCS ke clients ko abhi koi immediate badlav nahi karna, Form 27EQ hi timely submit karein. Team ko new Act pe update rakhna zaroori hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/form-143-erstwhile-27eq-tcs-reporting-income-tax-act-2025.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Jodhpur ITAT: Late Form 10B ke bawajood Section 11 exemption mili",
-          "detail": "Agar audit report CPC tak time pe pahunch jaaye toh late Form 10B filing par bhi Section 11 exemption mil sakta hai (ITAT Jodhpur ka case).",
-          "cga_view": "Trusts/NGOs ke audit me delay ho toh yeh case ka reference rakhna, lekin har case alag hota hai - dependency assessment officer pe bhi hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/itat-jodhpur-section-11-exemption-late-form-10b-filing.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Supreme Court: CGST Rule 96(10) omission – pending refunds par bhi lagu",
-          "detail": "Supreme Court ne decide kiya ki CGST Rule 96(10) ka jo omission hua hai, woh abhi ke pending GST refund cases par bhi lagu hoga jahan koi saving clause nahi diya gaya.",
-          "cga_view": "Agar aapka GST refund case pending hai, toh yeh SC ka ruling aapke favour me help kar sakta hai. Refund follow-up me reference ka use karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/omission-cgst-rule-96-10-applies-pending-refund-proceedings-sc.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Gujarat HC: Assessment cancel hua, sirf 2 din reply time diya tha",
-          "detail": "Gujarat High Court ne assessment aur penalty cancel kar diye, kyunki taxpayer ko sirf 2 din ka response time mila tha. Naya assessment conduct hoga.",
-          "cga_view": "Agar assessment notices me kam samay mil raha hai toh turant objection file karein aur is HC ka example dikhayein. Fair hearing zaroori hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/gujarat-hc-quashes-income-tax-assessment-days-response-time.html"
         }
       ],
       "due_dates": []
