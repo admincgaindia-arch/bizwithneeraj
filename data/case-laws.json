@@ -1,6 +1,91 @@
 {
-  "last_updated": "2026-10-16T02:00:23.167Z",
+  "last_updated": "2026-10-17T02:00:21.134Z",
   "days": [
+    {
+      "date": "2026-10-17",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "Chhattisgarh High Court",
+          "case_name": "Sharda Jain Vs PCIT-1 (Chhattisgarh High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "Section 148A(d), Section 148",
+          "facts": "Madam Sharda Jain ke case mein department ne assessment year 2015-16 ke liye 1 April 2021 ke baad naya reassessment notice bheja. Supreme Court ke TOLA limitation ke rules ke baad bhi aisa kiya.",
+          "issue": "Kya 1 April 2021 ke baad reassessment ka notice valid hai?",
+          "held": "Court ne bola ki ye notice illegal hai. Supreme Court ke order ke baad department aise notice nahi bhej sakta tha. Section 148A(d) orders aur Section 148 notices radd kar diye.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapko 1 April 2021 ke baad ka assessment notice mila hai to Supreme Court ki TOLA limitation check karo. Ho sakta hai notice invalid ho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/ay-2015-16-reassessment-notices-issued-1-april-2021-quashed-chhattisgarh-hc.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Hyderabad",
+          "case_name": "ITO Vs NSL Nagapatnam Power Ventures Private Limited (ITAT Hyderabad)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2017-18",
+          "section": "Section 14A",
+          "facts": "NSL Nagapatnam Power ne 2017-18 mein koi exempt income nahi dikhayi thi. Department ne phir bhi Rs. 3.60 crore Section 14A ke under disallow kar diya.",
+          "issue": "Jab exempt income hi nahi hai to Section 14A ka disallowance ho sakta hai kya?",
+          "held": "ITAT ne clear bola ki jab exempt income nahi hai to Section 14A disallowance nahi lag sakta. Jo 2022 mein law badla hai uska purane years par effect nahi hai.",
+          "outcome": "Assessee",
+          "takeaway": "Agar exempt income nahi hai to Section 14A ka disallowance nahin lagega, Finance Act 2022 ka amendment sirf future par lagega.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/no-section-14a-disallowance-without-exempt-income-itat-deletes-rs-3-60-crore-addition.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Rajkot",
+          "case_name": "Aditya Plastic Vs ITO (ITAT Rajkot)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2013-14",
+          "section": "Section 151, Section 271(1)(b)",
+          "facts": "Aditya Plastic ke reassessment approval par officer ka sign nahi tha, na hi usme DIN (Document Identification Number) tha. Department ne assessment khola aur penalty bhi laga di.",
+          "issue": "Kya bina sahi approval ke reassessment valid hai?",
+          "held": "ITAT ne bola ki bina proper sign aur DIN ke approval valid nahi. Isliye reassessment aur penalty dono radd kar diye.",
+          "outcome": "Assessee",
+          "takeaway": "Reassessment approval mein officer ka sign aur DIN hona zaroori hai. Nahi hai to pura case gir sakta hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/reassessment-quashed-invalid-section-151-approval-itat-rajkot.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Hyderabad",
+          "case_name": "Biophore India Pharmaceuticals Private Limited Vs DCIT (ITAT Hyderabad)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2020-21",
+          "section": "Section 263, Section 14A",
+          "facts": "Biophore India Pharmaceuticals ko department ne Section 263 lagaya aur Rs. 32.50 lakh ka Section 14A disallowance bola jabki koi exempt income nahi thi.",
+          "issue": "Kya Section 263 ka revision chal sakta hai jab exempt income hi nahi thi?",
+          "held": "ITAT Hyderabad ne Section 263 revision radd kar diya. Bola ki 2022 ka amendment prospective hai aur bina exempt income ke Section 14A nahi lagta.",
+          "outcome": "Assessee",
+          "takeaway": "Exempt income na ho to AO Section 14A disallowance par Section 263 lagaye to usko challenge kar sakte ho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/section-263-revision-section-14a-disallowance-without-exempt-income-quashed-itat-hyderabad.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Delhi",
+          "case_name": "Sanjay Kalsi Vs Central Circle-04 (ITAT Delhi)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2020-21",
+          "section": "Section 271DA",
+          "facts": "Sanjay Kalsi par Rs. 14.96 lakh ki Section 271DA penalty laga di gayi thi. Basis tha third party ki excel sheet entries aur department ne bola ki cash sales hui.",
+          "issue": "Kya sirf third party excel data par Section 271DA penalty lag sakti hai?",
+          "held": "ITAT ne penalty hata di. Bola ki bas kisi aur ki entry aur tax payment se cash sale prove nahi hota.",
+          "outcome": "Assessee",
+          "takeaway": "Agar department sirf doosre ke data par penalty laga raha hai, to strong defense ban sakta hai. Cash sales humesha documents se prove honi chahiye.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-delhi-deletes-rs-14-96-lakh-section-271da-penalty-based-party-excel-entries.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-16",
       "cases": [
@@ -4618,107 +4703,6 @@
           "takeaway": "Agar aapke case mein sirf estimate ya ad hoc addition hue hai, to Section 271(1)(c) ki penalty ko zarur challenge karo.",
           "source_name": "TaxGuru",
           "source_url": "https://taxguru.in/income-tax/itat-surat-deletes-section-271-1-penalty-estimated-bogus-purchase-addition.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-27",
-      "cases": [
-        {
-          "law": "GST",
-          "court": "Andhra Pradesh High Court",
-          "case_name": "Jubilant Avenues Private Limited Vs The Superintendent of Central Tax Kothapet Cost Range & Anr. (Andhra Pradesh High Court)",
-          "appeal_number": "",
-          "judgment_date": "",
-          "assessment_year": "",
-          "section": "",
-          "facts": "Yahan company pe ek hi assessment order mein kai tax periods ka GST nikaal diya gaya tha. Company ne bola ki alag-alag period ka alag assessment hona chahiye. Court ne composite order hata diya.",
-          "issue": "Ek hi assessment order mein kai periods ko club karna sahi hai ya nahi?",
-          "held": "Court ne kaha alag-alag tax periods ke liye alag orders bano. Pehle wala composite order hata diya, aur limitation ka time is process ke liye exclude kiya.",
-          "outcome": "Assessee",
-          "takeaway": "Agar aapke business pe ek saath kai saal ka tax ek order mein lagaya gaya ho, to turant challenge karo. Har period ka alag order mang sakte ho.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/ap-hc-fresh-separate-gst-orders-setting-composite-assessment.html"
-        },
-        {
-          "law": "Customs / Excise",
-          "court": "Karnataka High Court",
-          "case_name": "Halton India Private Limited Vs Customs Authority (Karnataka High Court)",
-          "appeal_number": "",
-          "judgment_date": "",
-          "assessment_year": "",
-          "section": "",
-          "facts": "Yahan ek import ke kitchen exhaust hoods ki classification par dispute tha. Customs Authority ne pehle hi decide kar diya tha bina ekstra saboot dekhe ki product mein fan hai ya nahi.",
-          "issue": "Kya imported hood ke andar fan hai ya nahi, aur kaunsi category mein aayega?",
-          "held": "Court ne pehli ruling hata di. Bola, pehle pura evidence dekho aur dubara faisla lo.",
-          "outcome": "",
-          "takeaway": "Product ki asli tareekh, photos ya technical literature submit karne ka mauka banta hai; incomplete hearing pe decision ho, to challenge karo.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/custom-duty/kitchen-exhaust-hood-classification-ruling-set-fresh-evidence-consideration-karnataka-hc.html"
-        },
-        {
-          "law": "GST",
-          "court": "Uttarakhand High Court",
-          "case_name": "Gajendra Singh Cont. Vs Assistant Commissioner And Another (Uttarakhand High Court)",
-          "appeal_number": "",
-          "judgment_date": "",
-          "assessment_year": "",
-          "section": "",
-          "facts": "Ek contractor ka GST registration cancel ho gaya. Department ne bina usko bolne ka mauka diye order pass kar diya.",
-          "issue": "Kya bina personal hearing diye order pass karna sahi hai?",
-          "held": "Court ne GST ka order radd kar diya. Bola, reply aur sunnwai ke bina order valid nahi.",
-          "outcome": "Assessee",
-          "takeaway": "Agar registration cancel ho ya assessment ka notice aaye, toh hamesha personal hearing ki demand likhit mein karo.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/gst-order-quashed-personal-hearing-denied-registration-cancellation-uttarakhand-hc.html"
-        },
-        {
-          "law": "Income Tax",
-          "court": "ITAT Ahmedabad",
-          "case_name": "Sun Pharma Laboratories Ltd Vs DCIT (ITAT Ahmedabad)",
-          "appeal_number": "",
-          "judgment_date": "",
-          "assessment_year": "2016-17",
-          "section": "",
-          "facts": "Sun Pharma ne ek LLP mein capital loss dikhaya, amount tha ₹263.69 crore. Department ne isko nahi maana aur kuch aur MAT claims par bhi disput tha.",
-          "issue": "Kya LLP capital loss ka figure sahi hai aur valuation kaise hoga?",
-          "held": "ITAT ne valuation ka mudda wapas department ko bhej diya jaise ki aur check kiya ja sake. Kuch MAT claims par relief mil gayi.",
-          "outcome": "Mixed",
-          "takeaway": "Agar bade capital loss claim kar rahe ho to valuation ka poora backup ready rakho. Dispute aaye toh details ke saath dobara defence karna pad sakta hai.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/sun-pharmas-rs-263-69-crore-llp-capital-loss-claim-remanded-valuation-itat-ahmedabad.html"
-        },
-        {
-          "law": "Income Tax",
-          "court": "ITAT Mumbai",
-          "case_name": "Indus Valley Partners (India) Private Limited Vs DCIT (ITAT Mumbai)",
-          "appeal_number": "",
-          "judgment_date": "",
-          "assessment_year": "2021-22",
-          "section": "",
-          "facts": "Indus Valley Partners ka ₹72.85 crore ka transfer pricing adjustment lag gaya tha intra-group transactions pe. Company ne bola ki aggregation sahi hai aur foreign group ko tested party maana jaye.",
-          "issue": "Kya transfer pricing aggregation aur tested party approach sahi hai?",
-          "held": "ITAT ne pura adjustment hata diya. Bola aggregation aur tested party dono sahi the. Section 170A ka return ka mudda department ko wapas bheja.",
-          "outcome": "Assessee",
-          "takeaway": "Aap agar foreign group transaction dikhate ho toh aggregation aur tested party ke justification ke record ready rakho, isi pe poora adjustment turn ho sakta hai.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/itat-mumbai-deletes-rs-72-85-crore-tp-adjustment-intra-group-transactions.html"
-        },
-        {
-          "law": "GST",
-          "court": "Kerala High Court",
-          "case_name": "Rakesh Krishnan Vs Deputy State Tax Officer (Kerala High Court)",
-          "appeal_number": "",
-          "judgment_date": "",
-          "assessment_year": "",
-          "section": "Section 16(5)",
-          "facts": "Yahan ek aadmi ko ITC dena mana kar diya, reason diya return late file hua tha. Lekin return deadline Section 16(5) ke andar thi.",
-          "issue": "Kya Section 16(5) ke andar return file ho to ITC deny kiya ja sakta hai?",
-          "held": "Court ne ITC denial ka order radd kar diya. Bola jab tak deadline ke andar return hai, aap ITC mana nahi kar sakte.",
-          "outcome": "Assessee",
-          "takeaway": "GST ITC claim karte waqt dhyaan rakho ki return Section 16(5) ki last date se pehle file ho jaye. Deadline miss ho jaye toh dikkat ho sakti hai, warna claim valid hai.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/kerala-hc-quashes-itc-denial-returns-filed-section-16-5-deadline.html"
         }
       ]
     }
