@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-10-17T02:15:25.875Z",
+  "last_updated": "2026-10-18T02:15:25.426Z",
   "days": [
+    {
+      "date": "2026-10-18",
+      "items": [
+        {
+          "cat": "Scheme",
+          "authority": "Reserve Bank of India",
+          "ref": "F.No. 4(4)-B(W&M)/2020",
+          "headline": "SGB 2020-21 Series VII ka premature redemption 19 October 2026 ko",
+          "effective": "19 October 2026",
+          "what": "Sovereign Gold Bond (SGB) 2020-21 Series VII ke premature redemption ki date 19 October 2026 fix hui hai. Is date par aapka SGB aap chaahe to paisa lekar wapas kar sakte hain. Redemption price fix hua hai ₹14,614 per unit, gold ke last 3 din ke average par.",
+          "who": "SGB 2020-21 Series VII bond holders jin ka issue date 20 October 2020 tha.",
+          "action": "Agar aapke paas SGB 2020-21 Series VII hai, toh bank/DP se redemption form bhar sakte hain. Apne documents ready rakhein aur redemption process start karen.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63822"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI ne InvIT rules badle: depository receipts, voting naye",
+          "effective": "",
+          "what": "SEBI ne InvIT rules ko badla hai. Ab depository receipts allow honge. Sponsor exit par dissenting unitholders ki protection badhi hai, aur voting requirement mein bhi changes aaye hain.",
+          "who": "Jo bhi investors, sponsors ya unit holders InvITs mein involved hain.",
+          "action": "Agar aap InvIT sponsor ya investor hain, nayi depository receipts, voting rules aur sponsor exit ko samjhein. Legal ya compliance advisor se check karen.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-invit-amendment-regulations-2026-depository-receipts-voting.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI ne REIT rules aur voting, sponsor exit mein badlaav kiya",
+          "effective": "",
+          "what": "SEBI ne REIT regulations update ki hai. Ab depository receipts milenge, voting rules badle aur sponsor exit aur infra se related provisions revise hue hain.",
+          "who": "REIT investors, sponsors, real estate fund managers, aur unitholders.",
+          "action": "REIT mein invest ya kaam karne wale nayi rules aur voting changes detail mein padhein. Apne compliance ya legal team se ek baar confirm karen.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-reit-amendment-2026-depository-receipts-sponsor-exit-voting-rules.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI AIF rules mein naye accredited investor criteria aaye",
+          "effective": "",
+          "what": "SEBI ne AIF regulations mein securities market exposure ke basis par accredited investor ke naye criteria add kiye hain aur dispute resolution rules ko revise kiya hai.",
+          "who": "Alternative Investment Fund (AIF) managers, investors aur financial advisors.",
+          "action": "AIF managers aur investors apni eligibility aur compliance criteria check karen. Naye accredited investor rules samjhein aur dispute resolution process dekhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-aif-amendment-2026-accredited-investor-criteria-dispute-resolution-rules.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI: Non-convertible debt securities ki mandatory listing",
+          "effective": "",
+          "what": "SEBI ne Regulation 62A revise kiya hai. Ab kuch listed entities ke subsequent non-convertible debt securities ki listing mandatory kar di gayi hai.",
+          "who": "Wo listed companies jo non-convertible debt securities issue karti hain.",
+          "action": "Agar aap listed company mein compliance dekhte hain, toh nayi listing requirement ko dekhein aur future issuances ka process accordingly update karen.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-amends-regulation-62a-mandatory-listing-subsequent-non-convertible-debt-securities.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-17",
       "items": [
