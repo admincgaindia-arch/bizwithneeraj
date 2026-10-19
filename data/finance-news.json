@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-10-18T02:15:25.426Z",
+  "last_updated": "2026-10-19T02:15:27.097Z",
   "days": [
+    {
+      "date": "2026-10-19",
+      "items": [
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "InvIT mein naye depository receipts aur voting rules aaye",
+          "effective": "",
+          "what": "SEBI ne InvIT rules badle hain. Ab depository receipts allowed hain aur voting requirement 75% kar di gayi hai. Alag hone wale sponsor par dissenting unitholders ko protection di hai.",
+          "who": "InvITs, unitholders aur sponsors jo exit plan kar rahe hain.",
+          "action": "InvIT structure ya investment mein ho to nayi receipt aur voting policy check karo. Sponsor exit ho toh dissenting unitholders ki protection samjho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-invit-amendment-regulations-2026-depository-receipts-voting.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Bank of Baroda",
+          "ref": "",
+          "headline": "BOB Earth Green Term Deposit: naya deposit option",
+          "effective": "",
+          "what": "Bank of Baroda ne Earth Green Term Deposit scheme shuru ki hai. Isme callable aur non-callable terms, premature closure aur deposit insurance available hai.",
+          "who": "Bank of Baroda ke account holders ya naye depositors.",
+          "action": "Nayi deposit lene se pehle scheme ke terms samjho, Form 121 complete karo aur insurance cover ki details check karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/bank-baroda-bob-earth-green-term-deposit.html"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "SGB 2020-21 Series VII ka premature redemption rate announced",
+          "effective": "2026-10-19",
+          "what": "Sovereign Gold Bond 2020-21 Series VII ki premature redemption aaj se possible hai. Redemption price ₹14,614 per unit fix kiya gaya hai.",
+          "who": "Jin logon ke paas SGB 2020-21 Series VII hai.",
+          "action": "Agar redeem karna hai toh apne banker ya DP se request daalo. IBJA ke gold price basis par amount milega.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63822"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Investment Adviser banne ke rules: eligibility, fees, compliance",
+          "effective": "",
+          "what": "SEBI ne Investment Adviser banne ke liye guide jari ki hai jisme eligibility, NISM certification, deposit, fees aur compliance details di gayi hai.",
+          "who": "Jo bhi Investment Adviser banna chahte hain.",
+          "action": "Form bharne se pehle eligibility, certification aur documents ki list check karo. Compliance requirements ko samjho yahi se start karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-investment-adviser-registration-complete-guide.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Non-convertible debt securities ke liye listing ab mandatory",
+          "effective": "",
+          "what": "SEBI ke Third Amendment 2026 ke hisaab se ab listed entities ko subsequent non-convertible debt securities ko list karna padega.",
+          "who": "Specified listed companies jo debt securities nikaal rahi hain.",
+          "action": "Agar debt securities issue kar rahe ho to nayi listing requirement follow karo. SEBI regulation 62A dekho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-amends-regulation-62a-mandatory-listing-subsequent-non-convertible-debt-securities.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "HDFC Bank",
+          "ref": "",
+          "headline": "HDFC Bank 18-month FD October 2026 rate, tax aur insurance",
+          "effective": "",
+          "what": "HDFC Bank ne sub-₹3 crore 18-month Fixed Deposit ke liye naye rate bataye hain. Isme tax (TDS) aur DICGC insurance cover ki details bhi hai.",
+          "who": "HDFC mein FD kholne ya renew karne wale customers.",
+          "action": "FD ka interest rate, withdrawal rule aur insurance cover dhyan se check karo. TDS ka impact bhi dekh lo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/hdfc-bank-18-month-fixed-deposit-october-2026-rates-tds-dicgc-cover.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-18",
       "items": [
