@@ -1,6 +1,72 @@
 {
-  "last_updated": "2026-10-19T01:31:02.753Z",
+  "last_updated": "2026-10-20T01:31:03.148Z",
   "digests": [
+    {
+      "date": "2026-10-20",
+      "summary": "Aaj ki digest mein GST aur Income Tax ke upar latest compliance aur kuch important tribunal rulings hain. Tax audit ki last date bhi yaad rakhna.",
+      "items": [
+        {
+          "category": "Income Tax",
+          "headline": "Tax Audit Report Due 21 October - Last Minute Checklist",
+          "detail": "Tax Audit Report file karne ki last tareekh 21 October 2026 hai, jaisa latest CBDT order ke hisaab se alag-alag assessee par lagu hota hai. Form 3CA un logon par lagta hai jinke accounts pehle se audit ho chuke hain.",
+          "cga_view": "Jis client ke accounts audit ho chuke hain, Form 3CA lagayen. Deadline miss mat karo, penalty lag sakti hai. Sab kuch proof ke saath file karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/tax-audit-report-due-21-october-2026-minute-checklist.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Automatic GST Registration Cancellation Process - FAQs by CBIC",
+          "detail": "CBIC ke FAQs ke mutabik, kuch GST registration cancellation applications system dwara automatically process hongi. Rs 2.5 lakh ITC limit aur kisi-kisi conditions apply hongi; cancelled registration ko restore bhi kiya ja sakta hai.",
+          "cga_view": "Agar business closure ya other reason se cancellation dalna hai, nayi auto-processing aur ITC rules ko samjho. Official notification ka intezaar karein for detailed steps.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/cbic-faqs-on-cancellation-of-gst-registration-know-which-applications-will-be-processed-automatically"
+        },
+        {
+          "category": "GST",
+          "headline": "18% GST Packaging Pe, Tea Pe 5%—Refund Ho Sakta Hai: GSTAT",
+          "detail": "GSTAT ne decide kiya hai ki 18% GST packaging material (tea ke liye) par diya, jab tea khud 5% pe taxed hai, toh inverted duty ka refund section 54(3)(ii) ke under eligible hai.",
+          "cga_view": "Tea industry wale apna ITC calculation dubara check karein aur agar inverted duty hai toh timely refund claim karein. Old cases bhi dikh sakte hain.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/18-gst-on-packaging-materials-for-tea-taxed-at-5-creates-inverted-duty-structure-eligible-for-refund-gstat-read-order"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Assessment of Deceased Invalid—Fresh Notice to Legal Heir: ITAT Raipur",
+          "detail": "ITAT Raipur ne bola, deceased taxpayer ki assessment null thi; ab legal heirs ko procedure follow karke fresh assessment milegi. Section 159(2) refer kiya gaya hai.",
+          "cga_view": "Agar kisi client ke death ke baad assessment notice aayi hai, legal heir hi ab answerable hain. Purane assessment agar galat hue toh relief mil sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/assessment-deceased-taxpayer-invalid-itat-raipur-orders-fresh-proceedings-against-legal-heirs.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Belated ITR Par Bhi Section 11 Exemption Mil Sakta Hai: ITAT Kolkata",
+          "detail": "ITAT Kolkata ke mutabik, charitable trust ne time se baad ITR file ki fir bhi Section 11 exemption mila, CBDT guidelines follow ki gayi.",
+          "cga_view": "Agar koi charitable trust late ITR file kar chuka hai, exemption ka claim valid ho sakta hai—appeal karne par precedent hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/belated-itr-not-automatically-bar-section-11-exemption-itat-kolkata.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GSTR-3B vs 2A/2B ITC Mismatch Par Penalty Nahi Lag Sakti: GSTAT",
+          "detail": "GSTAT ne bola, sirf ITC mismatch (GSTR-3B aur 2A/2B) ya wrong ITC head ki wajah se section 74 proceeding nahi start ki ja sakti, jab tak fraud/purposeful suppression nahi hai.",
+          "cga_view": "Agar aapke client par sirf data mismatch ke base par penalty notice aaye, toh GSTAT ruling ka reference dein. Sirf clerical mistake par heavy action nahi hona chahiye.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/mere-gstr-3b-gstr-2a-mismatch-and-wrong-itc-head-cannot-justify-section-74-proceedings-gstat"
+        }
+      ],
+      "due_dates": [
+        {
+          "date": "2026-10-21",
+          "what": "Income Tax Audit Report (Form 3CA/3CB-3CD) filing last date"
+        }
+      ]
+    },
     {
       "date": "2026-10-19",
       "summary": "Aaj ke digest mein GST par kayi important judicial orders aur ek naye e-invoice feature ki khabar hai. Official notification ka intezaar hai, filhaal saari updates trade sources se hain.",
@@ -2790,40 +2856,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/income-tax/itat-delhi-restricts-100-percent-section-40-disallowance-30-percent-dtaa.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-08-15",
-      "summary": "Aaj ke digest mein ek ITAT Delhi ka important ruling hai, aur ek religious trusts ke GST/income-tax exemption par official clarification. CAAR Delhi ne bulk drugs import pe IGST rate bhi clear kiya hai.",
-      "items": [
-        {
-          "category": "Income Tax",
-          "headline": "Religious trusts ke liye tax aur GST exemption",
-          "detail": "Finance Ministry ne clarify kiya ki kuch services religious trusts ko income-tax mein exemption aur GST mein Notification No.12/2017-CT (R) ke under relief milta hai. Yeh eligible trusts aur unke specific activities par lagu hoga.",
-          "cga_view": "Agar aap religious trust chala rahe hain to official exemption check karein, aur activity wise documentation ready rakhein audit ke liye.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/religious-trust-taxation-income-tax-act-exemption-gst-relief.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "ITAT Delhi: Assessment u/s 143(3) invalid jab 153C lagu ho",
-          "detail": "ITAT Delhi ne Akansha Gupta case mein bola ki jab seized documents hai, toh sahi provision section 153C hai, na ki 143(3). Assessment FY 2021-22 ke liye quash ho gaya.",
-          "cga_view": "Aapke case mein search/seizure hua ho toh assessment section zaroor double-check karein. Galat section lage toh appeal ka scope hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/itat-delhi-holds-section-143-3-assessment-invalid-section-153c-applied.html"
-        },
-        {
-          "category": "GST",
-          "headline": "CAAR Delhi: Bulk drugs import pe 5% IGST lagu",
-          "detail": "CAAR Delhi ne decide kiya ki agar bulk drugs/API imported hai aur wo Notification 10/2025 ke NIL-rated list mein nahi aata, toh 5% IGST lagta hai Sl. No. 226 ke under.",
-          "cga_view": "Pharma ya bulk drug importer hain toh apne product ka notification check karein pura 5% IGST ya NIL rate claim ke liye, galat classification se penalty lag sakti hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/custom-duty/caar-delhi-5-percent-igst-bulk-drugs-apis.html"
         }
       ],
       "due_dates": []
