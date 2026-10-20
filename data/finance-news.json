@@ -1,6 +1,47 @@
 {
-  "last_updated": "2026-10-19T02:15:27.097Z",
+  "last_updated": "2026-10-20T02:15:24.694Z",
   "days": [
+    {
+      "date": "2026-10-20",
+      "items": [
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/2026-27/296 DoR.AML.REC.250/14.06.001/2026-27",
+          "headline": "Banks ko UNSC sanctions list update follow karna hoga",
+          "effective": "",
+          "what": "RBI ne banking companies ko bola hai ki wo UAPA Act ke section 51A ke tahat, United Nations sanctions list mein latest changes ko immediately apne processes mein apply karein. 3 entries sanctions list mein update hui hain.",
+          "who": "Commercial banks, small finance banks, payment banks, co-operative banks, NBFCs aur financial institutions sab par lagu hai.",
+          "action": "Compliance team apni sanctions screening list update karein. Client onboarding aur due diligence mein naya list use karein.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13742&Mode=0"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "InvIT me depository receipts aur voting rule update",
+          "effective": "",
+          "what": "SEBI ne Infrastructure Investment Trusts (InvITs) ke rules badle hain. Ab depository receipts allow hain aur voting ke requirements revise hue hain. Sponsor exit par dissenting holders ki raksha ke provisions hain.",
+          "who": "InvITs banane wali companies aur unke investors par lagu hai.",
+          "action": "Legal/Compliance team ko InvIT structure aur voting policies review karni chahiye. Sponsor exit ke case mein naye dissent protections samjhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-invit-amendment-regulations-2026-depository-receipts-voting.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI listing regulations 2026 me naye rules lagu",
+          "effective": "",
+          "what": "SEBI ne Listing Obligations and Disclosure Requirements (Third Amendment) Regulations, 2026 notify kiye hain. Isme listed companies ke liye fresh compliance rules aaye hain.",
+          "who": "Share market me listed companies aur unke compliance officer par lagu hai.",
+          "action": "Compliance team ko amendment document dhyan se padhna aur naye compliance steps tayar karna hai.",
+          "source_name": "sebi.gov.in",
+          "source_url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-third-amendment-regulations-2026_105330.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-19",
       "items": [
