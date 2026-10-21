@@ -1,6 +1,49 @@
 {
-  "last_updated": "2026-10-20T01:31:03.148Z",
+  "last_updated": "2026-10-21T01:30:58.570Z",
   "digests": [
+    {
+      "date": "2026-10-21",
+      "summary": "Aaj zyada updates court/tribunal rulings par hain, khaas taur par Income Tax aur GST compliance mein. Official govt release se koi fresh update nahi hai.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "E-way bill expiry due to breakdown: No penalty",
+          "detail": "Allahabad HC ne GST detention aur penalty quash ki, jab truck breakdown ki wajah se e-way bill expire hua aur tax evasion ka koi evidence nahi mila.",
+          "cga_view": "Agar genuine vehicle issue ho toh bhi documents aur breakdown ka proof ready rakho – unnecessary penalty se bach sakte ho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/allahabad-hc-quashes-gst-detention-expired-bills-caused-vehicle-breakdown.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Onward sale during transit? E-way bill ab bhi zaroori",
+          "detail": "GSTAT ne clarify kiya: Transit mein goods ki onward sale ke baad bhi, sahi e-way bill bana rehna chahiye jo asli movement, origin aur destination ko dikhata ho.",
+          "cga_view": "Onward sale karte waqt e-way bill details zaroor update karo, warna hefty penalty lag sakti hai.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/onward-sale-during-transit-does-not-exempt-goods-from-e-way-bill-requirements-gstat-upholds-440-lakh-penalty-read-order"
+        },
+        {
+          "category": "GST",
+          "headline": "Route deviation ke liye GST penalty nahi",
+          "detail": "GSTAT ruling: Sirf route change, valid e-way bill aur proper invoice ke saath, GST penalty justify nahi karta jab tak clear intention to evade nahi dikhe.",
+          "cga_view": "Route change ki info aur valid documents rakhna zaroori hai, lekin galti se penalty se bach sakte ho.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/mere-route-deviation-with-valid-e-way-bill-does-not-justify-gst-penalty-us-129-gstat-read-order"
+        },
+        {
+          "category": "GST",
+          "headline": "Belated GST payment — Interest & penalty must",
+          "detail": "GSTAT: Agar GST short-paid tax ki payment notice ke 30 din ke andar nahi hoti, to interest aur penalty section 73(9) ke under mandatory hai, chahe baad mein payment kari ho.",
+          "cga_view": "Late GST payment mein penalty aur interest fix hai – timely payment par focus rakho, SCN ke 30 din ke andar hi clear karo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/belated-gst-payment-does-not-absolve-taxpayer-of-interest-and-penalty-us-739-gstat-read-order"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-10-20",
       "summary": "Aaj ki digest mein GST aur Income Tax ke upar latest compliance aur kuch important tribunal rulings hain. Tax audit ki last date bhi yaad rakhna.",
@@ -2804,58 +2847,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/income-tax/ao-cannot-determine-alp-without-tpo-reference-itat-delhi-restores-assessment.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-08-16",
-      "summary": "Aaj mainly GST aur Income Tax/TDS se judi 5 important updates hain. Trade reports par based hai, isliye final action lene se pehle official notification zaroor check karein.",
-      "items": [
-        {
-          "category": "TDS",
-          "headline": "CBDT ne TDS demand pe relief diya for inoperative PAN",
-          "detail": "CBDT Circular No. 9/2025 ke hisaab se, agar deductee ya collectee ka PAN inoperative hai, to Section 206AA/206CC ke tehat zyada TDS/TCS nahi katega. Circular 21 July 2025 ko issue hua tha.",
-          "cga_view": "Agar kisika PAN inoperative tha aur aapko higher TDS demand aaya hai, to yeh circular ka reference dena zaroori hai. Apne TDS records review karo.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/cbdt-relief-tds-demand-inoperative-pan-section-206aa.html"
-        },
-        {
-          "category": "GST",
-          "headline": "Delhi HC: GST seizure challenge ko reject kiya",
-          "detail": "Delhi HC ne CGST Section 67(6) ke tehat seizure aur show cause notice proceedings ko separate maana hai. Taxpayer ko Section 130 notice ka jawab dena allowed kiya gaya hai.",
-          "cga_view": "Agar aapke goods seize hue hain, to notice ka jawab dena compulsory hai. Court ka order cite kar sakte hain.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/delhi-hc-declines-gst-challenge-seizure-separate-section-67-6-74a-proceedings-recognised.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Delhi HC ne judges ki ITR processing rok di",
-          "detail": "Delhi HC ne judges ke PAN aur ITR details submit karne ko bola hai aur abhi sabhi tax demands, refunds aur processing pe stay laga diya hai jab tak case chalta hai.",
-          "cga_view": "Sirf judges ya related parties ke cases mein hi apply hota hai, normal taxpayer par is order ka impact nahi hai. Public reporting purpose ke liye hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/corporate-law/delhi-hc-directs-pan-details-judges-hold-income-tax-return-processing-pending-writ.html"
-        },
-        {
-          "category": "GST",
-          "headline": "Gujarat HC: Deceased proprietor par GST demand quash",
-          "detail": "Gujarat HC ne ek aise taxpayer par GST demand quash kar diya jo mar chuke hain, bola aise proceedings ki koi legal validity nahi.",
-          "cga_view": "Agar family member/firm mein aisa koi case hai, to turant legal heir ya representative ke naam pe GST compliance karayein. Purane deceased proprietor ke naam par demand valid nahi hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/gujarat-hc-quashes-gst-demand-against-deceased-proprietor-proceedings-without-jurisdiction.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "ITAT Delhi: Section 40(a)(i) disallowance DTAA ke mutabik limited",
-          "detail": "ITAT Delhi ne GE India ke case mein 100% Section 40(a)(i) ka disallowance sirf 30% tak restrict kiya under DTAA. PF-ESI disallowance bhi hataya gaya.",
-          "cga_view": "Agar foreign remitance par 100% disallowance laga hai, to apne CA se DTAA benefit explore karwayein. Documentation pura rakhein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/itat-delhi-restricts-100-percent-section-40-disallowance-30-percent-dtaa.html"
         }
       ],
       "due_dates": []
