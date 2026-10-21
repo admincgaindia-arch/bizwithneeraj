@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-10-20T02:15:24.694Z",
+  "last_updated": "2026-10-21T02:15:26.206Z",
   "days": [
+    {
+      "date": "2026-10-21",
+      "items": [
+        {
+          "cat": "SEBI",
+          "authority": "Securities and Exchange Board of India",
+          "ref": "",
+          "headline": "SEBI ne listing aur disclosure rules ko amend kiya",
+          "effective": "",
+          "what": "SEBI ne Listing Obligations and Disclosure Requirements Regulations mein third amendment kiya hai. Is amendment se listed companies ko apni compliance responsibilities mein kuch changes aa sakte hain.",
+          "who": "Yeh sabhi listed companies aur jo listing ki planning kar rahe hain un par lagu hai.",
+          "action": "Agar aap listed company ho ya listing ki soch rahe ho, toh naye regulations ko padho. Compliance team ya company secretary se baat karo. SEBI site par regulation padho: links yahan neeche hai.",
+          "source_name": "sebi.gov.in",
+          "source_url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-third-amendment-regulations-2026_105330.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/2026-27/296 DoR.AML.REC.250/14.06.001/2026-27",
+          "headline": "RBI ne UAPA sanction list ko update kiya hai",
+          "effective": "October 19, 2026",
+          "what": "RBI ne Section 51A UAPA, 1967 ke tehat UNSC ki sanctions list mein 3 entries ka amendment notify kiya hai. Ye compliance se judi update hai.",
+          "who": "Commercial banks, Small Finance Banks, Payment Banks, Urban aur Rural Co-operative Banks, RRBs, Local Area Banks, NBFCs, Asset Reconstruction Companies aur All India Financial Institutions par lagu hai.",
+          "action": "IT aur compliance teams ko naye sanction list aur UNSC list ke amendments ko check karna chahiye. Apne KYC aur AML screening process update kar lo.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13742&Mode=0"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "ICICI Prudential Mutual Fund",
+          "ref": "",
+          "headline": "ICICI Prudential Large Cap Fund ka current scheme mandate",
+          "effective": "",
+          "what": "ICICI Prudential Large Cap Fund ka mandate large cap stocks mein invest karna hai. Ab iska naam aur official scheme ka structure badla gaya hai.",
+          "who": "Mutual fund investors jo ICICI Prudential ke is fund mein invest karte hain, un par lagu hai.",
+          "action": "Agar aap investor ho toh apne fund ka mandate, exit load aur tax implication check karo. Scheme ke naye documents padh lo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/icici-prudential-large-cap-fund-current-mandate-costs-risks-tax.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "Securities and Exchange Board of India",
+          "ref": "",
+          "headline": "IPO mein fresh issue aur offer for sale ka farq",
+          "effective": "",
+          "what": "IPO mein fresh issue ka matlab company naye shares bechti hai aur paisa company ko milta hai. Offer for sale mein purane shareholders apne shares bechte hain.",
+          "who": "Jo bhi IPO mein invest karne ka plan bana rahe hain, un par lagu hai.",
+          "action": "IPO prospectus padho aur samjho ki issue fresh hai ya offer for sale hai. Investment decision lene se pehle structure samajh lo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/ipo/fresh-issue-offer-sale-ipos-capital-dilution-investor-risks.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "Securities and Exchange Board of India",
+          "ref": "",
+          "headline": "Mutual fund direct aur regular plan mein kharcha ka asar",
+          "effective": "",
+          "what": "Direct plan aur regular plan dono mein same scheme hoti hai, par expense ratio alag hota hai. Expense ratio ka chhota farq lambi avadhi mein bada ho sakta hai.",
+          "who": "Sab mutual fund investors jo direct ya distributor ke through invest karte hain.",
+          "action": "Investment karte waqt direct aur regular plan ke expense aur returns compare karo. Apni investment strategy accordingly set karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/mutual-funds/mutual-fund-direct-regular-plans-expense-ratio-matters.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-20",
       "items": [
