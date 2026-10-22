@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-10-21T02:15:26.206Z",
+  "last_updated": "2026-10-22T02:15:32.226Z",
   "days": [
+    {
+      "date": "2026-10-22",
+      "items": [
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "Kotak Bank ki new callable FD: 365 din se 15 mahine tak",
+          "effective": "",
+          "what": "Kotak Mahindra Bank ka domestic callable fixed deposit profile aaya hai. Isme rate, premature closure, DICGC cover aur income tax ka treatment diya gaya hai. Ye fixed deposit 365 din se kam 15 mahine tak ke liye hai.",
+          "who": "Jo Kotak Mahindra Bank mein FD rakhwana chahte hain, un domestic depositors ke liye hai.",
+          "action": "Agar FD soch rahe ho to rate aur premature closure condition thoroughly check karo. DICGC insurance aur tax ka effect bhi samajh lo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/kotak-mahindra-bank-callable-fixed-deposit-365-days-15-months-rates-premature-closure-dicgc-tax.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "EbixCash World Money: Forex aur Remittance ki RBI AD-II profile",
+          "effective": "",
+          "what": "EbixCash World Money ka profile diya gaya hai - isme RBI AD-II ke under currency notes, travel card, permitted remittances, KYC aur TCS ka coverage hai. Grievance redressal, GST aur settlement ki bhi jankari hai.",
+          "who": "Jo travel, remittance ya forex transaction EbixCash World Money ke through karte hain, unke liye hai.",
+          "action": "Remittance ya forex lene se pehle apna KYC aur TCS ka structure check karo. Permitted transactions aur charges samajh lo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/ebixcash-world-money-rbi-ad-ii-forex-remittance-kyc-costs-tcs.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "SBI Overseas Remittance Profile: FxOUT, LRS aur KYC details",
+          "effective": "",
+          "what": "SBI ke overseas remittance ki poori profile aayi hai - YONO FxOUT, branch processing, LRS eligibility, KYC, costs, GST, TCS ki saari details hain.",
+          "who": "SBI se foreign remittance ya LRS use karne wale customers ke liye hai.",
+          "action": "Agar foreign remittance karna hai to YONO ya branch process samajh lo. KYC aur eligibility document ready rakho. Charges aur TCS ka dhyan rakho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/state-bank-india-overseas-remittance-profile-fxout-lrs-kyc-costs-tcs.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "UCO Bank 444 din ki FD: Rate, senior citizen premium aur tax",
+          "effective": "",
+          "what": "UCO Bank ki 444 din ki domestic FD ke rate, senior citizen premium, premature closure, DICGC cover aur tax treatment ki jaankari di gayi hai.",
+          "who": "UCO Bank mein 444 din ki FD lene wale individual ya senior citizen ke liye hai.",
+          "action": "Rate table, premature closure, insurance cover aur tax rule detail mein study karo. Pan card ya KYC ready rakhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/uco-bank-444-day-domestic-term-deposit-rates-tax-deposit-insurance.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "Securities and Exchange Board of India",
+          "ref": "",
+          "headline": "NCD BSE/NSE par list karne ka SEBI guide",
+          "effective": "",
+          "what": "NCD yaani non-convertible debenture ko BSE/NSE par list karne ke complete rules aur process ka practical guide diya gaya hai, including eligibility, approvals, documents aur private placement process.",
+          "who": "Jo companies ya professionals NCD list karna chahte hain ya NCD issue deal handle karte hain, unke liye hai.",
+          "action": "List karne se pehle SEBI rules, document requirement aur approvals ka full checklist refer karo. Timeline ka dhyan rakho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/listing-non-convertible-debentures-bse-nse-practitioners-guide.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "Securities and Exchange Board of India",
+          "ref": "",
+          "headline": "Zerodha NSE Currency Derivatives: SEBI registration details",
+          "effective": "",
+          "what": "Zerodha ki NSE currency derivatives service ka profile hai, jo SEBI registered hai. Isme eligible INR currency pairs, declaration, charges, settlement aur risks diye gaye hain.",
+          "who": "Currency trading karne wale individuals aur entities jo Zerodha platform use karte hain, unke liye hai.",
+          "action": "Currency derivatives mein trade karne se pehle SEBI registration check karo, saare eligible pairs aur charges samajh lo, aur KYC complete karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/zerodha-currency-derivatives-profile-sebi-registration-nse-pairs-fees-kyc-tax.html"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "ICICI Prudential Mutual Fund",
+          "ref": "",
+          "headline": "ICICI Prudential Large Cap Fund ki nayi scheme details aayi",
+          "effective": "",
+          "what": "ICICI Prudential Large Cap Fund ke official scheme features, mandate, exit load, plan aur NIFTY 100 TRI ke linkage ki jaankari mili hai. Isme risk aur tax impact bhi bataya gaya hai.",
+          "who": "Jo investors apna paisa large cap mutual fund schemes me daalna soch rahe hain ya ICICI Prudential ke client hain, unke liye hai.",
+          "action": "Fund ka mandate, costs, exit load aur risk profile achhi tarah samajh lo. Investment se pehle offer document padh lo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/icici-prudential-large-cap-fund-current-mandate-costs-risks-tax.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "Securities and Exchange Board of India",
+          "ref": "",
+          "headline": "SEBI Listing Regulations 2026 mein amendment lagu",
+          "effective": "",
+          "what": "SEBI ne apne Listing Obligations and Disclosure Requirements Regulations, 2026 mein amendment kiya hai. Isme listed companies ke compliance aur disclosure rules mein badlav hua hai.",
+          "who": "Listed companies ya jo listing ki planning kar rahe hain, unke directors, compliance officers aur CS ke liye hai.",
+          "action": "Nayi amendment copy carefully padho. Disclosure aur compliance ki updated checklist bana lo. Q&A ke liye SEBI site check karo.",
+          "source_name": "sebi.gov.in",
+          "source_url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-third-amendment-regulations-2026_105330.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-21",
       "items": [
