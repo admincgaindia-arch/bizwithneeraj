@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-10-21T02:00:27.871Z",
+  "last_updated": "2026-10-22T02:00:24.072Z",
   "days": [
+    {
+      "date": "2026-10-22",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "ITAT Lucknow",
+          "case_name": "Sahkari Ganna Vikas Samiti Limited Vs ACIT Sitapur/CPC (ITAT Lucknow)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2019-20",
+          "section": "Section 80P (Deduction to co-op societies)",
+          "facts": "Ek co-op society ka case tha. Inhone apni ITR late bhari thi. CPC ne is wajah se Section 80P ki ₹1.64 crore deduction disallow kar di.",
+          "issue": "Kya CPC late ITR file hone par Section 80P ki deduction mana kar sakta hai?",
+          "held": "ITAT Lucknow ne kaaha ki CPC ke paas yeh power nahi hai ki woh late ITR ke chakkar mein Section 80P deduction rok de. Isliye society ko puri deduction milni chahiye.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aap co-op society hain aur late ITR file hui ho, fir bhi Section 80P deduction mil sakti hai. Disallowance sirf department notice se ho, CPC apne aap nahi kar sakta.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/section-80p-deduction-cannot-disallowed-cpc-belated-itr-ay-2019-20-itat-lucknow.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "DCIT Vs Hitesh S. Mehta (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "1992-93",
+          "section": "",
+          "facts": "Yahaan Revenue ne unexplained share investment aur bank deposit pe addition kari thi. Assessee ne ₹2.77 crore interest expense claim kiya tha.",
+          "issue": "Kya unexplained investment add ho sakti hai aur kya interest expense allow hoga?",
+          "held": "ITAT ne sari unexplained investment aur deposit wali addition hata di. ₹2.77 crore ka interest expense bhi allow kar diya. Revenue ki appeal fail ho gayi.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aap ke investment transactions genuine hain aur records dikh gaye, toh addition hata di jayegi. Interest claim bhi sahi ho toh mil sakta hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/unexplained-share-investments-deleted-interest-deduction-allowed-itat-mumbai.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Ahmedabad",
+          "case_name": "Yanfeng India Automotive Interior Systems Pvt. Ltd. Vs Joint CIT (OSD) (ITAT Ahmedabad)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2015-16",
+          "section": "",
+          "facts": "Company ne apne associated enterprise (AE) ko ₹3.07 crore reimburse kiye. Department ne bola koi actual service ya business proof nahi diya gaya, toh ALP zero lagayi.",
+          "issue": "Kya reimbursement pe ALP zero ho sakta hai jab tak koi business link ka proof na ho?",
+          "held": "ITAT ne kaaha, kyunki assessee ne service aur business connection ka koi saboot nahi diya, isliye ₹3.07 crore ka ALP zero theek hai.",
+          "outcome": "Revenue",
+          "takeaway": "Agar AE ko payment kar rahe ho toh har service ka kaam aur proof zaroor file karo, nahi toh pura ALP zero ho jayega.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-upholds-nil-alp-rs-3-07-crore-ae-reimbursement-lack-evidence.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Hyderabad",
+          "case_name": "Adama India Pvt. Ltd. Vs DCIT (ITAT Hyderabad)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2013-14",
+          "section": "",
+          "facts": "Assessee ne AE ko management services ke ₹5.10 crore diye. Department ne ALP zero laga diya aur ya SBI lending rate laga kar adjustment kara tha.",
+          "issue": "Kya AE se management services liye paison pe ALP zero ya SBI lending rate se adjustment sahi hai?",
+          "held": "ITAT Hyderabad ne bola department ALP zero nahi kar sakta bina basis ke. SBI lending rate se bhi adjustment galat hai. Sari TP adjustment hata di.",
+          "outcome": "Assessee",
+          "takeaway": "AE ki services ka sahi benchmarking aur documents zaruri hain. Department bina logic zero nahi kar sakta.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-deletes-rs-5-10-crore-tp-adjustments-management-services-ae-receivables.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "Henkel Chembond Surface Technologies Ltd. Vs ACIT (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2013-14",
+          "section": "",
+          "facts": "Yahaan regional management services pe ₹3.73 crore ka TP adjustment hua. Department ne ALP ko bina method ka use kiye direct zero kar diya.",
+          "issue": "Kya TPO ALP ko bina koi prescribed method ke use kiye zero kar sakta hai?",
+          "held": "ITAT ne ₹3.73 crore ka adjustment hata diya. Bola bina method ke direct ALP zero lagana galat hai.",
+          "outcome": "Assessee",
+          "takeaway": "Transfer pricing mein, department ko prescribed method use karna padega. Sirf andaz se ALP zero nahi kar sakte.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/tpo-cannot-determine-alp-nil-without-prescribed-method-itat-mumbai-deletes-rs-3-73-crore-tp-adjustment.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Mumbai",
+          "case_name": "Balakrishna Venkapppa Bhandary Vs DCIT (ITAT Mumbai)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2018-19",
+          "section": "Section 56(2)(x) (gifts/under-value asset transfer)",
+          "facts": "Assessee ne property purchase ki. Department ne allotment date pe stamp duty value check kari aur ₹26.98 lakh ka addition Section 56(2)(x) mein kiya.",
+          "issue": "Kya stamp duty allotment-date pe 10% se andar ho toh Section 56(2)(x) addition banti hai?",
+          "held": "ITAT ne addition hata di kyunki allotment date stamp value market value se 10% ke andar thi.",
+          "outcome": "Assessee",
+          "takeaway": "Property lene dene mein allotment date ki stamp value aur 10% ka margin check karo, extra addition nahi hogi.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/section-56-2-addition-deleted-allotment-date-stamp-10-percent-limit-itat-mumbai.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-21",
       "cases": [
@@ -4634,91 +4735,6 @@
           "takeaway": "LTCG exemption claim karne par agar aap par koi strong evidence nahi hai toh AO ke suspicion par hi exemption nahi ruqi ja sakti.",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/income-tax/itat-mumbai-allows-section-1038-exemption-on-lifeline-drugs-share-gains-despite-penny-stock-allegations.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-01",
-      "cases": [
-        {
-          "law": "Income Tax",
-          "court": "ITAT Rajkot",
-          "case_name": "Rolex Rings Limited Vs DCIT/ACIT (ITAT Rajkot)",
-          "appeal_number": "",
-          "judgment_date": "",
-          "assessment_year": "2020-21",
-          "section": "",
-          "facts": "Rolex Rings Limited ka case tha. Company par ₹5.40 crore ki accommodation entry ka ilzaam laga tha. Department ne reassessment kiya, lekin sanction galat tha, koi direct sambandh nahi mila aur cross-examination ka mauka bhi nahi mila.",
-          "issue": "Kya reassessment sahi process follow ki bina ho sakti hai?",
-          "held": "ITAT ne reassessment ko radd kar diya. Sanction process theek nahi tha aur acche se sambandh establish nahi hua tha. Cross-examination nahi milne par bhi court ne department ke khilaf faisla diya.",
-          "outcome": "Assessee",
-          "takeaway": "Agar aapko cross-examination ka mauka nahi milta ya sanction process galat hai, to aap reassessment ko challenge kar sakte ho.",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/itat-deletes-rs-5-40-cr-accommodation-entry-addition.html"
-        },
-        {
-          "law": "Income Tax",
-          "court": "ITAT Jodhpur",
-          "case_name": "Geeta Satsang Ashram Samiti Vs Ward Exemption (ITAT Jodhpur)",
-          "appeal_number": "",
-          "judgment_date": "",
-          "assessment_year": "2023-24",
-          "section": "",
-          "facts": "Geeta Satsang Ashram Samiti ne 80G exemption maangi thi. Ashram ke religious kharch total ka 5% se kam tha. Bhagavad Gita ki teachings par focus hai, jo kisi ek dharm ke liye nahi hai.",
-          "issue": "Kya 80G approval mil sakti hai jab religious kharch 5% se kam ho?",
-          "held": "ITAT ne 80G approval allow kiya. Court bola ki teachings non-denominational hain aur religious expenditure kanuni had se kam hai.",
-          "outcome": "Assessee",
-          "takeaway": "Agar aapka trust ya society ka religious kharch total ka 5% se kam hai, to aapko 80G approval milne ka pura chance hai. Non-denominational activities dikhana zaroori hai.",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/itat-jodhpur-80g-approval-religious-spending-remains-5-percent.html"
-        },
-        {
-          "law": "Income Tax",
-          "court": "ITAT Kolkata",
-          "case_name": "Ekchaka Samabaya Krishi Unnayan Samity Limited Vs DCIT (ITAT Kolkata)",
-          "appeal_number": "",
-          "judgment_date": "",
-          "assessment_year": "2015-16",
-          "section": "",
-          "facts": "Yeh ek co-operative society ka case tha. Cash deposit ki wajah se assessment phir se khola gaya par phir is issue par koi addition nahi ki.",
-          "issue": "Jab reopening ka main reason pe addition nahi hui, to kya assessment valid hai?",
-          "held": "ITAT ne assessment process ko radd kar diya kyunki reopening ka main reason pe kuch bhi add nahi hua tha. Bas is basis par case reopen nahi ho sakta.",
-          "outcome": "Assessee",
-          "takeaway": "Agar aapke case mein reopening ka main reason pe koi addition nahi hoti, to poora reopening null ho sakta hai. Aise mein aap challenge kar sakte ho.",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/itat-kolkata-quashes-reassessment-recorded-reopening-reason-not-lead-addition.html"
-        },
-        {
-          "law": "Income Tax",
-          "court": "ITAT Pune",
-          "case_name": "Rameshwar Fakirchand Totala Vs ITO (ITAT Pune)",
-          "appeal_number": "",
-          "judgment_date": "",
-          "assessment_year": "2020-21",
-          "section": "Section 69",
-          "facts": "Rameshwar Fakirchand Totala par ₹10.52 lakh ki Section 69 (disclosed income ka proof na ho to addition) ke tehat income add kar di gayi. WhatsApp chat evidence use kiya gaya tha, bina certificate ke.",
-          "issue": "Kya bina original certificate ke WhatsApp chats pe addition ho sakti hai?",
-          "held": "ITAT ne addition hata di. WhatsApp chats bina Section 65B certificate ke admissible nahi thi. Independent evidence bhi nahi tha.",
-          "outcome": "Assessee",
-          "takeaway": "Digital evidence jaise WhatsApp chats ka Section 65B certificate zaroori hai. Agar certificate nahi hai, to aap addition ko challenge kar sakte ho.",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/itat-pune-deletes-section-69-addition-based-uncertified-whatsapp-chats.html"
-        },
-        {
-          "law": "Income Tax",
-          "court": "ITAT Ahmedabad",
-          "case_name": "Endel Retail And Customer Care Pvt. Ltd. Vs DCIT (ITAT Ahmedabad)",
-          "appeal_number": "",
-          "judgment_date": "",
-          "assessment_year": "2023-24",
-          "section": "",
-          "facts": "Ye company ne foreign tax credit claim kiya tha par Form 67 delay se file hua tha. Department ne credit disallow kar diya tha.",
-          "issue": "Kya foreign tax credit mil sakta hai agar Form 67 time se nahi file hua?",
-          "held": "ITAT ne credit allow kiya. Pehle ke apne hi decision ko follow kiya aur decide kiya ki delay ke bawajood credit mil sakta hai.",
-          "outcome": "Assessee",
-          "takeaway": "Agar Form 67 late ho gaya hai, to bhi apne foreign tax credit ka claim try kar sakte ho. Delay ke reason ko sahi se explain karo.",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/itat-ahmedabad-foreign-tax-credit-delayed-form-67-filing.html"
         }
       ]
     }
