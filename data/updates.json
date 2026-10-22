@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-10-21T01:30:58.570Z",
+  "last_updated": "2026-10-22T01:30:58.863Z",
   "digests": [
+    {
+      "date": "2026-10-22",
+      "summary": "Kuch naye GST ITC proposals discuss ho rahe hain aur Income Tax mein 80P deduction par 3 alag ITAT rulings aa chuki hain. Sab kuch abhi trade source ke basis par hai, official notification ka intezar hai.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "RCM self-invoice ab e-invoice system mein possible",
+          "detail": "GSTN ne reverse charge mechanism (RCM) ke liye self-invoice e-invoice system mein add kar diya hai, lekin yeh abhi sirf ek facility hai, mandatory nahi. Iska use karna hai ya nahi, yeh abhi business par chhoda gaya hai.",
+          "cga_view": "Filhal is feature ko test karke dekhein, lekin abhi apne RCM invoice compliance process ko badalna zaroori nahi hai. Official notification ka intezar karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/reverse-charge-invoices-enter-invoice-system-capability-not-obligation.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Health/life insurance ITC par GST Council ne proposal discuss kiya",
+          "detail": "Trade reports ke hisaab se, GST Council group health/life insurance ki ITC eligibility relax karne ka proposal discuss kar raha hai (Section 17(5)). Abhi official notification nahi aayi hai.",
+          "cga_view": "Agar aap employees ke liye group health/life insurance dete hain, toh possible ITC benefit ke liye latest government notification ka intezar karein. Filhal koi process ya accounting change mat karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/57th-gst-council-health-life-insurance-itc-section-17-5-eligibility-practical-impact.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Section 80P deduction: CPC ko belated ITR par disallow ka adhikar nahi",
+          "detail": "Teen ITAT benches (Rajkot, Lucknow, Mumbai) ne alag-alag orders mein bola ki AY 2019-20 ya April 2021 se pehle ki belated ITRs par Section 80P ka deduction CPC adjustment se disallow nahi kiya ja sakta. Sab judgments abhi specific facts par hain.",
+          "cga_view": "Agar aap cooperative society hain aur CPC ne 80P deduction reject kiya hai belated ITR par, toh apni details legal advisor ke saath verify karein – appeal ka scope ho sakta hai. Sabhi cases specific facts dependent hain.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/section-80p-deduction-cannot-denied-cpc-adjustment-belated-itr-itat-rajkot.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-10-21",
       "summary": "Aaj zyada updates court/tribunal rulings par hain, khaas taur par Income Tax aur GST compliance mein. Official govt release se koi fresh update nahi hai.",
@@ -2804,49 +2838,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/income-tax/high-turnover-comparables-excluded-alp-bangalore-itat-grants-partial-relief.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-08-17",
-      "summary": "Aaj court rulings pe focus raha, GST aur income tax dono mein important updates hain. Official notifications nahi aaye, lekin kuch compliance implications ho sakti hain.",
-      "items": [
-        {
-          "category": "Ruling",
-          "headline": "CESTAT Ahmedabad ne IGST ka time-barred demand khatam kiya",
-          "detail": "CESTAT Ahmedabad ne interest, fine aur penalty hata diya, kyunki IGST ka demand time-barred tha aur proper charging provision nahi tha.",
-          "cga_view": "Agar aapke against bhi aise old IGST demands pending hain, to apne consultant se matter dubara check karayein, appeal ka option ho sakta hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/custom-duty/cestat-ahmedabad-sets-interest-fine-penalty-igst-time-barred-demand.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Kerala HC ne GST show cause notice multiple years ka quash kiya",
-          "detail": "Kerala HC ne bola ek hi GST show cause notice mein multiple years nahi ho sakte, alag notice chahiye. Intervening period limitation mein nahi aayega.",
-          "cga_view": "Agar aapko bhi composite show cause notice mila hai, to is judgement ka reference deke clarification mangwayein ya challenge karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/kerala-hc-quashes-composite-gst-show-notice-multiple-years.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "SC: Sec 264 se return revise allowed nahi after deadline",
-          "detail": "Supreme Court ne bola ki section 264 ka use karke prescribed time ke baad return revise nahi ki ja sakti. HC ka remand set aside kar diya.",
-          "cga_view": "Deadline ke baad income tax return revise karne ki ummeed mat rakhein; planning aur filing time pe hi karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/section-264-cannot-revise-income-tax-return-prescribed-time-sc.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "ITAT Delhi: TPO se bina reference ALP decide nahi ho sakta",
-          "detail": "AO ne bina TPO reference ke ALP decide kiya tha, jo galat bola gaya. Case assessment dobara hoga.",
-          "cga_view": "Agar TP issue hai, to ensure karein ki AO TPO ko reference de, nahi to matter dobara open ho sakta hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/ao-cannot-determine-alp-without-tpo-reference-itat-delhi-restores-assessment.html"
         }
       ],
       "due_dates": []
