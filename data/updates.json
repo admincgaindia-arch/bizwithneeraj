@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-10-22T01:30:58.863Z",
+  "last_updated": "2026-10-23T01:31:03.893Z",
   "digests": [
+    {
+      "date": "2026-10-23",
+      "summary": "Aaj ki digest mein GST refunds aur exemption pe sarkari clarification, Income Tax penalty pe Delhi HC ka order aur LLP compliance ki due date hai. Abhi action lene wale points niche diye gaye hain.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "GST Refunds: Sarkari Clarifications After 57th Council Meet",
+          "detail": "Finance Ministry ne GST refund process pe major reforms bataye hain jaise fast acknowledgment, 90% automatic provisional refund, late payment pe interest, minimum Rs.1,000 refund limit aur naya ITC refund system. Yeh 57th GST Council ke baad announce hua hai.",
+          "cga_view": "Apne pending GST refund claims ka status check karo aur naye process ke hisaab se update raho. Interest ka benefit lene ke liye timely application file karo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/important-gst-refund-clarifications-by-finance-ministry-following-57th-gst-council-meeting"
+        },
+        {
+          "category": "GST",
+          "headline": "Coffee Curing GST Exemption Only Cultivators Ko Milegi: FinMin",
+          "detail": "Finance Ministry ne clarify kiya hai ki coffee curing pe proposed GST exemption sirf cultivators ko milegi, roasting ya aur processing covered nahi hain.",
+          "cga_view": "Agar aap coffee curing service provider ho, to exemption sirf cultivator-related services pe lagegi, roasting ke bill alag maintain karo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/gst-on-coffee-curing-finmin-clarifies-proposed-exemption-covers-services-to-cultivators-not-roasting"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Section 270A IT Penalty Pending ITAT Appeal Par Nahi Lagegi: Delhi HC",
+          "detail": "Delhi High Court ne bola, jab tak ITAT me assessment appeal pending hai tab tak Section 270A ki penalty nahi lagayi jaa sakti. Section 275(1)(a) cite hua hai.",
+          "cga_view": "Agar aapki quantum appeal ITAT me hai aur penalty notice mila hai to AO ko Section 275 cite karke penalty ko abeyance me daalne ke liye likho.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/section-270a-income-tax-penalty-cannot-be-passed-while-quantum-appeal-is-pending-before-itat-delhi-hc-read-order"
+        },
+        {
+          "category": "MCA / ROC",
+          "headline": "LLP Form 8 Filing ki Due Date 30 Oct 2026 Hai",
+          "detail": "LLP Form 8 ki last date 30 October 2026 hai for FY 2025-26. Time pe na file ki to late fees aur penalty lag sakti hai. Requirements aur procedure MCA portal pe hai.",
+          "cga_view": "Aapke LLP ka Form 8 abhi tak file nahi hua hai to turant prepare karwa lo, warna heavy late fees lagegi.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/llp-form-8-filing-due-date-30-october-2026-requirements-procedure-penalties.html"
+        }
+      ],
+      "due_dates": [
+        {
+          "date": "2026-10-30",
+          "what": "LLP Form 8 filing due date for FY 2025-26"
+        }
+      ]
+    },
     {
       "date": "2026-10-22",
       "summary": "Kuch naye GST ITC proposals discuss ho rahe hain aur Income Tax mein 80P deduction par 3 alag ITAT rulings aa chuki hain. Sab kuch abhi trade source ke basis par hai, official notification ka intezar hai.",
@@ -2786,58 +2834,6 @@
           "source_type": "trade",
           "source_name": "taxscan.in",
           "source_url": "https://www.taxscan.in/top-stories/mere-upload-of-gst-order-on-common-portal-does-not-trigger-appeal-limitation-without-proper-service-rajasthan-hc-condones-645-days-delay-read-order-1450305"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-08-18",
-      "summary": "Aaj GST aur Income Tax se related kuch important tribunal rulings aur ek naya disclosure scheme hain. Official circulars aaj nahi mile.",
-      "items": [
-        {
-          "category": "GST",
-          "headline": "Stock-transfer pe penalty nahi, agar tax due hi nahi",
-          "detail": "Tribunal ne bola Section 129 CGST Act ki penalty tab nahi lagegi jab goods pe koi tax payable nahi hai, chahe e-way bill na ho aur stock transfer ho.",
-          "cga_view": "Agar aap stock transfer kar rahe hain aur e-way bill miss ho gaya, toh check karein koi tax due hai ya nahi, unnecessary penalty se bach sakte hain.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/penalty-not-leviable-section-129-cgst-act-no-tax-payable.html"
-        },
-        {
-          "category": "GST",
-          "headline": "GST order appeal allowed kyunki taxpayer ko notice hi nahi tha",
-          "detail": "Telangana HC ne GST Section 74 order against appeal allow kar di, kyunki taxpayer ko pata hi nahi tha ki proceedings ho rahi hain, isliye delay bhi condone ho gaya.",
-          "cga_view": "Agar aapko GST order bina proper communication mila ho, toh appeal consider karein, delay bhi maaf ho sakta hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/telangana-hc-appeal-against-gst-order-due-taxpayers-lack-knowledge-proceedings.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Foreign assets ke liye naya disclosure scheme, 2026 rules notified",
-          "detail": "CBDT ne Foreign Assets Disclosure Scheme Rules, 2026 notify kar diye hain—isme valuation, eligibility aur filing ka process bataya gaya hai.",
-          "cga_view": "Agar aapke paas foreign assets hain, toh nayi scheme aur rules dhyan se padhke timely disclosure karein. Compliance miss na karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/foreign-assets-small-taxpayers-disclosure-scheme-rules-2026.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Section 87A ka rebate 111A STCG par bhi milega: Jaipur ITAT",
-          "detail": "Jaipur ITAT ne bola ki Assessment Year 2024-25 ke liye Section 111A ke short-term capital gains par bhi Section 87A ka rebate mil sakta hai, chahe CBDT circular kuch bhi kahe.",
-          "cga_view": "Agar aapka short-term capital gains 111A ke under hai, toh 87A rebate le sakte hain—return file karte waqt claim karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/jaipur-itat-87a-rebate-allowed-111a-stcg-ay-2024-25-cbdt-circular-13-2025-no-bar.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "High-turnover comparables exclude kiye ALP calculation mein: Bangalore ITAT",
-          "detail": "Bangalore ITAT ne ALP calculation ke liye 4 high-turnover comparables ko hata diya, aur TDS credit Form 26AS ke hisaab se allow ki.",
-          "cga_view": "Transfer pricing me high-turnover companies ko comparable na lein agar facts milte julte hain; Form 26AS ka TDS credit accurate claim karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/high-turnover-comparables-excluded-alp-bangalore-itat-grants-partial-relief.html"
         }
       ],
       "due_dates": []
