@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-10-22T02:15:32.226Z",
+  "last_updated": "2026-10-23T02:15:27.758Z",
   "days": [
+    {
+      "date": "2026-10-23",
+      "items": [
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Listed NCD compliance calendar guide for 2026",
+          "effective": "",
+          "what": "2026 ke liye listed Non-Convertible Debentures (NCD) par SEBI ki LODR filings, debenture trustee reports aur Companies Act ki requirements ka detailed calendar aaya hai. Timelines aur payment checklists bhi cover ki gayi hain.",
+          "who": "Wo companies jo listed NCD issue karti hain ya plan kar rahi hain.",
+          "action": "Aapki company listed NCD se judi hai to apne compliance team ko ye calendar check karne ko bolein, taaki saari filings time se ho jayein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/listed-ncd-compliance-calendar-2026-sebi-lodr-debenture-trustee-companies-act-requirements.html"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "Bank of India",
+          "ref": "",
+          "headline": "Harit Jama Yojana: 999 din ka green deposit option",
+          "effective": "",
+          "what": "Bank of India ne 999 din ke liye Harit Jama Yojana green deposit launch ki hai. Isme interest rate, senior citizen additions, premature closure, TDS aur DICGC cover ki detail di gayi hai.",
+          "who": "Customers jo Bank of India mein fixed deposit ya green deposit option dekh rahe hain.",
+          "action": "Agar aapko sustainable banking products chahiye, to branch ya website par Harit Jama Yojana details check karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/bank-india-harit-jama-yojana-999-day-green-deposit-rates-premature-closure-tds-dicgc-cover.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "NBFC registration ki complete guide aayi",
+          "effective": "",
+          "what": "NBFC kholne ki soch rahe hain to RBI ne eligibility, required capital, documents, PRAVAAH application process aur exemptions ki guide publish ki hai.",
+          "who": "Business ya professionals jo NBFC registration ka process samajhna chahte hain.",
+          "action": "NBFC banane ke liye eligibility list, capital requirements aur document checklist taxguru pe dekhein ya RBI ki guidelines follow karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/nbfc-registration-rbi-eligibility-procedure.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "Kotak Mahindra Bank ka callable fixed deposit update",
+          "effective": "",
+          "what": "Kotak Mahindra Bank ne naye callable fixed deposit option ki full details di hain, jisme 365 din se kam 15 mahine tak ka tenure hai. Rate, premature closure, DICGC cover aur tax treatment jaankari di gayi hai.",
+          "who": "Wo individuals ya businesses jo fixed deposit soch rahe hain ya product ko renew/update karna chahte hain.",
+          "action": "FD open karne se pehle tenure, premature closure aur DICGC insurance details check kar lein. Saari conditions branch/website pe hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/kotak-mahindra-bank-callable-fixed-deposit-365-days-15-months-rates-premature-closure-dicgc-tax.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Jio Platforms IPO 21 October se open hua",
+          "effective": "2026-10-21",
+          "what": "Jio Platforms ka IPO 21 October 2026 ko open hua hai. Price band, lot size, issue ki structure aur prospectus ki key details public ke liye available hai.",
+          "who": "Investors ya clients jo Jio Platforms ka IPO apply karna chahte hain.",
+          "action": "IPO mein invest karne se pehle official prospectus zarur padh lein. Application ki details aur risks samajh lein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/ipo/jio-platforms-ipo-opens-21-october-2026-price-band-lot-size-investor-risks.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "SBI ka overseas remittance profile update hua",
+          "effective": "",
+          "what": "SBI ne apni overseas remittance services (FxOUT, LRS, KYC, processing, cost, TCS) ki puri detail dali hai. YONO se bhi FX remittance possible hai.",
+          "who": "Wo log ya businesses jo State Bank of India se foreign remittance bhejna ya receive karna chahte hain.",
+          "action": "Remit karne se pehle KYC, process aur cost details SBI ki website pe thoroughly check karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/state-bank-india-overseas-remittance-profile-fxout-lrs-kyc-costs-tcs.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-22",
       "items": [
