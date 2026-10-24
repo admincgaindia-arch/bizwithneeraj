@@ -1,6 +1,95 @@
 {
-  "last_updated": "2026-10-23T02:15:27.758Z",
+  "last_updated": "2026-10-24T02:15:28.401Z",
   "days": [
+    {
+      "date": "2026-10-24",
+      "items": [
+        {
+          "cat": "Loan",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/FED/2026-27/298 A.P. (DIR Series) Circular. No 28/2026-27",
+          "headline": "FEMA compounding ab RBI ke Regional Office karega",
+          "effective": "2026-10-23",
+          "what": "Overseas investment, borrowing, lending aur guarantees ke FEMA compounding ke cases RBI ke Central Office ki jagah ab Regional Offices handle karenge. Kuch specific cases fir bhi Central Office me jayenge.",
+          "who": "Authorised Dealer Category-I banks aur doosre authorised persons jo FEMA contravention compounding file karte hain.",
+          "action": "Agar aap Overseas investment, loan, ya guarantee wali FEMA compounding file karna chahte hain to ab apne zone ke RBI Regional Office se rujoo karein. Latest process aur documents Regional Office se check karein.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13745&Mode=0"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI ne Automatic Route proposal diya MII activities ke liye",
+          "effective": "",
+          "what": "SEBI ne propose kiya hai ki stock exchanges aur depositories apni kuch related activities automatic route se kar sakenge. Isme financial limit aur governance safeguard honge.",
+          "who": "Stock exchanges, depositories aur financial market infrastructure institutions jo SEBI ke under aate hain.",
+          "action": "Agar aap MII (Market Infrastructure Institutions) se jude hai to aane wale update ka wait karein. Governance rules aur financial limits dhyan se dekhein jab yeh lagu ho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/automatic-route-related-mii-activities-proposed-sebi.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "2026 ka NCD compliance calendar SEBI ne release kiya",
+          "effective": "",
+          "what": "SEBI ne ek detailed compliance calendar diya hai listed NCD (Non-Convertible Debenture) issuers ke liye, jisme LODR filing, debenture trustee reporting, Companies Act ke requirements, timeline aur payment checklist shamil hai.",
+          "who": "Sabhi listed NCD issuers aur unke compliance/advisory teams.",
+          "action": "Aap apne compliance team se 2026 ki sari SEBI LODR aur debenture trustee deadlines aur checklist confirm karwa lein. Naya calendar refer karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/listed-ncd-compliance-calendar-2026-sebi-lodr-debenture-trustee-companies-act-requirements.html"
+        },
+        {
+          "cat": "Loan",
+          "authority": "Taxguru (Indian Overseas Bank info)",
+          "ref": "",
+          "headline": "IOB Eighty Plus term deposit: Senior citizens special FD",
+          "effective": "",
+          "what": "Indian Overseas Bank ka Eighty Plus term deposit 80+ age ke customers ke liye hai. Saare details, rate, tenure, premature closure, loan, TDS aur DICGC coverage diye gaye hain.",
+          "who": "Sirf Indian Overseas Bank ke 80+ saal ke senior citizen customers.",
+          "action": "Agar aap ya aapke client 80+ hain to IOB branch se term deposit ki sari sharte samjhein. Loan, TDS aur premature closure ke terms bhi check karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/indian-overseas-bank-iob-term-deposit-rates-tenure-loan-tds-dicgc.html"
+        },
+        {
+          "cat": "MSME",
+          "authority": "Taxguru (FEMA ODI rules explainer)",
+          "ref": "",
+          "headline": "UAE company ko fund karne ke rules: Equity vs Loan",
+          "effective": "",
+          "what": "Agar aap India se UAE company mein paisa daalte hain to FEMA ODI (Overseas Direct Investment) ke rules lagte hain. Equity ya loan dono ki apni alag requirements hain.",
+          "who": "Jo entrepreneur, business owner ya MSME UAE mein company ko fund karna chahte hain, chahe equity ya shareholder loan ke through.",
+          "action": "Funding se pehle FEMA ODI limits, documentation aur UAE tax aur transfer pricing rules ka dhyan se analysis karein ya expert se consult karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/funding-uae-company-india-equity-loan-fema-tax.html"
+        },
+        {
+          "cat": "Other",
+          "authority": "Taxguru (HDFC Bank info)",
+          "ref": "",
+          "headline": "HDFC Bank ke outward remittance service ka profile",
+          "effective": "",
+          "what": "HDFC Bank ke RemitNow service ke through paisa bahar bhejna, eligibility, KYC, fees, processing, reject hone ki wajah aur grievance ka process diya gaya hai.",
+          "who": "Jo HDFC Bank ke through outward remittance karte hain ya karna chahte hain, including individuals aur businesses.",
+          "action": "RemitNow use karne se pehle sab eligibility criteria, KYC document, fee structure aur grievance redressal procedure bank se confirm karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/hdfc-bank-remitnow-authorisation-outward-remittance-kyc-charges-tcs-grievances.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI Early Pay-In Margin Waiver: Cash segment brokers ke liye guide",
+          "effective": "",
+          "what": "SEBI ne cash segment main early pay-in margin waiver aur uski implementation controls explain kiye hain. Real-time value, reversal, collateral blocking aur compliance steps samjhae hain.",
+          "who": "Cash segment brokers, clearing members aur unke compliance team.",
+          "action": "Aapke systems aur internal controls waiver guidelines ke according update hain ya nahi, ye audit karwa lein. Waiver 22 Feb 2027 se pehle applicable hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-early-pay-margin-waiver-cash-segment-broker-controls-22-february-2027.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-23",
       "items": [
