@@ -1,6 +1,49 @@
 {
-  "last_updated": "2026-10-23T01:31:03.893Z",
+  "last_updated": "2026-10-24T01:30:58.691Z",
   "digests": [
+    {
+      "date": "2026-10-24",
+      "summary": "Aaj mostly Income Tax aur GST ke court judgments news mein hain. Compliance ya major notification ka item nahi hai.",
+      "items": [
+        {
+          "category": "Income Tax",
+          "headline": "Foreign Tax Credit Allowed Despite Late Form 67",
+          "detail": "ITAT Rajkot ne yeh bola ki Form 67 late bhare hone par bhi foreign tax credit mil sakta hai. Sirf procedural delay ki wajah se credit deny nahi ho sakta.",
+          "cga_view": "Agar aapka Form 67 late file ho gaya toh appeal mein try karein, precedent favour mein hai. Lekin timely filing best hai.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/foreign-tax-credit-allowed-late-form-67-submission-itat.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Order u/s 129(3) Delay: Calcutta HC Quashes Penalty",
+          "detail": "Calcutta HC ne GST ke detained vehicles par Section 129(3) ka order 7 din ke baad pass hua, toh penalty ko quash kar diya. Vehicles release ki order di gayi.",
+          "cga_view": "Agar goods detention mein statutory timelines miss ho rahi hai toh relief ke liye court ja sakte hain.",
+          "source_type": "trade",
+          "source_name": "TaxScan",
+          "source_url": "https://www.taxscan.in/gst/order-us-1293-passed-beyond-7-days-calcutta-hc-quashes-gst-proceedings-orders-to-release-vehicles-read-order"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Faceless Assessment Order after 31 March 2021 Invalid: Delhi HC",
+          "detail": "Delhi HC ne faceless assessment order (15 April 2021) ko quash kara, kyunki 1 April 2021 ke baad Section 144B process follow karna tha, jo nahi hua.",
+          "cga_view": "1 April 2021 ke baad ka assessment notice mila ho aur sahi process follow na ho toh challenge possible hai.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/faceless-assessment-order-passed-31-march-2021-section-143-3a-quashed-delhi-hc.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GST Portal Block Par Telangana HC allowed Physical Filing",
+          "detail": "Agar GST portal late revocation application reject karta hai, toh taxpayer ko physical filing ki permission mil sakti hai, HC ne allow kiya.",
+          "cga_view": "Portal se problem aayi ho toh department ko physical application dekar documented approach rakho.",
+          "source_type": "trade",
+          "source_name": "TaxScan",
+          "source_url": "https://www.taxscan.in/gst/gst-portal-blocks-delayed-revocation-plea-telangana-hc-allows-physical-filing-of-application-read-order"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-10-23",
       "summary": "Aaj ki digest mein GST refunds aur exemption pe sarkari clarification, Income Tax penalty pe Delhi HC ka order aur LLP compliance ki due date hai. Abhi action lene wale points niche diye gaye hain.",
@@ -2800,40 +2843,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/service-tax/cestat-kolkata-sets-service-tax-demand-based-solely-cbdt-data.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-08-19",
-      "summary": "Aaj mostly GST aur Income Tax ke kuch important tribunal/court rulings aaye hain. Government ka koi new official circular nahi hai. Reporting mein clarity important hai.",
-      "items": [
-        {
-          "category": "Ruling",
-          "headline": "GST exclusion: ITAT ne Section 271B penalty hatai",
-          "detail": "Mumbai ITAT ne kaha ki assessee ne apni turnover se GST hata, penalty nahi lagi kyunki uska yakin genuine tha. Yeh un logon par lagu hai jo GST ko tax audit turnover se exclude karte hain.",
-          "cga_view": "Agar aapne GST ko exclude kiya aur penalty notice aayi, to ab tribunal ke is ruling ka reference de sakte hain. Par final view department pe depend karega.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/gst-exclusion-turnover-tax-audit-penalty-mumbai-itat-deletes-section-271b-penalty.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Bangalore ITAT: High-turnover comparables ALP mein exclude hue",
-          "detail": "ITAT ne kuch high-turnover companies ko ALP se hata diya aur TDS credit bhi allow ki, as per Form 26AS. Transfer pricing matters mein relevant hai.",
-          "cga_view": "ALP calculation mein agar comparables ka turnover bahut zyada hai, to aap bhi yeh reasoning try kar sakte hain. TDS credit galat show ho raha hai to ITAT order ka reference den.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/high-turnover-comparables-excluded-alp-bangalore-itat-grants-partial-relief.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "GST order ki sirf portal upload se appeal limitation start nahi hoti: Rajasthan HC",
-          "detail": "Rajasthan High Court ne 645 din ki delay allow ki, bola proper service nahi hui thi toh sirf portal par order dalne se appeal ki limitation start nahi hoti.",
-          "cga_view": "Agar order ki physical ya proper service nahi hui aur appeal ki time limit miss ho gayi hai, toh yeh HC ka decision helpfull ho sakta hai. Appeal file karte samay is order ka reference dein.",
-          "source_type": "trade",
-          "source_name": "taxscan.in",
-          "source_url": "https://www.taxscan.in/top-stories/mere-upload-of-gst-order-on-common-portal-does-not-trigger-appeal-limitation-without-proper-service-rajasthan-hc-condones-645-days-delay-read-order-1450305"
         }
       ],
       "due_dates": []
