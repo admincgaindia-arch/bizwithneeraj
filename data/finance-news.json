@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-10-24T02:15:28.401Z",
+  "last_updated": "2026-10-25T02:15:27.805Z",
   "days": [
+    {
+      "date": "2026-10-25",
+      "items": [
+        {
+          "cat": "Loan",
+          "authority": "Reserve Bank of India",
+          "ref": "A.P. (DIR Series) Circular. No 28/2026-27",
+          "headline": "FEMA contravention compounding ab regional offices handle karengi",
+          "effective": "2026-10-23",
+          "what": "Ab RBI ki Central Office ki jagah, overseas investment, loan, lending aur guarantees se judi FEMA contraventions ka compounding Regional Offices karegi, kuch specific cases ko chhod ke.",
+          "who": "Authorised Dealer Category-I banks aur jo log overseas investment, borrowing, lending ya guarantee se judi transactions karte hain.",
+          "action": "Agar aapko FEMA contravention compounding karani hai to ab apne regional RBI office se sampark karo, Central Office ke bajaye.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13745&Mode=0"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "Indian Overseas Bank",
+          "ref": "",
+          "headline": "IOB Eighty Plus term deposit: 80+ ke liye khaas FD scheme",
+          "effective": "",
+          "what": "Indian Overseas Bank ne 80 saal se upar ke logon ke liye 'Eighty Plus' term deposit scheme chalayi hai. Guide mein term deposit ke rate, tenure, loan, TDS aur insurance ki jaankari di gayi hai.",
+          "who": "Wo customers jo 80 saal ya usse zyada ke hain aur IOB me deposit khulwana chahte hain.",
+          "action": "Agar aap ya aapke parivar me koi 80+ hai, to IOB ki local branch se Eighty Plus deposit scheme ki detail puchh sakte hain.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/indian-overseas-bank-iob-term-deposit-rates-tenure-loan-tds-dicgc.html"
+        },
+        {
+          "cat": "Loan",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "UAE company funding - equity ya loan? FEMA rules samjho",
+          "effective": "",
+          "what": "India se UAE company ko fund karne ke liye equity ya loan dono ka option hai. Guide mein FEMA ODI rules, net worth limit, shareholder loan ki rules aur UAE tax samjhaya gaya hai.",
+          "who": "Wo Indian businesses ya investors jo UAE me company ko directly fund karna chahte hain.",
+          "action": "Agar UAE me company ko fund kar rahe hain, to latest FEMA ODI rules aur loan/equity related guidelines zaroor check karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/funding-uae-company-india-equity-loan-fema-tax.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI propose karta hai automatic route stock exchange aur depository ke liye",
+          "effective": "",
+          "what": "SEBI ne ek naya proposal diya hai jisme stock exchange aur depository apne kuch related kaam automatic route se kar sakte hain. Ismein financial limit aur governance safeguard bhi honge.",
+          "who": "Stock exchanges, depositories aur unke regulated activities me kaam karne wale businesses.",
+          "action": "Agar aap exchange ya depository business se jude hain to proposal ki detail SEBI ki website par check karo, taki future compliance plan kar sako.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/automatic-route-related-mii-activities-proposed-sebi.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Listed NCDs ke liye 2026 ka compliance calendar jaari",
+          "effective": "",
+          "what": "SEBI ne listed Non-Convertible Debentures (NCDs) ke liye naya compliance guide jaari kiya hai. Isme LODR filings, debenture trustee reports aur Companies Act requirements ki detail deadlines hai.",
+          "who": "Jitni bhi companies listed NCDs issue karti hain ya debenture trustees jo SEBI compliant hain.",
+          "action": "Aapki company listed NCD se judi hai to compliance calendar mein diye gaye filings aur requirements dekh lo aur schedule bana lo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/listed-ncd-compliance-calendar-2026-sebi-lodr-debenture-trustee-companies-act-requirements.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-24",
       "items": [
