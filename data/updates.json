@@ -1,6 +1,49 @@
 {
-  "last_updated": "2026-10-24T01:30:58.691Z",
+  "last_updated": "2026-10-25T01:30:58.595Z",
   "digests": [
+    {
+      "date": "2026-10-25",
+      "summary": "Aaj ke major updates GST aur Income Tax par courts ke latest judgments aur kuch reforms pe focus hain. Business owners ko compliance aur documents proper rakhne pe dhyan dena chahiye.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "Defective GST hearing: Fresh adjudication needed",
+          "detail": "GSTAT Raipur ne ₹1.09 lakh e-way bill penalty ke case mein kaha ki defective hearing aur bina wajah order banane par matter wapas adjudication ke liye jayega. Notice abhi valid hai aur liability pending hai.",
+          "cga_view": "Agar aapka order bina personal hearing ya proper reason ke pass hua hai to fresh hearing ka chance mil sakta hai. Apne papers ready rakho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/defective-hearing-unreasoned-penalty-order-require-fresh-adjudication-gstat-raipur.html"
+        },
+        {
+          "category": "GST",
+          "headline": "E-way bill expiry par tax evasion nahi to penalty nahi",
+          "detail": "Jharkhand HC ne GST demand aur penalty quash kar di jab e-way bill Diwali ke din expire ho gaya tha aur koi tax evasion ka irada nahi tha.",
+          "cga_view": "Agar aap par sirf expired e-way bill ki wajah se penalty lagi hai aur koi tax evasion nahi hai to court relief mil sakti hai. Proper explanation/proof submit karo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/bill-expiry-without-tax-evasion-cannot-justify-gst-penalty-jharkhand-hc.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GST registration rejection: Wrong portal verification par Court ka stay",
+          "detail": "Calcutta HC ne GST registration rejection ko quash kiya jab verification galat municipal portal par hua, jabki business registration sahi tha.",
+          "cga_view": "Agar GST registration galat verification ki wajah se refuse ho toh Court se relief ka option hai. Sab records aur registrations sahi rakhna zaroori hai.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/calcutta-hc-quashes-rejection-of-gst-registration-as-verification-done-on-wrong-municipal-portal-despite-valid-business-registration-records-read-order"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "No penalty u/s 271 if extra income disclosed, no evasion",
+          "detail": "Gujarat HC ne yeh kaha ki agar aap additional income voluntarily disclose karte ho aur tax evasion nahi karta toh penalty section 271(1)(c) nahi lagegi.",
+          "cga_view": "Agar aap voluntary disclosure kar rahe ho aur koi evasion ka element nahi hai toh penalty nahi lagni chahiye. Disclosure documentation sambhal ke rakho.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/penalty-us-271-of-income-tax-act-not-leviable-when-disclosure-of-additional-income-results-in-no-tax-evasion-gujarat-hc-quashes-itat-order-read-order"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-10-24",
       "summary": "Aaj mostly Income Tax aur GST ke court judgments news mein hain. Compliance ya major notification ka item nahi hai.",
@@ -2809,40 +2852,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/income-tax/wrong-exemption-section-itr-cannot-deny-section-10-26aab-benefit-itat-lucknow.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-08-20",
-      "summary": "Aaj ka digest mein key court rulings aur income tax ke practical points cover kiye gaye hain. Sab items high-impact aur relevant hain, trade press se liye gaye kyunki aaj official release nahi aayi.",
-      "items": [
-        {
-          "category": "Ruling",
-          "headline": "Arbitral Damages GST ke under taxable nahi: Bombay HC",
-          "detail": "Bombay High Court ne bola ki arbitral award ka damages ya settlement GST supply nahi maana jayega. Matlab yeh compensation section 7 CGST Act ke andar taxable nahi hai.",
-          "cga_view": "Agar aapko business dispute mein damages mile hain toh GST ka liability ya return mein supply treat mat karo. Lekin similar disputes mein case facts check kar lo.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/arbitral-damages-enforcement-proceedings-settlement-not-taxable-gst-supply-bombay-hc.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "TDR Exchange par capital gain lagega: ITAT ka decision",
-          "detail": "ITAT ke according, agar aap existing land/building surrender karke TDR rights lete ho aur bechte ho, toh yeh transfer capital gain head mein taxable hai. Section 45 apply hoga.",
-          "cga_view": "Agar aap TDR rights mein deal kar rahe ho toh capital gain calculation properly karo, supporting documents sambhal ke rakho. Surrender ka nature clear maintain karo.",
-          "source_type": "trade",
-          "source_name": "taxscan.in",
-          "source_url": "https://www.taxscan.in/top-stories/tdr-sale-taxable-as-capital-gain-where-existing-land-and-building-surrendered-in-exchange-for-acquiring-rights-itat-1450346"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Sirf CBDT data pe Service Tax demand nahi chal sakta: CESTAT",
-          "detail": "CESTAT Kolkata ne Service Tax demand set aside kar diya kyunki sirf CBDT/26AS data pe hi basis tha, independent verification nahi tha. Evidence aur due process ka hona zaroori hai.",
-          "cga_view": "Agar aapke against only data-mismatch ki wajah se Service Tax demand aayi hai toh evidence aur proper procedure ki demand karo. Apne representation strong banao.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/service-tax/cestat-kolkata-sets-service-tax-demand-based-solely-cbdt-data.html"
         }
       ],
       "due_dates": []
