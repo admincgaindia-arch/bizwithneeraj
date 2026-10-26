@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-10-25T02:15:27.805Z",
+  "last_updated": "2026-10-26T02:15:26.325Z",
   "days": [
+    {
+      "date": "2026-10-26",
+      "items": [
+        {
+          "cat": "Loan",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "FEMA compounding ab Regional Offices sambhalenge",
+          "effective": "",
+          "what": "RBI ne FEMA compounding ka kaam, jaise overseas investment, borrowing, lending aur guarantee violations, apne Regional Offices ko diya hai. Kuch special categories Central Office rakhega.",
+          "who": "Jo log ya companies overseas investment, loan, lending ya guarantee FEMA ke tahat karte hain.",
+          "action": "Agar aapne FEMA contravention kiya hai to compounding ke liye ab apne jurisdiction ke RBI Regional Office se baat karein. Central Office ki requirement sirf kuch special cases mein hogi.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/fema-compounding-overseas-investments-loans-guarantees-delegated-regional-offices-rbi.html"
+        },
+        {
+          "cat": "Loan",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/FED/2026-27/298 A.P. (DIR Series) Circular. No 28/2026-27",
+          "headline": "FEMA contravention compounding: Ab RBI regional office karega",
+          "effective": "",
+          "what": "Ab overseas investment, borrowing, lending ya guarantee se related FEMA contravention ka compounding RBI ke Regional Office karega, pehle yeh kaam Central Office karta tha.",
+          "who": "Har Authorised Dealer (AD) Category-I bank aur koi bhi jo FEMA ke under aata hai.",
+          "action": "Agar aapka compounding case hai to ab sahi Regional Office identify karein. Documents wahin jama karne honge, pehle Central Office jate the.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13745&Mode=0"
+        },
+        {
+          "cat": "Loan",
+          "authority": "Indian Overseas Bank",
+          "ref": "",
+          "headline": "IOB ne 80+ customers ke liye ‘Eighty Plus’ term deposit diya",
+          "effective": "",
+          "what": "Indian Overseas Bank ne 80 saal se upar ke customers ke liye ‘Eighty Plus’ term deposit scheme shuru ki hai. Ismein deposit tenure, TDS, loan aur premature closure jaisi details cover hoti hain.",
+          "who": "Sirf Indian Overseas Bank ke customers jo 80 saal ya usse zyada ke hain.",
+          "action": "Agar aap ya aapke client 80+ hain to IOB se scheme ki poori details aur terms check karein. Loan ya premature withdrawal ke option samjhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/indian-overseas-bank-iob-term-deposit-rates-tenure-loan-tds-dicgc.html"
+        },
+        {
+          "cat": "Loan",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI: Early pay-in margin waiver cash segment ke liye",
+          "effective": "",
+          "what": "SEBI ne cash segment mein early pay-in margin par waiver ki guide line di hai. Broker ko eligibility, value, collateral block aur reversal ka control rakhna hoga.",
+          "who": "Stock market ke cash segment brokers par yeh lagu hota hai.",
+          "action": "Brokers apne risk, collateral aur pay-in margin ka control system abhi implement karein, taaki SEBI ke guidelines follow ho sakein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-early-pay-margin-waiver-cash-segment-broker-controls-22-february-2027.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI ne stock exchanges ke liye automatic route propose kiya",
+          "effective": "",
+          "what": "SEBI propose kar raha hai ki stock exchanges aur depositories kuch related activities automatic route se kar sakein, par yah financial limit aur governance safeguard ke saath hoga.",
+          "who": "Yeh proposal stock exchanges, depositories aur market infrastructure institutions par hoga.",
+          "action": "Stock exchanges ya depositories apni eligibility aur compliance requirement SEBI ki final notification aate hi check karen.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/automatic-route-related-mii-activities-proposed-sebi.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Listed NCD compliance ka naya calendar release hua",
+          "effective": "",
+          "what": "Ab listed NCD issuers ko SEBI LODR, debenture trustee reports aur Companies Act requirements follow karne ke liye updated calendar aur checklist mil gaya hai.",
+          "who": "Sabhi listed Non Convertible Debenture (NCD) issuers aur unke debenture trustees.",
+          "action": "Aap listed NCD issue karte hain to naya compliance calendar download karen. Sab deadline aur reporting document cross-check karen.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/listed-ncd-compliance-calendar-2026-sebi-lodr-debenture-trustee-companies-act-requirements.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-25",
       "items": [
