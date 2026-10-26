@@ -1,6 +1,63 @@
 {
-  "last_updated": "2026-10-25T01:30:58.595Z",
+  "last_updated": "2026-10-26T01:31:00.124Z",
   "digests": [
+    {
+      "date": "2026-10-26",
+      "summary": "Aaj GST aur Income Tax se judi 5 kaafi important legal rulings aur compliance updates aaye hain. Official notification aaj nahi mila, sab news trade sources se hai - toh final compliance ya action verification jaroor kar lena.",
+      "items": [
+        {
+          "category": "Ruling",
+          "headline": "Allahabad HC ne GST Rule 96(10) pe action rok diya",
+          "detail": "Allahabad High Court ne woh GST proceedings set aside ki, jo omitted Rule 96(10) par base thi, kyunki saving clause nahi tha. Supreme Court ke Goodluck India judgment ke baad yeh action liya gaya.",
+          "cga_view": "Agar aapke khilaaf bhi similar GST demand ya proceedings hai Rule 96(10) basis par, toh apne consultant se High Court decision ka benefit lene ke liye turant soch-vichaar karein.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-proceedings-omitted-rule-96-10-cannot-continue-without-saving-clause-allahabad-hc.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Section 148 notice bina sign hua toh reassessment invalid: ITAT Hyd.",
+          "detail": "ITAT Hyderabad ne assessment year 2015-16 ka reassessment cancel kiya kyunki Section 148 notice par na manual na digital sign the AO ke. Notice valid nahin maana.",
+          "cga_view": "Aapke case mein bhi unsigned ya defective reassessment notice mila ho toh appeal/dispute process shuru karein - jurisdictional defect pe kaafi strong case hoga.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/income-tax/unsigned-section-148-notice-invalidates-reassessment-lack-jurisdiction-itat-hyderabad.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "GSTAT Raipur: E-way bill penalty dubara sunwai hogi",
+          "detail": "GSTAT Raipur ne defective hearing aur bina detail explanation wale penalty order ko fresh adjudication ke liye bhej diya. Yani, penalty notice abhi bhi survive karta hai.",
+          "cga_view": "Agar kisi penalty order mein proper hearing/proper reason nahi diya gaya hai, toh aapko appeal ka mauka mil sakta hai. Dubara sunwai ki demand karein.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/defective-hearing-unreasoned-penalty-order-require-fresh-adjudication-gstat-raipur.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Allahabad HC ne GST fraud case mein lawyer ko bail di",
+          "detail": "Allahabad High Court ne ek GST lawyer ko bail di fake ITC case mein, unki zimmedari documents process karne tak seemit paayi gayi.",
+          "cga_view": "Agar aap indirect way mein kisi GST dispute mein fas gaye ho toh apni real role aur zimmedari clear karna crucial hai. Direct involvement prove na ho toh bail mil sakti hai.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/allahabad-hc-grants-bail-gst-lawyer-accused-crores-worth-fake-itc-fraud.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Bombay HC: CGST officer ki gawahi construction invoice case mein",
+          "detail": "Bombay HC (Goa bench) ne ek construction invoice dispute mein CGST officer ko court bulane ki permission di, jab RTI se response nahi mila. College principal ko nahi bulaya gaya.",
+          "cga_view": "Agar GST case mein record evidence mil nahi raha toh officer ko summon karna ek legal option ho sakta hai, lekin justification strong hona chahiye.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/corporate-law/cgst-officers-evidence-relevant-disputed-construction-invoices-bombay-hc-goa.html"
+        }
+      ],
+      "due_dates": [
+        {
+          "date": "2026-10-31",
+          "what": "Form 3CEB (Transfer Pricing Report) ki due date AY 2026-27 ke liye"
+        }
+      ]
+    },
     {
       "date": "2026-10-25",
       "summary": "Aaj ke major updates GST aur Income Tax par courts ke latest judgments aur kuch reforms pe focus hain. Business owners ko compliance aur documents proper rakhne pe dhyan dena chahiye.",
@@ -2818,40 +2875,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/income-tax/madras-hc-upholds-section-148-reassessment-notice-ay-2015-16-limitation.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-08-21",
-      "summary": "Aaj ka digest mein only court rulings hain, zyada tar GST aur income tax ke recent cases par. Official announcements nahi hain, sirf trade press se news hai, toh business owners abhi direct action na le, lekin apne cases aur notices ko check kar lein.",
-      "items": [
-        {
-          "category": "Ruling",
-          "headline": "SGST notice ke baad bhi pehle CGST case valid: Delhi HC",
-          "detail": "Delhi HC ne bola ki agar CGST ki proceedings pehle shuru hui thi, toh baad mein aayi SGST notice se wo nullify nahi hoti. Section 6(2)(b) ka aisa koi bar nahi hai.",
-          "cga_view": "Agar aapke against pehle CGST aur baad mein SGST notice aya hai, toh dono ki validity check karen—sirf is base pe challenge na karein ki ek authority already action le chuki thi.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/prior-cgst-proceedings-not-barred-sgst-notices-delhi-hc.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "GST refund delay pe interest milega, naya certificate nahi chahiye: Telangana HC",
-          "detail": "Telangana HC ne bola ki agar refund pe interest claim karna hai aur refund already sanction ho chuka hai, toh dubara certification ki zarurat nahi.",
-          "cga_view": "Agar GST refund aapko late mila hai, toh bina kisi extra document ke interest claim request karein. Bas sanctioned refund proof ready rakhein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/interest-payable-delayed-gst-refunds-fresh-certification-not-required-telangana-hc.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "ITR me galat exemption section bhara? Section 10(26AAB) benefit phir bhi mil sakta hai",
-          "detail": "ITAT Lucknow ne bola ki agar taxpayer ne galat section me exemption claim kiya but eligible hai, toh AO ko sahi section dekh ke benefit dena chahiye.",
-          "cga_view": "Agar aap ya aapka client galti se ITR me exemption ki galat section bhar deta hai, toh eligibility proof ke saath AO ke samne apni claim present karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/wrong-exemption-section-itr-cannot-deny-section-10-26aab-benefit-itat-lucknow.html"
         }
       ],
       "due_dates": []
