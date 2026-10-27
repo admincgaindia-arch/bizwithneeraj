@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-10-26T01:31:00.124Z",
+  "last_updated": "2026-10-27T01:31:00.392Z",
   "digests": [
+    {
+      "date": "2026-10-27",
+      "summary": "Aaj majority updates GST aur Income Tax se related court rulings hain. Sab items trade press se hain, koi nayi official govt release nahi aayi lag rahi.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "Personal hearing mandatory in GST assessment: Madras HC",
+          "detail": "Madras HC ne GST assessment order ko set aside kiya, kyunki personal hearing nahi hui thi. Court ne fresh proceedings aur objections ka mauka diya hai.",
+          "cga_view": "Agar aapke khilaaf bina personal hearing ke GST order aata hai to turant appeal karein. Law aapke favor mein hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-assessment-order-without-personal-hearing-set-madras-high-court.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "GST credit irrecoverable after project can be expense: ITAT",
+          "detail": "ITAT Ahmedabad ne GST credit jo project completion ke baad recover nahi ho paya, use business expenditure maana hai. Kisi bhi double deduction claim ka verification bhi hoga.",
+          "cga_view": "Agar aapka GST credit irrecoverable hai, to records sambhal ke rakhein aur deduction ka claim return mein sahi tarah dikhayein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/gst-credit-irrecoverable-project-completion-deductible-business-cost-itat-ahmedabad.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Section 14A amendment only prospectively valid: Gauhati HC",
+          "detail": "Gauhati High Court ne decide kiya ki 2022 ka Section 14A amendment sirf aage ke assessments par lagega, pichle cases pe nahi. Kuch ITAT orders ko set aside bhi kiya gaya hai.",
+          "cga_view": "Agar aapka case Section 14A amendment se affected hai, to judge ke order ka reference use karein previous years ke appeals/disputes mein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/section-14a-amendment-finance-act-2022-prospective-gauhati-high-court.html"
+        },
+        {
+          "category": "GST",
+          "headline": "200% GST penalty on e-way bill typo quashed: Madras HC",
+          "detail": "Madras HC ne simple typographical mistake par lagayi 200% GST penalty ko set aside kar diya hai. Refund ka order bhi diya gaya hai.",
+          "cga_view": "E-way bill mein choti galti par agar penalty lage to high court ke is order ka reference use karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/bill-typographical-error-cannot-justify-200-percent-gst-penalty-madras-hc.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Multiple e-way bills for one invoice: Madras HC remand",
+          "detail": "Madras HC ne 1 invoice ke liye 11 e-way bills ke mamle mein ₹3.99 crore ki GST demand ko fresh evidence ke liye wapas adjudication bheja hai.",
+          "cga_view": "Agar aapka e-way bill discrepancy case mein demand raise ho to, court ka yeh ruling strong point ho sakta hai fresh hearing mein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/rs-3-99-crore-gst-demand-multiple-bills-invoice-remanded-madras-hc.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Revival of cancelled GST registration possible: J&K&L HC",
+          "detail": "Jammu & Kashmir & Ladakh HC ne dealer ko time-barred appeal ke bawajood cancelled GST registration revive karne ki ijazat di hai.",
+          "cga_view": "Agar GST registration cancel ho gaya hai aur appeal late ho gayi hai, tab bhi revival ki legal possibility hai. Professional help se draft karein.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/jkl-hc-allows-dealer-to-seek-revival-of-cancelled-gst-registration-even-after-filing-time-barred-appeal-read-order"
+        },
+        {
+          "category": "GST",
+          "headline": "GST appeal delay condoned for genuine hardships: Allahabad HC",
+          "detail": "Allahabad HC ne husband ki illness and death ki wajah se late hui GST appeal ko accept kar liya, Rs. 20,000 cost ke sath, aur reject order hata diya hai.",
+          "cga_view": "Agar aapki appeal genuine hardship ke wajah se delay ho gayi ho toh court ki observation ka use karein.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/husbands-critical-illness-and-death-delayed-gst-appeal-filing-allahabad-hc-condones-delay-imposes-rs-20k-costs-read-order"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-10-26",
       "summary": "Aaj GST aur Income Tax se judi 5 kaafi important legal rulings aur compliance updates aaye hain. Official notification aaj nahi mila, sab news trade sources se hai - toh final compliance ya action verification jaroor kar lena.",
@@ -2823,58 +2893,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/custom-duty/cestat-ahmedabad-sets-igst-demand-advance-authorisation-imports.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-08-22",
-      "summary": "Aaj ke digest mein GST aur income tax se jude court rulings, aur TDS par ek CBDT explanation hai. Official notification ka intezaar abhi bhi hai, isliye har cheez ko last confirm na maane.",
-      "items": [
-        {
-          "category": "Ruling",
-          "headline": "IGST galat head mein hone par adjust ho sakta hai: Karnataka HC",
-          "detail": "Karnataka High Court ne GST demand khatam ki aur bola ki agar IGST galat head mein pay hua hai, toh CGST/SGST liability ke against adjust ho sakta hai; ab fresh consideration hoga.",
-          "cga_view": "Agar client se galat GST head mein payment ho gaya hai, toh department se adjustment ke liye proper representation karein, par official order dekhein, har state ka approach alag ho sakta hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/karnataka-hc-adjustment-igst-paid-wrong-head-against-cgst-sgst.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Delhi HC: SGST notice baad mein aane par CGST proceedings valid",
-          "detail": "Delhi High Court ne decide kiya ki agar CGST proceedings pehle shuru ho gayi hai, toh baad mein SGST notice aane par bhi CGST action bar nahi hota.",
-          "cga_view": "Parallel GST notices aaye hain toh confuse mat ho, dono alag chal sakte hain - reply har department ko timely de.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/prior-cgst-proceedings-not-barred-sgst-notices-delhi-hc.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "AIS & TIS ka use, galat entry par feedback ka option",
-          "detail": "Income Tax department ne AIS & TIS information aur taxpayer feedback process samjhaya hai. Feedback se ITR auto-pre-fill mein bhi help milegi.",
-          "cga_view": "AIS/TIS portal check kar ke galat entry pe turant feedback dalein, taki ITR mein correct info jaye. Har client ka review karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/ais-tis-income-tax-information-taxpayer-feedback.html"
-        },
-        {
-          "category": "TDS",
-          "headline": "TDS on Non-resident payment: CBDT ki samjhayi hui guide",
-          "detail": "CBDT ne ek brochure release kiya hai jisme non-residents ko payment par TDS kaise katega (section 195) aur lower/nil deduction certificate (section 197) ka process bataya gaya hai.",
-          "cga_view": "Foreign payment plan ho toh latest CBDT material dekhein; lower/nil deduction ke liye timely application file karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/tds-payments-non-residents-nil-deduction-certificate-sections-195-197.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Madras HC: AY 2015-16 Section 148 notice allowed, limitation mein",
-          "detail": "Madras High Court ne section 148A(d) ka order aur section 148 notice (AY 2015-16) ko sahi mana hai, yeh proceedings limitation period mein aayi thi.",
-          "cga_view": "Agar old years ke liye 148 notice aayi ho toh High Court precedent check kar ke reply karein; challenge ka ground limited hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/madras-hc-upholds-section-148-reassessment-notice-ay-2015-16-limitation.html"
         }
       ],
       "due_dates": []
