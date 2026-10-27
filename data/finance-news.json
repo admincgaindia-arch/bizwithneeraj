@@ -1,6 +1,59 @@
 {
-  "last_updated": "2026-10-26T02:15:26.325Z",
+  "last_updated": "2026-10-27T02:15:25.651Z",
   "days": [
+    {
+      "date": "2026-10-27",
+      "items": [
+        {
+          "cat": "Scheme",
+          "authority": "DPIIT",
+          "ref": "",
+          "headline": "Startup India Recognition details for 2026",
+          "effective": "",
+          "what": "2026 ke liye Startup India Recognition ke rules aaye. Ismein eligibility, deep tech rules, turnover, tax benefits, required documents aur apply karne ka process cover hai.",
+          "who": "Naye startups jo DPIIT se apni recognition lena chahte hain, especially deep tech wale businesses.",
+          "action": "Agar naya startup plan kar rahe ho, eligibility check karo. DPIIT ki site se documents aur apply process samjho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/startup-india-recognition-eligibility-benefits-documents-dpiit-application-process.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "UAE company disinvestment ke liye FEMA ODI rules",
+          "effective": "",
+          "what": "UAE company se exit ya disinvestment ke case mein FEMA ke under ODI rules follow karne honge. Valuation, 90 din mein paisa wapas lana, Form FC reporting, guarantee aur tax compliance detail diye hain.",
+          "who": "Jo log ya Indian companies UAE company mein investment nikal rahe hain.",
+          "action": "Disinvestment se pehle Form FC, valuation aur tax compliance check karo. 90 din ke andar paisa India lana hoga.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/uae-company-disinvestment-fema-rules-form-fc-reporting-repatriation.html"
+        },
+        {
+          "cat": "Loan",
+          "authority": "Reserve Bank of India",
+          "ref": "A.P. (DIR Series) Circular. No 28/2026-27",
+          "headline": "FEMA compounding ab RBI ke Regional Offices kareinge",
+          "effective": "",
+          "what": "FEMA violate karne par compounding ki applications ab Overseas Investments, Borrowing, Lending aur Guarantee se related kuch cases mein RBI ke Regional Offices handle kareinge. Pahle yeh central office karta tha.",
+          "who": "Authorised Dealer banks, other Authorised Persons aur jo log FEMA ka violation ka compounding chahte hain.",
+          "action": "Compounding application bhejne se pehle check karo ki kaunsa Regional Office responsible hai. Saare documents ready rakho.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13745&Mode=0"
+        },
+        {
+          "cat": "Loan",
+          "authority": "Indian Overseas Bank",
+          "ref": "",
+          "headline": "IOB Eighty Plus term deposit scheme guide",
+          "effective": "",
+          "what": "Indian Overseas Bank ne 80 saal se upar ke logon ke liye Eighty Plus term deposit scheme ka detail diya hai. Ismein current rates, tenure, TDS, premature closure aur loan facility samjhaya gaya hai.",
+          "who": "IOB customers jo 80+ hain ya unke nominee/family member.",
+          "action": "Scheme ki details samjho. Investment ya loan lene se pehle terms aur TDS dekho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/indian-overseas-bank-iob-term-deposit-rates-tenure-loan-tds-dicgc.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-26",
       "items": [
