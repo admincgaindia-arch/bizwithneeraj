@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-10-26T02:00:21.483Z",
+  "last_updated": "2026-10-27T02:00:27.271Z",
   "days": [
+    {
+      "date": "2026-10-27",
+      "cases": [
+        {
+          "law": "Income Tax",
+          "court": "ITAT Ahmedabad",
+          "case_name": "Raysinh Atabhai Vala Vs ITO (ITAT Ahmedabad)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2021-22",
+          "section": "Section 10(10B)",
+          "facts": "BSNL ke kuch employees ne VRS liya. Unko mila hua compensation sarkar ne taxable maana. Appeal daali ki Section 10(10B) ke hisaab se yeh exempt hona chahiye.",
+          "issue": "Kya BSNL ka VRS compensation section 10(10B) ki exemption milegi ya nahi?",
+          "held": "ITAT ne bola, yeh compensation Section 10(10B) ke andar exempt hai. Department ko order diya ki dobara income calculate karo, aur refund banta ho toh wapas karo.",
+          "outcome": "Assessee",
+          "takeaway": "BSNL VRS lene wale employees ko section 10(10B) exemption claim karni chahiye. Agar refund banta hai toh department se follow up karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/bsnl-vrs-compensation-exempt-section-10-10b-itat-ahmedabad-appeals.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Ahmedabad",
+          "case_name": "Nascent Info Technologies Pvt. Ltd. Vs ITO (ITAT Ahmedabad)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2017-18",
+          "section": "Section 270A(9)",
+          "facts": "Company ne PF aur ESI ka payment time pe nahi kiya, jisse expense disallow ho gaya. Income tax officer ne ₹4.43 lakh penalty laga di misreporting ke liye.",
+          "issue": "Kya sirf PF/ESI disallowance se misreporting proof ho jati hai?",
+          "held": "Tribunal ne bola, sirf late deposit ki wajah se misreporting nahi mana ja sakta. Penalty hata di.",
+          "outcome": "Assessee",
+          "takeaway": "Agar PF/ESI ka payment late ho gaya hai aur penalty lag gayi ho, toh appeal mein challenge kiya ja sakta hai. Sirf disallowance pe penalty nahi lagti.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/pf-esi-disallowance-cannot-establish-misreporting-itat-ahmedabad-deletes-section-270a-penalty.html"
+        },
+        {
+          "law": "Other",
+          "court": "Supreme Court of India",
+          "case_name": "Bank of Baroda & Anr. Vs Parasaadilal Tursiram Sheetgrah Pvt. Ltd. & Ors. (Supreme Court of India)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "SARFAESI Act",
+          "facts": "Ek SARFAESI auction mein bidder ne High Court mein stay le liya tha jabki 45 din ka time limit khatam ho chuka tha. Matter Supreme Court tak gaya.",
+          "issue": "Kya High Court SARFAESI auction ko 45 din baad bhi rok sakta hai?",
+          "held": "Supreme Court ne High Court ka stay order radd kar diya. Court ne bola ki 45 din ke baad challenge allowed nahi hai aur DRT ki power limited hai.",
+          "outcome": "Revenue",
+          "takeaway": "Agar SARFAESI auction mein challenge karna hai toh 45 din ke andar DRT mein file karein. High Court directly interfere nahi karegi agar time limit khatam ho gayi hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/supreme-court-sets-hc-stay-sarfaesi-auction-dispute-time-barred-challenge.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "Delhi High Court",
+          "case_name": "Anand NVH Products Private Limited Vs National E Assessment Centre Delhi & Anr. (Delhi High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "Section 144C",
+          "facts": "Company ka assessment pending tha aur taxpayer DRP (Dispute Resolution Panel) ke saamne gaya tha. Department ne DRP ka decision aaye bina final assessment order, demand notice aur penalty bhej diya.",
+          "issue": "Kya DRP ka decision aaye bina assessment order pass kar sakte hain?",
+          "held": "High Court ne assessment order, demand aur penalty notice sabko radd kar diya kyunki DRP ka decision nahi aaya tha. Proper process follow karna zaroori hai.",
+          "outcome": "Assessee",
+          "takeaway": "Agar DRP mein matter pending hai, department assessment order nahi nikal sakta. Aise case mein High Court jaa sakte hain.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/delhi-hc-sets-final-assessment-order-passed-without-awaiting-drp-decision-section-144c.html"
+        },
+        {
+          "law": "Other",
+          "court": "Calcutta High Court",
+          "case_name": "S. S. Iron & Steel & Anr. Vs Union of India and Ors. (Calcutta High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "Section 107",
+          "facts": "GST department ne kai saal ke liye consolidated show cause notice diya. Party ne direct High Court mein challenge kiya. Department ne bola ki pehle appeal karo.",
+          "issue": "Kya consolidated GST show cause notice direct High Court mein challenge ki ja sakti hai?",
+          "held": "High Court ne bola ki abhi statutory appeal u/s 107 available hai, toh High Court direct zahmat nahi karega. Limitation ka objection bhi nahi utha sakte.",
+          "outcome": "",
+          "takeaway": "Agar GST ka consolidated notice mila hai toh pehle Section 107 ke andar appeal file karo, High Court direct nahi jaa sakte.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-consolidated-scn-challenge-dismissed-appeal-section-107-calcutta-hc.html"
+        },
+        {
+          "law": "Other",
+          "court": "NCLT Kochi",
+          "case_name": "Phoenix ARC Private Limited Vs Cherupushpam Films Private Limited (NCLT Kochi)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "Section 7 (IBC)",
+          "facts": "Phoenix ARC ne loan recover karne section 7 application daali. Lekin unka debt assignment deed theek se stamped nahi tha aur trustee ki authority prove nahi ho paayi.",
+          "issue": "Kya bina proper stamp duty aur trustee proof ke section 7 IBC case admit ho sakta hai?",
+          "held": "NCLT ne case dismiss kar diya kyunki deed par sahi stamp nahi thi, aur trustee ki authority clear nahi thi.",
+          "outcome": "Revenue",
+          "takeaway": "Agar bank ya ARC insolvency ke liye court jana chahe to pehle debt assignment deed par proper stamp duty de aur trustee ki authority ki document ready rakhe.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/nclt-kochi-dismisses-section-7-plea-insufficiently-stamped-debt-assignment.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-26",
       "cases": [
@@ -4618,91 +4719,6 @@
           "takeaway": "Agar GST appeal late ho jaye aur medical ya unavoidable reason ho, toh medical proof saath lagana mat bhoolo.",
           "source_name": "TaxGuru",
           "source_url": "https://taxguru.in/goods-and-service-tax/rajasthan-hc-delayed-gst-appeal-citing-medical-reasons-taxpayers-control.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-06",
-      "cases": [
-        {
-          "law": "Income Tax",
-          "court": "ITAT Mumbai",
-          "case_name": "International Society for Krishna Consciousness Vs CIT (Exemptions) (ITAT Mumbai)",
-          "appeal_number": "",
-          "judgment_date": "",
-          "assessment_year": "",
-          "section": "",
-          "facts": "ISKCON ka case tha. Income Tax department ne unki 12AB registration reject kar di thi. Unhone 80G renewal bhi maanga tha apni charitable activities ke liye.",
-          "issue": "Kya ISKCON ko 12AB registration aur 80G renewal milna chahiye jab unki charitable activities hain?",
-          "held": "ITAT Mumbai ne bola ki ISKCON ki activities charitable hai aur Section 2(15) ke proviso ke bahar hai. Court ne 12AB registration wapas laagu kar diya aur 80G renewal bhi de diya.",
-          "outcome": "Assessee",
-          "takeaway": "Agar aapki trust ki activities section 2(15) ke daayre mein clearly charitable hain, to department ka sirf itna kehna kaafi nahi ki 12AB ya 80G rok diya jaye. Appeal karo, detail explain karo ki kaam charitable hain.",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/itat-mumbai-sets-iskcon-12ab-rejection-grants-80g-renewal.html"
-        },
-        {
-          "law": "Income Tax",
-          "court": "ITAT Jodhpur",
-          "case_name": "Dhukha Ram Vs ACIT (ITAT Jodhpur)",
-          "appeal_number": "",
-          "judgment_date": "",
-          "assessment_year": "2016-17",
-          "section": "Section 115BBE",
-          "facts": "Dhukha Ram ka case hai. Survey mein unhone kuch paisa surrender kiya, department ne uspe section 115BBE ka high tax rate laga diya.",
-          "issue": "Kya survey surrender income par bina proper deeming section ke 115BBE lag sakta hai?",
-          "held": "ITAT Jodhpur ne bola ki 115BBE tabhi lagega jab income sections 68 to 69D ke andar laayi jaaye. Sirf surrender se nahi lag sakta.",
-          "outcome": "Assessee",
-          "takeaway": "Agar aapne survey mein kuch paisa surrender kiya aur department seedha 115BBE laga raha hai, toh check karo ki aapki income pehle sections 68-69D mein cover ho rahi hai ya nahi. Bina uske high rate nahi lag sakta.",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/itat-jodhpur-deletes-115bbe-rate-survey-surrender-without-deeming-provision.html"
-        },
-        {
-          "law": "Income Tax",
-          "court": "ITAT Chennai",
-          "case_name": "Balaji Shopping World Vs ITO (ITAT Chennai)",
-          "appeal_number": "",
-          "judgment_date": "",
-          "assessment_year": "2023-24",
-          "section": "",
-          "facts": "Balaji Shopping World ka case hai. BSNL se trade discount mila. Department ne Form 26AS dekhkar ise commission bol diya aur Rs 48 lakh add kar diye.",
-          "issue": "Kya sirf Form 26AS mein dikhaane se koi receipt commission maan li jaye?",
-          "held": "ITAT ne bola, Form 26AS se decide nahi hota ki income ka nature kya hai. BSNL ka trade discount commission nahi hai, addition galat hai.",
-          "outcome": "Assessee",
-          "takeaway": "Aapke Form 26AS mein jo figures hain, zaroori nahi unka tax treatment wahi ho jo 26AS mein dikhe. Invoice, agreement, aur reality dekho. Sirf 26AS dekhke addition ho raha ho toh strong appeal banti hai.",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/itat-deletes-rs-48-09-lakh-addition-bsnl-receipts-form-26as-cannot-decide-nature-income.html"
-        },
-        {
-          "law": "Other",
-          "court": "Chhattisgarh High Court",
-          "case_name": "Morvi Nandan Healthcare Private Limited Vs State of Chhattisgarh (Chhattisgarh High Court)",
-          "appeal_number": "",
-          "judgment_date": "",
-          "assessment_year": "",
-          "section": "",
-          "facts": "Morvi Nandan Healthcare ka GST registration cancel ho gaya tha. Dept ne REG-17 notice diya par usme personal hearing ki date/time nahi batayi aur physical verification report bhi upload nahi ki gayi.",
-          "issue": "Kya bina personal hearing ka date/time diye registration cancel kar sakte hai?",
-          "held": "High Court ne GST cancellation radd kar di. Bola, bina personal hearing ka date/time diye aur bina physical verification ke cancellation valid nahi hai.",
-          "outcome": "Assessee",
-          "takeaway": "Agar aapka registration cancel ho aur aapko notice mein hearing ka mauka ya date/time na mile, turant writ file karo. REG-17 mein clearly dekh lo kya diya tha.",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/goods-and-service-tax/chhattisgarh-hc-quashes-gst-cancellation-failure-date-time-personal-hearing.html"
-        },
-        {
-          "law": "Other",
-          "court": "Bombay High Court",
-          "case_name": "Mehadia & Sons C & F Division Vs Assistant Commissioner of CGST & Central Excise (Bombay High Court)",
-          "appeal_number": "",
-          "judgment_date": "",
-          "assessment_year": "",
-          "section": "Section 73",
-          "facts": "Mehadia & Sons ke khilaaf consolidated GST notice aaya tha, jisme 2021-22 se 2023-24 tak ke alag alag saal cover kiye gaye the ek hi notice mein.",
-          "issue": "Kya ek hi notice mein multi-year GST demands daali ja sakti hain?",
-          "held": "Bombay High Court ne aisa notice radd kar diya. Bola, GST ka notice har saal alag alag honi chahiye. Department ko fresh, proper notice dene ko kaha.",
-          "outcome": "Assessee",
-          "takeaway": "Agar aapko consolidated GST notice mile jisme alag alag years covered hain, us notice ko challenge karo. Law ke hisaab se har year ke liye alag notice dena mandatory hai.",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/goods-and-service-tax/bombay-hc-quashes-consolidated-gst-notice-covering-multiple-financial-years.html"
         }
       ]
     }
