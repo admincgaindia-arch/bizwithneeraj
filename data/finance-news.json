@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-10-27T02:15:25.651Z",
+  "last_updated": "2026-10-28T02:15:27.690Z",
   "days": [
+    {
+      "date": "2026-10-28",
+      "items": [
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Debenture Trustee SBU compliance deadline ab April 2027 tak badha",
+          "effective": "",
+          "what": "SEBI ne debenture trustees ke liye non-SEBI regulated activities ka compliance deadline 6 mahine badha diya hai. Ab naya deadline April 2027 hai. Baaki sab shartein pehle jaisi hi rahengi.",
+          "who": "Sab debenture trustees jinhe apni kuch activities SEBI ke daayre ke bahar chalani hain.",
+          "action": "Agar aap debenture trustee hain, toh nayi deadline ke hisaab se compliance planning karein. April 2027 tak saari zaruri requirements poori kar lein.",
+          "source_name": "sebi.gov.in",
+          "source_url": "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-dts-for-carrying-out-activities-outside-the-purview-of-sebi_105454.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "IFSCA",
+          "ref": "",
+          "headline": "Payment system operators ke liye naye financial soundness criteria",
+          "effective": "",
+          "what": "IFSCA ne IFSC ke payment system operators ke liye naye financial soundness criteria fix kiye hain. Inko poora karne ka 6 mahine ka samay diya gaya hai. Saal me ek baar statutory auditor ki certification bhi chahiye hogi.",
+          "who": "Sab payment system operators jo IFSC mein kaam karte hain.",
+          "action": "Agar aap payment operator hain toh nai criteria ki poori list dekhein aur 6 mahine ke andar saare norms meet karein. Saal me ek baar statutory auditor se certification karwana hoga.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/ifsca-sets-financial-soundness-criteria-payment-system-operators.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "Bulk deposit par RBI ke naye rate controls 1 October 2026 se lagu",
+          "effective": "1 October 2026",
+          "what": "RBI ne bulk deposit par naye rate controls lagu kiye hain. Ab har din rates ki publication, uniform pricing aur LCR segmentation ki zarurat hai. Audit evidence aur exception handling ka bhi naya process aaya hai.",
+          "who": "Sab scheduled commercial banks jo bulk deposits lete hain.",
+          "action": "Apne bank ke compliance team ke saath milkar naye controls aur reporting requirements check karein. Systems ko 1 October 2026 tak update karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/rbi-bulk-deposit-rate-controls-from-1-october-2026-1010-am-publication-uniform-pricing-and-lcr-segmentation.html"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "Department for Promotion of Industry and Internal Trade (DPIIT)",
+          "ref": "",
+          "headline": "Startup India Recognition 2026 ke liye documents aur benefits",
+          "effective": "",
+          "what": "2026 me Startup India Recognition lene ke liye eligibility, Deep Tech rules, turnover limit, tax benefits aur document list batayi gayi hai. Application ka pura process DPIIT ke through hota hai.",
+          "who": "Naye startups jo apni company ko DPIIT se recognise karwana chahte hain.",
+          "action": "Agar aap eligible startup ho, DPIIT ki website par eligibility check karo, required documents jama karo aur online application process follow karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/startup-india-recognition-eligibility-benefits-documents-dpiit-application-process.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/2026-27/302 DoR.AML.REC.254/14.06.001/2026-27",
+          "headline": "UAPA sanctions list mein update, banks ko entries amend karni hogi",
+          "effective": "",
+          "what": "RBI ne UNSC ke 1267/1989 ISIL & Al-Qaida sanctions list me 3 entries update ki hain. Sab regulated entities ko UAPA section 51A ke tahat KYC norms ki compliance check karni hogi.",
+          "who": "Sab commercial banks, NBFCs, co-operative banks aur financial institutions.",
+          "action": "Apne compliance team se bol kar amendments list verify karayein aur client screening aur KYC controls turant update kar lein.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13748&Mode=0"
+        }
+      ]
+    },
     {
       "date": "2026-10-27",
       "items": [
