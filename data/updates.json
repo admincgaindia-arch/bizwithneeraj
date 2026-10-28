@@ -1,6 +1,67 @@
 {
-  "last_updated": "2026-10-27T01:31:00.392Z",
+  "last_updated": "2026-10-28T01:31:00.624Z",
   "digests": [
+    {
+      "date": "2026-10-28",
+      "summary": "Aaj GST aur Income Tax par kuch important clarifications, court rulings aur CBIC ke fresh guidelines aaye hain. GST adjudication, refund, parallel proceedings, aur ITC ya addition cases par focus hai.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "CBIC ne GST Adjudication/Appeal par new guidelines diye",
+          "detail": "CBIC ne reasoned notice, proper hearing aur detailed order par focus karte hue GST adjudication/appeal process ke liye fresh guidelines issue kiye hain. Iska aim unnecessary litigation kam karna hai.",
+          "cga_view": "GST assessments ya appeals me agar aapka case pending hai to notice/ order me reasoning check karo, agar vague hai to turant action lo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/cbic-issues-clarification-on-issues-related-to-demand-adjudication-and-appeal-proceedings-under-cgst-act-read-notification"
+        },
+        {
+          "category": "GST",
+          "headline": "CBIC clarifies GST pre-deposit aur refund rules",
+          "detail": "CBIC ne GST appeal me pre-deposit ki calculation, refund eligibility aur interest ke rules par spastikaran diya, jisse har jagah uniform compliance ho sake.",
+          "cga_view": "Appeal file karne se pehle pre-deposit aur refund ka amount sahi se calculate karo, naya clarification dekh lo for latest rules.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/cbic-clarifies-gst-pre-deposit-calculation-refund-eligibility-interest-rules-for-appellate-proceedings-read-more"
+        },
+        {
+          "category": "GST",
+          "headline": "Parallel GST proceedings same cause par nahi chal sakte: GSTAT",
+          "detail": "GSTAT ne bola ki ek hi matter par do parallel GST recovery proceedings allowed nahi hain; lekin agar original document late diya to violation cure nahi hota.",
+          "cga_view": "Agar aap par ek hi issue me do GST notices aaye, to is order ka reference de sakte ho. Purane invoices ya e-way bill ki shortage ka solution late document se nahi hoga.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/two-parallel-gst-proceedings-cannot-continue-for-same-cause-but-producing-invoice-late-still-cannot-cure-violation-gstat-read-order"
+        },
+        {
+          "category": "GST",
+          "headline": "GST S.74 fraud ka allegation bina foundation ke nahi chalega: Allahabad HC",
+          "detail": "Allahabad HC ne GST S. 74 proceedings me department ko rok lagayi, jab tak notice me proper fraud/suppression details nahi diye gaye.",
+          "cga_view": "Agar aapko S.74 ka notice aaye jisme direct fraud/suppression allegation ho bina facts ke, to is HC order ka reference lekar defence bana sakte hain.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/gst-s-74-notice-cannot-mechanically-invoke-fraud-or-suppression-wo-foundational-facts-allahabad-hc-stays-proceedings-read-order"
+        },
+        {
+          "category": "Ruling",
+          "headline": "GSTAT: Galat GST Head me payment, short payment nahi hai",
+          "detail": "Agar aapne galti se CGST/SGST instead of IGST bhar diya, aur paisa govt tak pahunch gaya, to yeh short payment nahi mana jayega, Section 73 lagoo nahi hota.",
+          "cga_view": "GST head galat ho gaya to panic mat karo, tax department ko clarification dekar sahi transfer ke liye request bhejo, penalty lagegi yeh zaroori nahi.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/cgstsgst-paid-instead-of-igst-does-not-amount-to-short-payment-of-tax-gstat-read-order"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Service Tax refund allowed on cancelled construction bookings: CESTAT Delhi",
+          "detail": "CESTAT Delhi ne kaha ki cancelled construction bookings par service tax ka refund section 11B limitation ke scope se bahar hai, CGST Act S.142(5) lagu hoga.",
+          "cga_view": "Agar kisi ne construction service cancel kara aur service tax refund pending hai to yeh judgment refer karo, refund claim fir se file/appeal kar sakte ho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/service-tax/service-tax-refund-cancelled-construction-bookings-cannot-denied-cestat-delhi.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-10-27",
       "summary": "Aaj majority updates GST aur Income Tax se related court rulings hain. Sab items trade press se hain, koi nayi official govt release nahi aayi lag rahi.",
@@ -2859,40 +2920,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/income-tax/itat-mumbai-deletes-conditional-section-12ab-80g-registration-conditions-imposed-cit.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-08-23",
-      "summary": "Aaj ke din kuch important GST aur court rulings aaye hain jo importers aur service providers ko dhyan me rakhni chahiye.",
-      "items": [
-        {
-          "category": "GST",
-          "headline": "GSTIN ya Fee Payment se Service Recipient prove nahi hota: AAR Rajasthan",
-          "detail": "AAR Rajasthan ne bola ki sirf GSTIN ya fee payment se ye nahi maana ja sakta ki koi entity service recipient hai. Har case ki details alag ho sakti hain.",
-          "cga_view": "Service contract details aur documentation tight rakho – sirf payment ya GSTIN pe rely mat karo.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/gstin-fee-payment-cannot-establish-service-recipient-aar-rajasthan.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Delayed IGST on Imports ka Interest Refund nahi milega: CESTAT Delhi",
-          "detail": "CESTAT Delhi ne decide kiya ki import pe jo delayed IGST ka interest hota hai, uska refund nahi mil sakta, agar assessment pe challenge nahi hua ho.",
-          "cga_view": "IGST timely pay karo, interest refund expect mat karo; assessment pe time pe dispute uthao.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/custom-duty/interest-delayed-igst-imports-cannot-refunded-cestat-delhi.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "IGST Demand Advance Authorisation Imports pe hata: CESTAT Ahmedabad",
-          "detail": "CESTAT Ahmedabad ne Sakar Industries ka IGST demand set aside kar diya, bola pre-import condition factual basis pe fulfill hui thi.",
-          "cga_view": "Agar aap advance authorisation ke under import karte ho, toh pre-import ki conditions ki file ready rakho – department se sawal ho toh proof dikhana pad sakta hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/custom-duty/cestat-ahmedabad-sets-igst-demand-advance-authorisation-imports.html"
         }
       ],
       "due_dates": []
