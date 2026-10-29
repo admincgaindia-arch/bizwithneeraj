@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-10-28T02:15:27.690Z",
+  "last_updated": "2026-10-29T02:15:27.505Z",
   "days": [
+    {
+      "date": "2026-10-29",
+      "items": [
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "Lokapavani Mahila Sahakari Bank directions extended",
+          "effective": "",
+          "what": "RBI ne Lokapavani Mahila Sahakari Bank par lagaye Directions ki period ko 3 mahine aur badha diya hai. Ab ye Directions 30 January 2027 tak lagu rahenge. Review ho sakta hai.",
+          "who": "Lokapavani Mahila Sahakari Bank ke depositors aur members.",
+          "action": "Agar aap is bank ke customer hain to apne withdrawal, deposit ya cheque clearing se judi fresh updates bank se check karen, kyunki operations par abhi restrictions rehengi.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63878"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/2026-27/302 DoR.AML.REC.254/14.06.001/2026-27",
+          "headline": "UNSC sanctions list updated, UAPA compliance zaroori",
+          "effective": "",
+          "what": "RBI ne banks, NBFCs aur dusre regulated entities ko bataya hai ki UNSC ki sanctions list mein kuch updates hue hain. UAPA Act ke under nayi entries update karni hongi.",
+          "who": "Sabhi commercial banks, NBFCs, small finance banks, co-operative banks, aur regulated FIs.",
+          "action": "Aapke AML/KYC software ki sanctions screening lists turant update karen. Compliance team ko latest RBI circular share karen.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13748&Mode=0"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Debenture Trustee SBU compliance ab April 2027 tak",
+          "effective": "",
+          "what": "SEBI ne debenture trustees ko non-SEBI regulated activities ke liye compliance ki deadline 6 mahine aur extend kar di hai. Ab deadline April 2027 hai.",
+          "who": "Sabhi debenture trustees jo non-SEBI regulated activities mein engaged hain.",
+          "action": "Debenture trustees apne procedures aur compliance documentation ko April 2027 tak complete kar sakte hain. Updated timeline ka dhyan rakhen.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/debenture-trustee-sbu-compliance-extended-april-2027-sebi.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "IFSCA",
+          "ref": "",
+          "headline": "IFSC payment operators ke liye financial soundness norms",
+          "effective": "",
+          "what": "IFSCA ne payment system operators ke liye financial soundness criteria issue kiye hain. 6 mahine mein har operator ko comply karna hoga, aur annual statutory auditor certification bhi chahiye hoga.",
+          "who": "Sab IFSC (International Financial Services Centre) payment system operators.",
+          "action": "Agar aap IFSC payment operator hain to apni financials check karen aur 6 mahine ke andar compliance aur auditor ka certificate arrange karen.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/ifsca-sets-financial-soundness-criteria-payment-system-operators.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "RBI ne bulk deposit rate controls lagu kiye 1 Oct 2026 se",
+          "effective": "01-10-2026",
+          "what": "RBI ne bulk deposit par naye rate controls, uniform pricing aur LCR segmentation rules lagu kiye hain. Banks ko ab daily bulk deposit rates publish karne honge.",
+          "who": "Sabhi scheduled commercial banks jo bulk deposits accept karte hain.",
+          "action": "Aapka bank hai to internal compliance, rate publication aur LCR segmentation process revise karen. Customers ko naye process ke baare mein batayein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/rbi-bulk-deposit-rate-controls-from-1-october-2026-1010-am-publication-uniform-pricing-and-lcr-segmentation.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-28",
       "items": [
