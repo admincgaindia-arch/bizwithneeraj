@@ -1,6 +1,85 @@
 {
-  "last_updated": "2026-10-28T01:31:00.624Z",
+  "last_updated": "2026-10-29T01:31:01.322Z",
   "digests": [
+    {
+      "date": "2026-10-29",
+      "summary": "Aaj GST mein kaafi saare naye notifications aur kuch important court rulings aaye hain. Sabse pehle 1 November 2026 se GST rates aur liability changes dhyan se check karo.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "E-invoice portal maintenance 31 Oct–1 Nov 2026",
+          "detail": "GSTN e-invoice services 31 October, 9 AM se 1 November, 1 PM tak unavailable rahengi. Is dauraan data fetch, GSTR-1 aur JSON download affected rahenge.",
+          "cga_view": "Agar e-invoice banane hain to maintenance window se pehle ya baad mein kaam karo. Iss interruption ko plan karo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/invoice-services-maintenance-31-oct-1-nov-2026-gstn.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Toll-Operate-Transfer: Escrow debits par GST bataaya",
+          "detail": "CBIC ne clarify kiya hai ki Toll-Operate-Transfer mein road maintenance ki payments, jab escrow se debit hoti hain, tab GST applicable hai. Effective 1 November 2026.",
+          "cga_view": "Aise concession agreement walon ko ab escrow account se payment nikalne pe GST ka dhyan rakhna padega. Accounting ko adjust karo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/cgst-toll-operate-transfer-road-maintenance-linked-escrow-debits-notification-no-10-2026-central-tax-rate.html"
+        },
+        {
+          "category": "GST",
+          "headline": "E-commerce delivery: GST liability badla, 1 November se",
+          "detail": "CBIC Notification 09/2026 ke hisaab se e-commerce operators ki delivery service par GST liability change ho rahi hai. Yeh 1 November 2026 se lagu hai.",
+          "cga_view": "Sab e-commerce platforms delivery services ki GST liability check karein. Agreements aur billing revise kardein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-notification-no-09-2026-revises-commerce-operator-liability-delivery-services-1-november-2026.html"
+        },
+        {
+          "category": "GST",
+          "headline": "UTGST Entry 15 ka rate 6% se 9% hua",
+          "detail": "UTGST Notification 08/2026 ke mutabik Entry 15 ka GST rate 6% se badhkar 9% ho jayega. Yeh 1 November 2026 se effective hai.",
+          "cga_view": "Is particular entry ke taxable supplies wale log 1 November se naye rate par invoice aur tax payment karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/utgst-notification-no-08-2026-raises-rate-6-percent-9-percent-entry-15-1-november-2026.html"
+        },
+        {
+          "category": "GST",
+          "headline": "IGST Entry 17 ka rate ab 18%",
+          "detail": "Notification No. 08/2026-IGST (Rate) ke hisaab se Entry 17 ka rate 12% se badhkar 18% ho gaya hai. Effective date 1 November 2026 hai.",
+          "cga_view": "Jinke business mein Entry 17 ki supply hai, woh naye IGST rate ko apne ERP aur compliance mein update karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/igst-notification-no-08-2026-raises-entry-17-rate-12-percent-18-percent-1-november-2026.html"
+        },
+        {
+          "category": "GST",
+          "headline": "IGST service exemptions revise huye 1 Nov se",
+          "detail": "IGST Notification 07/2026 ke tahat kuch services—shipping, helicopters, warehousing, toll rights, coffee curing—par exemption me badlav kiye gaye hain. Effective 1 Nov 2026.",
+          "cga_view": "Practically, affected service providers exemption status dobara check karein, billing structure update karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/igst-service-exemptions-revised-notification-no-07-2026-integrated-tax-rate.html"
+        },
+        {
+          "category": "TDS",
+          "headline": "SIM card discount, roaming charges par TDS nahi: ITAT Delhi",
+          "detail": "ITAT Delhi ne decide kiya ki SIM card discounts par Section 194H se TDS nahi katega, aur roaming charges par bhi TDS applicable nahi hai.",
+          "cga_view": "Telecom aur similar businesses ab SIM discount/roaming payments par TDS ka unnecessary deduction avoid kar sakte hain.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/no-tds-sim-card-discounts-roaming-charges-itat-delhi.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Tax audit penalty charity hospital par nahi: ITAT Amritsar",
+          "detail": "ITAT Amritsar ke decision ke mutabik Section 11-exempt charitable hospital receipts par Section 44AB tax audit penalty nahi lagegi.",
+          "cga_view": "Charitable hospitals aur trusts apni audit reporting mein yeh precedent use kar sakte hain agar same position hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/section-11-exempt-hospital-receipts-not-subject-tax-audit-penalty-itat-amritsar.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-10-28",
       "summary": "Aaj GST aur Income Tax par kuch important clarifications, court rulings aur CBIC ke fresh guidelines aaye hain. GST adjudication, refund, parallel proceedings, aur ITC ya addition cases par focus hai.",
@@ -2886,40 +2965,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/income-tax/tds-paid-cannot-recovered-delayed-payment-attracts-interest-itat-mumbai.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-08-24",
-      "summary": "Aaj major service tax ke old matters pe tribunal ne relief diya hai. Income tax mein ITAT ne kuch routine disputes settle kiye hain. ",
-      "items": [
-        {
-          "category": "Ruling",
-          "headline": "ST-3 aur 26AS/ITR mismatch par Service Tax demand set aside",
-          "detail": "CESTAT Chandigarh ne ₹1.04 crore service tax demand ko hata diya, sirf ST-3 aur 26AS/ITR mismatch basis par demand sahi nahi mani gayi.",
-          "cga_view": "Agar aapke khilaaf aise demand aayi hai to documentation pakka rakho aur tribunal relief ka reference de sakte ho.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/service-tax/cestat-chandigarh-sets-rs-1-04-crore-service-tax-demand-based-st-3-26as-itr-mismatch.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "ITAT: ₹23 lakh deposit marriage ke liye, mangoes sale ka source accepted",
-          "detail": "ITAT ne paisa deposit par documentary proof dekh kar source ko sale of trees and mangoes accept kiya aur addition delete ki.",
-          "cga_view": "Aap agar cash ya large deposits explain karna chahte hain to proper document tayar rakhein jo source dikhaye.",
-          "source_type": "trade",
-          "source_name": "taxscan.in",
-          "source_url": "https://www.taxscan.in/top-stories/23-lakh-deposited-by-husband-in-wifes-account-for-daughters-marriage-itat-accepts-sale-of-trees-and-mangoes-as-source-1450423"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Section 12AB aur 80G approval par SC case ki conditionality hatayi",
-          "detail": "ITAT Mumbai ne Section 12AB aur 80G registrations par CIT(E) ki Supreme Court pending case ki conditionality delete kar di.",
-          "cga_view": "Agar aapka trust ki registration aise condition ke saath hai to ITAT ka yeh order aapke favor mein cite kiya ja sakta hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/itat-mumbai-deletes-conditional-section-12ab-80g-registration-conditions-imposed-cit.html"
         }
       ],
       "due_dates": []
