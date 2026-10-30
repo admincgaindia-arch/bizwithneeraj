@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-10-29T01:31:01.322Z",
+  "last_updated": "2026-10-30T01:30:59.416Z",
   "digests": [
+    {
+      "date": "2026-10-30",
+      "summary": "Aaj ka digest GST aur Income Tax rulings par focused hai. Compliance aur refunds se judi kuch important updates hain.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "GST Export Refund: CBIC ki Latest Clarification",
+          "detail": "CBIC ne clarify kiya hai ki export payments, chahe permitted rupee accounts se aaye ya RBI approved set-off se, GST refund ke liye valid hain.",
+          "cga_view": "Jo exporters RBI ya permitted rupee account ka use karte hain, ab confidently refund apply karein. Official guideline ka link check karein.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/cbic-clarifies-gst-export-refund-rules-set-off-of-export-receivables-against-import-payables"
+        },
+        {
+          "category": "Ruling",
+          "headline": "E-way Bill Nahi Bana? Penalty Quash Ho Sakti Hai",
+          "detail": "GSTAT Prayagraj ne stock transfer par penalty cancel kar di kyunki tax evasion ka intent nahi mila, refund bhi order hua.",
+          "cga_view": "Agar penalty sirf procedural lapse ki wajah se lagi ho aur koi tax loss nahi hai, appeal consider karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/bill-mandatory-internal-stock-transfer-penalty-quashed-gstat-prayagraj.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "GSTR-2A Mismatch Par Seedha ITC Reversal Nahi Banega",
+          "detail": "Prayagraj GSTAT ne decide kiya ki bina proper verification ke sirf GSTR-2A mismatch ki wajah se ITC reverse nahi kiya ja sakta.",
+          "cga_view": "Agar aapka ITC mismatch notice hai, supporting documents ready rakhein aur authority se proper verification ki demand karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gstr-2a-mismatch-cannot-justify-itc-reversal-without-verification-gstat-prayagraj.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Excess Stock Survey Mein Mila? Section 115BBE Nahi Lagegi",
+          "detail": "ITAT Chennai ne hold kiya ki survey mein mila excess stock business income hai, unexplained cash par hi 115BBE lagegi.",
+          "cga_view": "Survey ke time agar excess stock milta hai to usko business income dikhayein, par unexplained cash/creditors pe alag se tax exposure ho sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/excess-stock-survey-taxable-business-income-not-section-115bbe-itat-chennai.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "GST ITC Notice Challenge Court Mein Fail Hua",
+          "detail": "MP High Court ne GST ITC show-cause notice challenge kharij ki, bola ki taxpayer ko authority ke samne defend karna padega.",
+          "cga_view": "Agar aisa notice mila hai, directly High Court na jaakar department ke samne detailed reply banayein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-itc-show-notice-challenge-dismissed-mp-high-court.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-10-29",
       "summary": "Aaj GST mein kaafi saare naye notifications aur kuch important court rulings aaye hain. Sabse pehle 1 November 2026 se GST rates aur liability changes dhyan se check karo.",
@@ -2913,58 +2965,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/income-tax/karnataka-hc-upholds-quashing-assessment-ignoring-drp-directions.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-08-25",
-      "summary": "Aaj Supreme Court ki GST SCN par kuch important rulings aayi hain aur Income Tax, TDS aur MCA par bhi kuch updates hai. In par hi focus karte hain.",
-      "items": [
-        {
-          "category": "GST",
-          "headline": "GST SCNs: Supreme Court ne fair hearing par zor diya",
-          "detail": "Supreme Court keh rahi hai ki GST Show Cause Notice (SCN) mein allegations clear hone chahiye aur company ko properly apna side rakhne ka mauka milna chahiye. Pre-decided mind se proceedings chalana galat hai.",
-          "cga_view": "Agar kisi tax officer ka GST SCN vague hai ya hearing fair nahi lag rahi, to legal advice lekar objection file karo. SC ki ruling aapke favour mein ho sakti hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/gst-show-notices-sc-stresses-fair-hearing-open-minded-adjudication.html"
-        },
-        {
-          "category": "GST",
-          "headline": "Mechanical fraud bolne se SCN ka limitation nahi badh sakta: SC",
-          "detail": "Supreme Court ne decide kiya hai ki sirf 'fraud' bol dene se Section 74 CGST ka limitation period extend nahi hoga. Fraud ka specific evidence hona zaruri hai.",
-          "cga_view": "Aapke khilaaf agar GST fraud ka vague allegation lag raha hai to limitation check karo, time-barred ho sakta hai. Legal recourse socho agar SCN illegal lage.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/mechanical-fraud-invocation-cannot-extend-cgst-section-74-limitation-sc.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Political/Charitable Donations par IT Notice?",
-          "detail": "Recent income tax notices Section 80G aur 80GGC ki deductions claim karne walon ko aarahi hai. SMS/email advisories, scrutiny notices aur reassessment proceedings ho rahi hain.",
-          "cga_view": "Agar aapko aisa notice aaya hai to saare donation receipts aur related documents ready rakho. Accountants ko bhi client verification pe focus karna chahiye.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/received-income-tax-notice-143-2-148a-148-political-charitable-donation.html"
-        },
-        {
-          "category": "MCA / ROC",
-          "headline": "DIN update karne ka process: DIR-6 file karo",
-          "detail": "Directors ko apne DIN mein koi bhi change aata hai, to 30 din ke andar MCA ko DIR-6 form se batana hota hai. Rule 12 ke hisab se ye mandatory hai.",
-          "cga_view": "Business owners/directors agar DIN detail change ho toh delay na karein. Sab supporting documents ready rakhein aur DIR-6 jaldi file karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/company-law/procedure-filing-dir-6-update-din-particulars-companies-act-2013.html"
-        },
-        {
-          "category": "TDS",
-          "headline": "TDS paid double nahi ho sakta; late payment par interest lagega",
-          "detail": "ITAT Mumbai ne bola ki TDS ek hi baar recover ho sakta hai, lekin agar payment late kiya to interest zarur lagega. Doubled recovery ka scope nahi hai par timely payment zaruri hai.",
-          "cga_view": "Agar department double TDS mang raha hai, to uska proof maangein. TDS timely deposit karen, nahi toh interest cost uthani padegi.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/tds-paid-cannot-recovered-delayed-payment-attracts-interest-itat-mumbai.html"
         }
       ],
       "due_dates": []
