@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-10-29T02:15:27.505Z",
+  "last_updated": "2026-10-30T02:15:28.424Z",
   "days": [
+    {
+      "date": "2026-10-30",
+      "items": [
+        {
+          "cat": "Scheme",
+          "authority": "Reserve Bank of India",
+          "ref": "F.No. 4(7)-B(W&M)/2019",
+          "headline": "SGB 2019-20 Series VI ka early redemption price aaya",
+          "effective": "2026-10-30",
+          "what": "Sovereign Gold Bond (SGB) 2019-20 Series VI ki premature redemption ki next date 30 October 2026 hai. Is date par jo log bond bechna chahen, unko ₹14,213 per unit milega, ye IBJA ke gold price average par based hai.",
+          "who": "SGB 2019-20 Series VI holders, jinhone October 2019 mein yeh bonds kharide the.",
+          "action": "Agar aap ye SGB rakhte hain aur bechna chahte hain, to maturity se pehle 30 October 2026 ko redemption apply kar sakte hain. Redemption amount check karen - ₹14,213 per unit milega.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63884"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Axis Bank",
+          "ref": "",
+          "headline": "Axis Bank outward remittance: KYC, charges, TCS details",
+          "effective": "",
+          "what": "Axis Bank outward remittance profile mein legal entity, AD-Bank (authorised dealer) ka role, eligible remittance purposes aur KYC ki detail hai. Ismein settlement, charges, refund aur TCS ki bhi info hai.",
+          "who": "Jo businesses ya log Axis Bank se outward remittance bhejna chahte hain under Liberalised Remittance Scheme (LRS).",
+          "action": "Agar aap Axis Bank se paisa bahar bhej rahe hain, to KYC documents, charges, aur TCS detail pehle hi bank se confirm karen. Sahi purpose choose karen aur process check karen.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/axis-bank-outward-remittance-ad-bank-role-lrs-kyc-charges-tcs-grievances.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "South Indian Bank",
+          "ref": "",
+          "headline": "SIB Kalpakanidhi 30-month deposit: Rate, tax, exit info",
+          "effective": "",
+          "what": "South Indian Bank ki SIB Kalpakanidhi 30-month deposit scheme mein fixed interest rates hain. Rate, compounding ka tarika, premature exit, tax treatment aur DICGC coverage ki info di gayi hai.",
+          "who": "South Indian Bank ke customers jo 30 mahine ka fixed deposit lena chahte hain, especially general residents aur senior citizens.",
+          "action": "Agar aap is deposit mein invest karne ka soch rahe hain, to bank se rate, premature exit conditions aur tax impact ki detail check karen. DICGC coverage bhi samjhen.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/south-indian-bank-sib-kalpakanidhi-30-month-deposit-6-80-percent-rate-compounding-exit-tax-dicgc.html"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "Pension Fund Regulatory and Development Authority (PFRDA)",
+          "ref": "",
+          "headline": "StAR NPS se wider pension coverage ki urge",
+          "effective": "",
+          "what": "PFRDA ne NPS distributors ko StAR NPS platform se digital onboarding, incentives aur responsible retirement planning pe focus karne ko bola hai. Wider pension coverage lana target hai.",
+          "who": "NPS distributors aur unke clients, retirement plan karne wale log aur businesses.",
+          "action": "Agar aap NPS distribution ya onboarding karte hain, to StAR NPS digital platform ka use badhayein aur PFRDA ke naye guidelines dekhein. Incentives aur compliance dhyan se samjhen.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/pfrda-urges-wider-pension-coverage-star-nps-distribution.html"
+        },
+        {
+          "cat": "MSME",
+          "authority": "Not specified",
+          "ref": "",
+          "headline": "Plastic waste EPR registration guide for MSMEs",
+          "effective": "",
+          "what": "Plastic waste EPR (Extended Producer Responsibility) registration par ek guide hai. Isme eligibility, MSME par exemptions, targets, packaging categories, certificate aur returns ki detail milti hai.",
+          "who": "Plastic packaging use ya produce karne wale MSME businesses, aur packaging companies.",
+          "action": "Agar aap MSME hain to dekhiye kya EPR registration aap par laagu hoti hai ya koi exemption milti hai. Certificate lene aur annual return file karne ka process samjhen.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/epr-registration-plastic-waste-complete-compliance-guide.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-29",
       "items": [
