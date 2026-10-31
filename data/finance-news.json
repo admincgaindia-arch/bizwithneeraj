@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-10-30T02:15:28.424Z",
+  "last_updated": "2026-10-31T02:15:28.424Z",
   "days": [
+    {
+      "date": "2026-10-31",
+      "items": [
+        {
+          "cat": "Scheme",
+          "authority": "Reserve Bank of India",
+          "ref": "F.No. 4(5)-B(W&M)/2021",
+          "headline": "Sovereign Gold Bond ka premature redemption rate 2026 ke liye aaya",
+          "effective": "2026-11-02",
+          "what": "Sovereign Gold Bond 2021-22 Series VII ka premature redemption November 2, 2026 ko ho sakta hai. RBI ne bataya hai ki is date par ek unit SGB ka redemption price ₹14,167 hoga.",
+          "who": "Jinke paas SGB 2021-22 Series VII hai aur 5 saal pure ho gaye hain, un par lagu hai.",
+          "action": "Agar aap SGB 2021-22 Series VII holder hain, toh maturity se pehle nikalne ka plan hai toh 2 November 2026 ko ₹14,167 per unit milenge. Apna investment statement check karen.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63897"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/2026-27/303 DoR.AML.REC.255/14.06.001/2026-27",
+          "headline": "Taliban Sanctions List mein update, banks ko naya compliance",
+          "effective": "2026-10-30",
+          "what": "RBI ne update diya hai ki UNSC ki Taliban Sanctions List mein 5 entries badli hain. Section 51A UAPA, 1967 ke tehat banks aur financial institutions ko apne customer records iss hisaab se update karne hain.",
+          "who": "Sabhi commercial banks, small finance banks, NBFCs aur regulated financial institutions par lagu hai.",
+          "action": "Compliance team apne KYC/customer database ko UNSC Taliban Sanctions ki latest list ke hisaab se turant update karein. Legal aur AML wing se confirm karaen.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13749&Mode=0"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Stock market par list hone ke baad ki compliance guide",
+          "effective": "",
+          "what": "Ek guide jismein post-listing compliance jaise NSE/BSE filing, SEBI LODR, PIT disclosures, PAN freezing aur quarterly reporting ka overview diya gaya hai.",
+          "who": "Recent IPO ke baad newly listed companies aur unke compliance professionals ke liye important hai.",
+          "action": "Company secretary/Compliance head ko IPO ke baad saari mandatory SEBI compliance points par checklist tayaar kar leni chahiye. Filing deadlines nazar me rakhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/bell-rings-post-listing-compliances-company-enters-stock-market.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "IPO laane se pehle ki sari compliance ki check list",
+          "effective": "",
+          "what": "Pre-listing compliance guide jisme DRHP filing, Board governance, related party transaction aur SEBI listing requirements samjhaaye gaye hain.",
+          "who": "Jo companies IPO launch ki planning kar rahi hain unke Board/Compliance team ke liye kaam ki cheez hai.",
+          "action": "IPO process start karne se pehle, compliance team DRHP aur SEBI ki sari initial requirements check kar lein. Pehle se documentation ready rakhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/bell-rings-pre-listing-compliances-ipos-preparing-offer-document.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Debenture Trustees ko SEBI ke bahar activities ke liye compliance extension",
+          "effective": "",
+          "what": "SEBI ne Debenture Trustees ko apni kuch activities (jo SEBI scope ke bahar hain) par compliance terms ke liye timeline extend ki hai.",
+          "who": "Sabhi Debenture Trustees jo SEBI ke scope ke bahar wali activities mein kaam kar rahe hain yan karne wale hain.",
+          "action": "Agar aap Debenture Trustee hain, toh updated compliance deadline jaanein aur relevant conditions timely follow karein.",
+          "source_name": "sebi.gov.in",
+          "source_url": "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-dts-for-carrying-out-activities-outside-the-purview-of-sebi_105454.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-30",
       "items": [
