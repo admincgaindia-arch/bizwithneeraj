@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-10-31T02:15:28.424Z",
+  "last_updated": "2026-11-01T02:15:29.608Z",
   "days": [
+    {
+      "date": "2026-11-01",
+      "items": [
+        {
+          "cat": "Scheme",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "SGB 2021-22 Series VII ka early redemption price fixed",
+          "effective": "2026-11-02",
+          "what": "Sovereign Gold Bond (SGB) 2021-22 Series VII ki premature redemption date 2 November 2026 fix hui hai. Is din bond holder ko har unit par ₹14,167 milenge, jo last 3 din ke gold price ka average hai.",
+          "who": "SGB 2021-22 Series VII ke bond holders jinhe 5 saal poore ho gaye hain.",
+          "action": "Agar aap is bond ke eligible holder hain to maturity pe redemption ke liye documents ready rakhein aur apne bank/demat operator ko time pe instructions bhejein.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63897"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "IPO ke baad company ko nayi filings aur compliance lagenge",
+          "effective": "",
+          "what": "Jaise hi company stock market me list hoti hai, usko regular disclosures, NSE/BSE filings, SEBI LODR, PIT disclosures, quarterly financials aur PAN freezing rules follow karne padte hain.",
+          "who": "Nayi listed companies aur unke compliance, secretarial aur finance team.",
+          "action": "IPO ke baad sabhi compliance process ka schedule bana lein, filings ki list banayein aur deadlines par dhyan de. SEBI ki LODR aur PIT circulars padhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/bell-rings-post-listing-compliances-company-enters-stock-market.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "IPO se pehle company ko kuch zaroori compliance ready karne honge",
+          "effective": "",
+          "what": "IPO karne wali company ko DRHP, SEBI LODR, PIT, SDD, board approvals, related party deals aur listing ki requirements pooray karne hote hain.",
+          "who": "Jo companies IPO process me hain unke legal, compliance aur finance team.",
+          "action": "IPO ki tayari me sabhi documentation, internal records aur related party disclosures pehle se ready kar lein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/bell-rings-pre-listing-compliances-ipos-preparing-offer-document.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Debenture Trustees ko SEBI ke bahar wali activities ke liye extra time milega",
+          "effective": "",
+          "what": "Debenture Trustees (DTs) ko SEBI ke purview ke bahar activities ke liye compliance terms poore karne ke liye ab aur time mil gaya hai. SEBI ne timeline extend kar diya hai.",
+          "who": "Sab Debenture Trustees jo SEBI ke bahar kaam kar rahe hain.",
+          "action": "DTs apne compliance deadlines dobara check karein aur revised extension period ka pata karein. Zaroorat ho to apne compliance team se consult karein.",
+          "source_name": "sebi.gov.in",
+          "source_url": "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-dts-for-carrying-out-activities-outside-the-purview-of-sebi_105454.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "BLS Polymers IPO ka final prospectus aur use of funds update",
+          "effective": "",
+          "what": "BLS Polymers ne IPO khatam hone ke baad final prospectus file kiya hai jisme issue price, lot size, fresh issue ki value, use of proceeds aur allotment process ki details mili hai.",
+          "who": "IPO ke prospective investors, company advisors aur financial planners.",
+          "action": "BLS Polymers IPO ke document padhein aur allotment/returns ka review karne se pehle prospectus detail se samjhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/ipo/bls-polymers-ipo-final-prospectus-rs-150-issue-price-rs-255-crore-fresh-issue-financials-risks.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/2026-27/303 DoR.AML.REC.255/14.06.001/2026-27",
+          "headline": "UAPA ke tahat Taliban Sanctions List updated hui",
+          "effective": "2026-10-30",
+          "what": "RBI ne UAPA Act ke section 51A ke tahat Taliban sanctions list me UNSC ki amendment ke hisab se kuch entries update kar di hain. Ye update KYC aur international agreement wale RBI directions me bhi lagu ho gaya hai.",
+          "who": "Sab Commercial Banks, NBFCs, Co-operative Banks, Financial Institutions par.",
+          "action": "Banks aur FIs apni compliance team se updated sanctions list verify kar lein aur KYC systems ko turant update kar dein.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13749&Mode=0"
+        }
+      ]
+    },
     {
       "date": "2026-10-31",
       "items": [
