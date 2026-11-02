@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-11-01T02:15:29.608Z",
+  "last_updated": "2026-11-02T02:15:25.803Z",
   "days": [
+    {
+      "date": "2026-11-02",
+      "items": [
+        {
+          "cat": "Scheme",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "Sovereign Gold Bond (SGB) ki time se pehle redemption value announce",
+          "effective": "2026-11-02",
+          "what": "SGB 2021-22 Series VII holders ke liye, 5 saal ke baad time se pehle redemption ka option hai. RBI ne bata diya hai ki 2 November 2026 ko redeem karne par per unit ₹14,167 milenge. Value gold ke 3 din ke average price par based hai.",
+          "who": "SGB 2021-22 Series VII ke investors jo November 2021 me issue hua tha.",
+          "action": "Agar early redemption ka plan hai, apne demat ya bank ke SGB service provider se 2 November 2026 se pehle process ke liye contact karo.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63897"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "BLS Polymers ne IPO ka final prospectus file kiya",
+          "effective": "",
+          "what": "BLS Polymers ka IPO close hone ke baad company ne final prospectus file kiya hai. Prospectus me issue price, total fresh issue, financials aur allotment related details milengi.",
+          "who": "IPO investors, financial advisors aur BLS Polymers ke potential shareholders.",
+          "action": "IPO details, price aur allotment process check karni ho to final prospectus ka review karo. File public domain me hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/ipo/bls-polymers-ipo-final-prospectus-rs-150-issue-price-rs-255-crore-fresh-issue-financials-risks.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "IPO ke baad company ko naye compliance karne padte hain",
+          "effective": "",
+          "what": "Ek guide aayi hai jo batata hai ki IPO ke baad listed company ko NSE/BSE filings, SEBI LODR, PIT disclosures, quarterly reporting, PAN freeze jaisi cheezein monitor karni padti hain.",
+          "who": "Nayi listed companies aur unke compliance teams.",
+          "action": "Agar IPO kara hai ya karwane wale ho, post-listing compliance guide ko padho aur team ko practical list taiyar karne ko bolo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/bell-rings-post-listing-compliances-company-enters-stock-market.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "IPO se pehle bhi kai compliance steps follow karne padte hain",
+          "effective": "",
+          "what": "Ek detailed guide aayi hai jis se IPO lane wali company ko DRHP, Board governance, SEBI LODR, PIT, SDD, aur related-party transactions ki tayari samajh aati hai.",
+          "who": "Jo bhi company IPO planning ya pre-listing phase me hai, aur unke CS, CFO, Board.",
+          "action": "IPO plan kar rahe ho to pehle se compliance checklist bana lo, guide padho aur board ko timely update rakho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/bell-rings-pre-listing-compliances-ipos-preparing-offer-document.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Debenture Trustees ke liye SEBI ne compliance ka time badhaya",
+          "effective": "",
+          "what": "SEBI ne ab Debenture Trustees ke liye, jo SEBI ke scope ke bahar koi activity karte hain, compliance ke terms and conditions poore karne ka time aur extend kar diya hai.",
+          "who": "Jitne bhi SEBI registered Debenture Trustees hain jo SEBI ke scope ke bahar koi kaam karte hain.",
+          "action": "Agar aap Debenture Trustee ho to, compliance ki revised deadline ki detail SEBI circular me dekho aur terms jaldi complete karo.",
+          "source_name": "sebi.gov.in",
+          "source_url": "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-dts-for-carrying-out-activities-outside-the-purview-of-sebi_105454.html"
+        }
+      ]
+    },
     {
       "date": "2026-11-01",
       "items": [
