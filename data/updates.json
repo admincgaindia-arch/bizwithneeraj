@@ -1,6 +1,67 @@
 {
-  "last_updated": "2026-11-01T01:30:59.343Z",
+  "last_updated": "2026-11-02T01:31:02.093Z",
   "digests": [
+    {
+      "date": "2026-11-02",
+      "summary": "Aaj ke digest mein aapko GST, Income Tax aur kuch important court rulings ka update milega. Saaransh simple aur practical hai.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "GSTR-3B vs 2A Mismatch se ITC automatic reject nahi",
+          "detail": "GSTAT Bengaluru ne bola ki sirf GSTR-3B aur GSTR-2A ka mismatch hone par hi ITC ineligible nahi ho jata. Aur bhi proofs dekhne honge.",
+          "cga_view": "Agar ITC claim dispute ho, to backup documents ready rakho, sirf mismatch se deny nahi hoga.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gstr-3b-gstr-2a-mismatch-cannot-establish-ineligible-itc-gstat-bengaluru.html"
+        },
+        {
+          "category": "GST",
+          "headline": "E-Way Bill Dispatch Location ki choti galti pe GST penalty nahi",
+          "detail": "GSTAT Varanasi ne decide kiya ki agar e-way bill par sirf minor dispatch location error hai, toh penalty lagana justified nahi hai.",
+          "cga_view": "Minor dispatch address ki galti ho jaye toh penalty ka dar kam hai, lekin intentional error mat karo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/minor-bill-dispatch-location-error-cannot-attract-gst-penalty-gstat-varanasi.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "ITAT, revised return ke bina bhi expense claim dekh sakta hai",
+          "detail": "Madras HC ne bola ki ITAT aapke expense claims revised ITR na hone par bhi consider kar sakta hai, case facts par depend karega.",
+          "cga_view": "Agar expense claim miss ho gaya filing mein, toh appeal mein jaroor proper documents do.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-expenditure-claim-without-revised-income-tax-return-madras-hc.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Fake GST firms badhne se bail cancel nahi ho sakti",
+          "detail": "Andhra Pradesh HC ne decide kiya ki fake GST firms ka sirf number badhna, bina misuse ke, bail cancel karne ka ground nahi hai.",
+          "cga_view": "Investigation mein naam aane par bhi bail cancel hona itna aasan nahi, lekin compliance maintain rakho.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/mere-expansion-of-fake-gst-firms-from-92-to-108-not-ground-to-cancel-bail-andhra-pradesh-hc-rejects-dggi-plea-read-order"
+        },
+        {
+          "category": "GST",
+          "headline": "GSTR-2 apply nahi hua toh bhi interest lagegi",
+          "detail": "GSTAT Pune ke mutabik, agar GSTR-2 ka provision operational nahi tha, phir bhi interest liability rahegi as per law.",
+          "cga_view": "Interest ka calculation check karo, GSTR-2 ke na hone par bhi bachat nahi hogi.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/non-operational-gstr-2-not-cancel-statutory-interest-liability-gstat-pune.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GST Amnesty waiver milne ke baad arbitary cancel nahi kar sakte",
+          "detail": "Madras HC ne kaha GST amnesty benefit agar approve ho gaya hai, toh department aise hi usko wapas nahi le sakta.",
+          "cga_view": "Agar aapko already amnesty ka benefit mil chuka hai, toh relief hai – department ka revoke notice aaya toh legal recourse hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-amnesty-waiver-cannot-revoked-arbitrarily-approval-madras-hc.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-11-01",
       "summary": "Aaj ke digest mein GST amendments, important court rulings aur income tax ke kuch latest updates cover kiye hain. Business owners ko compliance aur practical step par dhyaan dena chahiye.",
@@ -2931,58 +2992,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/goods-and-service-tax/fy-itc-issue-cannot-establish-subject-matter-section-6-2-delhi-hc.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-08-28",
-      "summary": "Aaj mostly ITAT ke rulings aaye hain, kuch TDS disputes par clarity mili hai. Court ne GST search payment refund par bhi comment diya hai.",
-      "items": [
-        {
-          "category": "Ruling",
-          "headline": "500 pedh lagana Income Tax relief ka shart bana",
-          "detail": "ITAT ne taxpayer ko 500 pedh lagane ki shart par apna case phir se Assessing Officer ko bheja. Yeh bhari addition (11.22 crore) se related hai.",
-          "cga_view": "Agar apka koi appeal hai, toh court ki alag conditions aa sakti hain. Plantation jaisi rare order ko dhyan se padhein.",
-          "source_type": "trade",
-          "source_name": "taxscan.in",
-          "source_url": "https://www.taxscan.in/top-stories/can-planting-trees-be-a-condition-for-income-tax-relief-itat-grants-taxpayer-one-final-opportunity-subject-to-500-tree-plantation-read-order-1450491"
-        },
-        {
-          "category": "Ruling",
-          "headline": "26AS mein TDS dikh raha toh spouse ke clubbing par mana nahi",
-          "detail": "Kolkata ITAT ne bola – agar 26AS mein TDS diya hai toh TDS credit spouse ke clubbing se deny nahi hoga. Re-examine ka order diya gaya hai.",
-          "cga_view": "Agar clubbing ki wajah se credit atka hai, toh AO se reconciliation jarur maang sakte hain.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/itat-kolkata-remands-tds-credit-dispute-rule-37ba-fresh-decision.html"
-        },
-        {
-          "category": "GST",
-          "headline": "GST search payment refund pe Delhi HC ne action se pehle fact finding bola",
-          "detail": "Delhi HC ne kaha ki GST search ke time agar zabardasti payment hua hai, toh fact finding jaruri hai. CBIC ke instructions bhi refer hue hain.",
-          "cga_view": "Agar aapne search mein paisa diya hai aur refund chahiye, toh proper documentation sambhal ke rakhein.",
-          "source_type": "trade",
-          "source_name": "taxscan.in",
-          "source_url": "https://www.taxscan.in/top-stories/delhi-hc-declines-refund-of-rs-2655l-gst-payment-made-during-search-says-alleged-coercion-requires-fact-finding-read-order-1450488"
-        },
-        {
-          "category": "TDS",
-          "headline": "Reimbursement par proportionate TDS credit deny nahi ho sakta",
-          "detail": "Mumbai ITAT ne bola reimbursement ke case mein books aur 26AS mein mismatch ho toh AO ko fir se check karna hoga, TDS credit deny nahi kiya ja sakta.",
-          "cga_view": "Aapke books aur 26AS match nahi kar rahe toh AO se fresh reconciliation ki demand karo.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/mumbai-itat-remands-tds-credit-dispute-rule-37ba-reconciliation.html"
-        },
-        {
-          "category": "TDS",
-          "headline": "Section 234E late fee nahi lagegi – June 2015 se pehle ke TDS returns pe",
-          "detail": "Chennai ITAT ne Section 234E late fee ko invalid declare kiya un TDS returns par jo 1 June 2015 ke pehle process hue the.",
-          "cga_view": "Agar aapki TDS return June 2015 se pehle ki hai, toh late fee ke liye ab appeal kar sakte ho.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/chennai-itat-deletes-section-234e-late-fee-tds-returns-june-2015.html"
         }
       ],
       "due_dates": []
