@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-11-02T02:15:25.803Z",
+  "last_updated": "2026-11-03T02:15:28.154Z",
   "days": [
+    {
+      "date": "2026-11-03",
+      "items": [
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "REIT units par Depository Receipts ka naya framework",
+          "effective": "",
+          "what": "SEBI ne ek naya framework jari kiya hai jisse ab REITs units par depository receipts issue kiye ja sakte hain. Isse investors ko naye tareeke milenge REITs mein investment karne ke.",
+          "who": "REITs mein invest karne wale domestic aur foreign investors aur REIT sponsor companies ke liye kaam ki cheez hai.",
+          "action": "Agar aap REITs ya depository receipts mein interested hain to apne advisor ko nayi guidelines samjhne ke liye consult karein.",
+          "source_name": "sebi.gov.in",
+          "source_url": "https://www.sebi.gov.in/legal/circulars/nov-2026/framework-for-issuance-of-depository-receipts-on-units-of-reits-_105558.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "InvITs units par Depository Receipts ka naya ruleset",
+          "effective": "",
+          "what": "SEBI ne InvITs units par depository receipts issue karne ka framework jari kiya hai. Ye rules InvIT investments ko simplify karte hain aur global investors ko bhi mauka dete hain.",
+          "who": "InvITs mein invest karne wale domestic aur international investors aur InvIT sponsor entities.",
+          "action": "InvITs promoters ya advisors apne compliance aur issuance process ko update karein nayi guideline ke hisaab se.",
+          "source_name": "sebi.gov.in",
+          "source_url": "https://www.sebi.gov.in/legal/circulars/nov-2026/framework-for-issuance-of-depository-receipts-on-units-of-invits-_105557.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "DCB Bank",
+          "ref": "",
+          "headline": "DCB Bank ka 60–61 month FD offer aur slab details update hue",
+          "effective": "27 October 2026",
+          "what": "DCB Bank ne 60–61 month callable fixed deposit scheme ki rates, senior citizens slab, premature closure policy, aur DICGC cover ki terms update ki hain.",
+          "who": "DCB Bank ke deposit customers, khaaskar senior citizens jo fixed deposit plan dekh rahe hain.",
+          "action": "Agar aap DCB Bank me naya ya renew FD soch rahe hain to nayi terms aur rate slab ko bank se check karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/dcb-bank-60-61-month-fixed-deposit-7-50-percent-rate-senior-citizen-slabs-premature-closure-tax-dicgc.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Karnataka Bank",
+          "ref": "",
+          "headline": "Karnataka Bank ne 555-day fixed deposit naya offer diya",
+          "effective": "8 June 2026",
+          "what": "Karnataka Bank ne 555 din ke special callable FD ki terms launch ki hai. Ismein premature closure, TDS, aur DICGC cover ki info hai.",
+          "who": "Karnataka Bank customers jo short to medium term FD plan kar rahe hain.",
+          "action": "Log apni FD opening se pehle nayi terms aur TDS impact bank se samajh lein, khaaskar agar premature withdrawal plan hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/karnataka-bank-555-day-special-fixed-deposit-7-00-percent-rate-premature-closure-tax-dicgc.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "FPIs ke KYC review ki periodicity ab bilkul simple",
+          "effective": "",
+          "what": "SEBI ne FPIs ke liye KYC periodicity process simplify kiya hai. Isse compliance ka load kam hoga.",
+          "who": "Foreign Portfolio Investors (FPIs) aur unke compliance team ke liye zaroori update hai.",
+          "action": "FPI compliance team nayi reporting periodicity policies ko apne system me update karein.",
+          "source_name": "sebi.gov.in",
+          "source_url": "https://www.sebi.gov.in/legal/circulars/oct-2026/rationalisation-of-periodicity-of-kyc-review-for-fpis_105504.html"
+        }
+      ]
+    },
     {
       "date": "2026-11-02",
       "items": [
