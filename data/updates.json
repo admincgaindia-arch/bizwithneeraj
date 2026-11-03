@@ -1,6 +1,45 @@
 {
-  "last_updated": "2026-11-02T01:31:02.093Z",
+  "last_updated": "2026-11-03T01:31:00.459Z",
   "digests": [
+    {
+      "date": "2026-11-03",
+      "summary": "GST credit, scrap par RCM aur ITC deadlines par focus hai. November end tak GST input ITC submit karna na bhoolen.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "FY 2025-26 ka ITC claim karne ka aakhri mauka",
+          "detail": "Trade sources ke mutabik, FY 2025-26 ka pending GST input tax credit lene ki deadline 30 Nov 2026 hai. GSTR-2B, reconciliation aur timely entries par dhyan dein. Official notification ka intezaar hai.",
+          "cga_view": "Jo bhi ITC miss hai, November khatam hone se pehle GSTR-3B mein claim kar lo, aur records match kar lo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/caution-month-avail-gst-input-tax-credit-fy-2025-2026.html"
+        },
+        {
+          "category": "GST",
+          "headline": "Scrap par Reverse Charge Mechanism (RCM) 1 November se lagu",
+          "detail": "Waste, plastic, tyre, e-waste, used cooking oil scrap ab RCM ke under aa gaya hai 1 Nov 2026 se. Notification No. 04/2026 ke hisaab se compliance karein. Trade press report hai, detail ka intezaar hai.",
+          "cga_view": "Agar aap scrap kharid rahe ho, toh supplier nahi – aapko GST pay karna hoga. Procurement process update karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/reverse-charge-mechanism-waste-scrap-detailed-analysis-notification-no-04-2026-central-tax-rate.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "GSTR-2A mismatch par bhi ITC mil sakta hai: GSTAT Verdict",
+          "detail": "Agar supplier ne galti se B2C dikha diya par ITC ka tax payment proof hai, toh GSTAT ne ITC allow kiya. Section 93 ki recovery fail hone par bhi yeh view liya gaya hai.",
+          "cga_view": "Agar aapka ITC supplier ke GSTR-2A mein nahi aa raha hai, toh payment proof zarur sambhalein – legal support mil sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/gstr-2a-mismatch-due-to-suppliers-b2c-reporting-gstat-accepts-itc-claim-supported-by-tax-payment-certificates-read-order"
+        }
+      ],
+      "due_dates": [
+        {
+          "date": "2026-11-30",
+          "what": "FY 2025-26 ka GST input tax credit (ITC) claim karne ki deadline (trade report ke mutabik)"
+        }
+      ]
+    },
     {
       "date": "2026-11-02",
       "summary": "Aaj ke digest mein aapko GST, Income Tax aur kuch important court rulings ka update milega. Saaransh simple aur practical hai.",
@@ -2958,40 +2997,6 @@
           "source_type": "trade",
           "source_name": "taxscan.in",
           "source_url": "https://www.taxscan.in/top-stories/25-tax-rate-applicable-where-turnover-below-400-crore-itat-sets-aside-cpcs-30-tax-rate-read-order-1450535"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-08-29",
-      "summary": "Aaj ke digest mein GST, Income Tax aur TDS ke upar recent rulings discuss kiye gaye hain. Saare items trade press ke hain, koi official government release nahi aaya.",
-      "items": [
-        {
-          "category": "Ruling",
-          "headline": "Income Tax Data se Service Tax Limitation Extend nahi ho sakta: CESTAT",
-          "detail": "CESTAT Chandigarh ne bola ki sirf third-party Income Tax data ke base par service tax demand zyada time ke liye lagana sahi nahi, jab tak suppression ka proof na ho.",
-          "cga_view": "Agar department sirf kisi aur ki income tax info se purana service tax uthata hai, toh strong legal ground pe challenge ho sakta hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/service-tax/cestat-holds-extended-limitation-unsustainable-service-tax-demand-based-solely-party-data-income-tax-dept.html"
-        },
-        {
-          "category": "TDS",
-          "headline": "SBI par Section 201 TDS Default nahi banta: ITAT Ahmedabad",
-          "detail": "ITAT Ahmedabad ne decide kiya ki jab bank ne Madras HC ka interim order follow kiya, toh unpe LTC TDS non-deduction ka Section 201 default nahi lagega.",
-          "cga_view": "Agar aap kisi court order ki wajah se TDS nahi kaat paaye hain, toh uski certified copy aur full compliance records sambhal ke rakhein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/no-section-201-tds-default-sbi-binding-hc-order-itat-ahmedabad.html"
-        },
-        {
-          "category": "GST",
-          "headline": "Same FY, same ITC issue se 'same subject matter' prove nahi hota: Delhi HC",
-          "detail": "Delhi High Court ne GST ke overlapping proceedings ke mamle mein bola ki sirf same financial year aur ITC matter hone se Section 6(2)(b) apply nahi ho jaata. Appellate authority final decide karega.",
-          "cga_view": "Agar aapki GST proceedings multiple forums pe chal rahi hain, toh specific facts ke liye appellate authority ka decision ka intezaar karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/fy-itc-issue-cannot-establish-subject-matter-section-6-2-delhi-hc.html"
         }
       ],
       "due_dates": []
