@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-11-03T02:15:28.154Z",
+  "last_updated": "2026-11-04T02:15:27.496Z",
   "days": [
+    {
+      "date": "2026-11-04",
+      "items": [
+        {
+          "cat": "Scheme",
+          "authority": "PFRDA",
+          "ref": "Circular 52/2026",
+          "headline": "NPS scheme ke naam aur display rules badle",
+          "effective": "2026-12-01",
+          "what": "PFRDA ne NPS scheme ke naam, risk-category dikhane ka tareeka, aur PoP platform par display rule badla hai. Sabhi ko 1 December 2026 tak naye rules follow karne hain.",
+          "who": "NPS distributors, Points of Presence (PoPs), aur NPS sewa dikhane wale platforms par lagu hai.",
+          "action": "Agar aap NPS distributor ya platform run karte ho to apne display, scheme naming aur risk-category disclosure ki compliance PFRDA ke naye circular ke hisaab se kar lo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/pfrda-amends-nps-scheme-naming-pop-display-rules-compliance-1-december-2026.html"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "Bureau of Indian Standards (BIS)",
+          "ref": "",
+          "headline": "BIS registration process, product list aur renewal guide",
+          "effective": "",
+          "what": "BIS registration ke liye naye process, documentation, aur schemes (ISI, CRS, FMCS, etc.) ki jaankari di gayi hai. Fees, renewal aur testing ki poori process samjhai gayi hai.",
+          "who": "Jo log ya companies apne product ke liye BIS registration chahte hain un par lagu hota hai.",
+          "action": "Agar aapka product BIS ke scope mein aata hai to naya process padh lo, required documents jama karo aur testing/renewal ki taiyyari kar lo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/bis-registration-india-products-process-compliance.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "IRDAI",
+          "ref": "Master Circular 2026",
+          "headline": "IRDAI ka naya Master Circular insurance registration par",
+          "effective": "2026-11-02",
+          "what": "IRDAI ne insurance company registration, capital structure, share transfer aur amalgamation ke rules ek naye Master Circular mein update kiye hain. 2 November 2026 se lagu hain.",
+          "who": "Sabhi existing aur naye insurance companies pa lagu hai jo IRDAI ke under registered hain ya registration chahte hain.",
+          "action": "Insurance company ya to nayi ho ya purani, ab registration, capital ya share transfer plan bana rahe ho to latest IRDAI Master Circular check karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/irdai-issues-master-circular-insurer-registration-capital-structure-share-transfers-2026.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "REIT units par depository receipts ka SEBI ka naya framework",
+          "effective": "",
+          "what": "SEBI ne REIT (Real Estate Investment Trusts) units ke depository receipts issue karne ke liye eligibility, IFSC listing, pricing, voting aur compliance rules diye hain.",
+          "who": "REITs, IFSC mein listed entities, aur jo depository receipts issue karwana chahte hain un par lagu hai.",
+          "action": "Agar aap REIT ya investor ho, toh naye depository receipts aur compliance ka framework padhkar hi plan banaao.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-issues-framework-depository-receipts-reit-units.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "InvIT units par depository receipts issue ke naye rules",
+          "effective": "",
+          "what": "SEBI ne InvIT (Infrastructure Investment Trusts) units ke depository receipts ki eligibility, IFSC listing aur compliance guidelines issue ki hain.",
+          "who": "InvITs aur jo IFSC mein depository receipts issue karna chahte hain un par lagu hai.",
+          "action": "InvIT aur investors dono apni issue planning aur compliance SEBI ke naye guidelines ke hisaab se update karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-issues-framework-depository-receipts-invit-units.html"
+        }
+      ]
+    },
     {
       "date": "2026-11-03",
       "items": [
