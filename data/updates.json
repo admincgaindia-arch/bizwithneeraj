@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-11-03T01:31:00.459Z",
+  "last_updated": "2026-11-04T01:31:04.727Z",
   "digests": [
+    {
+      "date": "2026-11-04",
+      "summary": "Aaj mostly GST par High Court aur GSTAT ke kuch khaas rulings aaye, plus GSTN ne kuch nayi compliance facilities launch ki hain.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "GSTN Portal par Registration Amendments ke liye Online OTP Verification",
+          "detail": "GSTN ne registration amendment requests ke liye nayi online OTP verification facility launch ki hai. Ab jyadatar amendment cases mein applicant ko 3 din ke andar OTP verify karna padega.",
+          "cga_view": "Agar aapko GST registration mein koi badlav karna ho, to documents submit karte hi OTP verification par dhyan dein. Approval/disapproval fast ho jayegi.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/gstn-implements-new-online-verification-process-for-gst-registration-amendments-on-gst-portal"
+        },
+        {
+          "category": "GST",
+          "headline": "New Composition Levy Category GST REG-14 se Update Kar Sakte hain",
+          "detail": "GSTN ki advisory ke hisaab se ek nayi composition levy category (Section 10(2A) ke andar) launch hui hai. Ab taxpayer apna category REG-14 form se update/change kar sakte hain.",
+          "cga_view": "Composition scheme me registered ya opt karne wale ab portal par apni category easily change/verify karein. REG-14 ka use start karein.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/gstn-advisory-new-composition-levy-category-introduced-category-changes-allowed-through-reg-14"
+        },
+        {
+          "category": "Ruling",
+          "headline": "GST ITC Wrong Head Utilisation Par Kerala HC Ne Reassessment Ka Order Diya",
+          "detail": "Kerala High Court ne bataya ki galat IGST, CGST, SGST head mein ITC claim hua hai toh reassess karna padega. Purana assessment order quash kiya gaya.",
+          "cga_view": "Agar aapke GST credit ledger mein ITC galat head mein dikh raha ho, reassessment ke liye application darte waqt documents clear rakhein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/wrong-gst-itc-utilisation-igst-cgst-sgst-heads-kerala-hc-orders-reassessment.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Only GSTR-2A Mismatch Par GST ITC Denial Nahi: Kerala HC",
+          "detail": "Kerala HC ne bola sirf GSTR-2A aur purchase mismatch hone par ITC pura reject nahi ho sakta - department ko poora review karna hoga.",
+          "cga_view": "Apne vendor returns match na hone par bhi, agar invoices genuine hai to poora ITC reject nahi hoga. Documents ready rakhein scrutiny ke liye.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-itc-cannot-denied-solely-gstr-2a-mismatch-kerala-high-court-orders-reassessment.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Section 260A Appeal Jurisdiction AO Location Par: Karnataka HC",
+          "detail": "Karnataka High Court ne clarify kiya ki Section 260A ki appeal wahi file hogi jahan AO located hai, na ki ITAT ke location par.",
+          "cga_view": "Agar aapko income tax appeal file karni ho to AO ke jurisdiction par dhyan dein, location based confusion na ho.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-bengaluru-location-cannot-confer-territorial-jurisdiction-karnataka-high-court.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-11-03",
       "summary": "GST credit, scrap par RCM aur ITC deadlines par focus hai. November end tak GST input ITC submit karna na bhoolen.",
@@ -2936,67 +2988,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/goods-and-service-tax/telangana-hc-gst-registration-revocation-application-cancellation.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-08-30",
-      "summary": "Aaj ke digest mein ITAT aur HC ke kuch important rulings aur GST notice ko lekar ek zabardast point highlight hua hai. Compliance aur notices handle karte waqt extra careful rahein.",
-      "items": [
-        {
-          "category": "GST",
-          "headline": "Unsigned GST Notice par Rajasthan HC ka ruling",
-          "detail": "Rajasthan High Court ne bola ki sirf unsigned GST notice electronically generate hona legal authentication nahi hai. Aise notice pe recovery ya adjudication nahi ho sakta.",
-          "cga_view": "Agar aapko unsigned GST notice milta hai to us par action lene se pehle legal review zaroor karayein. Unsigned notice valid nahi maana jayega.",
-          "source_type": "trade",
-          "source_name": "taxscan.in",
-          "source_url": "https://www.taxscan.in/top-stories/mere-electronic-generation-does-not-authenticate-unsigned-gst-notice-rajasthan-hc-read-order-1450515"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Trust ko TDS credit agar Form 26AS mismatch ho toh bhi",
-          "detail": "Jodhpur ITAT ne trust ko TDS ka credit diya jab ki Form 26AS mein mismatch tha, kyunki trust ne income dikhayi thi aur Rule 37BA ki declaration sirf procedural hai.",
-          "cga_view": "Agar trust ke Form 26AS mein TDS nahi dikha, lekin income offer ki gayi hai, toh claim reject hone pe aap ITAT ka yeh order use kar sakte hain.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/jodhpur-itat-trust-tds-credit-trustees-form-26as-rule-37ba-declaration-procedural.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Manual Form 26A filing se TDS relief par koi rok nahi",
-          "detail": "Jaipur ITAT ne kaha ki agar tax pehle se pay ho chuka hai, toh manually file ki gayi Form 26A bhi sufficient hai. Isliye ₹1.15 lakh TDS demand hata di gayi.",
-          "cga_view": "Agar Form 26A online upload nahin hui par tax paid hai, toh manual filing case me bhi appeal ki possibility dekhein. Strictly procedural lapses pe relief mil sakta hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/tax-paid-offline-form-26a-no-bar-tds-relief-jaipur-itat.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Rs 60 lakh limit se ITAT mein reassessment par rok",
-          "detail": "ITAT Bangalore ne ruling di ki agar tax effect ₹60 lakh se kam hai, toh reassessment issue pe dept ka appeal maintain nahin hota.",
-          "cga_view": "Agar aapka case ITAT jaa raha hai aur tax effect limit se kam hai toh department ki appeal reject ho sakti hai. Appeal process monitor karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/rs-60-lakh-limit-ends-jao-fao-reassessment-battle-bangalore-itat.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Section 234C interest ka re-calculation allowed",
-          "detail": "ITAT ne foreign-tax relief aur TDS credit lene ke baad section 234C interest ₹7 lakh se ghata ke ₹56,047 kar diya. Sirf net taxable shortfall pe hi interest.",
-          "cga_view": "Agar aapko zyada interest notice aayi hai toh foreign tax credit aur TDS adjust karwa kar interest ka recomputation demand kar sakte hain.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/itat-cuts-section-234c-interest-rs-7-lakh-rs-56-047.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "25% tax rate agar turnover ₹400 crore se kam hai",
-          "detail": "ITAT Delhi ne rule kiya hai ki company ka turnover agar ₹400 crore se kam hai toh 25% tax lagega, 30% nahi, chahe CPC ne galti se zyada tax laga diya ho.",
-          "cga_view": "Balance Sheet ke basis par hi apni company ke tax rate ka claim karein. CPC ka assessment galat ho toh turant rectification file karein.",
-          "source_type": "trade",
-          "source_name": "taxscan.in",
-          "source_url": "https://www.taxscan.in/top-stories/25-tax-rate-applicable-where-turnover-below-400-crore-itat-sets-aside-cpcs-30-tax-rate-read-order-1450535"
         }
       ],
       "due_dates": []
