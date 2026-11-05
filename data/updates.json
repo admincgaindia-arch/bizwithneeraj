@@ -1,6 +1,49 @@
 {
-  "last_updated": "2026-11-04T01:31:04.727Z",
+  "last_updated": "2026-11-05T01:31:00.708Z",
   "digests": [
+    {
+      "date": "2026-11-05",
+      "summary": "Aaj ki digest mein kuch important GST aur Income Tax ki court rulings hain jo compliance simplify kar sakti hain. Sab items trade press se liye gaye hain, kyunki aaj official govt release available nahi hai.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "GST Registration Cancel: Vague Notice Par Nahi Hoga",
+          "detail": "GSTAT ne bola, agar cancellation notice mein specific allegation nahi hai aur facts missing hain, toh GST registration cancel nahi ho sakta. Taxpayer ko fair mauka milna chahiye.",
+          "cga_view": "Agar apka registration cancel hua hai bina proper notice ke, toh aap appeal daal sakte hain. Notice carefully padho - vague points pe challenge ho sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/gst-registration-cannot-be-cancelled-on-vague-scn-without-specific-allegations-gstat"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Gold Jewellery Ka Source Sahi Toh Addition Nahi Hogi: ITAT",
+          "detail": "ITAT ne unexplained cash aur jewellery par addition hata di, kyunki cash books se prove hua aur jewellery CBDT rules ke limit mei thi.",
+          "cga_view": "Gold ya cash ka source books ya rules se match kare toh department ko addition ka scope kam ho jata hai. Saare document sambhal ke rakho.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/income-tax-dept-questions-rs-16-lakh-gold-jewellery-found-during-raid-taxpayer-cites-cbdt-rules-and-wins-case-in-itat-read-order"
+        },
+        {
+          "category": "GST",
+          "headline": "Clerical GSTR-1 Cess Error: Unsupported Demand Nahin Chalega",
+          "detail": "GSTAT Thiruvananthapuram ne bola ki sirf clerical error ki wajah se, bina support ke demand nahi nikal sakte. Demand valid tabhi hogi jab proper evidence ho.",
+          "cga_view": "Agar galti se GSTR-1 mein cess ya koi aur clerical mistake ho gayi hai, toh us basis par demand aa jaye toh challenge kar sakte ho - supporting evidence ki demand karo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/clerical-gstr-1-cess-error-cannot-sustain-unsupported-demand-gstat-thiruvananthapuram.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Bank Deposit: Gold Jewellery Sale Agar Prove Hai Toh Relief",
+          "detail": "ITAT ne cash deposit case mein taxpayer ko relief di, kyunki unhone dikha diya ki paise maa ke gold jewellery ke sale se aaye, gift deed aur valuer report bhi diya.",
+          "cga_view": "Agar bank deposit ka source gold jewellery ka sale hai, toh gift deed aur valuation report ready rakho. Future mein bhi waise hi proof dikhana padega.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/man-deposits-rs-13-lakh-cash-in-bank-explains-money-came-from-mothers-gold-jewellery-sale-itat-deletes-income-tax-addition"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-11-04",
       "summary": "Aaj mostly GST par High Court aur GSTAT ke kuch khaas rulings aaye, plus GSTN ne kuch nayi compliance facilities launch ki hain.",
@@ -2936,58 +2979,6 @@
           "source_type": "trade",
           "source_name": "taxscan.in",
           "source_url": "https://www.taxscan.in/top-stories/calcutta-hc-holds-itc-cannot-be-denied-to-bonafide-purchaser-merely-for-suppliers-non-filing-of-gstr-3b-read-order-1450583"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-08-31",
-      "summary": "Aaj mostly GST aur Income Tax par focus hai, mostly High Court aur tribunal ke updates hain. Direct compliance kaam abhi ke liye kam hai, par kuch important legal developments note karo.",
-      "items": [
-        {
-          "category": "Income Tax",
-          "headline": "CBDT ne ITR-B introduce kiya Block Assessment ke liye",
-          "detail": "CBDT ne ITR-B form launch kiya hai block assessment ke liye, Income-tax Rules, 2026 ke amendment se. Notification No. 97/2026 se Rule 332 update hua.",
-          "cga_view": "Jo bhi clients ka block assessment chal raha ho, unke liye naya ITR-B form check karo. Filing process mein changes aa sakte hain.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/cbdt-introduces-itr-block-assessment-income-tax-rules-2026.html"
-        },
-        {
-          "category": "GST",
-          "headline": "GST death ke baad legal heirs ki liability samjho",
-          "detail": "Section 93 CGST Act ke hisaab se, taxpayer ki death ke baad GST liability legal representatives par aati hai, especially agar business continue ho raha hai ya estate se recover ho sakta hai.",
-          "cga_view": "Agar client ki death hui ho aur business continue hai, toh legal heir ko GST liability ka dhyaan rakhna zaroori hai. Estate planning mein ab is point ko zaroor samjhao.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/gst-outlives-taxpayer-liability-legal-representative-section-93.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Karnataka HC: GST seized goods bech sakte hain, proper notice ke baad",
-          "detail": "Court ne GST authority ko allow kiya ki Section 129(6) KSGST/CGST Act ke tahat hazardous goods ko sell karein, agar owner appeal nahi karta. Notice serve karna compulsory hai.",
-          "cga_view": "Agar aapke goods GST authority ne seize kiye hain aur appeal nahi file ki, toh goods bik sakte hain. Appeal ka option jaldi exercise karo, warna goods loss ho sakta hai.",
-          "source_type": "trade",
-          "source_name": "taxscan.in",
-          "source_url": "https://www.taxscan.in/top-stories/karnataka-hc-directs-sale-of-seized-goods-us1296-of-ksgst-act-after-due-notice-if-owner-fails-to-avail-appellate-remedy-1450559"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Delhi HC: GST SCN sirf portal par upload se valid nahi",
-          "detail": "Delhi HC ne kaha ki agar GST show cause notice sirf portal par upload hua, proper serve nahi hua, toh poori proceedings wapas SCN stage par jayengi.",
-          "cga_view": "Agar apko sirf portal par notice mila aur personally serve nahi hua, toh department ki action legally weak ho sakta hai. Is ground par relief mil sakti hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/delhi-hc-restores-gst-proceedings-scn-not-duly-served.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Telangana HC: Cancelled GST registration ka revocation apply kar sakte hain",
-          "detail": "Telangana HC ne allowed kiya ke agar GST registration fraud/suppression/alleged galti se cancel hua ho, toh taxpayer revocation request daal sakta hai.",
-          "cga_view": "Agar registration cancel ho gaya hai, toh ab bhi revocation ka mauka mil sakta hai. Jaldi application file karo, especially agar cancellation reason dispute hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/telangana-hc-gst-registration-revocation-application-cancellation.html"
         }
       ],
       "due_dates": []
