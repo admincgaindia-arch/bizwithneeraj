@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-11-04T02:15:27.496Z",
+  "last_updated": "2026-11-05T02:15:29.217Z",
   "days": [
+    {
+      "date": "2026-11-05",
+      "items": [
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI working group to review Innovators Growth Platform",
+          "effective": "",
+          "what": "SEBI ne ek working group banaya hai jo Innovators Growth Platform (IGP) ke rules jaise listing, capital raise, aur investor eligibility ko review karega. Yeh startups ki regulatory requirements ko asaan banane par focus hai.",
+          "who": "Jo bhi innovation-led startups IGP par list hona chahte hain ya capital raise karte hain.",
+          "action": "Agar aap startup founder hain ya IGP listing advisor hain, toh naye rules ke liye SEBI ki updates par nazar rakhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-constitutes-working-group-review-innovators-growth-platform-framework.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Digital KYC ab NRIs, OCIs, foreign nationals ke liye allowed",
+          "effective": "2026-12-03",
+          "what": "SEBI ne digital KYC process ko NRIs, OCIs aur un foreign nationals ke liye allow kiya hai jo FATF-compliant countries mein hain. Naye verification rules lagu honge 3 December 2026 se.",
+          "who": "Jo NRIs, OCIs, aur foreign nationals India me investment account kholna chahte hain, aur financial intermediaries jo inki onboarding karte hain.",
+          "action": "Agar aap NRI ya OCI hain toh December ke baad digital KYC ke liye apne service provider se sampark karein. Intermediaries ko naye rules ki compliance check karni hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-relaxes-digital-kyc-rules-nris-ocis-foreign-nationals-3-december-2026.html"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "PFRDA",
+          "ref": "52/2026",
+          "headline": "NPS scheme naming aur display rules badle",
+          "effective": "2026-12-01",
+          "what": "PFRDA ne NPS scheme ke naam, risk-category disclosure aur Point of Presence (PoP) platform display ke rules update kiye hain. Circular 52/2026 ke hisaab se yeh changes 1 December 2026 se lagu honge.",
+          "who": "All NPS scheme providers aur PoP platforms jin par NPS products listed hain.",
+          "action": "NPS providers ko apne product names aur risk category display ko update karna hai. PoP platforms ko naye format mein details dikhani hongi. Compliance deadline ko miss na karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/pfrda-amends-nps-scheme-naming-pop-display-rules-compliance-1-december-2026.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "IRDAI",
+          "ref": "Master Circular 2026",
+          "headline": "IRDAI ne insurer registration aur share transfer rules diye",
+          "effective": "2026-11-02",
+          "what": "IRDAI ne insurers ke registration, capital structure, share transfers aur amalgamation ke new rules ek master circular me jari kiye hain. Yeh 2 November 2026 se effective hain.",
+          "who": "Insurance companies jo naya registration, capital restructuring ya share transfer ki planning kar rahi hain.",
+          "action": "Aap insurance company operate karte hain to nayi guideline Master Circular 2026 dhang se padhkar apni compliance team ko update karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/irdai-issues-master-circular-insurer-registration-capital-structure-share-transfers-2026.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "REITs aur InvITs unit par Depository Receipts ka naya framework",
+          "effective": "",
+          "what": "SEBI ne REITs (Real Estate Investment Trusts) aur InvITs (Infrastructure Investment Trusts) ki units par Depository Receipts issue karne ka naya framework laya hai. Isse international investors ko participation ka mauka milega.",
+          "who": "REITs, InvITs aur unke investors jo international market se funds raise karna chahte hain.",
+          "action": "REITs/InvITs ki management ko SEBI ka latest circular check karna chahiye agar woh apni units ke against DRs issue plan kar rahe hain.",
+          "source_name": "sebi.gov.in",
+          "source_url": "https://www.sebi.gov.in/legal/circulars/nov-2026/framework-for-issuance-of-depository-receipts-on-units-of-reits-_105558.html"
+        }
+      ]
+    },
     {
       "date": "2026-11-04",
       "items": [
@@ -2834,35 +2899,6 @@
           "action": "Aise depositors ko portal par login kar ke apna claim wapas file/verify karna chahiye. Aadhaar aur related documents ready rakhein.",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/corporate-law/ministry-restores-crcs-sahara-refund-portal-expedite-genuine-depositors-claims.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-07",
-      "items": [
-        {
-          "cat": "SEBI",
-          "authority": "SEBI",
-          "ref": "",
-          "headline": "SEBI ne mutual fund settlement propose kiya",
-          "effective": "",
-          "what": "SEBI ne mutual funds ke cash market transactions ke liye net settlement ka proposal manga hai. Abhi outright trades par fund obligations ko net settle karne ka idea hai, lekin securities ki settlement gross hi hogi.",
-          "who": "Yeh proposal mutual funds houses aur unke transaction handling teams ke liye hai.",
-          "action": "Aap mutual fund compliance ya settlement department se discuss karein. Agar aap suggestion dena chahte hain to apni industry body ya direct SEBI portal par response bhej sakte hain.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/sebi/sebi-proposes-net-settlement-funds-mutual-fund-cash-market-transactions.html"
-        },
-        {
-          "cat": "Other",
-          "authority": "IFSCA",
-          "ref": "",
-          "headline": "GIFT IFSC ne foreign currency mobilisation highlight kiya",
-          "effective": "",
-          "what": "IFSCA ne bataya ki GIFT IFSC banking units ne $52.8 billion FCNR(B) swap, $11.62 billion ECB aur $11.12 billion bond listing ki hai. Foreign currency resources tezi se mobilise ho rahe hain.",
-          "who": "Jo companies ya banks GIFT City IFSC mein operations karte hain, ya foreign currency financing dekh rahe hain unke liye hai.",
-          "action": "Agar aapki company IFSC transactions mein involved hai to latest mobilisation numbers par nazar rakhein. Agar fund raising plan hai to GIFT City opportunities check karein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/finance/ifsca-highlights-gift-ifsc-foreign-currency-mobilisation-exceeding-usd-52-8-billion.html"
         }
       ]
     }
