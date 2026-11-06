@@ -1,6 +1,49 @@
 {
-  "last_updated": "2026-11-05T01:31:00.708Z",
+  "last_updated": "2026-11-06T01:31:05.547Z",
   "digests": [
+    {
+      "date": "2026-11-06",
+      "summary": "Aaj GST ke kuch kai practical judgments aaye hain, income tax par bhi ITAT Mumbai ka ek strong order hai. Compliance karte waqt proofs sambhal ke rakho, legal side pe aware raho.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "GST ITC verify karo original records se, sirf annual return se nahi",
+          "detail": "GSTAT ne bola hai ki ITC claim ka proof annual return ke alawa bhi original documents aur electronic credit ledger se check hoga. Sirf galat head me credit dalne par bhi alag se verify kiya jayega.",
+          "cga_view": "Client ko har ITC claim ka supporting document ready rakhna chahiye. Misreport ki rectification ka paperwork maintain karo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/gst-itc-eligibility-must-be-verified-from-original-records-and-electronic-credit-ledger-not-annual-return-alone-gstat"
+        },
+        {
+          "category": "GST",
+          "headline": "50 km ke andar local goods movement me E-Way Bill Part-B zaroori nahi",
+          "detail": "GSTAT ke decision ke mutabik, agar goods local 50 km ke andar transport hote hain (transporter depot tak), toh Part-B vehicle details dalne ki need nahi hai.",
+          "cga_view": "Agar aapka movement local aur 50 km ke andar hai, penalty se bach sakte ho. Proof of distance aur route rakhke chalo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/non-furnishing-of-e-way-bill-part-b-for-local-movement-within-50-km-cannot-attract-gst-penalty-gstat"
+        },
+        {
+          "category": "GST",
+          "headline": "Supplier ka retrospective GST cancellation hone par bhi ITC deny nahi hoga",
+          "detail": "GSTAT Cuttack ne bola hai ki sirf supplier ki purani tareekh se cancellation se ITC deny nahi kar sakte. Actual supply ka proof important hai.",
+          "cga_view": "Jin cases me supplier retrospectively cancelled hua hai, wahan ITC reject ho toh all documents ready rakhein aur demand ka legal response taiyar karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/suppliers-retrospective-gst-cancellation-not-deny-itc-gstat-cuttack.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Search ke baad bina incriminating material ke addition galat hai: ITAT Mumbai",
+          "detail": "ITAT Mumbai ne decide kiya hai ki jab search assessment complete ho jaye, bina koi naya incriminating material ke addition nahi ho sakti.",
+          "cga_view": "Agar aapki assessment search ke basis pe hui thi aur nayi addition bina evidence ke ho rahi hai, toh appeal karne ka ground strong hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/additions-without-incriminating-material-completed-search-assessments-invalid-itat-mumbai.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-11-05",
       "summary": "Aaj ki digest mein kuch important GST aur Income Tax ki court rulings hain jo compliance simplify kar sakti hain. Sab items trade press se liye gaye hain, kyunki aaj official govt release available nahi hai.",
@@ -2927,58 +2970,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/goods-and-service-tax/rajasthan-hc-protects-director-arrest-gst-itc-fraud-investigation.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-09-01",
-      "summary": "Aaj mostly income tax aur GST par kuch tribunal/court rulings update hue hain. Koi major government notification ya due date nahi aayi hai.",
-      "items": [
-        {
-          "category": "Income Tax",
-          "headline": "115BAC Benefit Allowed Despite Late Return: ITAT Delhi",
-          "detail": "ITAT Delhi ne belated return file karne par bhi Section 115BAC ka benefit allow kiya. Delay condone karke assessee ki nayi regime ki choice maani gayi.",
-          "cga_view": "Agar client ka return late hai aur nayi regime choose karna hai, ab aise cases mein appeal ka option consider karo. Strict rejection zaroori nahi hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/itat-delhi-section-115bac-benefit-belated-income-tax-return.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Foreign Commission - Section 40(a)(i) Disallowance Deleted",
-          "detail": "ITAT Ahmedabad ne ruling di ki foreign commission (bahar rendered services) par TDS ki zaroorat nahi thi, isliye disallowance hata diya.",
-          "cga_view": "Agar koi foreign payment TDS par doubt ho (services India ke bahar diye gaye hain), toh similar precedent refer kar sakte ho.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/itat-ahmedabad-deletes-section-40-disallowance-foreign-commission.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "148A Proceedings: Karnataka HC Ne Dubara Mauka Diya",
-          "detail": "Karnataka HC ne reassessment, demand aur penalties quash karke taxpayer ko 148A(b) notice ka response dene ka fresh mauka diya, deadline 15 September 2026.",
-          "cga_view": "148A(b) ka notice aaye toh time par respond zaroor karo. Court ne recent order mein taxpayer ko ek aur opportunity di hai, deadlines ignore na karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/karnataka-hc-restores-reassessment-section-148a-stage-sets-penalties.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "GSTAT: Deceased Proprietor Par GST Demand Set Aside",
-          "detail": "GSTAT Thiruvananthapuram ne 2017-18 ke ITC par retrospective Section 16(5) lagate hue mrtak proprietor par GST demand hata di.",
-          "cga_view": "Agar koi GST demand deceased proprietor ke naam par ho, toh is precedent ki copy department ko dikhao. ITC claim karne ka mauka hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/gstat-sets-gst-demand-against-deceased-proprietor-itc-section-16-5.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "ITC Allowed to Bonafide Purchaser: Calcutta HC",
-          "detail": "Calcutta HC ne bola invoice GSTR-2A mein reflect na hone par bhi agar aap bonafide ho toh ITC deny nahi kiya jaa sakta.",
-          "cga_view": "Agar supplier ki GSTR-3B non-filing ki wajah se ITC atka hai, toh is HC judgement ka reference likh kar department ko reply bhejein.",
-          "source_type": "trade",
-          "source_name": "taxscan.in",
-          "source_url": "https://www.taxscan.in/top-stories/calcutta-hc-holds-itc-cannot-be-denied-to-bonafide-purchaser-merely-for-suppliers-non-filing-of-gstr-3b-read-order-1450583"
         }
       ],
       "due_dates": []
