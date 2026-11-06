@@ -1,6 +1,59 @@
 {
-  "last_updated": "2026-11-05T02:15:29.217Z",
+  "last_updated": "2026-11-06T02:15:26.894Z",
   "days": [
+    {
+      "date": "2026-11-06",
+      "items": [
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "Non-bank payment operators: New cyber and payment security rules",
+          "effective": "",
+          "what": "RBI ne non-bank payment system operators ke liye cyber security aur digital payment ki safety ke naye rules issue kiye hain. Master directions mein compliance ka scope aur control systems clear kiye gaye hain.",
+          "who": "Har non-bank payment system operator, jaise wallet, payment gateway, ya fintech firms, jinke upar RBI ka regulation hai.",
+          "action": "Agar aap kisi non-bank payment operator ke compliance ya IT team mein ho, to Master Directions padho aur cyber security framework update karo. Regulated entity ho to turant apne controls review karo.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13751&Mode=0"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Mutual Funds: April 2027 se net fund settlement allowed",
+          "effective": "1 April 2027",
+          "what": "SEBI ne allow kiya hai ki mutual fund schemes apne cash market transactions mein net fund settlement use kar sakengi, securities settlement ab bhi gross basis par hoga. Yani paisa ek hi baar net basis pe transfer hoga aur securities alag-alag kategi.",
+          "who": "Sabhi mutual fund houses aur unke scheme administrators jinmein cash market trades hoti hain.",
+          "action": "Mutual fund operation/finance team apne process ko April 2027 ke net settlement framework ke hisaab se align karein. Investors ko settlement reports check karni chahiye.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-net-fund-settlement-mutual-fund-schemes-april-2027.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "NRI, OCI, foreign investors: SEBI ka digital KYC 3 Dec 2026 se",
+          "effective": "3 December 2026",
+          "what": "SEBI ne remote digital KYC ki facility start ki hai un sab logon ke liye jo India ke bahar rehte hain, jaise NRI, OCI aur foreign nationals. Ab poora KYC process digitally ho sakta hai, documents and verification video call se possible hai.",
+          "who": "Sab NRI, OCI, ya foreign national investors jo SEBI-registered intermediary ke through invest kar rahe hain.",
+          "action": "Agar aap ya aapka client abroad hai, to December 2026 se KYC ke liye physical documents aur visit ki zaroorat nahi. Digital KYC process, document list aur verification steps apne intermediary se check karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-digital-kyc-nris-ocis-foreign-nationals-3-december-2026-intermediary-controls.html"
+        },
+        {
+          "cat": "Loan",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI ne Accredited Investor rules ka framework update kiya",
+          "effective": "",
+          "what": "SEBI ne AIF Master Circular mein accredited investor reforms, GARUDA framework aur winding-up guidelines add kiye hain. Accredited investor ka process aur conditions mein changes kiye gaye hain.",
+          "who": "Alternative Investment Funds (AIFs), existing ya chahne wale accredited investors aur fund managers.",
+          "action": "AIF managers apna client onboarding aur compliance accredited investor ke naye framework ke hisaab se update karein. Qualification aur application details check karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-aif-master-circular-updated-november-5-2026-accredited-investor-framework-compliance-rules.html"
+        }
+      ]
+    },
     {
       "date": "2026-11-05",
       "items": [
@@ -2846,59 +2899,6 @@
           "action": "IPO planning team apni process, documentation aur compliances guide ke hisaab se review karein. DRHP filing se kaafi pehle ka preparation check karein.",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/sebi/pre-ipo-runway-18-months-drhp-filing-demand.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-14",
-      "items": [
-        {
-          "cat": "Loan",
-          "authority": "Reserve Bank of India",
-          "ref": "RBI/2026-27/256 FIDD.CO.PSD.BC.No.10/04.09.001/2026-27",
-          "headline": "Priority Sector Lending mein kuch advances ab ANBC se bahar",
-          "effective": "September 11, 2026",
-          "what": "RBI ne clarify kiya hai ki kuch specific FCNR(B) aur NRE term deposit ke against diye gaye advances, kuch dinon ke liye, ANBC (Adjusted Net Bank Credit) calculation se bahar rahenge. Ye sirf deposits ke renewal/maturity ki specific dates ke beech apply hoga.",
-          "who": "Sabhi banks jinmein FCNR(B) ya NRE deposit hain aur jo ANBC calculation karte hain.",
-          "action": "Aapke bank ko check karna chahiye ki aapke advances ka calculation sahi ho, especially agar FCNR(B) ya NRE deposits ke against advance diya gaya hai. Bank compliance team is change ko apne PSL calculation process mein update karein.",
-          "source_name": "rbi.org.in",
-          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13698&Mode=0"
-        },
-        {
-          "cat": "Loan",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "RBI ne ARC se judi FAQs issue ki, roles clear kiye",
-          "effective": "",
-          "what": "RBI ne asset reconstruction companies (ARC) ke operations par FAQs release kiye hain. Isme clarify kiya gaya hai ki ARC kya activity kar sakte hain, NBFC ke taur par unka role kya hai, KYC aur servicing arrangements kaise honge.",
-          "who": "Asset reconstruction companies (ARC), unse deal karne wale bankers aur professionals.",
-          "action": "Jo bhi ARC sector mein kaam kar rahe hain, RBI ki latest FAQs ko dhyan se padhein, compliance aur activity planning accordingly karein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/rbi-faqs-asset-reconstruction-companies-arcs.html"
-        },
-        {
-          "cat": "Loan",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "Priority Sector Lending pe FAQs jari, classification clarify hua",
-          "effective": "",
-          "what": "RBI ne Priority Sector Lending guidelines par FAQs publish kiye hain. Isme explain kiya gaya hai ki kaunse loans PSL maanenge, calculation kaise hogi, aur agriculture, education, housing waale sectors mein kya rules lagenge.",
-          "who": "Banks, NBFCs, aur jo log PSL compliance ya reporting mein jude hain.",
-          "action": "PSL se jude professionals apne institution ke lending products ko is latest clarification se match kar lein. FAQs zaroor padhein, compliance gap check karein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/faqs-priority-sector-lending-targets-classification.html"
-        },
-        {
-          "cat": "Scheme",
-          "authority": "Ministry of Cooperation",
-          "ref": "",
-          "headline": "Sahara refund portal fir se chalu, claims process resume hua",
-          "effective": "",
-          "what": "Ministry ne CRCS-Sahara Refund Portal ko wapas chalu kiya hai. Ab genuine depositors apne claim online, Aadhaar ke through verify kara sakte hain. Pending refund ab process kiye jayenge.",
-          "who": "Wo depositors jinhone Sahara/CRCS mein paisa jama kiya tha aur abhi unka refund pending hai.",
-          "action": "Aise depositors ko portal par login kar ke apna claim wapas file/verify karna chahiye. Aadhaar aur related documents ready rakhein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/corporate-law/ministry-restores-crcs-sahara-refund-portal-expedite-genuine-depositors-claims.html"
         }
       ]
     }
