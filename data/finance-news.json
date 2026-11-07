@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-11-06T02:15:26.894Z",
+  "last_updated": "2026-11-07T02:15:26.435Z",
   "days": [
+    {
+      "date": "2026-11-07",
+      "items": [
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "South Eastern Coalfields IPO DRHP mein OFS, business details",
+          "effective": "",
+          "what": "South Eastern Coalfields Limited ne apna DRHP file kiya hai jisme 668.06 million-shares ka Offer For Sale (OFS) hoga. Analysis mein Coal India ki ownership aur company ke mining operations ki details di gayi hain.",
+          "who": "IPO mein interested investors aur jo mining sector companies dekh rahe hain.",
+          "action": "Agar aap IPO mein invest karne ka soch rahe hain toh DRHP padh kar company ke business aur risk samjhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/ipo/south-eastern-coalfields-drhp-ofs-structure-financials-business-ipo-risks.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI Mutual Fund Schemes mein Net Fund Settlement allow karega April 2027 se",
+          "effective": "1 April 2027",
+          "what": "SEBI ne mutual fund cash market trades ke funds ka scheme-level net settlement allow kar diya hai. Securities ki settlement abhi bhi gross hi hogi.",
+          "who": "Mutual fund houses aur unke fund managers.",
+          "action": "April 2027 se statement aur settlement process mein badlaav expect karein. Process samajhne ke liye scheme ke RTA/Fund House se detail lein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-net-fund-settlement-mutual-fund-schemes-april-2027.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI Accredited Investor Framework 2026: Manager-led verification aur record rules",
+          "effective": "",
+          "what": "SEBI ke naye accredited-investor framework mein manager-led verification allow hai, teen saal ki validity hogi aur eligibility aur records ki requirements revise ki gayi hain.",
+          "who": "Portfolio managers, wealth managers, aur accredited investor banne wale high net worth individuals.",
+          "action": "Agar aap accredited investor banna chahte hain toh latest eligibility proof aur manager-led process ki details prepare karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-accredited-investor-framework-2026-manager-led-verification-year-validity-record-controls.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "IFSCA",
+          "ref": "",
+          "headline": "IFSC Banking Units – Licensing, capital aur internet banking rules FAQs",
+          "effective": "",
+          "what": "IFSCA FAQs mein IFSC Banking Unit banane ke licence, USD 20 million capital ki shart, liquidity aur KYC norms aur internet banking ke basic rules bataye gaye hain.",
+          "who": "Jo IFSC mein banking unit kholne ka plan bana rahe hain – special banking zones mein business wale.",
+          "action": "Capital, compliance aur licensing process ke FAQs IFSCA ki site se padhein. Saare documents aur capital ready rakhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/ifsca-faqs-ifsc-banking-units-licensing-prudential-norms-internet-banking.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "Cyber Resilience aur Payment Security: Non-bank Payment System Operators ke liye nayi guidelines",
+          "effective": "",
+          "what": "RBI ne non-bank payment system operators ke liye cyber resilience aur digital payment security controls par Master Directions release ki hain.",
+          "who": "Saare non-bank payment gateways, wallets aur payment system operators.",
+          "action": "Guidelines detail mein padhein aur IT/cyber security systems nayi requirements ke hisaab se update karwaen.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13751&Mode=0"
+        }
+      ]
+    },
     {
       "date": "2026-11-06",
       "items": [
@@ -2834,71 +2899,6 @@
           "action": "Agar aap NBFC run karte hain to dekho aap is exemption mein aate ho ya nahi. Exemption ki terms carefully padh ke comply karo.",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/rbi/check-making-deposits-nbfcs-faq.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-15",
-      "items": [
-        {
-          "cat": "Loan",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "RBI FAQs: ARCs kaun hai aur kya kar sakte hain?",
-          "effective": "",
-          "what": "RBI ne FAQs jari kiye hain jisme Asset Reconstruction Companies (ARCs) se judi kaafi clarity di gayi hai. Isme investment rules, KYC, restructuring, aur management fees wagairah cover hain.",
-          "who": "Asset Reconstruction Companies (ARCs) aur unse judne wale NBFCs ya professionals.",
-          "action": "Agar aap ARC operate karte hain ya waha serve karte hain, to RBI ki FAQs ko dhyan se padhkar apne compliance aur documentation ka review karein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/rbi-faqs-asset-reconstruction-companies-arcs.html"
-        },
-        {
-          "cat": "Loan",
-          "authority": "Reserve Bank of India",
-          "ref": "FIDD.CO.PSD.BC.No.10/04.09.001/2026-27",
-          "headline": "Priority Sector Lending ke ANBC exemption ki cut-off badli",
-          "effective": "",
-          "what": "RBI ne Priority Sector Lending directions amend kiye hain. FCNR (B) aur NRE deposit-backed advances ko ANBC se exclude karne ki cut-off date ab 31 August 2026 ho gayi hai, pehle 30 September 2026 thi.",
-          "who": "Wo banks jo FCNR (B) ya NRE deposits ke against advance dete hain.",
-          "action": "Banks apni ANBC calculation aur compliance check kar lein. Naye cut-off ko dhyan me rakhte hue reporting karein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/rbi-priority-sector-lending-amendment-directions-2026-anbc-exemption-cut-off-revised-august-31-2026.html"
-        },
-        {
-          "cat": "RBI Policy",
-          "authority": "Ministry of Cooperation",
-          "ref": "",
-          "headline": "CRCS-Sahara Refund Portal dobara chalu, claims process resume",
-          "effective": "",
-          "what": "Ministry ne CRCS-Sahara Refund Portal phir se activate kiya hai. Ab genuine depositors apna claim digital process se daal sakte hain, verification bhi continue ho rahi hai.",
-          "who": "Sahara par paisa jama karne wale original depositors jin ka claim pending tha.",
-          "action": "Sahara refund claim ab portal par dobara daal sakte hain. Aadhaar ready rakhein aur online verification complete karein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/corporate-law/ministry-restores-crcs-sahara-refund-portal-expedite-genuine-depositors-claims.html"
-        },
-        {
-          "cat": "Loan",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "RBI FAQs: Priority Sector Lending rules par naya samjhauta",
-          "effective": "",
-          "what": "RBI ke naye FAQs mein priority sector lending ki classification, calculation, agriculture, housing jaise sectors cover kiye hain. Securitised assets aur PSLC trading par bhi guideline hai.",
-          "who": "Banks aur lenders jo priority sector (kheti, education, housing, etc.) mein loan dete hain.",
-          "action": "Compliance team nayi FAQs ka study karein. Apne internal process, classification aur targets ki calculation ko update karein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/faqs-priority-sector-lending-targets-classification.html"
-        },
-        {
-          "cat": "SEBI",
-          "authority": "SEBI",
-          "ref": "",
-          "headline": "18 mahine pehle DRHP filing ka practical guide aaya",
-          "effective": "",
-          "what": "Ek guide jari hui hai jisme bataya hai ki IPO se 18 mahine pehle kaunse controls, governance steps, FEMA compliance aur audit/Ind AS ki taiyari zaruri hai.",
-          "who": "Woh companies jo IPO laane ka plan kar rahi hain, aur unke promoters & advisors.",
-          "action": "IPO planning team apni process, documentation aur compliances guide ke hisaab se review karein. DRHP filing se kaafi pehle ka preparation check karein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/sebi/pre-ipo-runway-18-months-drhp-filing-demand.html"
         }
       ]
     }
