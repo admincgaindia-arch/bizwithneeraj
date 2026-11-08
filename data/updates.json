@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-11-07T01:31:00.150Z",
+  "last_updated": "2026-11-08T01:30:59.824Z",
   "digests": [
+    {
+      "date": "2026-11-08",
+      "summary": "Aaj IFSC aircraft leasing dividends par no-TDS workflow, NPO merger compliance aur GST rulings discuss kiye gaye hain. Koi major due date nahi hai.",
+      "items": [
+        {
+          "category": "Income Tax",
+          "headline": "IFSC aircraft leasing dividends par no-TDS: Form 1(N) process",
+          "detail": "CBDT Notification 141/2026 ke mutabik, agar IFSC aircraft-leasing dividends hain to Form 1(N) submit karne par TDS nahi katega, subject to payer ki reporting aur document evidence.",
+          "cga_view": "Agar IFSC aircraft leasing business mein ho, to Form 1(N) timely file karo aur proper documentation maintain karo; TDS wrongly deduct na ho is par dhyan do.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/ifsc-aircraft-leasing-dividends-form-1-no-tds-workflow-cbdt-notification-141-2026.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "NPO mergers: Form 112A and Rule 189A compliance",
+          "detail": "Income-tax Rule 189A ke hisaab se, registered NPO ka merger karte waqt audit, object, demand aur filing conditions puri karni hongi. Form 112A merger ke ek mahine ke andar file karna mandatory hai.",
+          "cga_view": "NPO merger plan kar rahe ho to audit ready rakho, Rule 189A ki specific requirements samjho aur Form 112A ki one-month deadline miss na karo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/form-112a-npo-mergers-rule-189a-conditions-month-deadline-audit-file.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "GST cancellation: Vague notice par registration cancel nahi hoga",
+          "detail": "GSTAT Lucknow ke judgement ke hisab se, agar GST cancellation notice vague hai aur supplier/ITC ka detail nahi hai to registration cancel nahi kiya ja sakta.",
+          "cga_view": "Agar aapko vague GST cancellation notice mila hai to uske against appeal file karne ka mauka hai, detailed reply zaroor do.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/vague-gst-cancellation-notice-cannot-sustain-registration-cancellation-gstat-lucknow-2.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-11-07",
       "summary": "Aaj mostly GST aur Income Tax se judi kuch important tribunal aur court rulings aayi hain. Business owners ko compliance ke kuch crucial practical tips pe dhyan dena chahiye.",
@@ -2918,40 +2952,6 @@
           "source_type": "trade",
           "source_name": "TaxGuru",
           "source_url": "https://taxguru.in/income-tax/itat-mumbai-kpmg-unbilled-revenue-write-off-ay-2015-16.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-09-03",
-      "summary": "Aaj mainly trade press se GST aur Income Tax ki kuch important updates aur court rulings aayi hain. Koi bhi official government release nahi, sirf trade reporting par hai; to business owners alert rahein, official notifications ka wait karein.",
-      "items": [
-        {
-          "category": "Income Tax",
-          "headline": "Form 3CD mein naye reporting rules: FY 2025-26 se",
-          "detail": "CBDT Notification No. 23/2025 ke mutabik, Form 3CD audit report mein April 2025 se kaafi updates aaye hain: presumptive taxation, MSME rules, loans, buybacks aur GST implications ka bhi reporting zaroori hai.",
-          "cga_view": "Agar aapka audit lagta hai, apne auditor se naye Form 3CD requirement jaldi samajh lo. Data gathering abhi se shuru karo, warna last moment mein dikkat hogi.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/tax-audit-fy-2025-26-guide-form-3cd.html"
-        },
-        {
-          "category": "GST",
-          "headline": "GST advisories: GSTAT, e-Way Bill aur mining sector",
-          "detail": "July–August 2026 mein GST related departments—GSTAT benches, departmental appeal process, e-Way Bill rules aur mining sector enforcement pe updates aayi hain. Yeh sab advisories trade press mein aa rahi hain, official notification pending hai.",
-          "cga_view": "GST kaam dekhne wala staff latest advisories dekhe; lekin koi major compliance tab update kare jab official notification aaye. Mining sector wale especially alert rahein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/gst-advisories-updates-gstat-gstn-cbic.html"
-        },
-        {
-          "category": "GST",
-          "headline": "Deceased proprietor ke GST appeal par Andhra aur Orissa HC ruling",
-          "detail": "Andhra Pradesh aur Orissa High Court ne GST proceedings ko quash kiya jab proprietor mar chuka tha. Courts ne bola ki legal heir pe fresh action ho sakta hai, Section 93 ke under.",
-          "cga_view": "Agar kisi proprietor ke demise ke baad aap pe GST matter aaye, to legal opinion lo. Probate aur legal heir process clear rakho, old notices revert ho sakte hain.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/orissa-hc-quashes-gst-proceedings-initiated-against-deceased-proprietor.html"
         }
       ],
       "due_dates": []
