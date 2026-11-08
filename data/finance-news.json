@@ -1,6 +1,95 @@
 {
-  "last_updated": "2026-11-07T02:15:26.435Z",
+  "last_updated": "2026-11-08T02:15:28.895Z",
   "days": [
+    {
+      "date": "2026-11-08",
+      "items": [
+        {
+          "cat": "RBI Policy",
+          "authority": "Punjab National Bank",
+          "ref": "",
+          "headline": "PNB foreign outward remittance: KYC, charges, TCS guide",
+          "effective": "",
+          "what": "Punjab National Bank ke outward remittance service mein KYC, limit, exchange rate cost, GST, TCS aur complain process cover hua hai. Saara detail review hua hai ki LRS ke under paisa bahar bhejne par kya-kya dhyaan dena hai.",
+          "who": "India ke resident individuals jo PNB se foreign remittance bhejna chahte hain, khas taur par LRS ke under.",
+          "action": "Agar PNB ke through paise bahar bhejne ka plan hai to apna KYC status, limit aur charges detail check karo. TCS aur complaint process bhi samjho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/punjab-national-bank-foreign-outward-remittance-pnb-lrs-kyc-charges-tcs-grievances.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "YES Bank",
+          "ref": "",
+          "headline": "YES Bank callable FD: New rates effective from 2 June 2026",
+          "effective": "2 June 2026",
+          "what": "YES Bank ne resident callable fixed deposit rates update kiye hain, jo 2 June 2026 se lagu hain. Ismein premature closure, TDS aur DICGC safety cover details bhi included hain.",
+          "who": "Individual depositors jinka FD amount ₹3 crore se kam hai YES Bank mein.",
+          "action": "Agar YES Bank mein naya FD khol rahe ho ya renew kar rahe ho, to new rates aur premature closure rules dekh lo. Tax aur insurance coverage bhi verify karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/bank-resident-callable-fixed-deposit-rates-2-june-2026-premature-closure-tax-dicgc.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Hunger Pangs Limited ne DRHP file kiya, IPO taiyari start",
+          "effective": "",
+          "what": "Hunger Pangs Limited ne apna Draft Red Herring Prospectus (DRHP) 21 October 2026 ko file kiya hai. Ismein company ka financial check aur risk disclosure hua hai, lekin IPO ke terms abhi final nahi hain.",
+          "who": "Wo investisseurs ya businesses jo Hunger Pangs Limited IPO mein interest rakhte hain.",
+          "action": "Agar IPO mein invest karne ka plan hai, to DRHP ache se padh kar financials aur risks samjho. Issue terms aane ka intezaar karo, filhaal koi decision na lo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/ipo/hunger-pangs-limited-drhp-filing-status-financial-checks-ipo-risks.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "RBL Bank",
+          "ref": "",
+          "headline": "RBL Bank callable FD: 1 October 2026 se naye rates lagu",
+          "effective": "1 October 2026",
+          "what": "RBL Bank ne callable FD 18 se 60 mahine tak ke liye naye rates announce kiye hain. Alag age group ke liye alag rates hain. Saath mein premature closure aur DICGC coverage details di gayi hain.",
+          "who": "RBL Bank ke depositors jo 18 mahine se 60 mahine ki callable FD rakhte hain ya open karna chahte hain.",
+          "action": "Agar RBL Bank mein FD lena hai ya renew karna hai to naye rates aur closure terms dekh lo. Senior citizens apna rate cross-check karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/rbl-bank-18-month-60-month-callable-fixed-deposit-rates-premature-closure-tax-dicgc.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI accredited investor rules: manager verification, 3 saal validity",
+          "effective": "",
+          "what": "SEBI ne naye accredited investor rules notify kiye hain jisme verification ab manager-led ho sakti hai. Accreditation 3 saal tak valid rahegi. Eligibility aur record keeping rules update huye hain.",
+          "who": "Jo log ya entities accredited investor status pane ya renew karna chahte hain, fund managers aur wealth managers.",
+          "action": "Eligible investors ko apne manager se verification process puchhna chahiye. Naye documents aur validity samjho, records properly rakhna.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-accredited-investor-framework-2026-manager-led-verification-year-validity-record-controls.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/DPSS/2026-27/475 CO.DPSS.CSD.No.S825/01-01-078/2026-2027",
+          "headline": "RBI Master Directions: PSOs ke liye cyber aur payment security",
+          "effective": "",
+          "what": "RBI ne non-bank Payment System Operators ke liye cyber resilience aur digital payment security ki Master Directions notify ki hain. Saare existing aur naye security rules ko consolidate kiya gaya hai.",
+          "who": "Non-bank payment system operators jinhe RBI ne authorize kiya hai, jaise fintech, payment gateways, wallets.",
+          "action": "PSO apni IT aur payment security policy Master Directions ke according update karein. Management ko naye compliance points par kaam karna hai.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13751&Mode=0"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Sharekhan Limited",
+          "ref": "",
+          "headline": "Sharekhan currency derivatives: Registration, charges, eligibility guide",
+          "effective": "",
+          "what": "Sharekhan ka currency derivatives service ka profile diya gaya hai. Registration, eligibility, KYC, charges aur settlement ke process cover hain. Resident users ke liye guide bhi di hai.",
+          "who": "Individuals ya businesses jo Sharekhan par currency derivatives trade karna chahte hain.",
+          "action": "Agar trading ka plan hai to registration aur KYC process check karo. Charges aur settlement rules bhi samjho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/mirae-asset-sharekhan-currency-derivatives-registration-services-charges-resident-user-guide.html"
+        }
+      ]
+    },
     {
       "date": "2026-11-07",
       "items": [
@@ -2858,47 +2947,6 @@
           "action": "Agar ARC mein kaam karte ho to RBI ka latest FAQ padh lo. Compliance ki checklist bana lo, nayi updates check karo.",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/rbi/rbi-faqs-asset-reconstruction-companies-arcs.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-17",
-      "items": [
-        {
-          "cat": "RBI Policy",
-          "authority": "Ministry of Finance",
-          "ref": "",
-          "headline": "UPI par P2P aur zyada transactions ab bhi free hain",
-          "effective": "",
-          "what": "Sarkar ne clarify kiya hai ki UPI par person to person (P2P) transactions free rahenge. 96% merchant transactions bhi bina kisi charge ke hain. Sirf kuch bade payments (specified payments above ₹2,000) par MDR lagega.",
-          "who": "UPI use karne wale sabhi log aur chhote-mote merchants par lagu hai.",
-          "action": "Agar aap UPI istemal karte hain to aapko charge nahi dena. Merchant ho to check karo aapke transactions par MDR lag raha hai ya nahi. Zyada clarify ke liye Finance Ministry ki clarification padh lo.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/corporate-law/upi-remains-free-p2p-96-percent-merchant-transactions-framework.html"
-        },
-        {
-          "cat": "Scheme",
-          "authority": "IFSCA",
-          "ref": "",
-          "headline": "IFSCA Fund Management mein naye amendments aaye",
-          "effective": "",
-          "what": "IFSCA ne Fund Management Regulations mein doosra amendment kiya hai. Isme valuation, FME ki contribution, investor protection, disclosures aur scheme governance par changes hain.",
-          "who": "Jo entities IFSCA ke under fund management ka kaam karti hain un par lagu hai.",
-          "action": "Aapko nayi regulations check karni chahiye. Apne fund documents update karo aur investor ko naye disclosure do.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/finance/ifsca-fund-management-amendment-regulations-2026-key-amendments.html"
-        },
-        {
-          "cat": "RBI Policy",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "Chhote unregistered NBFCs ke liye kuch exemption mili",
-          "effective": "",
-          "what": "RBI ne kuch chhote NBFCs ko registration ki requirement se exempt kiya hai, lekin sirf jo low-risk hain. Inhe \"Unregistered Type I NBFCs\" bolte hain. Par kuch sakht shartein bhi hain.",
-          "who": "Woh NBFCs jinpe systemic risk nahi hai aur jo chhoti size ki hain.",
-          "action": "Agar aap NBFC run karte hain to dekho aap is exemption mein aate ho ya nahi. Exemption ki terms carefully padh ke comply karo.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/check-making-deposits-nbfcs-faq.html"
         }
       ]
     }
