@@ -1,6 +1,59 @@
 {
-  "last_updated": "2026-11-08T02:15:28.895Z",
+  "last_updated": "2026-11-09T02:15:27.392Z",
   "days": [
+    {
+      "date": "2026-11-09",
+      "items": [
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "PNB foreign outward remittance ki services detail mein aayi.",
+          "effective": "",
+          "what": "Punjab National Bank ne resident outward-remittance service ki details di hai. Isme purpose, KYC ki zaroorat, limit, exchange rate ka cost, settlement process, GST aur TCS ka zikr hai.",
+          "who": "Woh individual ya business jo PNB se foreign outward remittance bhejna chahte hain.",
+          "action": "Agar aapko foreign remittance bhejna hai to PNB ki KYC requirements, charges, GST aur TCS check karein. Apne remittance purpose aur limit samajh lein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/punjab-national-bank-foreign-outward-remittance-pnb-lrs-kyc-charges-tcs-grievances.html"
+        },
+        {
+          "cat": "Loan",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "RBI ne draft Priority Sector Lending Directions par comment maange.",
+          "effective": "",
+          "what": "RBI ne paanch alag-alag bank categories ke liye draft Priority Sector Lending Directions jari kiye hain. Ispar comments 26 November 2026 tak mangi gayi hain. Matlab, har bank ko kuch khas sector (kisan, MSME, etc.) ko loan dena compulsory hota hai, uski guideline hai.",
+          "who": "Saare banks aur stakeholders jinke liye priority sector lending applicable hai.",
+          "action": "Agar aap banking ya finance sector se hain to draft directions padhkar RBI ko apni suggestion ya comment bhej sakte hain.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/rbi-draft-priority-sector-lending-directions-2026-bank-categories.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/DPSS/2026-27/475 CO.DPSS.CSD.No.S825/01-01-078/2026-2027",
+          "headline": "Non-bank Payment System Operators ke liye cyber security rules consolidate hue.",
+          "effective": "2024-07-30",
+          "what": "RBI ne saare purane digital payment security rules ko consolidate karke ek Master Directions jari kiye hain. Yeh non-bank payment system operators ke liye cyber security aur payment safety pe focus karta hai.",
+          "who": "Non-bank Payment System Operators, jaise wallet providers aur payment gateway companies.",
+          "action": "Aap agar PSO ya fintech operate karte hain to RBI ki nayi Master Directions ko padhkar compliance process ko update karein.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13751&Mode=0"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Public shareholding wale rules 2026 ke liye revise hue.",
+          "effective": "",
+          "what": "Minimum public offer, IPO threshold aur 25% public shareholding ki timelines 2026 mein revise ki gayi hain. Kuch exemptions bhi hain, jaise IFSC ke cases mein.",
+          "who": "India ki listed companies, IPO lane wale promoters aur IFSC mein operate karne wale businesses.",
+          "action": "Agar aap listed company mein stakeholder hain ya IPO ki planning kar rahe hain to nayi MPS requirements check karein. Compliance timeline check zaroor karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/revised-minimum-public-shareholding-requirements-securities-contracts-regulation-amendment-rules-2026.html"
+        }
+      ]
+    },
     {
       "date": "2026-11-08",
       "items": [
@@ -2868,83 +2921,6 @@
           "what": "RBI ne Asset Reconstruction Companies (ARC) par FAQ jaari kiya hai. Isme ARCs ke permissible activities, restructuring, outsourcing aur KYC jaise topics cover hain.",
           "who": "ARCs aur unke compliance/advisory teams.",
           "action": "ARC operators apne practices ko FAQs ke hisaab se review karein. Naye KYC aur management fee rules samjhein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/rbi-faqs-asset-reconstruction-companies-arcs.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-18",
-      "items": [
-        {
-          "cat": "RBI Policy",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "UPI par P2P payments free hi rahenge",
-          "effective": "",
-          "what": "UPI se P2P yaani aadmi se aadmi ki payment free hai. Lagbhag 96% merchant transactions par bhi charge nahi lagega. Kuch select merchant payments par hi charge lagega, wo bhi ₹2,000 ke upar ke transactions par.",
-          "who": "UPI users aur merchant jo UPI accept karte hain.",
-          "action": "Agar aap UPI use kar rahe hain to chinta ki baat nahi. Merchant ho to check karo ki aapke par kaunse payments par charge lag sakta hai.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/finance/upi-remains-free-p2p-transactions-96-percent-merchant-payments-unaffected.html"
-        },
-        {
-          "cat": "RBI Policy",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "Chhote NBFCs ko registration se chhut, magar shartein hain",
-          "effective": "",
-          "what": "RBI ne bataya hai ki jo chhote aur low-risk NBFCs hain (jinpar systemic risk nahi hai), unko registration ki zaroorat nahi, ek nayi category 'Unregistered Type I NBFCs' ke liye. Magar kuch strict conditions hain.",
-          "who": "Low-risk, chhote NBFCs jinpar systemic risk nahi hai.",
-          "action": "Agar aap chhota NBFC chalate hain to dekhiye kya aap in sharton mein aate ho. Registration karne se pehle latest RBI guidelines padh lo.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/check-making-deposits-nbfcs-faq.html"
-        },
-        {
-          "cat": "SEBI",
-          "authority": "SEBI",
-          "ref": "",
-          "headline": "Company Secretary ka role DPDP compliance aur cybersecurity mein",
-          "effective": "",
-          "what": "Company Secretary DPDP Act ki compliance, Board ko report dena, cybersecurity incident assess karna, aur SEBI disclosures coordinate karne mein help kar sakta hai.",
-          "who": "Listed companies aur jinpar SEBI LODR lagu hai.",
-          "action": "Agar aap listed company ho to Company Secretary ko DPDP aur cybersecurity policy banane mein shamil karo. Disclosures time par file karo.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/sebi/company-secretarys-role-dpdp-compliance-cybersecurity-governance.html"
-        },
-        {
-          "cat": "SEBI",
-          "authority": "SEBI",
-          "ref": "",
-          "headline": "IPO mein DRHP kya hota hai? Kya-kya disclose karna hota hai?",
-          "effective": "",
-          "what": "Draft Red Herring Prospectus (DRHP) IPO ka main document hai. Ismein company ki financial, legal aur auditor related info disclose karni hoti hai, draft filing se final prospectus tak pura process hota hai.",
-          "who": "Jo companies IPO lane ki soch rahi hain.",
-          "action": "Agar IPO ka plan hai to DRHP ki legal aur auditor requirements dhyan se follow karo. Saari disclosures sahi daton ke sath file karo.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/sebi/draft-red-herring-prospectus-understanding-ipo-disclosure-auditor-role.html"
-        },
-        {
-          "cat": "Scheme",
-          "authority": "International Financial Services Centres Authority (IFSCA)",
-          "ref": "",
-          "headline": "IFSCA Fund Management Rules mein nayi badlaav aaye",
-          "effective": "",
-          "what": "IFSCA ne fund management ki guidelines mein 2026 mein kuch badlaav kiye hain. Ismein valuation, FME contribution, investor protection, disclosures, aur scheme governance ko update kiya gaya hai.",
-          "who": "Funds ya asset management companies jo IFSCA ke under registered hain.",
-          "action": "Agar aap IFSCA ke under fund manage kar rahe ho to nayi amendments padh lo aur compliance ka plan bana lo.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/finance/ifsca-fund-management-amendment-regulations-2026-key-amendments.html"
-        },
-        {
-          "cat": "Loan",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "ARC ke rules par RBI ka naya FAQ aaya hai",
-          "effective": "",
-          "what": "RBI ne 11 September 2026 ko ARC (Asset Reconstruction Companies) ke rules pe FAQs issue kiye hain. Ismein regulations, activities, security receipts, restructuring, outsourcing, management fees aur KYC ki info di gayi hai.",
-          "who": "ARC chalane wale aur unse deal karne wale log/companies.",
-          "action": "Agar ARC mein kaam karte ho to RBI ka latest FAQ padh lo. Compliance ki checklist bana lo, nayi updates check karo.",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/rbi/rbi-faqs-asset-reconstruction-companies-arcs.html"
         }
