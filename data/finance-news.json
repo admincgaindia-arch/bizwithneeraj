@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-11-09T02:15:27.392Z",
+  "last_updated": "2026-11-10T02:15:30.640Z",
   "days": [
+    {
+      "date": "2026-11-10",
+      "items": [
+        {
+          "cat": "RBI Policy",
+          "authority": "IDFC FIRST Bank",
+          "ref": "",
+          "headline": "IDFC FIRST Bank ne callable FD ki naye rates launch kiye",
+          "effective": "4 November 2026",
+          "what": "IDFC FIRST Bank ne resident callable fixed deposit ke liye naye interest rates announce kiye hain. FD ki maximum limit ₹3 crore ke neeche hai. Payout, premature closure, TDS (Income-tax Act 2025) aur DICGC cover bhi available hai.",
+          "who": "Jo log IDFC FIRST Bank mein callable FD kholna chahte hain, khaas kar ₹3 crore ke neeche deposit walon ke liye.",
+          "action": "Aap agar naya FD kholne ka soch rahe hain, to latest rate sheet check karein. Premature closure aur TDS rules bhi samajh lein. Bank se details lein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/idfc-bank-resident-callable-fixed-deposit-rates-4-november-2026-tax-dicgc.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI ne Minimum Public Shareholding (MPS) mein badlav kiye",
+          "effective": "",
+          "what": "2026 ke liye revised rules aaye hain. Ab IPO karne wali companies ke liye nayi public offer limits aur minimum public shareholding (MPS) ke timeframes set kiye gaye hain. Kuch companies ko IFSC mein exemption bhi milegi. SVR shares ke liye bhi nayi guidelines hain.",
+          "who": "IPO lane wali companies aur listed companies ko especially dhyan dena hai.",
+          "action": "Jo companies IPO plan kar rahi hain, unhe nayi MPS requirements check karni chahiye. Compliance ke liye apne compliance officer/CS se consult karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/revised-minimum-public-shareholding-requirements-securities-contracts-regulation-amendment-rules-2026.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "YES Bank",
+          "ref": "",
+          "headline": "YES Bank ne resident callable FD ki naye rates lagu kiye",
+          "effective": "2 June 2026",
+          "what": "YES Bank ne callable fixed deposit mein naye interest rates effective kiye hain for deposits below ₹3 crore. Payout, premature closure options, TDS aur DICGC controls bhi cover kiye gaye hain.",
+          "who": "YES Bank ke deposit holders jo callable FD le rahe hain, khaaskar ₹3 crore se kam wale.",
+          "action": "Agar FD renew ya naya kholna hai, to naye rates dekh lein. Premature closure aur tax implication ko samajh lein. Details bank se confirm karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/bank-resident-callable-fixed-deposit-rates-2-june-2026-premature-closure-tax-dicgc.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Punjab National Bank",
+          "ref": "",
+          "headline": "PNB ne outward remittance ki service details share ki",
+          "effective": "",
+          "what": "Punjab National Bank ne apni resident outward-remittance (LRS) service ki puri process, KYC, charges, GST, TCS, aur grievance mechanism cover kiya hai. Isme exchange rate, transaction limits aur settlement ka process samjhaya gaya hai.",
+          "who": "Individuals ya businesses jo PNB se bahar paisa bhejna chahte hain LRS ke through.",
+          "action": "Remittance bhejne se pehle, PNB branch se KYC, charges aur limit details lein. GST aur TCS ki implications bhi check karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/punjab-national-bank-foreign-outward-remittance-pnb-lrs-kyc-charges-tcs-grievances.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Sitaram Denims ne apna IPO ka DRHP file kiya",
+          "effective": "",
+          "what": "Sitaram Denims India Limited ne 3 November 2026 ko apna DRHP file kiya hai. Isme company ke fund use, financials aur IPO offer ki structure ka details diya gaya hai.",
+          "who": "Investors jo upcoming Sitaram Denims ke IPO mein interested hain.",
+          "action": "Agar IPO mein invest ka plan hai, to DRHP ka details study kar lein. Company ke financials aur risk factors dhyan se padhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/ipo/sitaram-denims-india-drhp-offer-structure-financials-objects-risks.html"
+        }
+      ]
+    },
     {
       "date": "2026-11-09",
       "items": [
@@ -2858,71 +2923,6 @@
           "action": "Jo bhi LLP run kar rahe hain, apni annual Form 8 aur Form 11 timely file karein. Required financial aur partner info ready rakhein.",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/corporate-law/llp-annual-compliance-form-8-form-11-filing-requirements.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-19",
-      "items": [
-        {
-          "cat": "RBI Policy",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "UPI par aam aadmi ko charge nahi lagega",
-          "effective": "",
-          "what": "UPI se P2P yani aadmi se aadmi aur 96% merchant transactions par koi charge nahi hai. Sirf kuch particular transactions par ₹2,000 ke upar MDR lagega.",
-          "who": "Sabhi UPI users aur wo merchants jo digital payment accept karte hain.",
-          "action": "UPI se payment nishchint hokar karein. Agar aap merchant hain to apne payment provider se puchhein ki aapke liye MDR लागू hota hai ya nahi.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/finance/upi-remains-free-p2p-transactions-96-percent-merchant-payments-unaffected.html"
-        },
-        {
-          "cat": "SEBI",
-          "authority": "SEBI",
-          "ref": "",
-          "headline": "Company Secretary ki role ab aur important hai DPDP compliance mein",
-          "effective": "",
-          "what": "Company Secretaries ab DPDP compliance, board ki oversight, cyber incident ki report aur SEBI ki disclosure rules mein help karenge.",
-          "who": "Listed companies ya jinke upar SEBI ki LODR rules lagte hain.",
-          "action": "Board aur compliance teams apne Company Secretary se DPDP aur cybersecurity policy ki review karwain. Nai disclosure requirements samjhein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/sebi/company-secretarys-role-dpdp-compliance-cybersecurity-governance.html"
-        },
-        {
-          "cat": "RBI Policy",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "Chhote NBFCs ko registration se exemption mil sakta hai",
-          "effective": "",
-          "what": "Aise NBFCs jo low risk hain aur systemic risk nahi create karte, unko RBI kehta hai ki strict conditions par registration ki zarurat nahi.",
-          "who": "Unregistered Type I NBFCs ya bouquet NBFCs jo chhote scale par kaam kar rahe hain.",
-          "action": "Agar aap chhote NBFC operator hain to RBI ke latest guidelines padhein aur check karein ki kya aapka NBFC exemption ke criteria mein aata hai ya nahi.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/check-making-deposits-nbfcs-faq.html"
-        },
-        {
-          "cat": "Scheme",
-          "authority": "International Financial Services Centres Authority (IFSCA)",
-          "ref": "",
-          "headline": "IFSCA Fund Management Rules mein naye changes aaye hain",
-          "effective": "",
-          "what": "IFSCA ne Fund Management Second Amendment Regulations, 2026 notify kiye. Isme valuation, FME contribution, investor protection aur disclosure rules mein changes hai.",
-          "who": "FME, fund managers aur entities jo IFSC Gift City mein scheme operate karte hain.",
-          "action": "Fund managers aur compliance professionals amendment ka text padhein. Apni compliance process update karein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/finance/ifsca-fund-management-amendment-regulations-2026-key-amendments.html"
-        },
-        {
-          "cat": "Loan",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "ARC par RBI ke naye FAQs jaari hue",
-          "effective": "",
-          "what": "RBI ne Asset Reconstruction Companies (ARC) par FAQ jaari kiya hai. Isme ARCs ke permissible activities, restructuring, outsourcing aur KYC jaise topics cover hain.",
-          "who": "ARCs aur unke compliance/advisory teams.",
-          "action": "ARC operators apne practices ko FAQs ke hisaab se review karein. Naye KYC aur management fee rules samjhein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/rbi-faqs-asset-reconstruction-companies-arcs.html"
         }
       ]
     }
