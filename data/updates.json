@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-11-09T01:31:02.131Z",
+  "last_updated": "2026-11-10T01:31:03.195Z",
   "digests": [
+    {
+      "date": "2026-11-10",
+      "summary": "Aaj zyada updates GST aur Income Tax se related hain. Official source ki koi fresh item nahi, par kuch important rulings aur compliance pointers hain.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "Wrong GST demand order section? Demand ho sakta hai invalid",
+          "detail": "Agar GST demand order galat section, limitation ya hearing defect ke sath pass hua to wo invalid ho sakta hai. Court/adjudication process ka dhyan rakhein.",
+          "cga_view": "Har GST demand notice ko dhang se check karo - agar section ya process galat lage to turant challenge karo.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-demand-order-section-74-1-74-9-invalid.html"
+        },
+        {
+          "category": "GST",
+          "headline": "FY 2025-26 ke GSTR-9, 9C par relaxations aur optional tables",
+          "detail": "GSTR-9/9C filing ke liye kuch tables optional hain aur kuch relaxations diye gaye hain. ITC, HSN, reversal aur reconciliation par focus hai.",
+          "cga_view": "GSTR-9/9C prepare karte waqt optional tables aur relaxations ka sahi use karo - over-disclosure se bacho.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gstr-9-gstr-9c-fy-2025-26-complete-guide-relaxations-optional-tables.html"
+        },
+        {
+          "category": "GST",
+          "headline": "October 2026 GST return: 7 important reconciliation points",
+          "detail": "October ke GST return mein FY 2025-26 ka ITC, GSTR-2B, credit notes, GSTR-1 corrections, ITC reversal, GSTR-9 reconciliation check karo.",
+          "cga_view": "October return bharne se pehle sab reconciliation properly verify karo - aage notice se bachoge.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/october-2026-gst-return-7-important-reconciliations-compliance-checks-fy-2025-26.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Post-merger GST notice purane company name par nahi chal sakta",
+          "detail": "Allahabad HC ne kaha, company merger ke baad GST notice sirf amalgamated (naya) entity ko hi diya jaa sakta hai, purana GST registration khatam ho jata hai.",
+          "cga_view": "Company merger ke baad notice mile to pehle yeh check karo ki sahi entity par hai ya nahi - galat par aaye to response ke liye strong ground hai.",
+          "source_type": "trade",
+          "source_name": "TaxScan",
+          "source_url": "https://www.taxscan.in/gst/allahabad-hc-quashes-gst-notice-issued-in-name-of-redbus-after-merger-with-makemytrip-notice-must-go-to-amalgamated-co-read-order"
+        },
+        {
+          "category": "Ruling",
+          "headline": "2 saal baad file ki ITR se pre-accident income prove nahi hoti",
+          "detail": "Allahabad HC ne bola, accident ke 2 saal baad file hui ITR claimant ki pehle ki income ko establish nahi karti, dusre supporting evidence jaruri hain.",
+          "cga_view": "Agar kisi case mein old ITR submit kar rahe ho to usko backup dene ke liye proper evidence bhi lagao.",
+          "source_type": "trade",
+          "source_name": "TaxScan",
+          "source_url": "https://www.taxscan.in/income-tax/itrs-filed-2-years-after-accident-cannot-establish-claimants-pre-accident-income-allahabad-hc-read-order"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-11-09",
       "summary": "Aaj GST TDS return ka due hai. Courts ne kuch GST aur Income Tax rulings par clarity di hai. Practical implications har business ke liye hai, details check karein.",
@@ -2914,58 +2966,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/income-tax/form-26as-reveals-income-not-return-filing-itat-restores-section-270a-penalty.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-09-05",
-      "summary": "Aaj courts ne GST aur Income Tax ke kuch major rulings diye hain, mostly specific cases par. Official govt notification aaj kisi bhi compliance area mein nahi aayi.",
-      "items": [
-        {
-          "category": "Ruling",
-          "headline": "Madras HC: GST Order On Deceased Quashed",
-          "detail": "Madras High Court ne GST ka order, jo ek marhoom taxpayer ke naam pe tha, quash kar diya. Court ne bola, ab heirs ko sahi process follow karke notice dena hoga (Section 93, CGST Act).",
-          "cga_view": "Agar business owner ki death ho gayi hai, toh heirs ko prepare rehna chahiye ki GST department notice bhej sakta hai. Proper legal advice lein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/madras-hc-quashes-gst-order-passed-against-deceased-person-fresh-notice-heirs.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Kerala HC: ITC Denial Matter Dobara Dekha Jayega",
-          "detail": "Kerala High Court ne ek taxpayer ka Jan-Mar 2019 ka ITC deny karna quash kiya. Court ne bola department ko dobara Section 16(5) ke hisaab se consider karna hoga.",
-          "cga_view": "Agar aapka bhi past period ka ITC deny hua hai, toh is judgment ka reference dena useful ho sakta hai appeal mein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/kerala-hc-quashes-itc-denial-directs-reconsideration-section-16-5.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "ITAT: Diamond Grading Charges Pe TDS Nahin Lagega",
-          "detail": "ITAT Mumbai aur Surat dono ne bola ki diamond grading/certification charges pe TDS nahi katega, kyunki yeh Fees for Technical Services mein nahi aata agar technical skill transfer nahi hota.",
-          "cga_view": "Jewelry ya diamond business wale agar outside India se grading karwate hain, toh abhi aise services pe TDS na katega—lekin apne facts legal expert se check kar lein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/itat-mumbai-diamond-grading-charges-not-fees-technical-services-no-tds-section-195.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Delhi ITAT: Payee Ne Tax Diya Toh TDS Ka Liability Nahi",
-          "detail": "Delhi ITAT ne bola, agar jo party ko payment hui usne sahi tarah tax pay kar diya toh payer ki TDS default ki liability nahi banti. Yeh Section 201 ki proviso ko apply karta hai.",
-          "cga_view": "Agar aap pe TDS short deduction ka notice aaya hai, toh payee ki filed ITR aur tax payment ka record zaroor dekh lein – yeh strong defence ban sakta hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/delhi-itat-applies-proviso-section-201-1-relieves-payer-tds-default.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Delhi ITAT: Old Search Par New Satisfaction, 153C Assessment Quashed",
-          "detail": "Delhi ITAT ne 153C assessment quash kiya kyunki 2023 mein satisfaction record hua, court ne direct kiya ki assessment sirf 147/148 ke tahat ho sakta hai.",
-          "cga_view": "Agar recent case mein Section 153C ki notice mili ho toh is ruling ka reference assess kar sakte hain. Procedural ground pe relief mil sakta hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/search-satisfaction-delhi-itat-quashes-section-153c-assessments.html"
         }
       ],
       "due_dates": []
