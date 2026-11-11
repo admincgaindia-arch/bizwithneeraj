@@ -1,6 +1,81 @@
 {
-  "last_updated": "2026-11-10T01:31:03.195Z",
+  "last_updated": "2026-11-11T01:31:03.938Z",
   "digests": [
+    {
+      "date": "2026-11-11",
+      "summary": "Aaj ke digest mein GST ITC errors aur ITR audit case deadline pe focus hai. Kuch important GST tribunal rulings business compliance ko impact kar sakte hain.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "GST ITC error: IGST wrong reporting reconsidered",
+          "detail": "Agar IGST credit galti se CGST-SGST ke roop mein report ho gaya, toh usko technical error maana ja sakta hai. GSTAT ne bola ki aise cases mein ITC demand dobara sochi jaye.",
+          "cga_view": "Agar aapne IGST incorrectly report kiya hai toh apni working dobara check karo aur reconsideration ka benefit lene ke liye defend karo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/wrongly-reporting-igst-credit-as-cgst-and-sgst-may-be-technical-error-gstat-orders-reconsideration-of-itc-demand-read-order"
+        },
+        {
+          "category": "GST",
+          "headline": "Section 73 not for pre-GST CENVAT via TRAN-1: GSTAT",
+          "detail": "GSTAT ne clarify kiya ki Section 73, CGST Act ka use purane regime ke CENVAT credit jo TRAN-1 se carry hua hai, uski recovery ke liye nahi ho sakta.",
+          "cga_view": "Agar aapka TRAN-1 credit dispute mein hai toh yeh order refer karo, recovery notices ka jawab cautiously do.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/gst-authorities-cant-invoke-gst-section-73-to-recover-inadmissible-cenvat-credit-carried-forward-through-tran-1-gstat-read-order"
+        },
+        {
+          "category": "GST",
+          "headline": "Two-year refund limit not for Service Tax pre-deposit",
+          "detail": "Service tax appeal ka pre-deposit galti se GST DRC-03 se pay hua hai, toh uspar Section 54 ka 2 saal wala limit nahi lagega, GSTAT ka order.",
+          "cga_view": "Agar kisi ne pre-GST appeal pre-deposit refund claim karna hai, toh yeh order ka use karo—time limit ki dikkat kam ho jayegi.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/two-year-limitation-us-54-of-cgst-act-does-not-apply-to-refund-of-service-tax-appeal-pre-deposit-gstat-read-order"
+        },
+        {
+          "category": "GST",
+          "headline": "Transitional ITC claim not denied for TRAN-1 table error",
+          "detail": "Sirf wrong table mein credit daalne se transitional GST ITC claim reject nahi ho sakta—yadi credit otherwise eligible hai, GSTAT ne bola.",
+          "cga_view": "TRAN-1 mein koi galat table wali error hai aur credit eligible hai toh yeh ruling ka support lo—department mein representation do.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/transitional-gst-itc-cannot-be-denied-merely-for-entering-credit-in-wrong-table-of-gst-tran-1-gstat-read-order"
+        },
+        {
+          "category": "GST",
+          "headline": "Invoices etc. alone don’t prove GST ITC claim: GSTAT",
+          "detail": "GST ITC claim tabhi valid maana jayega jab actual receipt of goods establish ho. Sirf invoices, e-way bill aur bank payment se proof nahi hota—GSTAT order.",
+          "cga_view": "Input credit lene se pehle ensure karo ki goods sach mein receive hui hain, supporting evidences proper maintain rakho.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/tax-invoices-e-way-bills-bank-payments-alone-do-not-prove-actual-receipt-of-goods-for-gst-itc-claim-gstat-read-order"
+        },
+        {
+          "category": "GST",
+          "headline": "GST paid after audit not always wilful suppression: GSTAT",
+          "detail": "Agar GST audit ke baad pay ki, toh usse automatic wilful suppression prove nahi hota aur Section 74 ka invocation valid nahi hai—GSTAT ka clarification.",
+          "cga_view": "GST audit mein jo bhi dues nikle, unko timely pay karo, but penalty notice aaye toh is ruling ka reference use karo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/mere-non-payment-of-gst-before-audit-does-not-establish-wilful-suppression-us-74-gstat-read-order"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "ITR audit cases: Filing deadline 21 Nov 2026",
+          "detail": "CBDT ne ITR filing ki last date audit cases ke liye 21 November 2026 announce ki hai. Sirf 10 din bache hain, jaldi file karo.",
+          "cga_view": "Agar aap audit case mein ho aur ITR pending hai toh turant file karo, last minute mein rush avoid karo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/itr-deadline-for-audit-cases-nearing-check-the-last-date-to-file-returns"
+        }
+      ],
+      "due_dates": [
+        {
+          "date": "2026-11-21",
+          "what": "Income Tax Return (ITR) filing deadline for audit cases"
+        }
+      ]
+    },
     {
       "date": "2026-11-10",
       "summary": "Aaj zyada updates GST aur Income Tax se related hain. Official source ki koi fresh item nahi, par kuch important rulings aur compliance pointers hain.",
@@ -2905,67 +2980,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/income-tax/itat-directs-interest-income-tax-refund-adjustment-section-244a.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-09-06",
-      "summary": "Aaj ka digest mostly ITAT aur High Court ke recent rulings pe based hai. GST aur Income Tax dono mein kuch important judgments aaye hain jo business owners ko check karne chahiye.",
-      "items": [
-        {
-          "category": "GST",
-          "headline": "Unsigned GST SCN/Order invalid: Rajasthan HC",
-          "detail": "Rajasthan High Court ne bola ki unsigned GST notice ya order valid nahi hai. Digital ya physical signature, Rule 26(3) ke hisaab se mandatory hai.",
-          "cga_view": "Agar apko koi unsigned GST notice mile toh turant is judgement ke basis pe usko challenge karein. Apne consultant ko dikhaen.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/unsigned-gst-show-notice-order-invalid-rajasthan-high-court.html"
-        },
-        {
-          "category": "GST",
-          "headline": "Patna HC grants bail in GST evasion case",
-          "detail": "Patna High Court ne ₹73.75 crore GST evasion case mein bail grant ki, jabki Section 69 aur 132 lagaye gaye the. Yeh arrest process ko lekar ek important order hai.",
-          "cga_view": "Agar kisi pe GST evasion case chal raha hai ya arrest ka dar hai, toh is judgement ko lawyer ke saath discuss karein. Arrest ka process dhang se follow hona chahiye.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/patna-high-court-grants-bail-rs-73-75-crore-gst-evasion-case.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Wrong ITR nahi bana double tax ka base: ITAT",
-          "detail": "Chandigarh ITAT ne kahe ke galat ITR form se double taxation justify nahi hota. Same income pe do baar tax nahi lag sakta.",
-          "cga_view": "Agar aapne galti se wrong ITR file ki, toh department agar same income pe do baar tax maang raha hai toh definitely appeal karein. Proof rakhein ki income disclose ho chuki hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/wrong-itr-form-cannot-justify-double-taxation-itat-deletes-rs-26-69-lakh-form-26as-addition.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "BSNL receipts pe incorrect addition: ITAT Chennai",
-          "detail": "Chennai ITAT ne ruling di ki sirf Form 26AS dekh ke BSNL ki receipts ko commission nahi mana ja sakta.",
-          "cga_view": "Agar tax department Form 26AS ki basis pe hi income ka nature badal raha hai, toh yeh judgement refer karein. Receipts ki actual nature explain karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/itat-deletes-rs-48-09-lakh-addition-bsnl-receipts-form-26as-cannot-decide-nature-income.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Section 56(2)(viib) not for genuine business acquisition",
-          "detail": "ITAT Delhi ne kaha ki jo shares business acquisition mein issue hue hain, unpe Section 56(2)(viib) nahi lagega. C L Educate Ltd ko relief mili.",
-          "cga_view": "Agar aapne shares business acquisition mein issue kiye hain toh yeh order ek precedent hai. Tax planning mein yeh point consider karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/shares-issued-business-acquisition-consideration-section-56-2-viib-itat-delhi.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Form 26AS pe penalty: ITAT fresh hearing ka order",
-          "detail": "ITAT Nagpur ne Section 270A penalty ko wapas fresh hearing ke liye bheja kyuki TDS calculation galat thi aur assessee ko pura suna nahi gaya tha.",
-          "cga_view": "Penalty matter mein agar department ne sahi tareeke se suna nahi ya computation galat kiya hai, toh appeal mein zarur jaayein. Procedural lapses important hain.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/form-26as-reveals-income-not-return-filing-itat-restores-section-270a-penalty.html"
         }
       ],
       "due_dates": []
