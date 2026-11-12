@@ -1,6 +1,47 @@
 {
-  "last_updated": "2026-11-11T02:15:29.332Z",
+  "last_updated": "2026-11-12T02:15:25.814Z",
   "days": [
+    {
+      "date": "2026-11-12",
+      "items": [
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/DPSS/2026-27/476 CO.DPSS.POLC.No.S843/02-27-019/2026-2027",
+          "headline": "Naye Domestic Money Transfer rules RBI ne jari kiye",
+          "effective": "2026-11-11",
+          "what": "RBI ne Domestic Money Transfer ke sabhi rules ko ek jagah sammanvit kar diya hai. Ab naye Directions, 2026 lagu ho gaye hain. Ye instructions pehle ke alag-alag guidance ko replace karenge.",
+          "who": "Sabhi Scheduled Commercial Banks, Regional Rural Banks, Urban Co-operative Banks, State/District Central Co-operative Banks, Payment System Operators aur participants (Banks & Non-banks) par lagu.",
+          "action": "Agar aap payment ya bank service ke professional hain to in naye rules ko detail mein padh lein. Operative process update karen. Compliance team se consult karen.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13752&Mode=0"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Public shareholding rules mein badlav, nayi limits aayi",
+          "effective": "",
+          "what": "SEBI ne minimum public shareholding rules update kiye hain. Ab IPO aur listed companies ke liye offer size aur 25% shareholding ki timeline ko revise kiya gaya hai. SVR shares aur IFSC ke liye bhi kuch exemptions di gayi hain.",
+          "who": "Jo companies IPO la rahi hain ya listed ho chuki hain, ya jinki shareholding large hai.",
+          "action": "Listing/IPO plan ho to nayi minimum public shareholding ki requirements check karein. Compliance ya secretarial team se nayi timeline aur exemptions par detail discuss karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/revised-minimum-public-shareholding-requirements-securities-contracts-regulation-amendment-rules-2026.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "Sitaram Denims ka IPO DRHP file hua",
+          "effective": "",
+          "what": "Sitaram Denims India Limited ne apna DRHP 3 November 2026 ko file kar diya hai. Iss DRHP mein company ke offer structure, fresh issue ke object, aur financials mention hain.",
+          "who": "IPO mein invest ya deal karne wale investors, professionals, aur advisors.",
+          "action": "DRHP padh kar IPO ki details jaanein. Investment ya advisory plan ho to up-to-date information use karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/ipo/sitaram-denims-india-drhp-offer-structure-financials-objects-risks.html"
+        }
+      ]
+    },
     {
       "date": "2026-11-11",
       "items": [
@@ -2894,47 +2935,6 @@
           "action": "Distributors apna compliance process new jurisdiction list ke hisab se update karein. Nayi market entry plan ke liye Master Circular dekhein.",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/finance/ifsca-adds-uae-singapore-australia-eu-ifsc-distribution-activities.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-21",
-      "items": [
-        {
-          "cat": "RBI Policy",
-          "authority": "IFSCA",
-          "ref": "",
-          "headline": "IFSC Distributors ab UAE, Singapore, Australia, EU mein bhi allowed",
-          "effective": "",
-          "what": "IFSCA ne apne Master Circular ko amend kiya hai. Ab IFSC Distributors ko UAE, Singapore, Australia aur European Union mein distribution activity ki ijazat milegi.",
-          "who": "Jo bhi IFSC mein registered distributors hain, aur ye countries/jurisdictions target karte hain.",
-          "action": "Agar aap IFSC distributor ho to apna list update karo. Ye naye jurisdiction mil gaye hain, compliance check karo.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/finance/ifsca-adds-uae-singapore-australia-eu-ifsc-distribution-activities.html"
-        },
-        {
-          "cat": "RBI Policy",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "FPIs ke liye certified KYC copy facility RBI ne badhai",
-          "effective": "",
-          "what": "RBI ne sabhi co-operative banks (rural, urban aur regional rural banks), Local Area Banks aur Small Finance Banks ko bola hai ki woh FPIs se KYC documents certified copy ke roop mein accept kar sakte hain. Certified copy yaani FPI apne documents ko kuch specified foreign authority se attest karwa sakte hain.",
-          "who": "Ye rule Foreign Portfolio Investors (FPIs) par lagu hai jo India mein co-operative, local area ya small finance banks ke through invest karte hain.",
-          "action": "Agar aap FPI client handle karte ho, toh KYC document certification process check karo. Client ko certified copy ka process samjha do, aur kis authority se certification chahiye, ye clarify karo.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/rbi-amends-rural-operative-banks-kyc-directions-extend-certified-copy-facility-fpis.html"
-        },
-        {
-          "cat": "SEBI",
-          "authority": "SEBI",
-          "ref": "",
-          "headline": "PIT compliance par directors aur KMPs ko kya jaanna hai",
-          "effective": "",
-          "what": "SEBI ne PIT (Prohibition of Insider Trading) compliance ko lekar listed companies ke directors aur KMPs ke liye guide banayi hai. Isme UPSI, trading window, disclosure aur SDD jaisi cheezein cover ki gayi hain.",
-          "who": "Listed company ke directors, KMPs aur compliance team.",
-          "action": "Apne company ka SEBI PIT compliance policy dobara check karo. Recent amendments ya guide points implement kiye hain ya nahi, verify karo.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/sebi/listing-bell-directors-kmps-pit-compliance.html"
         }
       ]
     }
