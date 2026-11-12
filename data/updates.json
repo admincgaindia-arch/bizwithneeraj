@@ -1,6 +1,72 @@
 {
-  "last_updated": "2026-11-11T01:31:03.938Z",
+  "last_updated": "2026-11-12T01:31:00.522Z",
   "digests": [
+    {
+      "date": "2026-11-12",
+      "summary": "Aaj GST aur Income Tax mein kuch important HC/tribunal rulings aur compliance updates aaye hain. Rulings main focus mein hain, statutory due date ka reminder bhi diya gaya hai.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "GST appeal limitation: Calendar months count, not 120 days",
+          "detail": "Bombay HC ne bola GST appeal file karne ka limitation period 120 days nahi, calendar months mein count hoga. Ye calculation par impact karega jab appeal dalte ho.",
+          "cga_view": "Agar appeal ka plan hai, toh ab date count karte waqt calendar months ka hisaab rakho, missed deadline ka risk naa lo.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-appeal-limitation-calculated-calendar-months-not-120-days-bombay-hc.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GST pre-deposit must—No waiver for financial issues: Chhattisgarh HC",
+          "detail": "Chhattisgarh HC ne bola GST appeal mein pre-deposit mandatory hai, paise ki dikkat par bhi waiver nahi milega. Section 107(6), CGST Act ke under hai.",
+          "cga_view": "Appeal file karne se pehle pre-deposit arrange karo, koi chhoot expect mat karo chahe financial challenge ho.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/gst-appellate-authority-cannot-waive-mandatory-pre-deposit-us-1076-chhattisgarh-hc-read-order"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Employer PF within limit: No extra TDS demand—ITAT Lucknow",
+          "detail": "ITAT Lucknow ne clear kiya, agar employer ka PF contribution statutory limit ke andar hai, toh uspe alag se TDS nahi katega.",
+          "cga_view": "Payroll aur PF compliance mein confidence rakho, statutory limit follow kar rahe ho toh TDS se tension nahi.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/employer-pf-contributions-statutory-limits-itat-lucknow-rejects-tds-demand.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GST amount paid under wrong head? Dept must transfer it: Bombay HC",
+          "detail": "Bombay HC ne bola agar GST galat head (like CGST/SGST ki jagah IGST) mein pay ho gaya, toh department ko money transfer karna hai, recovery nahi.",
+          "cga_view": "Galti se wrong head mein tax pay ho gaya ho toh recovery ka dar mat rakho; transfer application bhejo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/gst-paid-under-wrong-head-bombay-hc-orders-dept-to-transfer-rs765-cr-to-igst-head-instead-of-recovery-read-judgment"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "TDS credit: Year of interest income counts—ITAT Chandigarh",
+          "detail": "ITAT Chandigarh ke mutabik TDS credit aapko wahi year milega jab interest income taxable count hoti hai, chaahe deduction/credit kab hua.",
+          "cga_view": "Interest income aur TDS matching check karo before return file, mismatch mat hone do.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/tds-credit-year-taxable-interest-income-itat-chandigarh.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GST notice served via portal is valid—Telangana HC",
+          "detail": "Telangana HC ne bola GST notice ya order agar portal pe upload hua hai, toh valid service maana jayega—chahe physical address alag ho.",
+          "cga_view": "Regularly GST portal check karo—sirf post ya email par dependent mat raho, compliance miss ho sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/uploading-gst-notice-order-on-portal-constitutes-valid-service-us-1691d-telangana-hc-read-order"
+        }
+      ],
+      "due_dates": [
+        {
+          "date": "2026-11-30",
+          "what": "ITR filing deadline for transfer pricing cases (as per trade press, no extension yet)"
+        }
+      ]
+    },
     {
       "date": "2026-11-11",
       "summary": "Aaj ke digest mein GST ITC errors aur ITR audit case deadline pe focus hai. Kuch important GST tribunal rulings business compliance ko impact kar sakte hain.",
@@ -2946,40 +3012,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/goods-and-service-tax/calcutta-hc-extension-itc-rectification-time-section-16-5.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-09-07",
-      "summary": "Aaj GST aur Income Tax par mostly judicial updates aayi hain, compliance changes ki news nahi hai. Sab items trade press se hain.",
-      "items": [
-        {
-          "category": "GST",
-          "headline": "GST Penalty on Goods Without E-Way Bill: GSTAT Order",
-          "detail": "GSTAT Lucknow ne Section 129(3) ke tahat bina E-Way Bill ke iron scrap le jaane par tax aur same amount ka penalty barkarar rakha hai.",
-          "cga_view": "Agar aap goods transport karte hain, hamesha valid E-Way Bill banwayein, warna same amount ka penalty lag sakta hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/gstat-restores-section-129-penalty-iron-scrap-moved-without-bill.html"
-        },
-        {
-          "category": "GST",
-          "headline": "GSTR-3B aur GSTR-2A ITC Mismatch: GSTAT ne Dubara Verification Order Diya",
-          "detail": "Bengaluru GSTAT ne FY 2018-19 ka ek ITC mismatch case invoice-wise fresh verification aur personal hearing ke liye dobara adjudication par bheja hai.",
-          "cga_view": "Agar ITC mismatch ka notice aaye to har invoice ka record ready rakhein aur personal hearing miss na karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/gstat-remands-gstr-3b-gstr-2a-itc-mismatch-fresh-verification.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Income Tax Refund: Pehle Interest, Baad Mein Principal Adjust Hoga",
-          "detail": "Mumbai ITAT ne decide kiya hai ki Section 244A ke tahat income tax refund pehle interest dues se adjust hoga, uske baad principal tax se.",
-          "cga_view": "Agar aap refund expect kar rahe hain aur interest mila hai, to pehle interest adjustment check karein, uske baad hi main tax refund aayega.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/itat-directs-interest-income-tax-refund-adjustment-section-244a.html"
         }
       ],
       "due_dates": []
