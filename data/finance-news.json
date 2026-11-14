@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-11-13T02:15:28.684Z",
+  "last_updated": "2026-11-14T02:15:28.119Z",
   "days": [
+    {
+      "date": "2026-11-14",
+      "items": [
+        {
+          "cat": "SEBI",
+          "authority": "HDFC Mutual Fund",
+          "ref": "",
+          "headline": "HDFC Mutual Fund ne Hybrid Long-Short Fund NFO launch kiya",
+          "effective": "",
+          "what": "HDFC Mutual Fund ne H-SIF Hybrid Long-Short Fund ka NFO launch kiya hai. Minimum ₹10 lakh invest karne ki zaroorat hai. NFO 13 November se 27 November 2026 tak open hai.",
+          "who": "Un logon ke liye jo mutual funds mein ₹10 lakh ya usse zyada invest kar sakte hain.",
+          "action": "Agar aapko long-short hybrid mutual fund pasand hai to apne mutual fund distributor ya advisor se details lekar application form bhar sakte hain.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/business/hdfc-mutual-fund-launches-h-sif-platform-debuts-hybrid-long-short-fund.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/DPSS/2026-27/476 CO.DPSS.POLC.No.S843/02-27-019/2026-2027",
+          "headline": "RBI ne Domestic Money Transfer Directions, 2026 jari kiye",
+          "effective": "11 November 2026",
+          "what": "RBI ne Domestic Money Transfer (DMT) Directions, 2026 launch kiye hain. Ab sabhi existing DMT instructions ek jagah par consolidate ho gaye hain.",
+          "who": "Sabhi scheduled commercial banks, co-operative banks, payment system operators aur unke participants par lagu hai.",
+          "action": "Banks aur payment system operators apni DMT policies ko naye RBI directions ke hisab se update karein. Regulatory compliance check karen.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13752&Mode=0"
+        },
+        {
+          "cat": "MSME",
+          "authority": "Ministry of MSME",
+          "ref": "",
+          "headline": "MSME 45-day payment rule: Supplier ke rights aur recovery guide",
+          "effective": "",
+          "what": "MSME supplier ko 45 din ke andar payment milni chahiye, warna overdue interest lag sakta hai. Recovery steps aur MSME-1 filing ki jaankari di gayi hai.",
+          "who": "Woh MSME suppliers jinke payment 45 din se jyada delay ho gaye hain.",
+          "action": "Agar aap MSME supplier hain to apne buyer se timely payment ki demand karein. Overdue hai to MSME-1 file karein aur interest ki calculation check karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/business/msme-45-day-payment-rule-suppliers-guide-recovering-overdue-dues.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Jana Small Finance Bank",
+          "ref": "",
+          "headline": "Jana SFB Resident Callable FD: Saari details ek jagah",
+          "effective": "6 August 2026",
+          "what": "Jana Small Finance Bank ke resident callable fixed deposit ki details jari ki gayi hain. Ismein rates, senior rates, premature withdrawal, TDS, DICGC cover sab kuch aata hai.",
+          "who": "Customers jo Jana SFB mein callable FD kholna chahte hain.",
+          "action": "Agar aap FD kholna chahte hain to bank se updated rate chart aur FD rules mangwa kar compare karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/jana-small-finance-bank-resident-callable-fd-rates-premature-withdrawal-tax-dicgc.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Ujjivan Small Finance Bank",
+          "ref": "",
+          "headline": "Ujjivan SFB Regular Callable FD ki puri jankari",
+          "effective": "",
+          "what": "Ujjivan Small Finance Bank ne apne callable FD ke rates, early closure rules, payout options aur DICGC cover ki detail di hai.",
+          "who": "Ujjivan SFB ke customers ya naye FD lene wale log.",
+          "action": "Naye FD lene se pehle payout choice, premature withdrawal and TDS ki sari shartein samajh lein aur bank se document check karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/ujjivan-small-finance-bank-regular-callable-fd-rates-premature-withdrawal-tax-dicgc.html"
+        }
+      ]
+    },
     {
       "date": "2026-11-13",
       "items": [
@@ -2882,83 +2947,6 @@
           "action": "Form 8 bharte waqt financial statement attach karna chahein to karein, nahi to accounts ki sari jaankari form mein bhar de.",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/corporate-law/attaching-financial-statements-mandatory-llp-form-8.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-25",
-      "items": [
-        {
-          "cat": "SEBI",
-          "authority": "SEBI",
-          "ref": "",
-          "headline": "SEBI ne nomination process simple banaya demat & mutual fund ke liye",
-          "effective": "",
-          "what": "SEBI ne nomination ka process simple kar diya hai demat accounts aur mutual fund folios ke liye. Ab default nomination, opt-out choice aur document bhi simple ho gaya hai.",
-          "who": "Sabhi demat account holders aur mutual fund investors par lagu hoga.",
-          "action": "Aap apne demat account ya mutual fund folio nomination status check karein. Agar nomination nahi diya hai, to nayi process ke hisaab se jaldi se poora karein ya opt-out ka option chun sakte hain.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/sebi/sebi-simplifies-nomination-framework-demat-accounts-mutual-fund-folios.html"
-        },
-        {
-          "cat": "Other",
-          "authority": "Ministry of Corporate Affairs",
-          "ref": "",
-          "headline": "LLP Form 8 mein financial statements optional hai abhi",
-          "effective": "",
-          "what": "Abhi ke web form LLP Form 8 mein accounts aur solvency ki detail mangi jati hai. Financial statements lagana mandatory nahi, optional hai.",
-          "who": "Sabhi LLPs jo Form 8 bhar rahe hain.",
-          "action": "Form 8 bharte waqt, aap financial statements chahe to laga sakte hain, par majboori nahi hai. Apne ROC consultant se confirm kar lein ki latest rule follow ho raha hai ya nahi.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/corporate-law/attaching-financial-statements-mandatory-llp-form-8.html"
-        },
-        {
-          "cat": "Subsidy",
-          "authority": "Ministry of Petroleum & Natural Gas",
-          "ref": "",
-          "headline": "Domestic PNG scheme mein CGD ko extra APM gas allocation milega",
-          "effective": "",
-          "what": "Domestic PNG incentive scheme ke tahat, CGD entities ko har eligible nayi billed connection par 200 SCM extra APM gas milega. Isse ghar-ghar gas connection tezi se badhega.",
-          "who": "Sabhi City Gas Distribution (CGD) companies jo PNG connections install kar rahe hain.",
-          "action": "CGD companies ko eligible billed connections ki list ready rakhni chahiye. Scheme ka benefit paane ke liye sahi documentation apne end se submit karein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/corporate-law/domestic-png-connection-incentive-scheme-offers-additional-apm-gas-allocation.html"
-        },
-        {
-          "cat": "Loan",
-          "authority": "RBI",
-          "ref": "",
-          "headline": "RBI ne Exim Bank ko Maldives projects ke liye line of credit di",
-          "effective": "",
-          "what": "RBI ne Exim Bank ko ₹4,850 crore ki GOI-supported line of credit di hai Maldives ke developmental projects ke liye.",
-          "who": "Exim Bank, aur Maldives mein project lene wale Indian exporters ya suppliers.",
-          "action": "Jo log Maldives mein project hissa lena chahte hain, wo Exim Bank ki guidelines check karein. Funding ke liye eligibility/procedure samjhein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/rbi-notifies-rs-4-850-crore-exim-bank-line-credit-maldives-projects.html"
-        },
-        {
-          "cat": "RBI Policy",
-          "authority": "RBI",
-          "ref": "",
-          "headline": "RBI ne commercial banks ke liye market risk capital directions diye",
-          "effective": "01-04-2027",
-          "what": "RBI ne commercial banks ke liye nayi directions issue ki hain market risk capital requirements par. Ye trading book, interest rate, equity, forex, options sab pe lagu hoga.",
-          "who": "Sare commercial banks jo trading activities karte hain.",
-          "action": "Jo bhi commercial bank se jude ho, nai directions detail mein padhein. Apne risk team ya auditor se discuss karein ki aap ready hain ya nahi.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/rbi-commercial-banks-minimum-capital-requirements-market-risk-directions-2026.html"
-        },
-        {
-          "cat": "Scheme",
-          "authority": "SEBI",
-          "ref": "",
-          "headline": "Nippon Yield Maximiser Scheme par SEBI ka settlement order",
-          "effective": "",
-          "what": "Nippon Yield Maximiser AIF Scheme I ke maamle mein SEBI ka settlement order aaya hai.",
-          "who": "Is scheme mein invest karne wale investors aur unke advisors.",
-          "action": "Investors apne advisor se scheme status ke baare mein baat karein. Settlement order ka effect samjhein prior decision ya withdrawal se pehle.",
-          "source_name": "sebi.gov.in",
-          "source_url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/settlement-order-in-the-matter-of-nippon-yield-maximiser-aif-scheme-i_104739.html"
         }
       ]
     }
