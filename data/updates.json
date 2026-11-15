@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-11-14T01:31:07.620Z",
+  "last_updated": "2026-11-15T01:31:01.340Z",
   "digests": [
+    {
+      "date": "2026-11-15",
+      "summary": "Aaj ke digest mein GST ke kuch important court rulings aur SOP updates hain, saath hi Income Tax ke practical ITAT aur HC judgements bhi cover kiye hain.",
+      "items": [
+        {
+          "category": "Ruling",
+          "headline": "Ocean Freight IGST Refund Cannot Be Denied: Gujarat HC",
+          "detail": "Gujarat High Court ne bola ki ocean freight par diya gaya IGST ka refund Section 54 ke under deny nahi kiya ja sakta. Exporters ke favour mein decision hai.",
+          "cga_view": "Agar aapne bhi ocean freight pe IGST pay kiya tha, toh refund claim reconsider karo. Case follow karein for similar refunds.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/ocean-freight-igst-refund-cannot-denied-section-54-gujarat-hc.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GSTAT Reply Filing SOP: Step-by-step Guide for Respondents",
+          "detail": "Naya SOP GSTAT portal pe respondents ko reply file karne ka process explain karta hai—case search, reply upload, e-sign aur submission receipt ki detail hai.",
+          "cga_view": "Agar aapka GSTAT mein koi pending case hai, toh naya SOP padhein aur timely compliance karein. Digital process miss na karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gstat-reply-filing-sop-step-step-procedure-respondents-file-replies-gstat-portal.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "VAT TDS Cannot Be Carried Forward as GST TRAN-1 Credit: Kerala HC",
+          "detail": "Kerala High Court ne decide kiya ki VAT TDS ko GST TRAN-1 ke through carry forward nahi kiya ja sakta. Transitional credit pe clear ruling hai.",
+          "cga_view": "Agar aapne VAT TDS as GST credit dalne ki koshish ki hai, toh ab isko reconcile karein aur galat claim withdraw kar lein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/vat-tds-cannot-carried-gst-tran-1-credit-kerala-hc.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Warranty Replacement GST Turnover Difference Not Taxable: ITAT Rajkot",
+          "detail": "ITAT Rajkot ne bola ki GST turnover aur ITR mein warranty replacement ki wajah se jo difference hai, usse unaccounted income nahi maana jayega.",
+          "cga_view": "Agar aap warranty replacement ki wajah se turnover mein difference explain kar rahe hain, toh ITAT ka yeh order aapke favour mein ho sakta hai. Proper documents ready rakhein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/gst-turnover-difference-due-free-warranty-replacements-not-taxable-unaccounted-income-itat-rajkot.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Medical Reason Accepted for Missing GST SCN Reply: Karnataka HC",
+          "detail": "Karnataka HC ne taxpayer ki medical emergency ko genuine maante huye GST adjudication order quash kar diya; fresh opportunity di hai.",
+          "cga_view": "Serious medical ya genuine problems ke proof hain toh department ke saamne zaroor rakhein. Judicious opportunity mil sakti hai.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/taxpayers-prolonged-medical-treatment-prevented-reply-to-gst-scn-karnataka-hc-quashes-adjudication-order-grants-fresh-opportunity"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Wrong Vehicle Number in E-Way Bill Not Enough for Penalty: GSTAT",
+          "detail": "GSTAT ne ₹10.28 lakh penalty cancel kar di, bola sirf vehicle number galat hone se tax evasion nahi mani jaa sakti agar baaki sab documents sahi hain.",
+          "cga_view": "Agar e-way bill mein clerical mistake ho toh penalty ko challenge karne ka ground hai. Documentation hamesha sahi rakhein.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/wrong-vehicle-number-in-e-way-bill-not-enough-to-prove-intent-to-evade-gst-gstat-sets-aside-1028-lakh-penalty"
+        },
+        {
+          "category": "Ruling",
+          "headline": "GST Demand Set Aside for Missed Notices: Karnataka HC",
+          "detail": "Karnataka HC ne GST demand order ko set aside kiya kyunki taxpayer accountant ke notice miss hone aur payment reconcile na kar paane ka reason diya tha. Fresh adjudication allow hua.",
+          "cga_view": "Notices ka record bana ke rakhein; miss hone par genuine reply submit karein. Fresh opportunity mil sakti hai, lekin delay justify karein.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/taxpayer-cites-accountants-failure-to-respond-to-gst-notices-karnataka-hc-grants-fresh-opportunity-for-adjudication"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-11-14",
       "summary": "Aaj ka digest GST aur Income Tax par focus hai, mostly judicial rulings latest hai. Practical business impact pe dhyan dein.",
@@ -3014,40 +3084,6 @@
           "source_type": "trade",
           "source_name": "TaxGuru",
           "source_url": "https://taxguru.in/income-tax/itat-section-87a-rebate-stcg-111a-ay-2025-26.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-09-10",
-      "summary": "Aaj mostly Income Tax tribunal aur court rulings aaye hain. GST/MCA ka official update nahi mila.",
-      "items": [
-        {
-          "category": "Ruling",
-          "headline": "Section 142A se assessment time extend nahi kar sakte: Gujarat HC",
-          "detail": "Gujarat High Court ne kaha ki Section 142A ka use sirf assessment ke limitation period khatam hone se pehle nahi ho sakta, authority ne limitation artificially badhane ki koshish ki.",
-          "cga_view": "Agar assessment mein valuation reference aaye last moment pe, toh usko challenge karne ka scope hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/section-142a-cannot-artificially-extend-assessment-limitation-gujarat-hc.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Retrospective 12AB cancellation pre-2022 violations par nahi ho sakti: ITAT Delhi",
-          "detail": "ITAT Delhi ne decide kiya ki Finance Act 2022 ki 12AB registration cancellation provisions ko past (pre-2022) violations pe lagu nahi kiya ja sakta.",
-          "cga_view": "Agar trust/NGO ka registration cancel hua hai to dekhein ki kya purane violation ka ground use kiya gaya hai. Appeal consider karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/itat-delhi-quashes-retrospective-12ab-cancellation-pre-2022-violations.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "ITAT: Cash sales pe 69A addition se pehle GST/VAT record check honi chahiye",
-          "detail": "ITAT Bangalore ne ₹1.43 crore Section 69A addition remand ki, aur bola ki AO pehle VAT/GST returns aur sales ki record verify karein.",
-          "cga_view": "Agar aapki cash sales pe Section 69A ka issue hai, toh GST/VAT records ready rakhein, usi pe aapko relief mil sakta hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/itat-rejects-69a-addition-without-examining-gst-vat-records-cash-sales.html"
         }
       ],
       "due_dates": []
