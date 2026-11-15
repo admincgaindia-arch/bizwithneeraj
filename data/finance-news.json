@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-11-14T02:15:28.119Z",
+  "last_updated": "2026-11-15T02:15:27.300Z",
   "days": [
+    {
+      "date": "2026-11-15",
+      "items": [
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/DPSS/2026-27/476 CO.DPSS.POLC.No.S843/02-27-019/2026-2027",
+          "headline": "Naye RBI Domestic Money Transfer Directions 2026 jaari hue",
+          "effective": "2026-11-11",
+          "what": "RBI ne Domestic Money Transfer par naye directions issue kiye hain. Inse purane DMT rules ab harmonise aur consolidate ho gaye hain. Ye rules Payment and Settlement Systems Act ke under aaye hain.",
+          "who": "Saare scheduled commercial banks, co-operative banks, authorised payment system operators aur participants par lagu hain.",
+          "action": "Aapka banking institution ya payment system operator hai to turant in naye guidelines ka review karo. Internal policy update karne ya compliance check karne ki zarurat hai.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13752&Mode=0"
+        },
+        {
+          "cat": "MSME",
+          "authority": "-",
+          "ref": "",
+          "headline": "MSME 45 din wali payment rule ki guide aayi",
+          "effective": "",
+          "what": "MSME supplier ko 45 din ke andar paise milne chahiye, is pe guide aayi hai. Ismein supplier rights, interest, recovery steps aur tax/GST implication cover hue hain.",
+          "who": "MSME suppliers aur unke buyers ke liye hai.",
+          "action": "Agar aap MSME ho to overdue payment ke liye guide ki recovery steps aur tax implication padh lo. MSME-1 ya GST filing mein bhi check karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/business/msme-45-day-payment-rule-suppliers-guide-recovering-overdue-dues.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Jana Small Finance Bank",
+          "ref": "",
+          "headline": "Jana Small Finance Bank resident callable FD naye rates par hai",
+          "effective": "2026-08-06",
+          "what": "Jana SFB resident callable FD ke naye rates effective hain. Senior citizen rates, early closure, tax aur DICGC cover bhi bataye gaye hain.",
+          "who": "Jana Small Finance Bank ke customers, especially resident individuals aur senior citizens.",
+          "action": "Jana SFB mein FD kholne ya renew karne se pehle naye rates aur premature closure ki shartein check karo. Tax aur DICGC coverage details bhi samajh lo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/jana-small-finance-bank-resident-callable-fd-rates-premature-withdrawal-tax-dicgc.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "HDFC Mutual Fund ne Hybrid Long-Short Fund ka NFO launch kiya",
+          "effective": "",
+          "what": "HDFC Mutual Fund ne H-SIF naam ka Hybrid Long-Short Fund launch kiya hai. Minimum investment ₹10 lakh hai. NFO 13 November se 27 November 2026 tak open hai.",
+          "who": "High-value mutual fund investors jo hybrid long-short strategies me invest karna chahte hain.",
+          "action": "Agar aapko is fund me invest karna hai to apne advisor se NFO ke terms samajh kar form bhar do. ₹10 lakh minimum ka dhyan rakho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/business/hdfc-mutual-fund-launches-h-sif-platform-debuts-hybrid-long-short-fund.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Suryoday Small Finance Bank",
+          "ref": "",
+          "headline": "Suryoday SFB ne 5 saal ki callable FD ka guide diya hai",
+          "effective": "",
+          "what": "Suryoday SFB ne 5-year callable FD par guide diya hai jisme rates, payout, premature closure, tax aur DICGC ka cover hai.",
+          "who": "Suryoday Small Finance Bank ke account holders ya FD investors.",
+          "action": "FD kholne ya close karne se pehle in terms ko detail mein samajh lo. Bank se proper TDS aur DICGC ki detail puch lo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/suryoday-small-finance-bank-5-year-callable-fd-current-rates-premature-closure-tax-dicgc.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Union Bank of India",
+          "ref": "",
+          "headline": "Union Bank AD branch forex remittance par profile aayi hai",
+          "effective": "",
+          "what": "Union Bank ke authorised-dealer branch ke forex remittance process par verified profile aayi hai. Ismein LRS, KYC, quote-based cost, settlement aur TCS cover hua hai.",
+          "who": "Union Bank customers jo overseas fund transfer ya remittance karte hain.",
+          "action": "Agar aap Union Bank se forex transfer ya remit kar rahe ho to documentation aur cost structure ki details bank se verify karo. KYC aur TCS ka bhi dhyan rakho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/union-bank-india-forex-remittance-ad-branch-scope-lrs-kyc-costs-tcs.html"
+        }
+      ]
+    },
     {
       "date": "2026-11-14",
       "items": [
@@ -2882,71 +2959,6 @@
           "action": "Agar aap is sector me kaam karte hain to PLI scheme ke rules, incentives aur compliance ki details regularly update karte rahen.",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/corporate-law/pli-scheme-bulk-drugs-strengthens-domestic-pharmaceutical-supply-chain.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-26",
-      "items": [
-        {
-          "cat": "Loan",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "RBI: ₹4,850 cr line of credit for Maldives",
-          "effective": "",
-          "what": "RBI ne Exim Bank ke through ₹4,850 crore ka Government of India-supported Line of Credit announce kiya hai. Ye fund Maldives ke developmental projects ke liye use hoga.",
-          "who": "Financial institutions ya exporters jo Maldives ke development projects mein salvage ya supply karte hain.",
-          "action": "Agar aapka business Maldives projects se juda hai, to Exim Bank ke guidelines aur eligibility check karein. Funding ke liye documentation Exim Bank se clear karein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/rbi-notifies-rs-4-850-crore-exim-bank-line-credit-maldives-projects.html"
-        },
-        {
-          "cat": "Scheme",
-          "authority": "IFSCA",
-          "ref": "",
-          "headline": "IFSCA ne venture capital schemes mein alag-alag returns allow kiye",
-          "effective": "",
-          "what": "IFSCA ne Venture Capital aur Restricted Schemes mein differential distribution allow kar diya hai. Ab investors ko senior, junior aur subordinate units ke hisaab se alag alag returns mil sakte hain.",
-          "who": "Venture Capital Funds aur unmein invest karne wale investors.",
-          "action": "Scheme ki unit type (senior/junior/subordinate) samjhe aur risk-return ka comparison karein. Jo naye scheme design kar rahe hain, wo IFSCA ki guidelines padh lein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/finance/ifsca-framework-differential-distribution-venture-capital-restricted-schemes.html"
-        },
-        {
-          "cat": "SEBI",
-          "authority": "SEBI",
-          "ref": "",
-          "headline": "SEBI ne demat/mutual fund nomination simple kiya",
-          "effective": "",
-          "what": "SEBI ne nomination framework simplify kiya hai. Ab demat accounts aur mutual fund folios mein default nomination, opt-out ka option aur easy documentation hoga.",
-          "who": "Sabhi investors jin ke paas demat account ya mutual fund folio hai ya kholne ka plan hai.",
-          "action": "Nomination ki latest facility online check karein. Agar change ya update karni ho to ab process kaafi simple ho gaya hai, turant complete karein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/sebi/sebi-simplifies-nomination-framework-demat-accounts-mutual-fund-folios.html"
-        },
-        {
-          "cat": "Subsidy",
-          "authority": "Unknown",
-          "ref": "",
-          "headline": "Domestic PNG incentive: Extra APM gas allocation",
-          "effective": "",
-          "what": "Domestic PNG Connection Incentive Scheme ke tahat CGD entities ko har nayi billed household connection par 200 SCM extra APM gas milegi. Isse household gas coverage tez badhega.",
-          "who": "City Gas Distribution (CGD) entities jo PNG household connections lagaati hain.",
-          "action": "CGD entities ko har eligible nayi billed connection ki proper documentation rakhni hai jisse incentive claim easily ho sake.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/corporate-law/domestic-png-connection-incentive-scheme-offers-additional-apm-gas-allocation.html"
-        },
-        {
-          "cat": "Other",
-          "authority": "Unknown",
-          "ref": "",
-          "headline": "LLP Form 8: Financial statement ab optional",
-          "effective": "",
-          "what": "LLP Form 8 file karte waqt ab financial statements attach karna mandatory nahi hai. Web form mein accounts aur solvency ki details mange jaati hain; financials optional hai.",
-          "who": "Sare Limited Liability Partnerships (LLP) jo Form 8 file karte hain.",
-          "action": "Form 8 bharte waqt financial statement attach karna chahein to karein, nahi to accounts ki sari jaankari form mein bhar de.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/corporate-law/attaching-financial-statements-mandatory-llp-form-8.html"
         }
       ]
     }
