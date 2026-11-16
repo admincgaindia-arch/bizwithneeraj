@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-11-15T01:31:01.340Z",
+  "last_updated": "2026-11-16T01:31:04.355Z",
   "digests": [
+    {
+      "date": "2026-11-16",
+      "summary": "Aaj GST related kuch important tribunal aur court rulings aaye hain. Compliance action samajh lo, khas kar ITC aur registration matters pe.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "Excess IGST adjust hoga, new demand nahi banega",
+          "detail": "GSTAT Bengaluru ne bola agar IGST zyada CGST/SGST main adjust hua toh sirf procedural lapse hai, us basis pe fresh demand raise nahi ho sakta.",
+          "cga_view": "Agar aapki company mein aisa adjustment hua hai toh fresh demand notice se ghabraye nahi, pehle GSTAT ka yeh ruling refer karein.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/excess-igst-adjusted-against-cgst-sgst-procedural-lapse-not-ground-fresh-demand-gstat-bengaluru.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GSTR-9C nahi file kiya toh suppression prove nahi hota",
+          "detail": "GSTAT Kolkata ne bola ki GSTR-9C file nahi karne se sidhe-sidhe GST suppression prove nahi hota. Saboot dusre bhi chahiye honge.",
+          "cga_view": "Agar 9C miss ho gaya hai toh penalty ya prosecution se pahle GSTAT ke is judgment ka reference de sakte hain.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/non-filing-gstr-9c-not-automatically-establish-gst-suppression-gstat-kolkata.html"
+        },
+        {
+          "category": "GST",
+          "headline": "FY 18-19 ka ITC, sirf 2A mismatch par deny nahi hoga",
+          "detail": "GSTAT Bengaluru ne decide kiya ki sirf GSTR-2A mismatch ki wajah se FY 2018-19 ka ITC deny nahi kiya ja sakta. Aur verification chahiye.",
+          "cga_view": "Agar aapka ITC sirf 2A mismatch par reject hua hai, toh tribunal ke is ruling ka benefit lete hue department ko explanation dein.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gstr-2a-mismatch-cannot-deny-fy-2018-19-itc-gstat-bengaluru.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "E-Way Bill clerical galti pe turnover suppression nahi",
+          "detail": "GSTAT Agra ne bola ki clerical error se cancel kiye gaye e-way bills, turnover suppression nahi maane jayenge.",
+          "cga_view": "E-way bill mein clerical galti ki wajah se notice aaya hai toh yeh judgment relatable hai. Department ko dikhayen.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/bills-cancelled-due-clerical-errors-not-establish-turnover-suppression-gstat-agra.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "GST Registration cancel karein toh notice ki wajah se hi ho",
+          "detail": "Delhi High Court ne bola, registration cancel karte samay notice mein jo reason likha hai, wohi reason final order mein ho. Nahi toh order valid nahi.",
+          "cga_view": "Agar registration cancel order trigger hua hai toh notice aur order dono compare karo. Mismatch ho toh HC ruling ka use karo.",
+          "source_type": "trade",
+          "source_name": "TaxGuru",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-registration-cancellation-match-show-notice-delhi-hc.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-11-15",
       "summary": "Aaj ke digest mein GST ke kuch important court rulings aur SOP updates hain, saath hi Income Tax ke practical ITAT aur HC judgements bhi cover kiye hain.",
@@ -3014,76 +3066,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/income-tax/bombay-hc-quashes-tpo-order-failure-serve-mandatory-scn.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-09-11",
-      "summary": "Aaj ke din mostly tax case law updates aaye hain, sab trade press sources se. Implementation pe focus rakho, detailed notifications ka intezaar bhi karo.",
-      "items": [
-        {
-          "category": "Income Tax",
-          "headline": "Derivatives Loss, Sec 50C Addition Deleted: Kolkata ITAT",
-          "detail": "ITAT Kolkata ne AY 2012-13 mein derivatives loss aur Section 50C/26AS ke issues pe revenue ka appeal kharij kiya. Assessee ko relief mil gaya hai, pehle waale additions valid nahi samjhe gaye.",
-          "cga_view": "Agar aapke against is type ka order hai toh similar facts hone pe relief mil sakta hai. Order ka reference apne CA ko dijiye agar assessment pending hai.",
-          "source_type": "trade",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/itat-kolkata-upholds-deletion-additions-derivative-loss-section-50c.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Search Assessment Needs Sec 148 Route: Delhi ITAT",
-          "detail": "ITAT Delhi ne assessment order (143(3)) cancel kar diya, kyunki post-search case mein Section 148 ka route follow nahi hua tha. AY 2021-22 ka case tha.",
-          "cga_view": "Agar aapka search ke baad direct assessment hua hai, toh order ka detailed review karao. Section 148 wali process miss hui ho toh faida ho sakta hai.",
-          "source_type": "trade",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/search-assessment-requires-section-148-route-itat-delhi-quashes-section-143-3-order.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Section 80G Rejection Invalid Without Notice: Gujarat HC",
-          "detail": "Gujarat HC ne ITAT ke decision ko uphold kiya aur kaha bina show cause notice ke 80G application reject nahi kiya ja sakta. Funding-related relief mila hai.",
-          "cga_view": "Jo log charitable trust ya NGO chala rahe hain, rejection aayi ho toh yeh order unke kaam aa sakta hai. Officer ki communication check karo.",
-          "source_type": "trade",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/section-80g-rejection-set-no-show-notice-gujarat-hc.html"
-        },
-        {
-          "category": "GST",
-          "headline": "GST Section 129 Penalty Quashed For E-Way Bill Error: Allahabad HC",
-          "detail": "Allahabad HC ne genuine documents hone par, tax-evasion ka intent na hone par GST Section 129 ki penalty hata di. Sirf technical error tha.",
-          "cga_view": "Agar aapka e-way bill issue sirf clerical mistake ya technical galti hai toh court se relief ki possibility hai, details sambhal ke rakho.",
-          "source_type": "trade",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/goods-and-service-tax/gst-section-129-penalty-quashed-technical-bill-error-allahabad-high-court.html"
-        },
-        {
-          "category": "GST",
-          "headline": "GST Section 129 Penalty Quashed for E-Way Bill Lapse: Allahabad HC",
-          "detail": "Allahabad HC ne GST penalty ko quash kiya kyunki sab documents sahi the aur tax-evasion ka koi purpose nahi tha. E-way bill lapse ke case mein fayda mila.",
-          "cga_view": "Similar case hai toh apne documents proof sambhal ke rakhein. Penalty sirf major lapse par hi tik sakti hai, minor mistake pe nahi.",
-          "source_type": "trade",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/goods-and-service-tax/gst-section-129-penalty-quashed-bill-lapse-without-tax-evasion-allahabad-hc.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Section 68 Addition Deleted, Bogus Purchases Capped at 5%: Mumbai ITAT",
-          "detail": "ITAT Mumbai ne assessee ko share capital pe relief diya aur bogus purchases ko sirf 5% tak hi mana. TDS/expenses pe further examination order diya hai.",
-          "cga_view": "Agar aap par similar share capital ya bogus purchase ke issues hain, toh yeh precedent useful hai. Apne case ka fact-check karva lo.",
-          "source_type": "trade",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/section-68-share-capital-addition-deleted-bogus-purchases-restricted-5-percent-mumbai-itat.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Section 87A Rebate Allowed for 111A Gains: Delhi ITAT",
-          "detail": "Delhi ITAT ne decide kiya ki AY 2025-26 ke liye Section 87A ka ₹25,000 rebate STCG u/s 111A par milega, kyunki Finance Act 2025 ki restriction prospective hai.",
-          "cga_view": "Short term capital gains par rebate mil sakta hai for AY 2025-26 tak. File karte time yeh baat zaroor check karo.",
-          "source_type": "trade",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/itat-section-87a-rebate-stcg-111a-ay-2025-26.html"
         }
       ],
       "due_dates": []
