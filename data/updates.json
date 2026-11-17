@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-11-16T01:31:04.355Z",
+  "last_updated": "2026-11-17T01:31:05.386Z",
   "digests": [
+    {
+      "date": "2026-11-17",
+      "summary": "Aaj ki digest mein GST aur Income Tax ke kuch important court rulings aur compliance reminders hain. Official notification kuch nahi aaya hai, saare items trade press ke through hain.",
+      "items": [
+        {
+          "category": "Income Tax",
+          "headline": "₹685Cr GST Addition: ITAT ne dobara audit verification bola",
+          "detail": "Delhi ITAT ne ₹685.42 crore GST related addition ko dobara verify karne ke liye audit report ki check mangi hai. Ye case audit report verification pe wapas bheja gaya hai.",
+          "cga_view": "Agar aapka tax case bhi audit report par atka hai to supporting documents ready rakho. Tribunal ki detailed checks pe focus rehna chahiye.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/rs-685-42-crore-gst-addition-remanded-delhi-itat-audit-report-verification.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITC on IGST import: Portal glitch ka zimma business par nahi",
+          "detail": "Bombay High Court ne bola ki portal (ICEGATE-GSTN) mein technical glitch ki wajah se agar ITC nahi mil raha to biznes ka dosh nahi hai. Department technical fault ke liye taxpayer ko punish nahi kar sakta.",
+          "cga_view": "Agar import IGST ka ITC portal issue ki wajah se nahi aaya hai to high court order ka refer karo, follow-up letter GST department ko bhejo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/itc-on-igst-paid-on-imports-cant-be-denied-for-icegate---gstn-integration-glitch-bombay-hc-read-judgment"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Gold jewellery limits se asset ki source justify nahi: SC",
+          "detail": "Supreme Court ne decide kiya ki CBDT ke gold jewellery holding limits sirf possession batate hain, asset ka source nahi justify karte. Disproportionate assets ke case mein criminal proceedings continue hongi.",
+          "cga_view": "Agar gold asset ka tax scrutiny hai to sirf CBDT ke holding limit ka reference kaafi nahi, asli source of funds dikhana padega.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/cbdt-gold-jewellery-limits-cannot-explain-source-assets-sc.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "GST ITC Supplier Non-Existence: Madras HC ne notice reset kiya",
+          "detail": "GST ITC denial sirf supplier ke later stage par non-existent milne par Madras HC ne set aside kar diya. Taxpayer ke E-way bill aur CA certificate ko consider karne ka order diya hai.",
+          "cga_view": "Agar aapka ITC reject hua hai to poore supporting docs, E-way bill aur CA certificate ko file karo. Fresh hearing mein yeh sab rakho.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/gst-itc-denial-over-suppliers-non-existence-quashed-madras-hc-orders-consideration-of-e-way-bills-ca-certificate-other-docs-read-order"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Business closure GST dept ko batana zaroori: Madras HC",
+          "detail": "Madras HC ka order hai ki business close karte hi GST department ko cancelation ke liye application file karni hoti hai. Sirf closure excuse nahi chalega agar notice ka jawab nahi diya.",
+          "cga_view": "Agar business close hua hai to turant GST cancellation file karo, otherwise ex parte demand orders aa sakte hain.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/business-closure-must-be-intimated-to-gst-dept-madras-hc-refuses-automatic-remand-of-exparte-demand-order-read-order"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-11-16",
       "summary": "Aaj GST related kuch important tribunal aur court rulings aaye hain. Compliance action samajh lo, khas kar ITC aur registration matters pe.",
@@ -3032,40 +3084,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/goods-and-service-tax/karnataka-aar-rejects-gst-advance-ruling-application-fee-non-compliance.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-09-12",
-      "summary": "Aaj mostly High Court rulings ki updates hain, GST notices aur Income Tax show cause notice par focus hai. Compliance ke liye show cause process par dhyan dein.",
-      "items": [
-        {
-          "category": "GST",
-          "headline": "Kerala HC ne multiple years ki GST notice khatam ki",
-          "detail": "Kerala High Court ne composite GST notice ko quash kiya, jo multiple financial years ko cover karti thi. Ab department nayi year-wise proceedings start kar sakta hai, specified limitation period ko exclude karke.",
-          "cga_view": "Agar aapko bhi ek hi GST notice mein kai saal ka matter mila hai, to is ruling ka fayda uthaiye – courts usse quash kar rahe hain. Notice ka analysis karwana chahiye.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/kerala-hc-quashes-composite-gst-notice-covering-multiple-years.html"
-        },
-        {
-          "category": "GST",
-          "headline": "Calcutta HC ne ek saal se zyada ki GST notice radd ki",
-          "detail": "Calcutta High Court ne GST show cause notice ko radd kar diya jo multiple years ko ek hi notice mein cover kar rahi thi. Courts yahan jurisdiction ki kami dekh rahe hain.",
-          "cga_view": "Agar aapko ek hi GST notice mein kai saal ka pucha gaya hai, to legal advice lekar challenge consider karein – similar notices khatam ho rahi hain.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/calcutta-hc-quashes-single-gst-notice-covering-multiple-financial-years.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Bombay HC ne TPO order sirf SCN na dene par quash kiya",
-          "detail": "Bombay High Court ne TPO ka order cancel kar diya kyunki taxpayer ko mandatory show cause notice nahi diya gaya tha. Ab dubara fresh hearing hogi.",
-          "cga_view": "Agar aapko bina proper SCN ke koi Income Tax ya TPO order mila hai, to aapko bhi similar ground par relief mil sakta hai – legal options explore karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/bombay-hc-quashes-tpo-order-failure-serve-mandatory-scn.html"
         }
       ],
       "due_dates": []
