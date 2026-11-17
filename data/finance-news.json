@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-11-16T02:15:30.430Z",
+  "last_updated": "2026-11-17T02:15:30.559Z",
   "days": [
+    {
+      "date": "2026-11-17",
+      "items": [
+        {
+          "cat": "RBI Policy",
+          "authority": "PFRDA",
+          "ref": "",
+          "headline": "NRI seafarers ke liye NPS KYC mein address proof mein asaani",
+          "effective": "2026-11-13",
+          "what": "NRI seafarers ab apne employment contract ya CDC ko address proof ke taur par NPS Tier I account ke KYC mein use kar sakte hain. Ye naya rule 13 November 2026 se lagu hai.",
+          "who": "Sirf NRI seafarers jinhe National Pension System (NPS) Tier I account kholna hai.",
+          "action": "Agar aap NRI seafarer hain to NPS KYC ke liye apna employment contract ya eligible CDC ready rakhein. Bank ya NPS point pe verification mein ye document dikha sakte hain.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/nri-seafarers-employment-contract-cdc-nps-kyc-pfrda.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI ne IPO rules review ke liye PMAC sub-group banaya",
+          "effective": "",
+          "what": "SEBI ne ek PMAC sub-group banaya hai jo IPO, FPO, preferential issue aur QIP ke rules jaise eligibility, lock-in, pricing aur disclosures ko review karega.",
+          "who": "Jitni bhi companies IPO, FPO, preferential issue ya QIP plan kar rahi hain.",
+          "action": "Agar aap kisi public issue ya QIP ki planning mein hain to SEBI ke update ka intezaar karein. Naseehat ya naye rule aane ke baad documents dubara check karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-forms-pmac-group-review-icdr-regulations-2018.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Utkarsh Small Finance Bank",
+          "ref": "",
+          "headline": "Utkarsh Small Finance Bank ka 666 din ka callable FD: poori jaankari",
+          "effective": "",
+          "what": "Utkarsh Small Finance Bank ne 666 din ke callable fixed deposit ka guide diya hai. Ismein ab kaunse rate hain, premature closure kaise hoga, TDS kis par lagega aur DICGC protection ki details hai.",
+          "who": "Sirf wahi log jo Utkarsh Small Finance Bank mein 666 din ka callable FD kholna chahte hain.",
+          "action": "Agar aap FD khol rahe hain to rate aur TDS, premature closure ki shartein detail mein bank se samjhein. DICGC cover ki bhi poori clarity lein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/utkarsh-small-finance-bank-666-day-callable-fd-1-november-2026-rates-tax-dicgc.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "ESAF Small Finance Bank",
+          "ref": "",
+          "headline": "ESAF Small Finance Bank ka 800 din ka resident FD: rate aur cover",
+          "effective": "2026-08-17",
+          "what": "ESAF Small Finance Bank ne 800 din wale resident callable fixed deposit ke rates 17 August 2026 se lagu kiye hain. Iss FD par premature close ki facility, TDS aur DICGC cover available hai.",
+          "who": "Wo customers jo ESAF Small Finance Bank mein 800 din ka FD kholne ka plan bana rahe hain.",
+          "action": "FD kholne se pehle bank se latest rate, premature closure terms aur DICGC protection clearly pooch lein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/esaf-small-finance-bank-800-day-resident-fixed-deposit-rates-premature-closure-dicgc-tax.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Suryoday Small Finance Bank",
+          "ref": "",
+          "headline": "Suryoday SFB ka 5 saal ka callable FD: sab kuch ek jagah",
+          "effective": "",
+          "what": "Suryoday Small Finance Bank ne 5 saal wale resident callable fixed deposit ka guide diya hai, jismein current rates, payout details, premature closure, TDS (Section 393) aur DICGC cover included hain.",
+          "who": "Sirf wo log jo Suryoday Small Finance Bank mein 5 saal ka callable FD kholne ka soch rahe hain.",
+          "action": "FD kholte waqt bank se payout, premature closure aur DICGC cover ki confirmed information lein. TDS ke section ki bhi samajh bana lein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/suryoday-small-finance-bank-5-year-callable-fd-current-rates-premature-closure-tax-dicgc.html"
+        }
+      ]
+    },
     {
       "date": "2026-11-16",
       "items": [
@@ -2882,71 +2947,6 @@
           "action": "Digital Rupee se judi updated FAQs dekhein. UPI interoperability aur wallet ke points par focus karein agar aapka business ya client usme involved hai.",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/rbi/digital-rupee-e-rupees-rbi-faqs.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-02",
-      "items": [
-        {
-          "cat": "Loan",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "RBI ne SC/ST ke liye loan guidelines update kiye",
-          "effective": "",
-          "what": "RBI ne banks ko SC/ST beneficiaries ko diya jaane wala loan ka pura guideline ek jagah consolidate kiya hai. Isme planning, lending, monitoring aur reporting sab cover hain.",
-          "who": "Sabhi banks aur SC/ST category ke borrowers par lagu hai.",
-          "action": "Agar aap SC/ST loan lene ki soch rahe hain ya bank se is loan ka process samajhna hai to naye guidelines check karein. Bank branch se guideline ka update maang sakte hain.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/rbi-master-circular-2026-credit-facilities-scs-sts.html"
-        },
-        {
-          "cat": "RBI Policy",
-          "authority": "Reserve Bank of India",
-          "ref": "RBI/2026-27/278 DOR.HOL.REC.No.238/16.13.100/2026-27",
-          "headline": "Local Area Banks ke shares lene ka process badla",
-          "effective": "01-10-2026",
-          "what": "Agar aap Local Area Bank me major shareholding lena chahte hain to pehle RBI se approval lena hoga. Agar aapka shareholding dobara 5% se kam ho jaata hai, aur fir dobara major shareholding leni hai to fir se RBI approval chahiye.",
-          "who": "Jo bhi vyakti ya entity Local Area Bank me major shareholding lene ki soch raha hai.",
-          "action": "Share purchase plan karte waqt RBI se approval ka process samjhein. Legal ya compliance advisor se consult zarur karein.",
-          "source_name": "rbi.org.in",
-          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13722&Mode=0"
-        },
-        {
-          "cat": "Scheme",
-          "authority": "Department of Posts",
-          "ref": "",
-          "headline": "Small Savings Scheme ke interest rate change nahi hue",
-          "effective": "01-10-2026",
-          "what": "Small Savings Scheme jaise Sukanya, NSC, PPF ke interest rate October se December 2026 tak same hi rahenge. Koi rate mein badlav nahi hua hai.",
-          "who": "Small Savings Schemes me paisa laga rakhe depositors aur naye investors ke liye.",
-          "action": "Agar plan tha ki rate badlav ka intezar karenge, to abhi waise hi investment decision lein. Purane rate pe hi deposit renew ya naya khol sakte hain.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/finance/small-savings-interest-rates-unchanged-october-december-2026.html"
-        },
-        {
-          "cat": "SEBI",
-          "authority": "SEBI",
-          "ref": "",
-          "headline": "Public InvIT listing ke liye compliance review jaldi karein",
-          "effective": "",
-          "what": "Agar InvIT ko public-list karna hai to pehle se structure, contracts, compliance aur governance ka review karna zaruri hai. SEBI ki requirements poori honi chahiye.",
-          "who": "InvITs jo public listing plan kar rahe hain unke sponsors aur managers.",
-          "action": "Legal, compliance aur auditors ke sath milkar apna poora documentation aur policy jaldi ready karein. Listing process shuru karne se pehle sab systems test karein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/sebi/public-invit-listing-requires-early-review-structure-compliance-governance.html"
-        },
-        {
-          "cat": "Scheme",
-          "authority": "Ministry of Chemicals and Fertilizers",
-          "ref": "",
-          "headline": "PLI scheme se pharma aur medical device manufacturing ko boost",
-          "effective": "",
-          "what": "PLI (Production Linked Incentive) scheme ki wajah se desh mein pharma, bulk drugs, aur medical devices ki manufacturing badh rahi hai. Naye investment aur jobs create ho rahe hain.",
-          "who": "Pharma aur medical device companies, investors, aur unke suppliers ke liye.",
-          "action": "Agar aap manufacturing sector me hain to PLI scheme ke benefits samjhein. Naye proposals ya expansion plan PLI terms ko dekhkar taiyaar karein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/corporate-law/pli-schemes-boost-domestic-manufacturing-pharmaceuticals-bulk-drugs-medical-devices.html"
         }
       ]
     }
