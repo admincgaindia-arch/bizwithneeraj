@@ -1,6 +1,59 @@
 {
-  "last_updated": "2026-11-17T02:15:30.559Z",
+  "last_updated": "2026-11-18T02:15:25.840Z",
   "days": [
+    {
+      "date": "2026-11-18",
+      "items": [
+        {
+          "cat": "RBI Policy",
+          "authority": "PFRDA",
+          "ref": "",
+          "headline": "NRI seafarers ke liye NPS account mein KYC aasan",
+          "effective": "13 November 2026",
+          "what": "Ab NRI seafarers apne NPS Tier I account ke liye address proof ke taur par employment contract ya CDC de sakte hain. Pehle sirf kuch documents hi chalte the, ab ye option khul gaya hai.",
+          "who": "NRI seafarers jo NPS Tier I account khol rahe hain.",
+          "action": "Agar aap NRI seafarer hain to apne employment contract ya CDC ready rakhein jab NPS mein KYC karwana ho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/nri-seafarers-employment-contract-cdc-nps-kyc-pfrda.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "ESAF Small Finance Bank",
+          "ref": "",
+          "headline": "ESAF Bank ka 800 din ka Fixed Deposit Scheme update",
+          "effective": "17 August 2026",
+          "what": "ESAF Small Finance Bank ne 800 din ka resident callable FD start kiya hai. Ismein premature closure, DICGC cover aur TDS options diye gaye hain.",
+          "who": "Wo log jo ESAF Bank mein fixed deposit karwana chahte hain, khaaskar 800 din ki FD mein.",
+          "action": "Agar aap ESAF mein nayi FD soch rahe hain to 800 din wali scheme ki details bank branch se ya website par check karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/esaf-small-finance-bank-800-day-resident-fixed-deposit-rates-premature-closure-dicgc-tax.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Bank of India",
+          "ref": "",
+          "headline": "Bank of India ki forex aur outward remittance ki services",
+          "effective": "",
+          "what": "Bank of India ke branches foreign exchange aur outward remittance ki facility provide karte hain. Iss service mein required documents, cost, GST, TCS sab covered hain.",
+          "who": "Jo log ya businesses abroad payment bhejna chahte hain ya forex needs hai.",
+          "action": "Agar aapko foreign payment ya remittance karni hai to Bank of India branch se required documents aur charges ki full list lein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/bank-india-forex-remittance-profile-ad-branches-lrs-kyc-costs-tcs.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI ne IPO, QIP rules review ke liye sub-group banaya",
+          "effective": "",
+          "what": "SEBI ne PMAC sub-group banaya hai jo IPO, FPO, preferential issue aur QIP ke rules, eligibility, pricing, disclosure ki review karega.",
+          "who": "Primary market mein deal karne wali companies aur unke advisors.",
+          "action": "Agar aap IPO, QIP, preferential issue plan kar rahe hain to SEBI ke future guidelines ka intezaar karein, latest update dekhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-forms-pmac-group-review-icdr-regulations-2018.html"
+        }
+      ]
+    },
     {
       "date": "2026-11-17",
       "items": [
@@ -2882,71 +2935,6 @@
           "action": "Agar aap mutual fund, insurance ya pension fund ho to apni shareholding strategy review karo. Relevant compliance documents ready rakho one-time approval ke liye.",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/rbi/rbi-amends-local-area-bank-shareholding-rules-time-approval-qualifying-investors.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-03",
-      "items": [
-        {
-          "cat": "RBI Policy",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "Note Sorting Machines ke liye naye RBI rules aaye",
-          "effective": "",
-          "what": "RBI ne Note Sorting Machines par Master Direction jari ki hai. Isme authentication, fitness sorting, calibration aur BIS-certified machines ka mention hai. Pehle ke rules ab withdraw ho gaye hain.",
-          "who": "Saare banks jo note sorting machines use karte hain.",
-          "action": "Agar aap bank branch sambhalte hain, to ab note sorting machine BIS-certified honi chahiye. Naye Master Direction ko padhkar implementation karein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/rbi-mandates-bis-certified-note-sorting-machines-master-direction.html"
-        },
-        {
-          "cat": "RBI Policy",
-          "authority": "Reserve Bank of India",
-          "ref": "RBI/DCM/2026-27/473 DCM(NPD) No.S2154/18.00.014/2026-27",
-          "headline": "Master Direction: Note Sorting Machines par consolidated guideline",
-          "effective": "",
-          "what": "RBI ne Note Sorting Machines par saari purani guidelines consolidate karke Master Direction jari ki hai. Pehle jari kiye circulars ab valid nahi hain.",
-          "who": "Har bank ka MD, CEO, aur Chairman jin bankon mein cash note sorting machines hain.",
-          "action": "Banks apne practices ab naye Master Direction ke hisaab se update karein. Pehle ki guidelines ab applicable nahi hain.",
-          "source_name": "rbi.org.in",
-          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13723&Mode=0"
-        },
-        {
-          "cat": "RBI Policy",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "Currency Management ki 268 purani guidelines withdraw hui",
-          "effective": "",
-          "what": "RBI ne currency management par 268 purani circulars aur guidelines hatakar unko Master Directions mein consolidate ya obsolete kar diya hai.",
-          "who": "Banks ya institutions jo currency management ke related RBI ki guidelines follow karte hain.",
-          "action": "Ab currency management ke liye sirf naye Master Directions hi follow karein. Purane circulars ki checklist revise karein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/rbi-withdraws-268-circulars-guidelines-currency-management.html"
-        },
-        {
-          "cat": "Loan",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "SC/ST beneficiaries ke liye bank loan par RBI master guideline",
-          "effective": "",
-          "what": "RBI ne SC/ST beneficiaries ke liye bank credit facilities par sari guidelines consolidate kar di hain. Isme planning, lending, aur monitoring covered hai.",
-          "who": "Wo banks jo SC/ST customers ko loan dete hain, aur SC/ST borrowers.",
-          "action": "Banks naye guidelines padhein aur ab loan policies accordingly update karein. SC/ST applicants lending criteria check karein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/rbi-master-circular-2026-credit-facilities-scs-sts.html"
-        },
-        {
-          "cat": "RBI Policy",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "Digital Rupee FAQs update hue, wallet aur UPI par focus",
-          "effective": "",
-          "what": "RBI ne Digital Rupee (e₹) ke FAQs update kiye hain. Isme wallet, UPI se linking, aur CBDC ke use cases samjhaye hain.",
-          "who": "Wo sab jo Digital Rupee ya RBI ke e₹ system mein interested hain, banks aur fintechs.",
-          "action": "Digital Rupee se judi updated FAQs dekhein. UPI interoperability aur wallet ke points par focus karein agar aapka business ya client usme involved hai.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/digital-rupee-e-rupees-rbi-faqs.html"
         }
       ]
     }
