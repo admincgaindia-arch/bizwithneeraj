@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-11-17T01:31:05.386Z",
+  "last_updated": "2026-11-18T01:31:00.468Z",
   "digests": [
+    {
+      "date": "2026-11-18",
+      "summary": "Aaj ka digest: GST, Income Tax, TDS aur kuch important tribunal/court rulings ka update hai. Kaafi saari recent ITAT aur GSTAT judgements noteworthy hain.",
+      "items": [
+        {
+          "category": "Income Tax",
+          "headline": "GST refund disclosed in audit not taxable: ITAT",
+          "detail": "ITAT ne bola hai ki agar GST refund ki payment tax audit report ke clause 16(b) me disclose hui hai, aur wo payment deduction claim nahi ki gayi, to usko taxable nahi maana jayega. Sec 143(1) adjustment bhi nahi hoga.",
+          "cga_view": "Agar GST refund milta hai, toh check karo apne deductions - agar deduct nahi kiya hai toh adjust karne ki zarurat nahi hai.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/gst-refund-not-taxable-where-tax-payment-not-claimed-as-deduction-itat-bars-section-1431-adjustment-based-on-form-3cd-disclosure-read-order"
+        },
+        {
+          "category": "TDS",
+          "headline": "Interest to NHAI on advances exempt from TDS: ITAT",
+          "detail": "ITAT ne clear kiya hai ki NHAI ko mobilisation advance par diya gaya interest TDS u/s 194A se exempt hai kyunki NHAI statutory body hai.",
+          "cga_view": "Agar aap NHAI ko interest pay kar rahe ho, toh TDS deduct karne ki zarurat nahi hai - statutory entity hai.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/interest-paid-to-nhai-on-mobilisation-advances-not-subject-to-tds-us-194a-of-income-tax-act-itat-read-order"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Purchases in 3rd party GST not enough for Sec 69C: ITAT",
+          "detail": "ITAT ne bola ki sirf kisi aur ki GST return me aapke naam se purchase aane se unexplained expenditure manke Section 69C ke tahat addition nahi kiya ja sakta, jab tak independent evidence nahi ho.",
+          "cga_view": "Agar aapki purchases sirf dusre party ki GST return me reflect ho rahi hain, to khud ke documentation aur proofs ready rakho.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/mere-reflection-of-purchases-in-third-party-gst-return-insufficient-for-section-69c-income-tax-addition-itat"
+        },
+        {
+          "category": "GST",
+          "headline": "Single e-way bill for 2 invoices not always penalty: GSTAT",
+          "detail": "GSTAT ne bola ki agar ek hi e-way bill me do invoices aa jayein lekin sab goods/documents sahi hain aur koi tax evasion nahi, toh Section 129 ka penalty automatic nahi lagta.",
+          "cga_view": "Ab e-way bill me choti procedural galti ho gayi toh penalty se bach sakte ho, lekin sab kuch transparently declare karo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/single-e-way-bill-for-two-invoices-does-not-automatically-attracts-gst-penalty-under-section-129-gstat-read-order"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Income tax assessment u/s 153C post-April 2021 invalid: ITAT",
+          "detail": "ITAT ne bola ki agar April 2021 ke baad satisfaction record ki gayi toh sec 153C nahi, naya reassessment process (147/148A) follow hoga.",
+          "cga_view": "Post-April 2021 search/reassessment cases hain toh nayi law/process zaroor check karo, galat section se assessment hui ho toh challenge kar sakte ho.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/income-tax-assessment-us-153c-invalid-where-satisfaction-recorded-after-april-2021-itat"
+        },
+        {
+          "category": "GST",
+          "headline": "GST on corporate guarantees upheld; 1% rule relaxed",
+          "detail": "Delhi High Court ne held kiya GST corporate guarantees par lagu rahega. 1% valuation rule ko downread kiya gaya hai, lekin detail sirf trade press mein hai.",
+          "cga_view": "Corporate guarantee par GST lagna confirm hai, valuation ke rules change hue, lekin official notification ka intezaar abhi bhi hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-corporate-guarantees-upheld-1-percent-valuation-rule-read-delhi-hc.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Solar power systems not always works contracts: SC",
+          "detail": "Supreme Court ka manna hai ki har solar power system ko works contract nahi mana jaa sakta, depend karta hai structure aur agreement par.",
+          "cga_view": "Agar solar project kar rahe ho toh contract structure dhang se draft karo, har case me works contract GST nahi lage.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/solar-power-systems-not-automatically-works-contracts-supreme-court.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-11-17",
       "summary": "Aaj ki digest mein GST aur Income Tax ke kuch important court rulings aur compliance reminders hain. Official notification kuch nahi aaya hai, saare items trade press ke through hain.",
@@ -3050,40 +3120,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/income-tax/section-271d-penalty-passed-limitation-quashed-itat-chennai.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-09-13",
-      "summary": "Aaj mainly GST ke practical court rulings aur ek important Income Tax ka TDS issue discuss hua hai. MCA se related koi fresh official update nahin hai.",
-      "items": [
-        {
-          "category": "GST",
-          "headline": "ITC Refund: Section 73/74 bina refund rok nahi sakte",
-          "detail": "GSTAT Ernakulam ne bola ki agar section 73/74 ki proper proceedings nahi hui, toh ITC eligibility ke basis pe refund deny nahi kiya ja sakta. Ye inverted duty refund matter mein bola gaya hai.",
-          "cga_view": "Agar aap refund claim kar rahe hain aur department bina proper showcause notice ke rok raha hai, toh apne consultant se legal remedy explore karen.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/itc-refund-cannot-denied-without-section-73-74-determination-gstat-ernakulam.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Year-end expense provision par TDS nahi katega: ITAT Mumbai",
-          "detail": "ITAT Mumbai ne decide kiya ki year end expense provision pe TDS aur interest nahi lagega, kyunki actual payment ya credit nahi hua tha. Yeh Pfizer India ka case tha.",
-          "cga_view": "Agar aap bhi sirf provision bana rahe hain bina payment ya party account credit kiye, toh abhi TDS katne ki zarurat nahi lagti, par apne facts ko cross-check karo.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/year-expense-provisions-not-liable-tds-itat-mumbai.html"
-        },
-        {
-          "category": "GST",
-          "headline": "Advance Ruling ke liye fee pay na ho toh application reject",
-          "detail": "Karnataka AAR ne kuch applications sirf isliye reject kar di kyunki prescribed fee nahi jama hui thi, merits pe baat hi nahi hui.",
-          "cga_view": "Agar Advance Ruling file kar rahe ho, toh ensure karo ki saari statutory fee time pe bhar di ho - warna case directly reject ho sakta hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/karnataka-aar-rejects-gst-advance-ruling-application-fee-non-compliance.html"
         }
       ],
       "due_dates": []
