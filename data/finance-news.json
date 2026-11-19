@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-11-18T02:15:25.840Z",
+  "last_updated": "2026-11-19T02:15:27.340Z",
   "days": [
+    {
+      "date": "2026-11-19",
+      "items": [
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "NBFC SNFA R899 return: Filing, valuation aur reporting guide",
+          "effective": "",
+          "what": "RBI ne NBFCs ke liye SNFA return R899 filing ka process, acquisition/valuation rules aur disposal norms, plus CIMS portal par filing ki step-by-step guide batayi hai.",
+          "who": "Ye saare NBFCs par lagu hai jo SNFA ke rules follow karte hain.",
+          "action": "Agar aap NBFC compliance team mein hain to R899 filing steps aur reporting format R899 return ke liye CIMS portal par check karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/rbi-snfa-r899-return-nbfc-prudential-norms-cims-filing-guide.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "InvIT Depository Receipts: Compliance checklist aayi",
+          "effective": "",
+          "what": "SEBI ne InvIT Depository Receipts ke liye ek compliance checklist publish ki hai. Isme approvals, custody, limits aur disclosures cover kiye gaye hain.",
+          "who": "Ye sach kaam aayega un logon ke liye jo InvIT Depository Receipts issue ya manage karte hain.",
+          "action": "Aap InvIT Depository Receipts structure kar rahe ho to checklist zaroor refer karo compliance ke liye.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-invit-depository-receipts-framework-2026-compliance-checklist.html"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "CBIC",
+          "ref": "",
+          "headline": "RoDTEP aur RoSCTL scrolls dobara shuru: Exporters alert",
+          "effective": "17 November 2026",
+          "what": "Do mahine rukne ke baad RoDTEP aur RoSCTL scheme ke scrolls wapas start ho gaye hain. Iss se exporters ki payment process wapas track par aayi hai.",
+          "who": "Ye un sabhi exporters par lagu hai jo RoDTEP ya RoSCTL benefit claim karte hain.",
+          "action": "Exporter ho to ab apne pending claims ki status CBIC ke portal par jaldi check karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/rodtep-rosctl-scrolls-resume-month-halt-wrong-exporters.html"
+        },
+        {
+          "cat": "Other",
+          "authority": "PFRDA",
+          "ref": "",
+          "headline": "NRI Seafarers: Ab NPS KYC mein employment contract chalega",
+          "effective": "13 November 2026",
+          "what": "PFRDA ne allow kiya hai ki NRI seafarers apne NPS Tier I account KYC ke liye employment contract ya valid CDC ko address proof ke roop mein use kar sakte hain.",
+          "who": "Sirf NRI seafarers jo NPS Tier I account open ya update kar rahe hain.",
+          "action": "NPS account ke liye KYC karte waqt apna contract ya CDC rakhna, address proof ke roop mein lagega.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/nri-seafarers-employment-contract-cdc-nps-kyc-pfrda.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Utkarsh Small Finance Bank",
+          "ref": "",
+          "headline": "Utkarsh SFB ka 666-day callable FD: Payout aur closure guide",
+          "effective": "1 November 2026",
+          "what": "Utkarsh Small Finance Bank ne 666 din wale callable fixed deposit par payout, premature closure aur DICGC aggregation ke details diye hain.",
+          "who": "Jo bhi customer Utkarsh SFB mein FD open karne wale hain ya kar chuke hain.",
+          "action": "Agar aap FD khol rahe ho to premature closure, tax aur payout ki terms padho. TDS aur DICGC coverage check karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/utkarsh-small-finance-bank-666-day-callable-fd-1-november-2026-rates-tax-dicgc.html"
+        }
+      ]
+    },
     {
       "date": "2026-11-18",
       "items": [
@@ -2870,71 +2935,6 @@
           "action": "Bank branch managers aur auditors ECL framework ki guidelines detail mein samjhein. IT systems aur policy update ki planning abhi se shuru karein.",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/rbi/rbis-expected-credit-loss-framework-era-provisioning-april-2027.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-04",
-      "items": [
-        {
-          "cat": "RBI Policy",
-          "authority": "Reserve Bank of India",
-          "ref": "RBI/DCM/2026-27/473 DCM(NPD) No.S2154/18.00.014/2026-27",
-          "headline": "Note sorting machines ke naye rules RBI ne jaari kiye",
-          "effective": "2026-10-02",
-          "what": "RBI ne note sorting machines par ek Master Direction jaari kiya hai. Saare purane guidelines, circulars ab consolidate ho gaye hain. Ab sirf BIS-certified note sorting machines hi use hongi.",
-          "who": "Yeh sabhi banks par lagu hai jo cash handle karte hain.",
-          "action": "Aapke bank branch ya cash operations mein note sorting machine hai to check karo ki woh BIS-certified hai ya nahi. Master Direction ka ek copy staff ko circulate karo.",
-          "source_name": "rbi.org.in",
-          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13723&Mode=0"
-        },
-        {
-          "cat": "RBI Policy",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "RBI ne 268 purane circulars withdraw kiye currency par",
-          "effective": "",
-          "what": "RBI ne currency management se jude 268 purane circulars aur guidelines hata diye hain. Yeh sab consolidate karke Master Directions mein daale gaye hain ya purane ho gaye hain.",
-          "who": "Banks aur woh sab organizations jo cash ya currency se jude operations chalate hain.",
-          "action": "Ab reference ke liye sirf RBI ke latest Master Directions dekho; purane circulars par kaam mat karo.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/rbi-withdraws-268-circulars-guidelines-currency-management.html"
-        },
-        {
-          "cat": "RBI Policy",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "Digital Rupee par RBI ke naye FAQs aage",
-          "effective": "",
-          "what": "RBI ne digital rupee (e₹) par naya FAQs set jaari kiya hai. Isme e₹ wallet, UPI interoperability aur wholesale CBDC ke baare mein bataya gaya hai.",
-          "who": "Fintechs, banks, aur koi bhi digital currency interest rakhne wale log aur businesses.",
-          "action": "Agar aap digital rupee ko use ya integrate karna soch rahe ho to RBI ke naye FAQs check karo. Apne clients ko bhi update karo.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/digital-rupee-e-rupees-rbi-faqs.html"
-        },
-        {
-          "cat": "Loan",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "SC/ST ke liye credit facilities par RBI ne rule saaf kiye",
-          "effective": "",
-          "what": "RBI ne SC/ST beneficiaries ko bank credit dene ke liye guidelines consolidate kiye hain. Main cheezein planning, lending aur reporting par focus karti hain.",
-          "who": "Banks aur SC/ST borrowers jo priority sector mein loan lete hain.",
-          "action": "Banks ko nayi consolidated guidelines ki copy apne branch managers ko bhejni chahiye. SC/ST clients se jude proposals issi ke hisaab se process karo.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/rbi-master-circular-2026-credit-facilities-scs-sts.html"
-        },
-        {
-          "cat": "Other",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "Local area aur small finance banks mein share kharidna aasan hua",
-          "effective": "",
-          "what": "RBI ne mutual funds, insurers aur pension funds ke liye major shareholding kharidne par one-time approval ki suvidha di hai. Ab baar-baar approval lene ki jaroorat nahi hogi agar aap ek bar clear ho gaye.",
-          "who": "Mutual funds, insurance companies aur pension funds jo in banks mein investment ki planning kar rahe hain.",
-          "action": "Agar aap mutual fund, insurance ya pension fund ho to apni shareholding strategy review karo. Relevant compliance documents ready rakho one-time approval ke liye.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/rbi-amends-local-area-bank-shareholding-rules-time-approval-qualifying-investors.html"
         }
       ]
     }
