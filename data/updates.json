@@ -1,6 +1,49 @@
 {
-  "last_updated": "2026-11-18T01:31:00.468Z",
+  "last_updated": "2026-11-19T01:30:59.498Z",
   "digests": [
+    {
+      "date": "2026-11-19",
+      "summary": "Aaj ITAT aur High Court ki kuch important rulings hain, saath hi GST aur Income Tax par compliance updates bhi mile hain. Official govt notifications nahi aaye, toh sab raw items trade press based hain.",
+      "items": [
+        {
+          "category": "Ruling",
+          "headline": "Sec. 80P deduction reject for late ITR by co-op society",
+          "detail": "ITAT Dehradun ne ek cooperative society ka ₹24.33 lakh ka Section 80P deduction deny kiya kyunki unhone ITR due date ke baad file ki thi. Case AY 2019-20 ka tha.",
+          "cga_view": "Agar Section 80P ya koi bhi deduction lena hai, toh ITR deadline miss mat karo. Late filing par claim reject ho sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/cooperative-society-denied-2433-lakh-sec-80p-deduction-for-missing-itr-filing-deadline-under-income-tax-act-itat-read-order"
+        },
+        {
+          "category": "Ruling",
+          "headline": "SC: TDS on foreign co. quashed, Nil certificate must be issued",
+          "detail": "Supreme Court ne Delhi HC ka order uphold kiya—foreign company ke upar 10% TDS nahi lagega kyunki India mein PE ya taxability sabit nahi hui. Nil-tax certificate issue karne ka bhi order hua.",
+          "cga_view": "Agar foreign vendor involved hai, toh PE status clear karao aur if eligible, Section 197 se Nil/Lower deduction certificate le lo. Unnecessary TDS deduce na ho.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/sc-upholds-delhi-hc-order-quashing-tds-deduction-against-foreign-company-and-directing-issuance-of-nil-tax-certificate-us-197-of-income-tax-act-read-order"
+        },
+        {
+          "category": "Ruling",
+          "headline": "GST writ not allowed after Sec. 107 appeal time lapses",
+          "detail": "Meghalaya HC ne bola ki taxpayer agar Section 107 GST appeal deadline miss kar deta hai toh seedha High Court nahi ja sakta. Par court ne fir bhi 4 week ka mauka diya appeal file karne ka.",
+          "cga_view": "GST show cause ya assessment order mila hai toh Section 107 ke andar proper time par appeal karo. Deadline miss hone par High Court bhi help nahi karega.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/gst-writ-petition-not-maintainable-after-taxpayer-misses-sec107-appeal-deadline-under-meghalaya-gst-act-2017-hc-grants-four-weeks-to-appeal-read-order"
+        },
+        {
+          "category": "Ruling",
+          "headline": "GST on corporate guarantee to related parties even if no money",
+          "detail": "Delhi HC ka latest decision: Related party ko corporate guarantee doge toh GST lagega, chaahe consideration na bhi ho. Lekin 1% floor value ab mandatory nahi—open market value bhi dikha sakte ho.",
+          "cga_view": "Agar group companies ko guarantee doge, toh transaction ka open market value document karo. 1% fix nahi, actual value justify karni padegi.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/gst-applicable-on-corporate-guarantees-to-related-entities-even-without-consideration-delhi-hc-strikes-down-fixed-1-floor-under-rule-282-read-order"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-11-18",
       "summary": "Aaj ka digest: GST, Income Tax, TDS aur kuch important tribunal/court rulings ka update hai. Kaafi saari recent ITAT aur GSTAT judgements noteworthy hain.",
@@ -3077,49 +3120,6 @@
           "source_type": "trade",
           "source_name": "taxscan.in",
           "source_url": "https://www.taxscan.in/top-stories/sad-refund-cannot-be-adjusted-against-customs-duty-demand-that-has-not-attained-finality-cestat-in-johnson-johnson-case-read-order-1451458"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-09-14",
-      "summary": "Aaj ke major updates: GST refunds, recovery stay aur Section 148 reassessment par court rulings aaye hain. Dekho aapke liye kya relevant hai.",
-      "items": [
-        {
-          "category": "GST",
-          "headline": "GST recovery stay jab tak GSTAT mein appeal ka waqt hai",
-          "detail": "Madras HC ne GST recovery ko rok diya jab tak statutory appeal ka samay available hai. Filhal recovery nahi hogi.",
-          "cga_view": "Agar aapka GSTAT mein jaane ka mann hai toh recovery se bachne ka yeh waqt hai. Appeal filing pe focus karo.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/gst-recovery-barred-statutory-period-approach-gstat-madras-hc.html"
-        },
-        {
-          "category": "GST",
-          "headline": "IGST refund decision 1 hafte mein: Delhi HC ka order",
-          "detail": "Delhi HC ne DGARM chief ko order diya hai ki withheld IGST refund par 1 week mein decision lo warna salary consequence hoga.",
-          "cga_view": "Aapka IGST refund hold hai toh ek hafte mein clear hone ki umeed raho. Status par nazar rakho.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/delhi-high-court-directs-week-decision-withheld-igst-refund.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Section 148 reassessment case phir se khula: ITAT Chennai",
-          "detail": "ITAT Chennai ne recent Finance Act 2026 ke amendment ke baad reassessment case dubara sunaayee ke liye bhej diya hai.",
-          "cga_view": "Aapka case Section 148 ke amendment mein ata hai toh naye rules ke mutabik case review ho sakta hai. Documentation ready rakho.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/jao-section-148-reassessment-remanded-retrospective-amendment-itat-chennai.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Section 271D penalty limitation ki wajeh se khatam: ITAT Chennai",
-          "detail": "ITAT Chennai ne 6 mahine se upar mein pass hui penalty quash kar di hai, section 275(1)(c) ke limitation clause ki wajah se.",
-          "cga_view": "Kisi bhi old Section 271D penalty ko limitation ke basis par legally challenge kiya ja sakta hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/section-271d-penalty-passed-limitation-quashed-itat-chennai.html"
         }
       ],
       "due_dates": []
