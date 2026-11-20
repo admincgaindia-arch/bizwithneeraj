@@ -1,6 +1,49 @@
 {
-  "last_updated": "2026-11-19T01:30:59.498Z",
+  "last_updated": "2026-11-20T01:30:59.762Z",
   "digests": [
+    {
+      "date": "2026-11-20",
+      "summary": "Aaj GST aur Income Tax ke kuch important updates aaye hain, mostly judicial rulings wale. Official govt notifications aaj ke din nahi mile.",
+      "items": [
+        {
+          "category": "Ruling",
+          "headline": "GST Arrests aur Small Notices par Rok",
+          "detail": "CBIC ne instruction nikala hai ki GST arrests, random e-way bill checking aur ₹10,000 se kam ke notices ab rok diye jayenge, jab tak nayi GST amendment nahi aa jati.",
+          "cga_view": "Agar aapke khilaf ₹10,000 se kam ka GST notice, ya random checking/arrest ka mamla hai, to abhi action ruka rahega. Notice mile to abhi immediate panic na karein, lekin documents ready rakhein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/cbic-stops-gst-arrests-random-bill-checks-notices-rs-10-000.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITAT: S.153C Assessment Quashed, Galat Wording ke liye",
+          "detail": "Delhi ITAT ne Section 153C assessment ko cancel kiya, kyunki AO ne satisfaction note mein 'belonging to' ki sahi language nahi likhi thi, jo 2015 se zaroori hai.",
+          "cga_view": "Agar aapke case mein bhi aisa satisfaction note ka issue hai, to apne counsel se judicial precedent dikhakar relief lene ki koshish karein.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/post-2015-amendment-to-sec-153c-of-the-income-tax-act-itat-quashes-assessment-over-belonging-to-wording-in-satisfaction-note-read-order"
+        },
+        {
+          "category": "Ruling",
+          "headline": "GST Interest Demand Quashed Despite Late GSTR-3B",
+          "detail": "Karnataka High Court ne ₹42.68 lakh ki GST interest demand ko hataya, even though GSTR-3B late file hui thi. Reasoning abhi detail mein available nahi hai.",
+          "cga_view": "Agar interest demand sirf late filing ki wajah se aayi hai, to yeh order aapke favor mein use ho sakta hai. Apne consultant se court order ka reference check karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-interest-demand-rs-42-68-lakh-quashed-delayed-gstr-3b-filing-karnataka-hc.html"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITAT: Software Licence, Web Payments Not Royalty",
+          "detail": "Hyderabad ITAT ne hold kiya ki software licence aur global web payments royalty nahi hai, isliye Section 195 TDS bhi nahi lagega.",
+          "cga_view": "Aap software purchase ya global web payments pe abhi Section 195 TDS se bach sakte hain, lekin final advice case specific leni hogi.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/software-licence-global-web-payments-not-royalty-no-tds-section-195-itat-hyderabad.html"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-11-19",
       "summary": "Aaj ITAT aur High Court ki kuch important rulings hain, saath hi GST aur Income Tax par compliance updates bhi mile hain. Official govt notifications nahi aaye, toh sab raw items trade press based hain.",
@@ -3104,22 +3147,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/goods-and-service-tax/madras-hc-declines-interference-10-percent-gst-penalty-delayed-gstr-3b.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-09-15",
-      "summary": "Aaj ke digest mein ek important tribunal ruling ka update hai related to customs aur refunds.",
-      "items": [
-        {
-          "category": "Ruling",
-          "headline": "SAD Refund ka adjustment tab tak nahi ho sakta",
-          "detail": "Johnson & Johnson case mein CESTAT ne bola ki agar customs duty ka demand abhi final nahi hai toh SAD refund ko adjust nahi kiya jaa sakta. Agar aapka refund pehle sanction ho gaya tha aur demand baad mein drop ho gayi, toh department adjustment nahi kar sakta.",
-          "cga_view": "Agar SAD refund pe koi adjustment ya hold hai aur demand final nahi hai, toh aapko department ko CESTAT ruling ka reference deke follow-up karna chahiye.",
-          "source_type": "trade",
-          "source_name": "taxscan.in",
-          "source_url": "https://www.taxscan.in/top-stories/sad-refund-cannot-be-adjusted-against-customs-duty-demand-that-has-not-attained-finality-cestat-in-johnson-johnson-case-read-order-1451458"
         }
       ],
       "due_dates": []
