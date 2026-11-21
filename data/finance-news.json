@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-11-20T02:15:26.853Z",
+  "last_updated": "2026-11-21T02:15:27.097Z",
   "days": [
+    {
+      "date": "2026-11-21",
+      "items": [
+        {
+          "cat": "Scheme",
+          "authority": "Punjab & Sind Bank",
+          "ref": "",
+          "headline": "PSB Tax Saver FD mein 5-year lock-in aur tax benefit",
+          "effective": "14 November 2026",
+          "what": "Punjab & Sind Bank ne apna PSB Fixed Deposit Tax Saver scheme ki detailed guide di hai. Isme 5 saal ka lock-in hai, eligibility, section 123 tax deduction, interest pe TDS aur DICGC cover ki details hai.",
+          "who": "Wo log jo Punjab & Sind Bank mein tax saver FD kholne ka soch rahe hain.",
+          "action": "Eligibility aur lock-in period check karo. Section 123 ke liye documents bank se verify karo aur interest income par tax/TDS ka proof sambhal ke rakho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/punjab-sind-bank-psb-fixed-deposit-tax-saver-rates-lock-tax-rules.html"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "UCO Bank",
+          "ref": "",
+          "headline": "UCO Tax Saver Deposit Scheme: 5 saal lock-in, 80C benefit",
+          "effective": "",
+          "what": "UCO Bank ke Tax Saver Deposit Scheme 2006 ki puri guide aayi hai. Eligibility, fixed amount, 5 saal lock-in, section 80C tax benefit aur TDS ka zikr hai.",
+          "who": "Jo UCO Bank mein tax saving deposit kholna chahte hain.",
+          "action": "Eligibility samjho, 5 saal paisa lock rahega. 80C evidence aur TDS certificate bank se le lo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/uco-tax-saver-deposit-scheme-2006-rate-year-lock-tax-rules.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "Muthoot FinCorp Forex/Remittance: RBI ki KYC aur tax rules",
+          "effective": "",
+          "what": "Muthoot FinCorp ke forex aur remittance services ki RBI policy samjhai gayi hai. AD-II licence scope, KYC, cost, GST, TCS aur complaint process ka mention hai.",
+          "who": "Jo Muthoot FinCorp se forex ya remittance lena/dena chahte hain.",
+          "action": "Apne KYC documents update karo. Forex ya remittance lene se pahle GST/TCS charges aur complaint channel pata karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/muthoot-fincorp-forex-remittance-rbi-scope-kyc-costs-gst-tcs.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Bank of Maharashtra",
+          "ref": "",
+          "headline": "Bank of Maharashtra 5-year tax saver deposit par section 123",
+          "effective": "14 September 2026",
+          "what": "Bank of Maharashtra ka 5 saal ka tax saving term deposit ki guide aayi hai. Rate, lock-in, section 123 benefit, TDS aur DICGC matla diya gaya hai.",
+          "who": "Jo Bank of Maharashtra mein tax saving deposit kholna chahte hain.",
+          "action": "Lock-in aur section 123 ka proof rakho. TDS details bank statement mein verify karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/bank-maharashtra-year-tax-saving-term-deposit-5-00-percent-rate-lock-section-123-tds.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "NBFC ke liye RBI SNFA R899 return filing guide",
+          "effective": "",
+          "what": "NBFCs ke liye RBI SNFA rules bataye gaye hain. Acquisition, valuation, 7 saal mein disposal limit, reporting tables aur R899 return filing process diya gaya hai.",
+          "who": "NBFCs aur unke compliance teams.",
+          "action": "R899 filing ki step-by-step guide CIMS par follow karo. Acquisition/disposal details update karta raho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/rbi-snfa-r899-return-nbfc-prudential-norms-cims-filing-guide.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI InvIT Depository Receipts compliance checklist",
+          "effective": "2 November 2026",
+          "what": "SEBI ne InvIT Depository Receipts ke liye new framework compliance checklist issue ki hai. Approvals, custody, limits, disclosures, sab cover kiya hai.",
+          "who": "InvITs aur unke legal/compliance professionals.",
+          "action": "Compliance checklist ka item-wise verification karo. Approvals aur disclosure documents time pe ready rakho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-invit-depository-receipts-framework-2026-compliance-checklist.html"
+        }
+      ]
+    },
     {
       "date": "2026-11-20",
       "items": [
@@ -2858,59 +2935,6 @@
           "action": "Aap plan ki eligibility, benefits aur tax impact samajhkar policy lene ka decision le sakte hain. Details ke liye apne LIC agent se pooch sakte hain.",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/finance/lic-bima-platinum-plan-770-guaranteed-additions-income-benefits-tax-gst-guide.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-07",
-      "items": [
-        {
-          "cat": "Scheme",
-          "authority": "Unknown",
-          "ref": "",
-          "headline": "Foreign Assets Disclosure Scheme 2026 ki guide aayi",
-          "effective": "",
-          "what": "FAST-DS 2026 ka pura guide aaya hai. Yahan eligibility, limit, payment process aur fees ki info di gayi hai. Isme aapko foreign assets declare karne ka mauka milega, certain rules ko follow karna hoga.",
-          "who": "Un small taxpayers ke liye jinke paas foreign assets hain aur scheme ki limits mein fit baithte hain.",
-          "action": "Agar aapke paas foreign assets hain, to Form 1 fill karein aur guide dekhein. Scheme ki limits aur timelines check karein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/foreign-assets-small-taxpayers-disclosure-scheme-2026-complete-guide.html"
-        },
-        {
-          "cat": "SEBI",
-          "authority": "Unknown",
-          "ref": "",
-          "headline": "Vishal Nirmiti IPO details aur tax guide",
-          "effective": "",
-          "what": "Vishal Nirmiti IPO par ek detailed guide aayi hai. Iss guide mein issue size, price band, lot size, OFS, aur tax implications cover kiye gaye hain.",
-          "who": "Un investors ke liye jo IPO mein invest karna chahte hain ya tax impact samajhna chahte hain.",
-          "action": "IPO invest karne se pehle guide padh lein. Khud ki tax planning aur paperwork ready karein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/finance/vishal-nirmiti-ipo-issue-details-financial-questions-risks-tax-implications.html"
-        },
-        {
-          "cat": "Loan",
-          "authority": "Unknown",
-          "ref": "",
-          "headline": "LIC Jeevan Utsav plan mein loan ki facility explained",
-          "effective": "",
-          "what": "LIC Jeevan Utsav plan ki guarantee income, loan option, premium term, surrender aur tax rules par explanation di gayi hai.",
-          "who": "Un logon ke liye jo LIC Jeevan Utsav plan mein invest kar rahe hain ya loan lena chahte hain.",
-          "action": "Agar aap LIC Jeevan Utsav le rahe hain, to loan aur surrender ki terms check karein. Income-tax Act 2025 aur GST rules bhi samjhein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/finance/lic-jeevan-utsav-guaranteed-income-tax-treatment-key-conditions-explained.html"
-        },
-        {
-          "cat": "RBI Policy",
-          "authority": "Unknown",
-          "ref": "",
-          "headline": "Axis Bank Fixed Deposit ka October 2026 guide",
-          "effective": "",
-          "what": "Axis Bank FD par latest rates, senior citizen benefit, premature withdrawal aur TDS rules ka guide aaya hai. DICGC cover aur Form 121 details bhi di gayi hain.",
-          "who": "Axis Bank ke FD holders aur nayi FD open karne walon ke liye.",
-          "action": "Nai FD kholte waqt latest rates aur tenure dekhein. TDS aur tax rules check karein, Form 121 use karna ho to paperwork ready karein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/finance/axis-bank-fixed-deposit-latest-rates-premature-withdrawal-tds-tax-rules.html"
         }
       ]
     }
