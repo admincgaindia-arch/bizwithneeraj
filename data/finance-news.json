@@ -1,6 +1,59 @@
 {
-  "last_updated": "2026-11-21T02:15:27.097Z",
+  "last_updated": "2026-11-22T02:15:25.204Z",
   "days": [
+    {
+      "date": "2026-11-22",
+      "items": [
+        {
+          "cat": "Scheme",
+          "authority": "Punjab & Sind Bank",
+          "ref": "",
+          "headline": "PSB Fixed Deposit Tax Saver Scheme ka overview",
+          "effective": "14 November 2026",
+          "what": "Punjab & Sind Bank ne apna PSB Fixed Deposit Tax Saver Scheme update kiya hai. Isme 5-year rate, eligibility, lock-in period, section 123 deduction, taxable interest, TDS aur DICGC cover samjhaaya gaya hai.",
+          "who": "Jo log ya businesses Punjab & Sind Bank mein tax saver FD karwana chahte hain.",
+          "action": "Nayi scheme details ke liye apne bank branch se poochho. Eligibility aur documents verify karo. Tax-saving ke liye recent rule samjho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/punjab-sind-bank-psb-fixed-deposit-tax-saver-rates-lock-tax-rules.html"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "UCO Bank",
+          "ref": "",
+          "headline": "UCO Tax Saver Deposit Scheme 2006 details",
+          "effective": "",
+          "what": "UCO Bank ki Tax Saver Deposit Scheme 2006 ka latest guide aaya hai. Eligibility amount, rate, 5 saal lock-in, section 80C, TDS aur DICGC cover samjhaaya gaya hai.",
+          "who": "Individuals ya businesses jo UCO Bank mein tax-saving FD kholna chahte hain.",
+          "action": "FD kholne se pehle eligibility aur scheme ki sari shartein samjho. Documents ready rakho. Section 80C claim process check karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/uco-tax-saver-deposit-scheme-2006-rate-year-lock-tax-rules.html"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "Bank of India",
+          "ref": "",
+          "headline": "Star Sunidhi Tax-Saving Deposit: Tenure & rules",
+          "effective": "",
+          "what": "Bank of India ka Star Sunidhi tax-saving term deposit guide aaya hai. 5-10 saal tenure, ₹10,000 minimum, ₹1.5 lakh annual cap, lock-in period, TDS, section 123 aur DICGC cover bataya gaya hai.",
+          "who": "Customers jo Bank of India mein tax saving FD lene ki soch rahe hain.",
+          "action": "Branch ya RM se scheme ki terms aur process detail mein poochho. Deposit karne se pehle lock-in aur tax rules samjh lo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/bank-india-star-sunidhi-tax-saving-deposit-rates-lock-tax-treatment.html"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "Bank of Maharashtra",
+          "ref": "",
+          "headline": "BM Five-Year Tax Saving Deposit ki jankari",
+          "effective": "14 September 2026",
+          "what": "Bank of Maharashtra ka 5 saal ka tax-saving term deposit ka updated guide aaya hai. Isme rates, lock-in, section 123, TDS aur DICGC details di gayi hain.",
+          "who": "Log ya businesses jo Bank of Maharashtra me tax-saver FD lena chahte hain.",
+          "action": "Effective date ke hisaab se naye rate aur tax rule check karo. Apni eligibility aur document list ready rakho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/bank-maharashtra-year-tax-saving-term-deposit-5-00-percent-rate-lock-section-123-tds.html"
+        }
+      ]
+    },
     {
       "date": "2026-11-21",
       "items": [
@@ -2882,59 +2935,6 @@
           "action": "AIFI ke compliance ya treasury team ko naye amendment directions dhyan se padhne chahiye aur process update karna chahiye.",
           "source_name": "rbi.org.in",
           "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13735&Mode=0"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-08",
-      "items": [
-        {
-          "cat": "RBI Policy",
-          "authority": "Reserve Bank of India",
-          "ref": "RBI/2026-27/289 DOR.MRG.REC.No.245/21-01-002/2026-27",
-          "headline": "RBI ne AIFI capital rules mein badlav kiya",
-          "effective": "07-10-2026",
-          "what": "RBI ne All India Financial Institutions ke capital adequacy norms mein amendment kiya hai. Legal opinion lene wali requirement ko international standards ke hisaab se align kiya gaya hai.",
-          "who": "All India Financial Institutions (AIFIs) jo clearing member financial institutions hain.",
-          "action": "AIFI compliance team ko nayi amendment padhni chahiye aur legal opinion process mein changes implement karne chahiye.",
-          "source_name": "rbi.org.in",
-          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13735&Mode=0"
-        },
-        {
-          "cat": "SEBI",
-          "authority": "SEBI",
-          "ref": "",
-          "headline": "Debt securities ke liye Credit Risk-o-Meter mandatory",
-          "effective": "",
-          "what": "SEBI ne decide kiya hai ki ab debt securities ke offer documents aur advertisements mein Credit Risk-o-Meter dikhana compulsory hoga.",
-          "who": "Jo bhi entity debt securities offer kar rahi hai ya unka advertisement bana rahi hai.",
-          "action": "Issuance ya advertisement plan karte waqt Credit Risk-o-Meter disclosure banwana zaruri hai, compliance team se confirm kar lo.",
-          "source_name": "sebi.gov.in",
-          "source_url": "https://www.sebi.gov.in/legal/circulars/oct-2026/introduction-of-credit-risk-o-meter-as-an-additional-disclosure-mechanism-for-debt-securities_105081.html"
-        },
-        {
-          "cat": "RBI Policy",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "RBI ne repo rate 5.50% tak badhaya",
-          "effective": "",
-          "what": "RBI ne repo rate mein 0.25% ka hike kiya hai aur ab rate 5.50% ho gaya. Isse borrowing ka cost increase ho jayega.",
-          "who": "Banks, NBFCs, corporates jinpar lending ya borrowing ka direct asar padta hai.",
-          "action": "Cost of borrowing mein change check karo, naye loan plan karo ya EMI re-calculate karlo. Existing loans par bhi rate change samjho.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/rbi/rbi-hikes-repo-rate-25-bps-5-50-percent-inflation-risks.html"
-        },
-        {
-          "cat": "Other",
-          "authority": "LIC",
-          "ref": "",
-          "headline": "LIC Bima Platinum Plan 770 ke benefits aur tax rules",
-          "effective": "",
-          "what": "LIC Bima Platinum Plan 770 ek insurance product hai, jisme guaranteed addition, income benefits aur GST rules ka detail diya gaya hai.",
-          "who": "Jo log nayi insurance policy lene ka plan kar rahe hain ya Bima Platinum 770 ko consider kar rahe hain.",
-          "action": "Aap plan ki eligibility, benefits aur tax impact samajhkar policy lene ka decision le sakte hain. Details ke liye apne LIC agent se pooch sakte hain.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/finance/lic-bima-platinum-plan-770-guaranteed-additions-income-benefits-tax-gst-guide.html"
         }
       ]
     }
