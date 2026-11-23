@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-11-22T02:15:25.204Z",
+  "last_updated": "2026-11-23T02:15:25.086Z",
   "days": [
+    {
+      "date": "2026-11-23",
+      "items": [
+        {
+          "cat": "Scheme",
+          "authority": "Punjab & Sind Bank",
+          "ref": "",
+          "headline": "PSB Tax Saver FD Scheme details aur tax rules samjho",
+          "effective": "14 November 2026",
+          "what": "Punjab & Sind Bank ki PSB Fixed Deposit Tax Saver Scheme ka guide hai. 5-year rate, lock-in period, section 123 deduction, taxable interest aur DICGC cover ka info diya hai.",
+          "who": "Wo log jo Punjab & Sind Bank mein tax-saving FD kholna chahte hain.",
+          "action": "Scheme shuru karne se pehle eligibility, lock-in aur tax rules ki detail bank branch ya advisor se lein. Latest rate bhi confirm karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/punjab-sind-bank-psb-fixed-deposit-tax-saver-rates-lock-tax-rules.html"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "UCO Bank",
+          "ref": "",
+          "headline": "UCO Bank Tax Saver Deposit Scheme 2006 guide aaya",
+          "effective": "",
+          "what": "UCO Bank ki Tax Saver Deposit Scheme 2006 par latest guide hai. Eligibility, amount, five-year lock-in, section 80C benefit, TDS aur DICGC cover ka zikr hai.",
+          "who": "Wo sab jo UCO Bank mein tax saving deposit kholne ka soch rahe hain.",
+          "action": "Deposit scheme join karne se pehle bank se amount limit, lock-in aur section 80C proof ke bare mein clear kar lein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/uco-tax-saver-deposit-scheme-2006-rate-year-lock-tax-rules.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Bank of Maharashtra",
+          "ref": "",
+          "headline": "Bank of Maharashtra ka new 5-year tax saving FD guide",
+          "effective": "14 September 2026",
+          "what": "Bank of Maharashtra ki panch saal ki tax-saving term deposit scheme par details hai. Rate, lock-in, section 123, TDS aur DICGC ka coverage diya gaya hai.",
+          "who": "Jo log Bank of Maharashtra mein tax-saving FD lena chahte hain.",
+          "action": "Application se pehle latest rate, lock-in aur tax section 123 ka detail bank se verify karein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/bank-maharashtra-year-tax-saving-term-deposit-5-00-percent-rate-lock-section-123-tds.html"
+        },
+        {
+          "cat": "Other",
+          "authority": "Axis Max Life",
+          "ref": "",
+          "headline": "Axis Max Life Smart Wealth Advantage plan ka faayda",
+          "effective": "",
+          "what": "Axis Max Life Smart Wealth Advantage Guarantee Plan ke five payout options, maturity, death benefit, surrender value aur tax rules cover kiye gaye hain.",
+          "who": "Wo sab jo Axis Max Life ki guarantee plan policy lene ka soch rahe hain.",
+          "action": "Policy lene se pehle GST exemption, surrender, aur income-tax treatment ki clarity apne advisor se lein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/insurance/axis-max-life-smart-wealth-advantage-guarantee-plan-benefits-surrender-and-tax-rules.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Muthoot FinCorp",
+          "ref": "",
+          "headline": "Muthoot FinCorp forex aur remittance ki practical info",
+          "effective": "",
+          "what": "Muthoot FinCorp ke forex aur remittance services ka profile diya hai. Ismein RBI scope, KYC process, settlement, GST, TCS aur cost ki info milti hai.",
+          "who": "Jo Muthoot FinCorp se forex ya abroad remittance karte hain.",
+          "action": "Transaction se pehle KYC, GST, TCS aur service charges ki update detail Muthoot FinCorp branch se nikal len.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/muthoot-fincorp-forex-remittance-rbi-scope-kyc-costs-gst-tcs.html"
+        }
+      ]
+    },
     {
       "date": "2026-11-22",
       "items": [
@@ -2870,71 +2935,6 @@
           "action": "Agar aap debt securities dekh rahe hain ya deal karte hain, to ab Credit Risk-o-Meter check karo taaki risk assessment asaan ho.",
           "source_name": "sebi.gov.in",
           "source_url": "https://www.sebi.gov.in/legal/circulars/oct-2026/introduction-of-credit-risk-o-meter-as-an-additional-disclosure-mechanism-for-debt-securities_105081.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-09",
-      "items": [
-        {
-          "cat": "SEBI",
-          "authority": "SEBI",
-          "ref": "",
-          "headline": "SEBI ne Settlement Regulations 2026 notify kiye",
-          "effective": "",
-          "what": "SEBI ne naye Settlement Regulations 2026 la diye hain. Isme settlement process, fees calculation aur deadlines update ki gayi hai. Fast-track procedure aur disclosure bhi include hai.",
-          "who": "Securities market ke participants jin par SEBI ke administrative ya civil proceedings chal rahe hain.",
-          "action": "Agar aap par SEBI ki enquiry ya case chal raha hai to naye settlement process ki guidelines achhi tarah padhein ya apne compliance advisor se poochein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/sebi/sebi-settlement-administrative-civil-proceedings-regulations-2026-settlement-framework-fees-timelines-fast-track-procedure.html"
-        },
-        {
-          "cat": "SEBI",
-          "authority": "SEBI",
-          "ref": "",
-          "headline": "SEBI ne NCD listing rule mein kuch relaxation propose kiya",
-          "effective": "",
-          "what": "SEBI ne Regulation 62A mein proposal diya hai ki first-time NCD issuers ko retrospective listing se relief mile. Lekin baad ke debt securities par mandatory listing continue rahegi.",
-          "who": "Wo companies jo pehli baar secured NCD issue kar rahi hain.",
-          "action": "Agar aap NCD issue karne ka plan bana rahe hain to latest SEBI proposals check karein. Apne compliance team ya advisor se consult karein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/sebi/sebi-proposes-relief-retrospective-ncd-listing-regulation-62a.html"
-        },
-        {
-          "cat": "SEBI",
-          "authority": "SEBI",
-          "ref": "",
-          "headline": "REITs aur InvITs ke liye IFSC mein depository receipts ka proposal",
-          "effective": "",
-          "what": "SEBI ne proposal diya hai ki IFSC mein listed REITs aur InvITs ke liye depository receipts shuru ki ja sakein. Safeguards bhi honge, khaaskar private InvITs aur NRI participation ke liye.",
-          "who": "Jo log IFSC mein listed REITs ya InvITs mein invest karna chahte hain, khaaskar NRIs.",
-          "action": "Agar aap IFSC REITs ya InvITs mein interest rakhte hain to SEBI ke naya proposal aur guidelines dekhein. Investment adviser se advice lein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/sebi/sebi-proposes-depository-receipts-reits-invits-ifsc.html"
-        },
-        {
-          "cat": "Loan",
-          "authority": "Reserve Bank of India",
-          "ref": "",
-          "headline": "Debt securities ke liye Credit Risk-o-Meter disclosure laya gaya",
-          "effective": "",
-          "what": "SEBI ne debt securities me ab ek naya Credit Risk-o-Meter disclosure introduce kiya hai. Isse investors ko risk clearly samajh aayega.",
-          "who": "Debt securities investors aur issuers.",
-          "action": "Agar aap debt securities issue ya invest kar rahe hain to Credit Risk-o-Meter ka format dekhein. Apne disclosures update karein.",
-          "source_name": "sebi.gov.in",
-          "source_url": "https://www.sebi.gov.in/legal/circulars/oct-2026/introduction-of-credit-risk-o-meter-as-an-additional-disclosure-mechanism-for-debt-securities_105081.html"
-        },
-        {
-          "cat": "RBI Policy",
-          "authority": "Reserve Bank of India",
-          "ref": "RBI/2026-27/289 DOR.MRG.REC.No.245/21-01-002/2026-27",
-          "headline": "AIFI capital adequacy norms international standard ke mutabik hue",
-          "effective": "",
-          "what": "RBI ne All India Financial Institutions (AIFIs) ke capital adequacy rules amend kiye hain. Legal opinion wala rule ab international standard ke saath align hoga.",
-          "who": "All India Financial Institutions jo RBI ke capital adequacy norms follow karte hain.",
-          "action": "AIFI ke compliance ya treasury team ko naye amendment directions dhyan se padhne chahiye aur process update karna chahiye.",
-          "source_name": "rbi.org.in",
-          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13735&Mode=0"
         }
       ]
     }
