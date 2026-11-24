@@ -1,6 +1,59 @@
 {
-  "last_updated": "2026-11-23T02:15:25.086Z",
+  "last_updated": "2026-11-24T02:15:26.607Z",
   "days": [
+    {
+      "date": "2026-11-24",
+      "items": [
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/2026-27/307 DOR.STR.REC.259/21-04-177/2026-27",
+          "headline": "RBI ne Securitisation rules mein amendment kiya",
+          "effective": "2027-04-01",
+          "what": "RBI ne apni Securitisation Transactions Directions, 2025 mein amendment kiya hai. Naye direction 1 April 2027 se lagu honge. Financial institutions ko kuch nayi guidelines follow karni hongi.",
+          "who": "All India Financial Institutions jin par RBI Securitisation guidelines lagu hoti hain.",
+          "action": "Agar aap All India Financial Institution hain, to amended direction ko padhein aur apne securitisation process ko accordingly update karein.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13756&Mode=0"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "Indian Bank",
+          "ref": "",
+          "headline": "Indian Bank ki IB Tax Saver deposit scheme ka summary",
+          "effective": "",
+          "what": "Indian Bank ki 5 saal wali IB Tax Saver Scheme par lock-in, tax benefit under section 123, TDS aur DICGC cover available hai. General aur senior citizens ke liye rates alag hain. Maximum deposit ki limit fix hai.",
+          "who": "Individuals jo Indian Bank me tax saving fixed deposit kholna chahte hain.",
+          "action": "Aapko interest rate, TDS rule aur deposit limit zaroor check karni chahiye jaise scheme document me diya hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/indian-bank-ib-tax-saver-scheme-5-year-rate-lock-tax-treatment.html"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "Canara Bank",
+          "ref": "",
+          "headline": "Canara Bank ki Canara Tax Saver Scheme ka profile",
+          "effective": "",
+          "what": "Canara Bank ki 5 saal ki Tax Saver Scheme me deposit limit, lock-in aur Section 123 tax benefit available hai. TDS aur DICGC cover bhi milta hai. Senior citizen rate alag hai.",
+          "who": "Individuals jo Canara Bank me tax saving deposit kholna chahte hain.",
+          "action": "Deposit karne se pehle, lock-in, rate aur tax treatment dhyan se padhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/canara-bank-canara-tax-saver-scheme-5-year-rate-lock-tax-dicgc-rules.html"
+        },
+        {
+          "cat": "Other",
+          "authority": "PNB MetLife",
+          "ref": "UIN 117N124V18",
+          "headline": "PNB MetLife Guaranteed Future Plan ki main baatein",
+          "effective": "",
+          "what": "Is plan me payout option, death benefit, paid-up aur surrender ke rules, claims process, aur GST plus income tax provisions cover kiye gaye hain.",
+          "who": "Log jo PNB MetLife ka Guaranteed Future Plan le rahe hain ya lene ka soch rahe hain.",
+          "action": "Eligibility conditions, payout structure, aur surrender terms zaroor samjhein plan lene se pehle.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/pnb-metlife-guaranteed-future-plan-uin-117n124v18-benefits-surrender-tax-gst.html"
+        }
+      ]
+    },
     {
       "date": "2026-11-23",
       "items": [
@@ -2882,59 +2935,6 @@
           "action": "Naye proposal ke impact ko samjhein. Agar aap NCD issuer hain to legal advisor ya merchant banker se discussion karein ki aapko kya process follow karna hai.",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/sebi/sebi-proposes-relief-retrospective-ncd-listing-regulation-62a.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-10",
-      "items": [
-        {
-          "cat": "RBI Policy",
-          "authority": "Reserve Bank of India",
-          "ref": "RBI/2026-27/292 A.P. (DIR Series) Circular No. 26",
-          "headline": "RBI ne Foreign Exchange Risk Reserve ka rule laya",
-          "effective": "",
-          "what": "RBI ne Authorized Dealers ko bola hai ki foreign currency derivative contracts par ek Foreign Exchange Risk Reserve (FERR) maintain karna hoga. Ye Reserve sirf un contracts par lagega jo INR aur foreign currency ke beech hai aur notional value 2 million USD se zyada hai. Sirf current account hedge karne walon par lagu.",
-          "who": "Sabhi Authorized Dealers jinke clients foreign currency buy kar rahe hain INR ke against, jinke contracts 2 million USD se zyada ke hain.",
-          "action": "Agar aap exporter, importer ya aise user ho jo INR mein foreign exchange derivative contract karte ho, to apne bank/AD se confirm karo ki FERR Reserve ki detail samajhi aur follow ki gayi hai.",
-          "source_name": "rbi.org.in",
-          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13738&Mode=0"
-        },
-        {
-          "cat": "SEBI",
-          "authority": "SEBI",
-          "ref": "",
-          "headline": "SEBI ne naya Settlement Framework launch kiya",
-          "effective": "",
-          "what": "SEBI ne 2026 ke Settlement Regulations notify kiye hain. Ab settlement ki calculation, application deadline, fast track process aur disclosure zyada transparent ho gaye hain.",
-          "who": "Sabhi listed companies, intermediaries aur un individuals par jo SEBI proceeding settle karte hain.",
-          "action": "Agar aap par SEBI matter hai ya settlement soch rahe hain, to naye rules check karo aur apne compliance adviser se discuss karo.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/sebi/sebi-settlement-administrative-civil-proceedings-regulations-2026-settlement-framework-fees-timelines-fast-track-procedure.html"
-        },
-        {
-          "cat": "SEBI",
-          "authority": "SEBI",
-          "ref": "",
-          "headline": "SEBI ne REITs, InvITs ke liye Depository Receipts ka proposal diya",
-          "effective": "",
-          "what": "SEBI ne IFSC par listed REITs aur InvITs ke liye depository receipt introduce karne ka suggestion diya hai. Private InvITs ke liye safeguards rakhe jayenge aur NRI investors bhi include honge.",
-          "who": "Jo groups REITs ya InvITs ko IFSC me list karna chahte hain, aur NRI investors.",
-          "action": "Agar aap REIT, InvIT sponsor ya NRI ho, to proposal ki detail padh ke feedback de sakte ho ya apni investment strategy accordingly plan kar sakte ho.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/sebi/sebi-proposes-depository-receipts-reits-invits-ifsc.html"
-        },
-        {
-          "cat": "Loan",
-          "authority": "SEBI",
-          "ref": "",
-          "headline": "Debt securities par Credit Risk-o-Meter ka naya disclosure",
-          "effective": "",
-          "what": "SEBI ne debt securities ke liye Credit Risk-o-Meter ka additional disclosure introduce kiya hai. Is se investors ko debt product ki risk profile samajhne mein asani hogi.",
-          "who": "Mutual funds, debt security issuers aur investors in products like bonds or debentures.",
-          "action": "Agar aap debt securities dekh rahe hain ya deal karte hain, to ab Credit Risk-o-Meter check karo taaki risk assessment asaan ho.",
-          "source_name": "sebi.gov.in",
-          "source_url": "https://www.sebi.gov.in/legal/circulars/oct-2026/introduction-of-credit-risk-o-meter-as-an-additional-disclosure-mechanism-for-debt-securities_105081.html"
         }
       ]
     }
