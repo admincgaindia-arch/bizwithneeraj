@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-11-23T01:30:59.831Z",
+  "last_updated": "2026-11-24T01:31:00.271Z",
   "digests": [
+    {
+      "date": "2026-11-24",
+      "summary": "Aaj ke digest mein GST aur Income Tax ke kuch important court rulings cover kiye hain. Official notification nahin hai, lekin business owners ko apne documents aur processes uptodate rakhne chahiye.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "E-way Bill Mismatch: Breakdown Reason Bina Proof Ke Nahi Chalega",
+          "detail": "GSTAT ne vehicle breakdown claim bina timely evidence diye ya e-way bill update kiye nahi maana, aur ₹6.38 lakh GST penalty restore kar di.",
+          "cga_view": "Transport document mein koi galti/breakdown ho to turant proof aur e-way bill update karo. Warna penalty confirm ho sakti hai.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/vehicle-breakdown-claim-without-supporting-evidence-cannot-justify-e-way-bill-mismatch-gstat-restores-638-lakh-gst-penalty"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Assessment Order Non-existent Co. Ke Naam Pe Invalid: ITAT",
+          "detail": "ITAT kehta hai amalgamation ke baad agar assessment order purani company ke naam pe pass hua hai to woh illegal hai, Section 292B se cover nahi hota.",
+          "cga_view": "Agar aapki company ka merger hua hai, to assessment ya notice sirf new entity ke naam pe hi valid hai. Dhyan se notice ki details check karo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/income-tax-assessment-orders-passed-in-name-of-non-existent-companies-after-amalgamation-with-schaeffler-india-invalid-defects-not-curable-us-292b-itat"
+        },
+        {
+          "category": "GST",
+          "headline": "Tax Evade Nahi Kiya To Blank E-Way Bill Punishable Nahi",
+          "detail": "GSTAT ka ruling hai: Part B blank hone par bhi, jab tak genuine transaction hai aur tax evasion ki niyat nahi dikhi, penalty nahi lagegi.",
+          "cga_view": "Goods movement ke valid documents rakho. Agar e-way bill update miss ho jaye but sab kuch legal hai, to penalty se bach sakte ho.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/no-gst-penalty-for-blank-part-b-of-e-way-bill-without-intent-to-evade-tax-gstat-read-order"
+        },
+        {
+          "category": "GST",
+          "headline": "Unaccounted Stock Milne Par Seedha Confiscation Nahi",
+          "detail": "GSTAT ruling: Agar GST inspection mein unaccounted stock milta hai to pehle Section 73/74 ki proceedings honi chahiye, seedha Section 130 ka confiscation nahi ho sakta.",
+          "cga_view": "Stock aur inventory proper books mein dikhana zaroori hai. Agar kuch mismatch ho, to authorities ko explain karne ka chance milega, but sudden confiscation se bachne ki guarantee nahi hai.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/unaccounted-stock-found-during-gst-inspection-cannot-directly-trigger-s-130-confiscation-proceedings-gstat-read-order"
+        },
+        {
+          "category": "GST",
+          "headline": "GSTR-3B/B2A ITC Mismatch: Explanation Accepted To Demand Nahi Banega",
+          "detail": "GSTAT ne kaha: Agar taxpayer ka explanation sahi mana gaya, sirf GSTR-3B mein extra ITC basic ground nahi hai demand continue karne ka.",
+          "cga_view": "ITC claim justify karte waqt records ready rakho. Agar authority explanation maanne ko ready hai to demand cancel ho sakti hai.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/excess-itc-claim-in-gstr-3b-over-gstr-2a-not-sufficient-to-sustain-demand-where-taxpayers-explanation-was-accepted-gstat"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-11-23",
       "summary": "Aaj ki digest mein GST aur Income Tax se related kuch important court decisions hain jo compliance aur assessment process ko impact kar sakte hain.",
@@ -3158,40 +3210,6 @@
           "source_type": "trade",
           "source_name": "taxscan.in",
           "source_url": "https://www.taxscan.in/top-stories/cbdt-cannot-impose-prior-eligibility-cut-off-while-extending-settlement-application-deadline-rajasthan-hc-1451620"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-09-19",
-      "summary": "Aaj tax notices aur ITAT ki kuch important rulings aa gayi hain jo business owners ko turant dhyan me leni chahiye. GST aur Income Tax ki compliance pe focus rahe.",
-      "items": [
-        {
-          "category": "Income Tax",
-          "headline": "Late e-verification par bhi Section 115BAC ka benefit",
-          "detail": "ITAT Agra ne decide kiya ki agar return time pe file hui hai, par e-verification der se hua, to bhi naya tax regime (115BAC) ka benefit milega, CBDT Circular 10/2025 ke hisaab se.",
-          "cga_view": "Agar verification late ho gayi hai, phir bhi Section 115BAC ka claim reject hua hai, to ye order ka reference dein. Purane reject cases bhi review kara lo.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/itat-agra-section-115bac-option-delayed-verification.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Section 148A(b) notice bina 7 clear din dene ke invalid",
-          "detail": "ITAT Ranchi ne Section 148A(b) ka notice, reassessment aur Section 263 ki proceedings cancel kar di, kyunki proper 7 clear din nahi diye gaye the reply ke liye.",
-          "cga_view": "Agar aapko ya client ko notice me 7 clear din nahi mile reply ka, to is ITAT Ranchi order ki copy laga kar defence bana sakte ho.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/section-148a-notice-invalid-lack-clear-days-itat-ranchi.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Rule 31ACB ki procedural lapse se Section 40(a)(ia) ka disallowance nahi",
-          "detail": "ITAT Bangalore ne decide kiya ki agar Form 26A produce ho gaya, to Rule 31ACB ki procedural galti ki wajah se Section 40(a)(ia) disallowance nahi ho sakta.",
-          "cga_view": "TDS procedure me galati ho gayi hai, par Form 26A mil gaya to assessment me is ruling ka use karo. Disallowance se bach sakte ho.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/rule-31acb-filing-lapse-cannot-sustain-section-40-ia-disallowance-itat-bangalore.html"
         }
       ],
       "due_dates": []
