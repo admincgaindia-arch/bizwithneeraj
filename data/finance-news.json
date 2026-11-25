@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-11-24T02:15:26.607Z",
+  "last_updated": "2026-11-25T02:15:28.483Z",
   "days": [
+    {
+      "date": "2026-11-25",
+      "items": [
+        {
+          "cat": "MSME",
+          "authority": "Ministry of MSME",
+          "ref": "",
+          "headline": "MSME Udyam Registration ka full guide: faayde aur recovery",
+          "effective": "",
+          "what": "Is guide mein bataya gaya hai MSME Udyam Registration kaise karein, kya eligibility hai, ZED aur Lean walo ke liye subsidies kaise milti hain, EMD exemption aur collateral-free loan facility kya hai aur Samadhaan portal se payment recovery kaise ho sakti hai.",
+          "who": "MSME businesses ya jo Udyam Registration lena chahte hain, ya already liye hain.",
+          "action": "Agar MSME ho to Udyam Registration kara lo. Phir ZED, Lean ya EMD benefits aur collateral-free loans claim karne ka process samjho. Payment recovery ke liye Samadhaan portal ki bhi jaanch karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/business/msme-udyam-registration-benefits-subsidies-delayed-payment-recovery.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI ne IPO Grey Market Premium (GMP) par alert diya",
+          "effective": "",
+          "what": "SEBI ne investors ko IPO Grey Market Premium (GMP) ke figures par bharosa na karne ko bola hai. Intermediaries ko bhi advise kiya gaya hai ki unofficial GMP publish na karein.",
+          "who": "IPO investors, financial advisors, aur intermediaries jo IPO ke grey market data publish karte hain.",
+          "action": "Agar IPO mein invest karna hai to sirf official data use karo, GMP rumours pe focus mat karo. Intermediaries apne website ya platform se GMP figures hata dein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-advises-against-publication-grey-market-premium-gmp-ipos.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "",
+          "headline": "AIFIs ke liye RBI ki nayi securitisation rules, April 2027 se lagu",
+          "effective": "01-04-2027",
+          "what": "RBI ne All India Financial Institutions (AIFIs) ke liye nayi Amendment Directions notify ki hain. Ab demat form mein hi securitisation notes issue karne honge. Public offers aur purane notes ke liye bhi naye rules aayenge.",
+          "who": "All India Financial Institutions (AIFIs) jo securitisation transactions karte hain.",
+          "action": "AIFIs ko apna IT system aur compliance check karna hai takki April 2027 tak demat notes ki requirement poori ho sake. Purane securitisation notes aur public offer rules ka dhyan rakhein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/rbi/rbi-india-financial-institutions-securitisation-transactions-amendment-directions-2026.html"
+        },
+        {
+          "cat": "Subsidy",
+          "authority": "Government of Haryana",
+          "ref": "",
+          "headline": "Haryana Interest Subsidy Scheme 2026: 8% tak subsidy MSEs ke liye",
+          "effective": "",
+          "what": "Haryana ki iss scheme mein manufacturing MSEs ko machinery loan par 8% tak subsidy aur export credit par 4% tak interest subvention mil sakti hai. Eligibility aur deadline ki bhi jaankari di gayi hai.",
+          "who": "Haryana ke manufacturing MSMEs, especially jo ZED certified hain.",
+          "action": "Agar Haryana mein manufacturing MSME ho, to eligibility check karo aur scheme ke claim deadline miss na karo. Subsidy claim ki saari documents ready rakho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/business/haryana-interest-subsidy-scheme-2026-8-percent-subsidy-manufacturing-mses.html"
+        },
+        {
+          "cat": "Scheme",
+          "authority": "EPFO",
+          "ref": "",
+          "headline": "EPF NCP days: PF aur pension eligibility ka naya impact",
+          "effective": "",
+          "what": "EPF 2026 schemes ke hisaab se ab NCP (Non-Contributory Period) days PF wages, EPS contribution aur monthly pension eligibility ko directly impact karenge.",
+          "who": "All EPF employers aur employees jin ki salary mein PF deduct hota hai.",
+          "action": "Payroll team ko NCP days ka calculation sahi rakhna hoga. ECR reporting aur EPS contribution correct declare karna hai taki future mein pension eligibility par problem na aaye.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/corporate-law/ncp-days-epf-ecr-change-pf-wages-eps-wages-pensionable-service.html"
+        }
+      ]
+    },
     {
       "date": "2026-11-24",
       "items": [
@@ -2882,59 +2947,6 @@
           "action": "Interest rates, withdrawal rules aur maturity tarikh padh ke hi FD kholna. Apne advisor se document aur tax implication samajh lo.",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/finance/sbi-amrit-vrishti-fd-444-day-tenure-interest-rates-tds-withdrawal-rules.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-11",
-      "items": [
-        {
-          "cat": "RBI Policy",
-          "authority": "Reserve Bank of India",
-          "ref": "RBI/2026-27/292 A.P. (DIR Series) Circular No. 26",
-          "headline": "RBI ne INR derivatives par 20% risk reserve mandatory kiya",
-          "effective": "",
-          "what": "RBI ne decide kiya hai ki INR foreign exchange derivative contract, jo USD 2 million se zyada ke hon aur hedging ke liye liye jaate hain, un par 20% Foreign Exchange Risk Reserve (FERR) rakhna hoga. Iska matlab hai daily cash deposit aur reporting karni padegi.",
-          "who": "Jo bhi business ya dealer INR derivative contract kar rahe hain, jiska value USD 2 million se zyada hai aur current account hedging ke liye hai.",
-          "action": "Agar aap aise INR derivatives karte hain to apne authorised dealer se poochiye ki FERR ki requirement puri ho rahi hai ya nahi. Daily cash deposit aur reporting ka dhyan rakhiye.",
-          "source_name": "rbi.org.in",
-          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13738&Mode=0"
-        },
-        {
-          "cat": "SEBI",
-          "authority": "SEBI",
-          "ref": "",
-          "headline": "SEBI ne Settlement Regulations 2026 notify kiye",
-          "effective": "",
-          "what": "SEBI ne naye Settlement Regulations 2026 notify kiye hain. Isme settlement amount ka calculation, application deadlines, fast-track procedures aur naye disclosure rules shamil hain.",
-          "who": "Jo bhi listed companies, market participants ya investors SEBI ke jurisdiction mein hai aur un par proceeding chal rahi hai.",
-          "action": "Agar aap par SEBI ka koi case ya notice hai, to naye Settlement Regulations 2026 ko padhein aur application deadlines pe dhyan dein. Advisor se sampark karein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/sebi/sebi-settlement-administrative-civil-proceedings-regulations-2026-settlement-framework-fees-timelines-fast-track-procedure.html"
-        },
-        {
-          "cat": "Loan",
-          "authority": "SEBI",
-          "ref": "",
-          "headline": "Debt securities ke liye Credit Risk-o-Meter disclosure introduce hua",
-          "effective": "",
-          "what": "SEBI ne Credit Risk-o-Meter introduce kiya hai, jo debt securities mein risk ko aur clearly disclose karega. Iss se investor ko bonds aur debentures ka risk level samajhna asaan hoga.",
-          "who": "Jo bhi company debt securities issue karti hai ya investors jo debt instruments mein paisa lagate hain.",
-          "action": "Iss naye disclosure ko dhyan se dekhein jab bhi koi debt security kharidein ya bechein. Prospectus ya offer document mein Credit Risk-o-Meter check karein.",
-          "source_name": "sebi.gov.in",
-          "source_url": "https://www.sebi.gov.in/legal/circulars/oct-2026/introduction-of-credit-risk-o-meter-as-an-additional-disclosure-mechanism-for-debt-securities_105081.html"
-        },
-        {
-          "cat": "SEBI",
-          "authority": "SEBI",
-          "ref": "",
-          "headline": "SEBI propose kar raha hai NCD listing relief Regulation 62A ke liye",
-          "effective": "",
-          "what": "SEBI ne propose kiya hai ki pehli baar NCD (Non-Convertible Debentures) issue karne wale issuers ko retrospective listing se kuch relief mile. Lekin aage jaake jo debt securities issue hongi, un par listing mandatory rahegi.",
-          "who": "Jo entities pehli baar NCD issue kar rahe hain ya NCD mein invest karna chahte hain.",
-          "action": "Naye proposal ke impact ko samjhein. Agar aap NCD issuer hain to legal advisor ya merchant banker se discussion karein ki aapko kya process follow karna hai.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/sebi/sebi-proposes-relief-retrospective-ncd-listing-regulation-62a.html"
         }
       ]
     }
