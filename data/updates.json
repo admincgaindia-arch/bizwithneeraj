@@ -1,6 +1,85 @@
 {
-  "last_updated": "2026-11-25T01:31:00.401Z",
+  "last_updated": "2026-11-26T01:31:07.711Z",
   "digests": [
+    {
+      "date": "2026-11-26",
+      "summary": "Aaj ka digest: GST, Income Tax, aur kuch important court rulings par today ki fresh updates. Official releases nahi mile, lekin courts aur tribunals se kaafi practical insights aa rahi hain.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "GST TRAN-1 error se ITC deny nahi ho sakta: Kerala HC",
+          "detail": "Kerala High Court ne bola agar GST TRAN-1 mein technical ya inadvertent galti ho gayi ho, toh bhi transitional input tax credit deny nahi kiya ja sakta. Department ko taxpayer ki genuine galtiyon ko consider karna chahiye.",
+          "cga_view": "Agar aapka ITC TRANS-1 form mein error reh gaya hai, toh written representation ke liye HC ka yeh decision showpiece ke taur pe use karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/inadvertent-error-gst-tran-1-cannot-deny-transitional-input-tax-credit-kerala-hc.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GST refund: original filing date hi limitation ke liye count hogi",
+          "detail": "Karnataka High Court ne clear kiya hai ki GST refund claim ke limitation period mein original application date hi count karein. Baad mein correction ya refiling se limitation re-calculate nahi hogi.",
+          "cga_view": "Agar aapka refund application reject ho gaya tha aur dobara file kiya, toh limitation ke liye pehle wali date dikha ke argue karein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/original-gst-refund-application-date-relevant-computing-limitation-karnataka-hc.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Political donation deduction: AO ko show cause ke bahar nahi jaana chahiye",
+          "detail": "ITAT ne bola Assessing Officer koi bhi deduction (Section 80GGC) tabhi disallow kare jab show cause notice mein woh cheez specifically mention ho. Search ke findings bina notice ke consider nahi kiye ja sakte.",
+          "cga_view": "Aapko shayad notice mila ho toh check karein ki sirf same reasons hi assess kiye gaye hain. Naye findings base par addition hua hai toh challenge kar sakte hain.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/ao-cannot-travel-beyond-show-cause-notice-to-deny-section-80ggc-political-donation-deduction-itat-deletes-addition-read-order"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Arbitral award (pre-GST contract) par GST: Stay laga",
+          "detail": "Gauhati HC ne ek case mein GST ke Section 74 ke notice (arbitral award, pre-GST work) par stay laga diya hai. Abhi court mein issue pending hai, final position clear nahi hai.",
+          "cga_view": "Agar aapka bhi pre-GST contract par GST ki demand aayi hai toh abhi immediate payment na karein, court ruling ka intezaar karein.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/gst-on-arbitral-award-arising-from-pre-gst-contract-gauhati-hc-stays-s-74-scn-against-hindustan-construction-read-order"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Section 151 sanction must; S.148 notice bina valid sanction ke quash",
+          "detail": "ITAT ne clarify kiya, assessment reopen karne ke liye Section 151 ki proper authority ki sanction zaruri hai. Agar galat authority ne approve kiya toh Section 148 notice invalid hai.",
+          "cga_view": "Agar aapko Section 148 ka notice aaya hai toh ensure karein ki Section 151 ki proper approval file pe ho. Galat authority se hai toh quash karwa sakte hain.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/s-151-approval-is-a-condition-precedent-to-reopening-not-an-internal-administrative-formality-itat-quashes-s-148-assessment"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Unaccounted purchase: puri value taxable nahi, sirf profit add hoga",
+          "detail": "Rajkot ITAT ne decide kiya ki section 69C ke under sirf 8% profit hi income maana jayega, puri unaccounted purchases ki amount nahi. Normal tax rate lagegi, 115BBE nahi.",
+          "cga_view": "Agar aapke case mein unaccounted purchase detect hui hai, toh AO ko sirf profit pe addition karne ki demand karein, na ki total value pe.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/can-the-entire-value-of-unaccounted-purchases-be-taxed-as-income-itat-restricts-addition-to-8-profit-under-the-income-tax-act-read-order"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "RFCTLARR Act ka Section 96 interest ko income-tax se exempt karta hai",
+          "detail": "ITAT ne bola, jo interest compulsorily acquired land par milta hai use section 96 RFCTLARR Act ke chalte section 56(2)(viii) ke tahat taxable nahi mana jayega.",
+          "cga_view": "Agar aapne apni land govt ko compulsorily di hai to uske interest pe income-tax ka liability nahi lagega. Notice aaye toh yeh order dikhayein.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/section-96-rfctlarr-act-overrides-section-562viii-of-it-act-itat-quashes-addition-in-respect-of-interest-for-compulsorily-acquired-land-read-order"
+        },
+        {
+          "category": "Ruling",
+          "headline": "7 din ki statutory extension: Delhi HC ka clarification",
+          "detail": "Agar limitation period 7 din se kam bacha hai toh Fourth Proviso to Section 149(1) ke under AO ko kam se kam 7 din milenge statutory proceedings complete karne ko. Delhi HC ne clarity di hai.",
+          "cga_view": "Assessment/reopening ka case deadline pe ho toh AO ki 7 din extension ka legal ground ab clear hai, accordingly respond karein.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/delhi-hc-explains-applicability-of-seven-day-statutory-extension-under-fourth-proviso-to-section-1491-read-judgment"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-11-25",
       "summary": "Aaj mostly GST aur Income Tax par kuch tribunal rulings nikli hain jo aapke daily compliance aur litigation strategy ke liye useful ho sakti hain. Official notifications nahi aaye, sab items trade sources se hain.",
@@ -3140,67 +3219,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/income-tax/mechanical-satisfaction-note-cannot-sustain-section-153c-proceedings-itat-delhi.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-09-21",
-      "summary": "Aaj mostly court rulings par focus hai, GST aur Income Tax dono mein kaafi update hai. Kayi ITC, compliance aur penalty se judi important judgments aayi hain, dhyan rakhein.",
-      "items": [
-        {
-          "category": "Income Tax",
-          "headline": "Form 10-IEA galti se file, ITR choice hi valid: ITAT",
-          "detail": "ITAT Bangalore ne kaha, agar ITR mein new regime chuna hai aur galti se Form 10-IEA file ho gaya, to ITR ki choice hi valid mani jayegi. Inadvertent Form 10-IEA se regime change nahi hoga.",
-          "cga_view": "Agar aapne galti se Form 10-IEA bhar diya hai, lekin ITR mein new regime dikhaya hai, to tension na lein—ITAT ne taxpayer ke favour mein bola hai. But galat filing avoid karein, clear record rakkhein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/inadvertent-form-10-iea-cannot-override-regime-itr-choice-itat-bangalore.html"
-        },
-        {
-          "category": "Income Tax",
-          "headline": "Leave Encashment exemption limit ₹25 lakh tak allowed: ITAT Delhi",
-          "detail": "ITAT Delhi ne bola ki AY 2020-21 ke liye leave encashment par section 10(10AA) ke tahat ₹25 lakh tak exemption milegi, jo CBDT notification ke hisab se hai.",
-          "cga_view": "Agar is saal leave encashment mila hai, to ₹25 lakh tak exemption claim kar sakte hain—proper calculation aur documents rakkhein. Apne client ki eligibility cross-check kar lein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/itat-delhi-full-leave-encashment-exemption-rs-25-lakh-section-10-10aa.html"
-        },
-        {
-          "category": "GST",
-          "headline": "GSTR-2A vs 3B ITC dispute fresh hearing ko bheja: GSTAT",
-          "detail": "GSTAT ne ek ITC mismatch case mein old demand ko hata ke, fresh and reasoned order dene ka order diya hai. Matlab, mismatch ki situation mein fair chance milega.",
-          "cga_view": "Agar aapka ITC ka claim GSTR-2A/3B mismatch ki wajah se fas gaya hai, to fresh hearing ka option hai. Apna reconciliation ready rakhein, sach aur paperwork saaf ho.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/gstat-remands-gstr-2a-gstr-3b-itc-dispute-fresh-adjudication.html"
-        },
-        {
-          "category": "GST",
-          "headline": "Vehicle-weight mismatch par ₹4.1 lakh penalty: GSTAT",
-          "detail": "GSTAT ne Section 129 ke tehat penalty uphold ki—actual vehicle aur e-way bill data mein difference tha. Penalty Rs 4.1 lakh lagi.",
-          "cga_view": "E-way bill fill karte samay bahut dhyan rakhein—weight, vehicle number, sab accurately match hona chahiye. Galti pe badi penalty lag sakti hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/gstat-upholds-rs-4-10-lakh-penalty-vehicle-bill-mismatch.html"
-        },
-        {
-          "category": "GST",
-          "headline": "GST audit findings se direct recovery nahi: Bombay HC",
-          "detail": "Bombay HC ne bola ki GST audit ka finding letter (ADT-02) sirf ek communication hai, usse direct recovery nahi ho sakti jab tak aage CGST action na ho.",
-          "cga_view": "Agar audit ke baad aapko sirf ADT-02 mila hai, to turant paisa mat bhar dijiye; jab tak proper recovery process start na ho. Legal advice lein agar pressure aaye.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/gst-audit-findings-not-trigger-recovery-without-cgst-action-bombay-hc.html"
-        },
-        {
-          "category": "GST",
-          "headline": "GST registration revocation, tax aur return bharne par allowed: Uttarakhand HC",
-          "detail": "Uttarakhand HC ne bola ki agar taxpayer ne tax, interest, penalty bhar diya hai aur sab returns file kar di hain, to GST registration revoke ho sakta hai.",
-          "cga_view": "Agar registration cancel ho gaya tha aur sab dues aur return bhar diye hain, to turant revocation application file karein—court se relief milne ka signal hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/uttarakhand-hc-gst-revocation-application-tax-returns-compliance.html"
         }
       ],
       "due_dates": []
