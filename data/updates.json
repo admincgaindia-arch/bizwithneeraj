@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-11-26T01:31:07.711Z",
+  "last_updated": "2026-11-27T01:30:59.787Z",
   "digests": [
+    {
+      "date": "2026-11-27",
+      "summary": "GST aur Income Tax par kuch important rulings aaye hain, jo compliance handle karne waalon ke liye useful ho sakte hain. Mostly trade press reports hain, to official notification ka intezaar bhi karte rahein.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "SGST Officers Can’t Act Without Temporary ID: GSTAT",
+          "detail": "GSTAT Thiruvananthapuram ne bola ki SGST officer out-of-state taxpayer pe bina temporary ID action nahi le sakta.",
+          "cga_view": "Agar apko aise notice mile to verify karein ki temporary ID issue hui thi ya nahi. Bina ID ke action ko challenge kiya ja sakta hai.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/sgst-officers-cannot-proceed-against-state-taxpayer-without-temporary-id-gstat-thiruvananthapuram.html"
+        },
+        {
+          "category": "GST",
+          "headline": "GST Penalty Nahi, Agar E-way Bill Glitch Mein Tax Evasion Intent Nahi: GSTAT",
+          "detail": "GSTAT Bengaluru ne decide kiya ki sirf E-way bill technical glitch par penalty nahi lag sakti, jab tak tax evasion ka irada nahi dikhta.",
+          "cga_view": "Agar aapka e-way bill mistake genuinely technical glitch tha, toh penalty notice ko contest kar sakte hain. Proper documentation sambhal ke rakhein.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-penalty-unsustainable-bill-technical-glitch-without-intent-evade-tax-gstat-bengaluru.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Galat ITR Form Bhare Toh Bhi Exemption Nahi Jayegi: ITAT",
+          "detail": "Nagpur ITAT ne bola ki agar registered society ne galat ITR form bhar diya, fir bhi Section 10(23C)(iiiad) exemption dena hoga.",
+          "cga_view": "Agar similar situation hai toh appeal file kar ke apni exemption claim defend karein, especially agar main eligibility conditions poori hain.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/wrong-itr-form-cannot-deny-s-1023ciiiad-exemption-to-registered-society-itat-allows-2258-lakh-claim-under-income-tax-act-read-order"
+        },
+        {
+          "category": "GST",
+          "headline": "GSTR-9C/VAT Mismatch Se Akela GST Demand Nahi Banega: GSTAT",
+          "detail": "GSTAT Patna ka kehna hai sirf GSTR-9C aur VAT return me farq hone ki wajah se GST demand raise nahi ki ja sakti.",
+          "cga_view": "Agar notice sirf return mismatch ke basis pe aaya hai, toh defend karne ka strong ground hai. Reasoning explain karein aur supporting evidence deyen.",
+          "source_type": "trade",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/goods-and-service-tax/gst-demand-cannot-sustained-solely-gstr-9c-vat-return-mismatch-gstat-patna.html"
+        },
+        {
+          "category": "Income Tax",
+          "headline": "Advance Payment Cheque Pe, Stamp Duty Value Agreement Date Ki: ITAT",
+          "detail": "ITAT ne bola ki agar advance payment cheque se agreement se pehle ho gaya, toh stamp duty value agreement ki date wali lagegi, section 56(2)(x) ke case me.",
+          "cga_view": "Property deals me agreement aur payment date clearly mention karein. Dispute aaye toh agreement date ki stamp duty value proof karein.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/income-tax/advance-payment-by-cheque-before-agreement-itat-directs-adoption-of-stamp-duty-value-on-agreement-date-us-562x-of-income-tax-act-read-order"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-11-26",
       "summary": "Aaj ka digest: GST, Income Tax, aur kuch important court rulings par today ki fresh updates. Official releases nahi mile, lekin courts aur tribunals se kaafi practical insights aa rahi hain.",
@@ -3185,40 +3237,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/income-tax/final-12ab-registration-granted-cpc-processing-supports-section-11-exemption-itat-bangalore.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-09-23",
-      "summary": "Aaj major GST aur Income Tax updates mostly trade sources se aaye hain. Official notification abhi kisi item par digest mein nahi hai, par kuch rulings aur naye amendment rules hain jo businesses ko effect karenge.",
-      "items": [
-        {
-          "category": "Income Tax",
-          "headline": "CBDT ne TDS rules change kiye for NR property deals",
-          "detail": "CBDT ne Income-tax (Fifth Amendment) Rules, 2026 notify kiye hain, ab TDS ka process aur Forms 132 and 141 mein changes hue hain specifically for non-resident property transfers. Source: taxguru.in.",
-          "cga_view": "Agar aap koi property deal me NR involved hai, to naye TDS rules aur forms check karo. Actual notification padho aur TDS compliance update karo.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/cbdt-amends-tds-rules-non-resident-immovable-property-transfers.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "BookMyShow convenience fee par Section 194H TDS nahi lagega",
-          "detail": "ITAT Bangalore ne bola BookMyShow ke convenience fee pe Section 194H TDS lagu nahi hota, theatre owner ko fayda diya gaya hai (AY 2018-19). Source: taxguru.in.",
-          "cga_view": "Agar aapka business ticketing ya platform fee se related hai, to yeh ITAT order refer karo. Lekin yeh past AY (2018-19) ka case hai, future ke liye law follow karo.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/bookmyshow-convenience-fee-not-subject-section-194h-tds-itat-bangalore.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Section 153C proceedings bina proper satisfaction note invalid",
-          "detail": "ITAT Delhi ne Section 153C assessments quash ki, jab Assessing Officer ne proper satisfaction note nahi banaya. Seized material ka income par direct link dikhana zaroori hai. Source: taxguru.in.",
-          "cga_view": "Aapke against agar search ke baad 153C assessment hua hai, to AO ka satisfaction note zarur check karwa lo. Agar mechanically banaya hai to challenge ka scope hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/mechanical-satisfaction-note-cannot-sustain-section-153c-proceedings-itat-delhi.html"
         }
       ],
       "due_dates": []
