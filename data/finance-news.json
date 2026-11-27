@@ -1,6 +1,59 @@
 {
-  "last_updated": "2026-11-26T02:15:26.691Z",
+  "last_updated": "2026-11-27T02:15:27.044Z",
   "days": [
+    {
+      "date": "2026-11-27",
+      "items": [
+        {
+          "cat": "Other",
+          "authority": "US Government",
+          "ref": "",
+          "headline": "US proposes 25% tariff on Indian goods export",
+          "effective": "",
+          "what": "US ne Indian maal par 25% tak ka naya tariff lagane ka proposal diya hai jo 25 January 2027 se lagu ho sakta hai. Isse exports ki cost badh sakti hai aur contracts par impact ho sakta hai.",
+          "who": "India ke exporters jo US mein samaan bhejte hain.",
+          "action": "Aapke US contracts aur pricing ka review karein. GST aur working capital pe kya asar hoga, apne consultant se discuss karein. Transfer pricing policies bhi check kar lein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/finance/business/proposes-25-percent-tariff-india-exporters-25-january-2027.html"
+        },
+        {
+          "cat": "RBI Policy",
+          "authority": "Reserve Bank of India",
+          "ref": "RBI/2026-27/309 DoR.AML.REC.261/14.06.001/2026-27",
+          "headline": "UNSC sanctions list mein update, banks ko guide",
+          "effective": "",
+          "what": "RBI ne banks aur NBFCs ko bataya hai ki UNSC ki sanctions list mein 1 naya amendment hua hai. Ye UAPA Act ke antargat compliance ka hissa hai.",
+          "who": "Sab commercial banks, co-operative banks, NBFCs aur financial institutions par lagu hai.",
+          "action": "Customer database mein sanctioned entries ko turant update karein. Compliance officer se sanction screening ka status pooch lein.",
+          "source_name": "rbi.org.in",
+          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13758&Mode=0"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI ne KYC process ko simple kiya, KRA rules revise",
+          "effective": "2026-12-24",
+          "what": "SEBI ne KYC onboarding process ko simplify kiya aur client info centralise kar diya hai. KRA ki compliance aur verification ke rules bhi revise hue hain.",
+          "who": "Jo bhi investor mutual fund, demat account, ya trading account kholna chahte hain.",
+          "action": "Agar naya account ya KYC update kar rahe hain to revised process padhein. KYC documents ready rakhein, agent se naya process pooch lein.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/sebi/sebi-simplifies-kyc-process-rationalises-risk-management-framework-kras.html"
+        },
+        {
+          "cat": "SEBI",
+          "authority": "SEBI",
+          "ref": "",
+          "headline": "SEBI ne IPO ke grey market premium par advisory di",
+          "effective": "",
+          "what": "SEBI ne bata diya hai ki IPO mein grey market premium (GMP) par koi regulation nahi hai. Logon ko iske risks ke baare mein aware rehne ko kaha gaya hai.",
+          "who": "Jo bhi IPO mein invest kar rahe hain ya grey market GMP dekh rahe hain.",
+          "action": "IPO ke decision sirf official price par lein. Grey market GMP par invest karte sambhal ke rahen - SEBI ki guideline padhein.",
+          "source_name": "sebi.gov.in",
+          "source_url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/advisory-regarding-unregulated-pre-listing-premium-often-called-as-grey-market-premium-gmp-for-upcoming-initial-public-offers-ipos-_105942.html"
+        }
+      ]
+    },
     {
       "date": "2026-11-26",
       "items": [
@@ -2882,59 +2935,6 @@
           "action": "AD banks ab sirf hedging wali needs ke liye hi aise contract offer karenge. Bank ki policy forms aur customer declaration update karo.",
           "source_name": "rbi.org.in",
           "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13739&Mode=0"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-13",
-      "items": [
-        {
-          "cat": "RBI Policy",
-          "authority": "Reserve Bank of India",
-          "ref": "RBI/2026-27/293 A.P. (DIR Series) Circular No. 27",
-          "headline": "NDDC deals ab sirf hedging ke liye non-residents ko",
-          "effective": "2026-10-12",
-          "what": "RBI ne decide kiya hai ki ab authorised dealers banks sirf hedging purpose ke liye hi non-deliverable derivative contracts (NDDC) INR mein non-resident users ko de sakte hain. Pehle koi bhi purpose allowed tha, ab sirf risk se bachav ke liye.",
-          "who": "Authorised Dealer Category-I banks jo IFSC mein kaam karte hain aur Standalone Primary Dealers jinhe Authorised Dealer Category-III ka status hai.",
-          "action": "Agar aap AD bank ya primary dealer hain to apni derivative ki policy turant update karo. Sirf hedging se related NDDC hi offer karo. Clients ko bhi inform karo.",
-          "source_name": "rbi.org.in",
-          "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13739&Mode=0"
-        },
-        {
-          "cat": "SEBI",
-          "authority": "Securities and Exchange Board of India",
-          "ref": "",
-          "headline": "Mutual Funds ki ad rules ab Common Code ke hisaab se",
-          "effective": "",
-          "what": "SEBI ne Mutual Funds ke advertisement ke rules badal diye hain. Pehle kuch alag rules the, ab Intermediaries Regulations ke Common Advertisement Code follow honge.",
-          "who": "Saare Mutual Funds aur unke advertisement banane wale agencies.",
-          "action": "Mutual Fund houses apne marketing content aur ads ko Common Advertisement Code ke hisaab se dobara review karein. New compliance rules padhein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/sebi/sebi-mutual-funds-amendment-2026-aligns-advertisement-rules-common-code.html"
-        },
-        {
-          "cat": "SEBI",
-          "authority": "Securities and Exchange Board of India",
-          "ref": "",
-          "headline": "SEBI ne Mutual Funds ke Regulations 2026 amend kiye",
-          "effective": "",
-          "what": "SEBI ne 2026 me Mutual Funds ke regulations dobara badle hain. Yeh 'Second Amendment' regulations hain, details circular me di gayi hain.",
-          "who": "India ki sabhi Mutual Funds aur fund managers.",
-          "action": "Sabhi AMCs aur compliance professionals ko yeh amendment jaldi se padh lena chahiye. Policy aur process ko naye rules ke hisaab se update karo.",
-          "source_name": "sebi.gov.in",
-          "source_url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-mutual-funds-second-amendment-regulations-2026_105153.html"
-        },
-        {
-          "cat": "SEBI",
-          "authority": "Securities and Exchange Board of India",
-          "ref": "",
-          "headline": "IPO mein lock-in rules samjho: SEBI ICDR Regulation",
-          "effective": "",
-          "what": "SEBI ICDR Regulations ke hisaab se promoters aur pre-IPO shareholders ke liye lock-in period aur kuch capital expenditure conditions hoti hain. Main Board aur SME IPOs dono par lagu hai.",
-          "who": "Promoters, pre-IPO shareholders aur jo Main Board ya SME IPO la rahe hain.",
-          "action": "Agar IPO plan kar rahe ho ya shares lene wale ho to lock-in period aur SEBI ICDR ki terms padh lo. Company ka secretarial team process check karein.",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/sebi/lock-shares-securities-exchange-board-india-issue-capital-disclosure-requirements-regulations-2018.html"
         }
       ]
     }
