@@ -1,6 +1,91 @@
 {
-  "last_updated": "2026-11-26T02:00:25.594Z",
+  "last_updated": "2026-11-27T02:00:21.890Z",
   "days": [
+    {
+      "date": "2026-11-27",
+      "cases": [
+        {
+          "law": "Customs / Excise",
+          "court": "Karnataka High Court",
+          "case_name": "Volvo CE India Pvt. Ltd. Vs Commissioner of Customs & Others (Karnataka High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "Yeh case ek construction equipment company ka hai. Company par custom duty ke andar royalty dispute tha. Department ne apna ruling diya bina CESTAT ke relevant faisle ko consider kiye.",
+          "issue": "Kya customs authorities ko CESTAT ke purane faisle dhyan me rakhne chahiye jab royalty dispute decide karte hain?",
+          "held": "Court ne bola ki customs department ko CESTAT ke faisle dekhne aur dhyan me lene bahut zaroori hai, warna decision galat ho sakta hai.",
+          "outcome": "",
+          "takeaway": "Agar aapka royalty ya import related dispute chal raha hai, toh department se CESTAT ka purana faisla mang kar zaroor dekh lo. Department ko bhi woh faisla dekhna padega.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/custom-duty/customs-authorities-relevant-cestat-ruling-finalising-royalty-dispute-karnataka-hc.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "Delhi High Court",
+          "case_name": "Pranshu Buildwell LLP Vs ITO (Delhi High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "",
+          "facts": "LLP ka case hai. Department ne reassessment notice bheja jabki TOLA ke according limitation period khatam ho chuka tha.",
+          "issue": "Kya reassessment notice limitation period ke baad valid hai?",
+          "held": "Court ne notice ko radd kar diya, bola TOLA limitation period ke baad koi bhi notice valid nahi hai.",
+          "outcome": "Assessee",
+          "takeaway": "Reassessment notice ki tareekh carefully check karo. Agar limitation ke baad notice aaye toh turant challenge karo.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/reassessment-notice-issued-surviving-tola-limitation-period-quashed-delhi-hc.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Rajkot",
+          "case_name": "Sahajanand Gaushala Trust Vs CIT (Exemption) (ITAT Rajkot)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "Section 80G",
+          "facts": "Ek trust ka case tha jo 80G approval chahta tha. Department ne notice issue kiya lekin show cause notice mein proper details nahi diye the.",
+          "issue": "Kya vague show cause notice par 80G exemption mana ki ja sakti hai?",
+          "held": "ITAT ne case wapas department ko bhej diya, kyuki notice mein zaroori details nahi thi.",
+          "outcome": "",
+          "takeaway": "Agar show cause notice clear nahi hai aur details missing hain toh department ka faisla challenge kar sakte ho. Department ko proper reason likhna zaroori hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/vague-show-notice-leads-section-80g-remand-itat-rajkot.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "Calcutta High Court",
+          "case_name": "R.B. Jewellers Private Limited Vs Union of India & Anr. (Calcutta High Court)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "",
+          "section": "Section 153A",
+          "facts": "Jewellery company ka case tha jisme assessment order time-barred period mein pass kiya gaya tha.",
+          "issue": "Kya time-barred assessment order valid hai under Section 153A?",
+          "held": "High Court ne time-barred assessment ko radd kar diya.",
+          "outcome": "Assessee",
+          "takeaway": "Assessment order ki date check karo. Agar limitation ke baad pass hua hai toh High Court jaa sakte ho.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/calcutta-high-court-quashes-time-barred-assessment-section-153a.html"
+        },
+        {
+          "law": "Income Tax",
+          "court": "ITAT Hyderabad",
+          "case_name": "Gangasani Ameeta Reddy Vs ITO (ITAT Hyderabad)",
+          "appeal_number": "",
+          "judgment_date": "",
+          "assessment_year": "2015-16",
+          "section": "",
+          "facts": "Individual ke case mein department ne Rs. 85 lakh se upar ki addition ki thi. Addition time-barred reassessment ke through hui thi.",
+          "issue": "Kya time-barred reassessment ke through ki gayi addition valid hai?",
+          "held": "ITAT ne addition ko radd kar diya kyunki reassessment time ke bahar hua tha.",
+          "outcome": "Assessee",
+          "takeaway": "Agar aapko addition notice reassessment ki wajah se mila hai toh sabse pehle time-bar check karo. Limitation period ke baahar ho toh case aapke favor mein ho sakta hai.",
+          "source_name": "taxguru.in",
+          "source_url": "https://taxguru.in/income-tax/itat-hyderabad-quashes-rs-85-07-lakh-addition-due-time-barred-reassessment.html"
+        }
+      ]
+    },
     {
       "date": "2026-11-26",
       "cases": [
@@ -4394,107 +4479,6 @@
           "takeaway": "GST me alag alag financial year ka notice alag alag dena padega. Single composite notice illegal hai.",
           "source_name": "TaxGuru",
           "source_url": "https://taxguru.in/corporate-law/kerala-hc-quashes-composite-gst-notice-order-covering-fys-2020-21-2022-23.html"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-13",
-      "cases": [
-        {
-          "law": "Income Tax",
-          "court": "ITAT Delhi",
-          "case_name": "Praveen Khurana Vs ACIT (ITAT Delhi)",
-          "appeal_number": "",
-          "judgment_date": "",
-          "assessment_year": "1998-99",
-          "section": "",
-          "facts": "Ye case Praveen Khurana ka tha. Assessing Officer ne purane assessment ko wapas khol diya, sirf investigation ya verification ke liye. Unhone kaha capital loss aur US travel expenses par further jaanch chahiye.",
-          "issue": "Kya purane assessment ko sirf verification ya shak ki wajah se dobara khol sakte hain?",
-          "held": "ITAT ne reassessment radd kar diya. Unhone bola, assessment wapas kholne ki wajah sirf verification thi, koi concrete evidence nahi tha.",
-          "outcome": "Assessee",
-          "takeaway": "Agar AO bas shak pe ya sirf verification ki baat likh ke notice bheje, toh aap reassessment ko challenge kar sakte hain.",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/reassessment-quashed-reasons-recorded-sought-verification-claims-itat-delhi.html"
-        },
-        {
-          "law": "Income Tax",
-          "court": "ITAT Mumbai",
-          "case_name": "Tata Steel Ltd Vs ACIT (ITAT Mumbai)",
-          "appeal_number": "",
-          "judgment_date": "",
-          "assessment_year": "2009-10",
-          "section": "",
-          "facts": "Tata Steel par ₹2,223 crore illegal mining ka addition lagaya gaya tha. Revenue ne keh diya ki mining illegal thi, isliye yeh addition kiya. Saath hi company ki Corus loan interest aur foreign loan transfer pricing pe bhi issue tha.",
-          "issue": "Kya illegal mining additions bina pucca evidence lag sakte hain?",
-          "held": "ITAT ne addition radd kar diya. Bola, koi thos evidence nahi hai, isliye itna bada addition nahi chal sakta. Corus loan interest allow kar diya; foreign loan transfer pricing adjust nahi kiya.",
-          "outcome": "Assessee",
-          "takeaway": "Additions itne bade bina proper proof nahi ho sakte. Agar department khali shak ya andaz pe assessment kare, appeal karo.",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/rs-2-223-90-crore-illegal-mining-addition-deleted-lack-evidence-itat-mumbai.html"
-        },
-        {
-          "law": "Other",
-          "court": "Karnataka High Court",
-          "case_name": "Commissioner of Central Tax And Others Vs Jeans Knit Private Limited (Karnataka High Court)",
-          "appeal_number": "",
-          "judgment_date": "",
-          "assessment_year": "",
-          "section": "Section 107",
-          "facts": "Jeans Knit Private Limited ko ₹29.61 crore ka GST refund milna tha. Department ne is par appeal ki, lekin appeal ki last date nikal chuki thi. Department ne bola ki audit aur internal note ki wajah se time extend hona chahiye.",
-          "issue": "Kya refund appeal mein limitation sirf departmental process se extend ho sakti hai?",
-          "held": "Court ne bola, appeal ka limitation period Section 107 mein fixed hai. Department ki taraf se koi internal note ya audit time extend nahi kar sakta. Recovery wapas le li gayi, appeal time-barred thi.",
-          "outcome": "Assessee",
-          "takeaway": "GST refund recovery mein, agar department delay kare, toh aap appeals limitation check karo. Audit ki wajah se limitation extend nahi hota.",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/goods-and-service-tax/rs-29-61-crore-gst-refund-recovery-set-revenue-appeals-time-barred-karnataka-hc.html"
-        },
-        {
-          "law": "Income Tax",
-          "court": "ITAT Mumbai",
-          "case_name": "Sharekhan Limited Vs DCIT (ITAT Mumbai)",
-          "appeal_number": "",
-          "judgment_date": "",
-          "assessment_year": "2020-21",
-          "section": "Section 14A",
-          "facts": "Sharekhan Limited par ₹18.89 crore ki disallowance lagayi thi kyunki purane saal ke provisions reverse hue the. Saath hi ₹6.62 crore Section 14A (jo exempt income pe kharcha disallow karta hai) bhi disallow hua tha.",
-          "issue": "Kya earlier year provisions reverse hone pe income pe disallowance lag sakti hai?",
-          "held": "ITAT ne disallowance hata di. Bola, provision reverse hone pe income taxable mani jaani chahiye, disallowance nahi ho sakti. 14A ki disallowance bhi hata di, par education cess disallowance banayi rakhi.",
-          "outcome": "Assessee",
-          "takeaway": "Provision reversal ya exempt income pe kharcha agar sahi proof ho toh aap apni favor mein ITAT tak ja sakte hain.",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/itat-mumbai-deletes-rs-18-89-crore-disallowance-reversal-earlier-year-provisions.html"
-        },
-        {
-          "law": "Income Tax",
-          "court": "ITAT Bangalore",
-          "case_name": "DCIT Vs L. Javerchand Jewellers Pvt. Ltd. (ITAT Bangalore)",
-          "appeal_number": "",
-          "judgment_date": "",
-          "assessment_year": "2019-20",
-          "section": "Section 270A",
-          "facts": "Yahan jewellery business tha. AO ne estimated undisclosed jewellery income pe penalty notice diya tha, lekin clear nahi tha ki kis galti ke liye penalty hai.",
-          "issue": "Kya vague penalty notice pe Section 270A (misreporting pe penalty) lag sakti hai?",
-          "held": "ITAT ne penalty hata di. Bola, agar penalty notice mein sahi charge nahi likha toh penalty nahi lag sakti.",
-          "outcome": "Assessee",
-          "takeaway": "Agar aapko penalty ka notice vague ya unclear aaye, toh turant object karo. Notice mein galti clear likhna zaroori hai.",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/itat-bangalore-deletes-rs-1-79-cr-penalty-vague-misreporting-notice-estimated-undisclosed-jewellery-income.html"
-        },
-        {
-          "law": "Income Tax",
-          "court": "ITAT Raipur",
-          "case_name": "Aananda Devcon Private Limited Vs ACIT (ITAT Raipur)",
-          "appeal_number": "",
-          "judgment_date": "",
-          "assessment_year": "2015-16",
-          "section": "Section 143(2)",
-          "facts": "Aananda Devcon ka assessment hua tha. Notice under Section 143(2) ITO ne diya tha, jabki unke paas itni badi assessment ka adhikar nahi tha.",
-          "issue": "Kya ek wrong jurisdiction officer ka notice assessment ko invalid bana deta hai?",
-          "held": "ITAT ne poora assessment radd kar diya. Bola, 143(2) ka notice sahi adhikar wale officer se hi aana chahiye tha.",
-          "outcome": "Assessee",
-          "takeaway": "Notice sirf sahi jurisdiction officer hi bhej sakta hai. Agar notice galat officer se aaye, toh poora assessment gir sakta hai.",
-          "source_name": "TaxGuru",
-          "source_url": "https://taxguru.in/income-tax/itat-raipur-quashes-assessment-based-section-143-2-notice-wrong-officer.html"
         }
       ]
     }
