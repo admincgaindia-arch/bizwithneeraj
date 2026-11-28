@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-11-27T01:30:59.787Z",
+  "last_updated": "2026-11-28T01:31:01.043Z",
   "digests": [
+    {
+      "date": "2026-11-28",
+      "summary": "Aaj mainly GST ITC, registration cancellation aur kuch latest court rulings ki updates hai. Business owners ko ITC ke liye documents ready rakhne aur registration rules ke changes pe dhyaan dena chahiye.",
+      "items": [
+        {
+          "category": "GST",
+          "headline": "Automatic GST Registration Cancellation Rules Simplified",
+          "detail": "CBIC ne Rule 20 mein changes kiye hain: ab Rs 2.5 lakh wali B2B tax limit hatt gayi hai, aur cancellation aur GSTR-10 ki condition bhi nahi lagi. 1 December 2026 se effective hai.",
+          "cga_view": "Agar aap GST registration cancel karwana chahte ho toh naye rules ko dhyan mein rakho; process ab thoda simple ho gaya hai. Official notification ka wait karo, phir action lo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/cbic-simplifies-automatic-cancellation-of-gst-registration-removes-25-lakh-monthly-tax-liability-limit-read-notification"
+        },
+        {
+          "category": "Ruling",
+          "headline": "GST ITC Denial: Sirf Supplier Certificate Na Dikhane Par Nahi",
+          "detail": "GSTAT ne bola ki agar aap sirf supplier ka certificate nahi dikhate, toh ITC ko sidhe sidhe deny karna sahi nahi hai. Supporting documents aur transaction evidence dekha jayega.",
+          "cga_view": "ITC ke liye apne transaction records aur supporting docs sambhal ke rakho. Agar ITC reject ho toh appeal karne ka mauka hai agar saare papers sahi hain.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/mechanical-denial-of-gst-itc-solely-for-non-production-of-supplier-certificates-under-cbic-circular-impermissible-gstat-read-order"
+        },
+        {
+          "category": "Ruling",
+          "headline": "GST ITC Tabhi, Jab Supplier Ne Tax Government Ko Diya Ho",
+          "detail": "GSTAT ne clear kiya hai ki ITC wahi milega jab supplier ne tax government ko pay kiya ho. Yeh Section 16(2)(c) mein hai.",
+          "cga_view": "Supplier ka compliance status check karo, kyunki aapka ITC us par dependent hai. Risky suppliers se deal karte waqt extra caution lo.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/gst-itc-cant-be-claimed-as-a-matter-of-right-where-supplier-fails-to-deposit-tax-with-government-gstat-read-order"
+        },
+        {
+          "category": "Ruling",
+          "headline": "ITC Ke Liye Sirf Invoice Nahi, Mal Ka Actual Receipt Zaroori",
+          "detail": "GSTAT ne clarify kiya hai ki ITC tabhi milegi jab goods ka actual receipt ya movement ho. Sirf invoice hone se kaam nahi chalega.",
+          "cga_view": "Goods ki entry/transport ke proof sambhal kar rakho. Dummy entries ya only-paper transactions mat karo – ITC reject ho sakti hai.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/mere-possession-of-tax-invoices-does-not-establish-actual-receipt-of-goods-for-claiming-itc-gstat-read-order"
+        },
+        {
+          "category": "Ruling",
+          "headline": "Royalty Ki Baat Chhupai Toh Penalty Barabar Tax Ke",
+          "detail": "GSTAT ne decide kiya ki agar kisi ne GSTR-3B mein intentionally royalty payment disclose nahi ki, toh tax demand ke saath barabar penalty bhi lagegi.",
+          "cga_view": "Agar aap royalty ya koi bhi taxable transaction declare nahi karte toh double loss ho sakta hai – tax + penalty. Full disclosure best hai.",
+          "source_type": "trade",
+          "source_name": "taxscan.in",
+          "source_url": "https://www.taxscan.in/gst/deliberate-non-disclosure-of-royalty-payments-in-gstr-3b-gstat-upholds-1-crore-gst-demand-with-equal-penalty-read-order"
+        }
+      ],
+      "due_dates": []
+    },
     {
       "date": "2026-11-27",
       "summary": "GST aur Income Tax par kuch important rulings aaye hain, jo compliance handle karne waalon ke liye useful ho sakte hain. Mostly trade press reports hain, to official notification ka intezaar bhi karte rahein.",
@@ -3176,67 +3228,6 @@
           "source_type": "trade",
           "source_name": "taxguru.in",
           "source_url": "https://taxguru.in/goods-and-service-tax/delayed-gst-refund-interest-claim-approach-authority-himachal-pradesh-hc.html"
-        }
-      ],
-      "due_dates": []
-    },
-    {
-      "date": "2026-09-25",
-      "summary": "Aaj ki digest mein GST aur income tax ke kuch important court rulings hai. Sabhi khabrein trade press par aayi hain, official notification ka intezaar hai.",
-      "items": [
-        {
-          "category": "Ruling",
-          "headline": "Gujarat HC ne income tax reassessment quash ki",
-          "detail": "Gujarat High Court ne 2022-23 ka reassessment isliye khatam kiya kyunki ₹17.54 crore TDS deduction ka claim kiya hi nahi gaya tha. Department sirf tax audit report ko galat samajh gaya.",
-          "cga_view": "Agar aapka case similar hai jahan audit report pe basis banakar reopening hui hai, toh legal advice lein aur challenge karne par focus karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/tds-reported-never-claimed-deduction-gujarat-high-court-quashes-reopening.html"
-        },
-        {
-          "category": "GST",
-          "headline": "GST Portal par supplier-recipient communication facility active",
-          "detail": "Naye GST Portal facility se suppliers aur recipients document correction, notifications aur direct GSTR-1 upload kar sakte hain. Communication ka process ab portal par hi hoga.",
-          "cga_view": "Supplier aur customer dono GST Portal pe document discrepancies ka follow-up yahin karein. Email aur offline mode ki dependency kam karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/gst-portals-communication-taxpayers-facility-practical-guide-taxpayers.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Bombay HC ne 3 saal ke GST notice ko quash kiya",
-          "detail": "Bombay High Court ne ek show cause notice, jo ek sath 3 financial years cover kar raha tha, khatam kar diya. Department ko naya notice issue karne ki permission di hai, jo law ke hisab se ho.",
-          "cga_view": "Agar aapko bhi ek hi notice mein multiple years ke GST demand aayi ho, toh legal position check karein. Ho sakta hai notice invalid ho.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/bombay-high-court-quashes-gst-notice-covering-financial-years.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Telangana HC: GST registration cancellation appeal par delay condone",
-          "detail": "Telangana High Court ne taxpayer ko 2 hafta diye ki woh GST cancellation order ke against appeal karein, delay condonation ke saath.",
-          "cga_view": "Agar appeal filing deadline miss ho gayi hai toh turant application file karein. High Court se relief mil sakta hai, lekin wait na karein.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/goods-and-service-tax/gst-cancellation-appeal-allowed-delay-condonation-plea-telangana-hc.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "ITAT Mumbai: Same issue pe phir se assessment nahi ho sakta",
-          "detail": "ITAT Mumbai ne ₹9.68 crore ka income tax reassessment isliye khatam kiya kyunki wahi issue pehle hi section 263 proceeding mein check ho chuka tha.",
-          "cga_view": "Agar aapka assessment ya reassessment pehle se discuss hua tha, toh usko repeat karne par legal remedy possible hai.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/day-assessments-rs-9-68-crore-reassessment-quashed.html"
-        },
-        {
-          "category": "Ruling",
-          "headline": "Section 11 exemption: Registration baad mein milne par bhi allowed",
-          "detail": "ITAT Bangalore ne decide kiya ki agar 12AB registration baad mein milti hai lekin AY cover ho jata hai, toh Section 11 exemption mil sakti hai. Filing se pehle registration mandatory nahi hai.",
-          "cga_view": "Trusts ya NGOs jo return ke baad registration lete hain, exemption ka claim revalidate karein, especially jab AY covered ho.",
-          "source_type": "trade",
-          "source_name": "taxguru.in",
-          "source_url": "https://taxguru.in/income-tax/final-12ab-registration-granted-cpc-processing-supports-section-11-exemption-itat-bangalore.html"
         }
       ],
       "due_dates": []
